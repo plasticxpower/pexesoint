@@ -1,0 +1,56 @@
+{
+  "category": "mammals",
+  "totalPhotos": 5,
+  "photos": [
+    {
+      "fileName": "mammals1.jpg",
+      "commonName": "American Black Bear",
+      "scientificName": "Ursus americanus",
+      "size": "1.2-1.9 m (4-6 feet) long, 90-140 kg",
+      "lifespan": "20-25 years in wild",
+      "habitat": "Large forested areas across North America. They inhabit deciduous and mixed forests, swamps, and mountainous regions.",
+      "funFact": "American black bears can sprint up to 55 km/hr (35 mph) and are excellent swimmers. Despite being classified as carnivores, they derive 90% of their diet from plants, making them highly adaptable omnivores.",
+      "localPath": "/images/mammals/mammals1.jpg"
+    },
+    {
+      "fileName": "mammals2.jpg",
+      "commonName": "White-tailed Deer",
+      "scientificName": "Odocoileus virginianus",
+      "size": "1.5-2.1 m (5-7 feet) long, 30-136 kg",
+      "lifespan": "6-14 years in wild",
+      "habitat": "Forests, grasslands, and suburban areas across the Americas. They prefer edge habitats where forests meet open areas.",
+      "funFact": "White-tailed deer can leap up to 3 meters high and 9 meters in length. They have excellent night vision and can detect movement up to 600 feet away.",
+      "localPath": "/images/mammals/mammals2.jpg"
+    },
+    {
+      "fileName": "mammals3.jpg",
+      "commonName": "Eastern Gray Squirrel",
+      "scientificName": "Sciurus carolinensis",
+      "size": "23-30 cm (9-12 inches) plus 19-25 cm tail",
+      "lifespan": "6 years in wild, up to 20 in captivity",
+      "habitat": "Deciduous and mixed forests in eastern North America. They are highly adaptable and thrive in urban parks and suburban areas.",
+      "funFact": "Gray squirrels can remember the locations of thousands of buried nuts and have been observed using deceptive tactics to protect their food caches from other squirrels.",
+      "localPath": "/images/mammals/mammals3.jpg"
+    },
+    {
+      "fileName": "mammals4.jpg",
+      "commonName": "Raccoon",
+      "scientificName": "Procyon lotor",
+      "size": "40-70 cm (16-28 inches), 5-26 kg",
+      "lifespan": "2-3 years in wild, can live over 20 years in captivity",
+      "habitat": "Deciduous and mixed forests, wetlands, and urban areas across North America. They prefer areas near water sources.",
+      "funFact": "Raccoons have extremely sensitive front paws with over 100,000 nerve endings. They often 'wash' their food in water to enhance their sense of touch and better examine their meal.",
+      "localPath": "/images/mammals/mammals4.jpg"
+    },
+    {
+      "fileName": "mammals5.jpg",
+      "commonName": "Red Fox",
+      "scientificName": "Vulpes vulpes",
+      "size": "45-90 cm (18-35 inches) plus 30-56 cm tail",
+      "lifespan": "2-5 years in wild",
+      "habitat": "Diverse environments across the northern hemisphere, including forests, grasslands, mountains, and urban areas.",
+      "funFact": "Red foxes have excellent hearing and can detect low-frequency sounds and rodents digging underground. They use Earth's magnetic field to hunt, making them one of the few animals with this ability.",
+      "localPath": "/images/mammals/mammals5.jpg"
+    }
+  ]
+}

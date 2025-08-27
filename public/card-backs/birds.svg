@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="skyGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0ea5e9;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#38bdf8;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#7dd3fc;stop-opacity:1" />
+    </linearGradient>
+    <pattern id="clouds" x="0" y="0" width="60" height="30" patternUnits="userSpaceOnUse">
+      <ellipse cx="15" cy="15" rx="8" ry="4" fill="#f0f9ff" opacity="0.3"/>
+      <ellipse cx="45" cy="15" rx="10" ry="5" fill="#f0f9ff" opacity="0.2"/>
+    </pattern>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="200" height="200" fill="url(#skyGradient)"/>
+  <rect width="200" height="200" fill="url(#clouds)"/>
+  
+  <!-- Bird silhouettes -->
+  <g opacity="0.5">
+    <path d="M40,60 Q50,55 60,60 Q55,65 50,60 Q45,65 40,60" fill="#1e40af"/>
+    <path d="M80,80 Q90,75 100,80 Q95,85 90,80 Q85,85 80,80" fill="#1e40af"/>
+    <path d="M130,50 Q140,45 150,50 Q145,55 140,50 Q135,55 130,50" fill="#1e40af"/>
+    <path d="M160,90 Q170,85 180,90 Q175,95 170,90 Q165,95 160,90" fill="#1e40af"/>
+    <path d="M30,120 Q40,115 50,120 Q45,125 40,120 Q35,125 30,120" fill="#1e40af"/>
+    <path d="M120,140 Q130,135 140,140 Q135,145 130,140 Q125,145 120,140" fill="#1e40af"/>
+  </g>
+  
+  <!-- Feathers floating -->
+  <g opacity="0.4">
+    <ellipse cx="70" cy="30" rx="2" ry="8" fill="#dbeafe" transform="rotate(15 70 30)"/>
+    <ellipse cx="150" cy="120" rx="1.5" ry="6" fill="#dbeafe" transform="rotate(-20 150 120)"/>
+    <ellipse cx="40" cy="170" rx="2" ry="7" fill="#dbeafe" transform="rotate(30 40 170)"/>
+  </g>
+</svg>

@@ -1,0 +1,214 @@
+{
+  "category": "amphibians",
+  "totalPhotos": 5,
+  "source": "Clean English Data - Generated",
+  "downloadedAt": "2025-08-26T20:33:09.467Z",
+  "photos": [
+    {
+      "fileName": "amphibians1.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians1.jpg",
+      "photoData": {
+        "id": "generated_amphibians_1",
+        "description": "American Bullfrog (Lithobates catesbeianus)",
+        "alt_description": "Lithobates catesbeianus",
+        "urls": {
+          "regular": "placeholder_url_amphibians_1"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Lithobates catesbeianus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Lithobates catesbeianus",
+        "source": "generated_english_data"
+      },
+      "commonName": "American Bullfrog",
+      "scientificName": "Lithobates catesbeianus",
+      "size": "15-20 cm (6-8 inches), 500-600 g",
+      "lifespan": "7-9 years in wild",
+      "habitat": "Large permanent water bodies such as ponds, lakes, and slow-moving streams across eastern North America.",
+      "funFact": "Bullfrogs are named for their deep, resonant call that can be heard up to a quarter mile away. They are voracious predators that will eat almost anything they can swallow, including other frogs.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lithobates_catesbeianus",
+        "https://animaldiversity.org/accounts/Lithobates_catesbeianus/"
+      ],
+      "taxon": "Lithobates catesbeianus",
+      "license": "CC-BY-SA",
+      "localPath": "/images/amphibians/amphibians1.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "American Bullfrog",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/American_Bullfrog",
+      "wikipediaExtract": "The American Bullfrog (Lithobates catesbeianus) is a species found in Large permanent water bodies such as ponds, lakes, and slow-moving streams across eastern North America.",
+      "updatedAt": "2025-08-26T20:33:09.467Z",
+      "imageSource": "placeholder_image_source_amphibians_1",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "amphibians2.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians2.jpg",
+      "photoData": {
+        "id": "generated_amphibians_2",
+        "description": "Spotted Salamander (Ambystoma maculatum)",
+        "alt_description": "Ambystoma maculatum",
+        "urls": {
+          "regular": "placeholder_url_amphibians_2"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Ambystoma maculatum",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Ambystoma maculatum",
+        "source": "generated_english_data"
+      },
+      "commonName": "Spotted Salamander",
+      "scientificName": "Ambystoma maculatum",
+      "size": "15-25 cm (6-10 inches)",
+      "lifespan": "20+ years in wild",
+      "habitat": "Deciduous and mixed forests near ponds and streams in eastern North America. They spend most of their time underground.",
+      "funFact": "Spotted salamanders have a symbiotic relationship with algae that live in their egg masses, providing oxygen to developing embryos. They can regenerate lost limbs and tails.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ambystoma_maculatum",
+        "https://animaldiversity.org/accounts/Ambystoma_maculatum/"
+      ],
+      "taxon": "Ambystoma maculatum",
+      "license": "CC-BY-SA",
+      "localPath": "/images/amphibians/amphibians2.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Spotted Salamander",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Spotted_Salamander",
+      "wikipediaExtract": "The Spotted Salamander (Ambystoma maculatum) is a species found in Deciduous and mixed forests near ponds and streams in eastern North America. They spend most of their time underground.",
+      "updatedAt": "2025-08-26T20:33:09.467Z",
+      "imageSource": "placeholder_image_source_amphibians_2",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "amphibians3.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians3.jpg",
+      "photoData": {
+        "id": "generated_amphibians_3",
+        "description": "Spring Peeper (Pseudacris crucifer)",
+        "alt_description": "Pseudacris crucifer",
+        "urls": {
+          "regular": "placeholder_url_amphibians_3"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Pseudacris crucifer",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Pseudacris crucifer",
+        "source": "generated_english_data"
+      },
+      "commonName": "Spring Peeper",
+      "scientificName": "Pseudacris crucifer",
+      "size": "2-3.5 cm (1-1.4 inches)",
+      "lifespan": "3-4 years in wild",
+      "habitat": "Wooded areas near ponds, swamps, and marshes across eastern North America.",
+      "funFact": "Spring peepers are among the first frogs to call in spring, creating a chorus that can be heard from over a mile away. They can survive being frozen solid during winter.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pseudacris_crucifer",
+        "https://animaldiversity.org/accounts/Pseudacris_crucifer/"
+      ],
+      "taxon": "Pseudacris crucifer",
+      "license": "CC-BY-SA",
+      "localPath": "/images/amphibians/amphibians3.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Spring Peeper",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Spring_Peeper",
+      "wikipediaExtract": "The Spring Peeper (Pseudacris crucifer) is a species found in Wooded areas near ponds, swamps, and marshes across eastern North America.",
+      "updatedAt": "2025-08-26T20:33:09.467Z",
+      "imageSource": "placeholder_image_source_amphibians_3",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "amphibians4.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians4.jpg",
+      "photoData": {
+        "id": "generated_amphibians_4",
+        "description": "Red-backed Salamander (Plethodon cinereus)",
+        "alt_description": "Plethodon cinereus",
+        "urls": {
+          "regular": "placeholder_url_amphibians_4"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Plethodon cinereus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Plethodon cinereus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Red-backed Salamander",
+      "scientificName": "Plethodon cinereus",
+      "size": "5.7-10 cm (2.25-4 inches)",
+      "lifespan": "25+ years in wild",
+      "habitat": "Forest floors under logs, rocks, and leaf litter in eastern North America.",
+      "funFact": "Red-backed salamanders are lungless and breathe entirely through their skin and mouth lining. They are territorial and will defend their small territories aggressively.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Plethodon_cinereus",
+        "https://animaldiversity.org/accounts/Plethodon_cinereus/"
+      ],
+      "taxon": "Plethodon cinereus",
+      "license": "CC-BY-SA",
+      "localPath": "/images/amphibians/amphibians4.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Red-backed Salamander",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Red-backed_Salamander",
+      "wikipediaExtract": "The Red-backed Salamander (Plethodon cinereus) is a species found in Forest floors under logs, rocks, and leaf litter in eastern North America.",
+      "updatedAt": "2025-08-26T20:33:09.467Z",
+      "imageSource": "placeholder_image_source_amphibians_4",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "amphibians5.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians5.jpg",
+      "photoData": {
+        "id": "generated_amphibians_5",
+        "description": "Wood Frog (Lithobates sylvaticus)",
+        "alt_description": "Lithobates sylvaticus",
+        "urls": {
+          "regular": "placeholder_url_amphibians_5"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Lithobates sylvaticus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Lithobates sylvaticus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Wood Frog",
+      "scientificName": "Lithobates sylvaticus",
+      "size": "3.5-7 cm (1.4-2.8 inches)",
+      "lifespan": "3-5 years in wild",
+      "habitat": "Forests and woodlands near temporary pools across northern North America.",
+      "funFact": "Wood frogs can survive being frozen solid for months during winter. They produce glucose and urea as natural antifreeze to protect their vital organs.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lithobates_sylvaticus",
+        "https://animaldiversity.org/accounts/Lithobates_sylvaticus/"
+      ],
+      "taxon": "Lithobates sylvaticus",
+      "license": "CC-BY-SA",
+      "localPath": "/images/amphibians/amphibians5.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Wood Frog",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wood_Frog",
+      "wikipediaExtract": "The Wood Frog (Lithobates sylvaticus) is a species found in Forests and woodlands near temporary pools across northern North America.",
+      "updatedAt": "2025-08-26T20:33:09.467Z",
+      "imageSource": "placeholder_image_source_amphibians_5",
+      "imageMethod": "Generated Data"
+    }
+  ],
+  "cleanupSummary": {
+    "originalCount": 5,
+    "finalCount": 5,
+    "duplicatesResolved": 0,
+    "commonsUrlsRemoved": true
+  }
+}

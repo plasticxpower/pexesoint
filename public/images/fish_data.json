@@ -1,0 +1,214 @@
+{
+  "category": "fish",
+  "totalPhotos": 5,
+  "source": "Clean English Data - Generated",
+  "downloadedAt": "2025-08-26T20:33:09.468Z",
+  "photos": [
+    {
+      "fileName": "fish1.jpg",
+      "filePath": "public\\images\\fish\\fish1.jpg",
+      "photoData": {
+        "id": "generated_fish_1",
+        "description": "Largemouth Bass (Micropterus salmoides)",
+        "alt_description": "Micropterus salmoides",
+        "urls": {
+          "regular": "placeholder_url_fish_1"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Micropterus salmoides",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Micropterus salmoides",
+        "source": "generated_english_data"
+      },
+      "commonName": "Largemouth Bass",
+      "scientificName": "Micropterus salmoides",
+      "size": "30-60 cm (12-24 inches), 1-5 kg",
+      "lifespan": "10-16 years in wild",
+      "habitat": "Freshwater lakes, ponds, and slow-moving rivers with vegetation across North America.",
+      "funFact": "Largemouth bass are ambush predators with excellent vision and can see in color. They can open their mouths wide enough to create a powerful suction that helps them capture prey.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Micropterus_salmoides",
+        "https://animaldiversity.org/accounts/Micropterus_salmoides/"
+      ],
+      "taxon": "Micropterus salmoides",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish1.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Largemouth Bass",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Largemouth_Bass",
+      "wikipediaExtract": "The Largemouth Bass (Micropterus salmoides) is a species found in Freshwater lakes, ponds, and slow-moving rivers with vegetation across North America.",
+      "updatedAt": "2025-08-26T20:33:09.468Z",
+      "imageSource": "placeholder_image_source_fish_1",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "fish2.jpg",
+      "filePath": "public\\images\\fish\\fish2.jpg",
+      "photoData": {
+        "id": "generated_fish_2",
+        "description": "Rainbow Trout (Oncorhynchus mykiss)",
+        "alt_description": "Oncorhynchus mykiss",
+        "urls": {
+          "regular": "placeholder_url_fish_2"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Oncorhynchus mykiss",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Oncorhynchus mykiss",
+        "source": "generated_english_data"
+      },
+      "commonName": "Rainbow Trout",
+      "scientificName": "Oncorhynchus mykiss",
+      "size": "30-40 cm (12-16 inches), 1-2 kg",
+      "lifespan": "4-6 years in wild",
+      "habitat": "Cold, clear streams and lakes across North America and introduced worldwide.",
+      "funFact": "Rainbow trout can see ultraviolet light and have excellent color vision. They are known for their spectacular jumping ability when hooked or avoiding predators.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Oncorhynchus_mykiss",
+        "https://animaldiversity.org/accounts/Oncorhynchus_mykiss/"
+      ],
+      "taxon": "Oncorhynchus mykiss",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish2.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Rainbow Trout",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rainbow_Trout",
+      "wikipediaExtract": "The Rainbow Trout (Oncorhynchus mykiss) is a species found in Cold, clear streams and lakes across North America and introduced worldwide.",
+      "updatedAt": "2025-08-26T20:33:09.468Z",
+      "imageSource": "placeholder_image_source_fish_2",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "fish3.jpg",
+      "filePath": "public\\images\\fish\\fish3.jpg",
+      "photoData": {
+        "id": "generated_fish_3",
+        "description": "Northern Pike (Esox lucius)",
+        "alt_description": "Esox lucius",
+        "urls": {
+          "regular": "placeholder_url_fish_3"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Esox lucius",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Esox lucius",
+        "source": "generated_english_data"
+      },
+      "commonName": "Northern Pike",
+      "scientificName": "Esox lucius",
+      "size": "40-55 cm (16-22 inches), 1-3 kg",
+      "lifespan": "10-15 years in wild",
+      "habitat": "Shallow, vegetated areas of lakes and slow rivers across northern regions.",
+      "funFact": "Northern pike are apex predators with razor-sharp teeth and can accelerate from 0 to 25 mph in seconds. They have been known to attack prey up to half their own size.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Esox_lucius",
+        "https://animaldiversity.org/accounts/Esox_lucius/"
+      ],
+      "taxon": "Esox lucius",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish3.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Northern Pike",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Northern_Pike",
+      "wikipediaExtract": "The Northern Pike (Esox lucius) is a species found in Shallow, vegetated areas of lakes and slow rivers across northern regions.",
+      "updatedAt": "2025-08-26T20:33:09.468Z",
+      "imageSource": "placeholder_image_source_fish_3",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "fish4.jpg",
+      "filePath": "public\\images\\fish\\fish4.jpg",
+      "photoData": {
+        "id": "generated_fish_4",
+        "description": "Bluegill (Lepomis macrochirus)",
+        "alt_description": "Lepomis macrochirus",
+        "urls": {
+          "regular": "placeholder_url_fish_4"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Lepomis macrochirus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Lepomis macrochirus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Bluegill",
+      "scientificName": "Lepomis macrochirus",
+      "size": "15-25 cm (6-10 inches), 200-500 g",
+      "lifespan": "5-8 years in wild",
+      "habitat": "Shallow waters of lakes, ponds, and slow streams with vegetation across North America.",
+      "funFact": "Male bluegills create circular nests in shallow water and aggressively defend them during breeding season. They can change color rapidly to communicate with other fish.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lepomis_macrochirus",
+        "https://animaldiversity.org/accounts/Lepomis_macrochirus/"
+      ],
+      "taxon": "Lepomis macrochirus",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish4.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Bluegill",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bluegill",
+      "wikipediaExtract": "The Bluegill (Lepomis macrochirus) is a species found in Shallow waters of lakes, ponds, and slow streams with vegetation across North America.",
+      "updatedAt": "2025-08-26T20:33:09.468Z",
+      "imageSource": "placeholder_image_source_fish_4",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "fish5.jpg",
+      "filePath": "public\\images\\fish\\fish5.jpg",
+      "photoData": {
+        "id": "generated_fish_5",
+        "description": "Channel Catfish (Ictalurus punctatus)",
+        "alt_description": "Ictalurus punctatus",
+        "urls": {
+          "regular": "placeholder_url_fish_5"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Ictalurus punctatus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Ictalurus punctatus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Channel Catfish",
+      "scientificName": "Ictalurus punctatus",
+      "size": "40-60 cm (16-24 inches), 1-4 kg",
+      "lifespan": "15-20 years in wild",
+      "habitat": "Rivers, lakes, and ponds with muddy or sandy bottoms across North America.",
+      "funFact": "Channel catfish have over 100,000 taste buds covering their entire body, making them incredibly sensitive to chemical cues in the water. They can taste food before it enters their mouth.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ictalurus_punctatus",
+        "https://animaldiversity.org/accounts/Ictalurus_punctatus/"
+      ],
+      "taxon": "Ictalurus punctatus",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish5.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Channel Catfish",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Channel_Catfish",
+      "wikipediaExtract": "The Channel Catfish (Ictalurus punctatus) is a species found in Rivers, lakes, and ponds with muddy or sandy bottoms across North America.",
+      "updatedAt": "2025-08-26T20:33:09.468Z",
+      "imageSource": "placeholder_image_source_fish_5",
+      "imageMethod": "Generated Data"
+    }
+  ],
+  "cleanupSummary": {
+    "originalCount": 5,
+    "finalCount": 5,
+    "duplicatesResolved": 0,
+    "commonsUrlsRemoved": true
+  }
+}

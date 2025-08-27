@@ -1,0 +1,64 @@
+{
+  "navigation": {
+    "gameTab": "PEXEDU",
+    "backToMenu": "Zpět do hlavního menu"
+  },
+  "mainMenu": {
+    "mainTitle": "PEXEDU",
+    "step1": "Krok 1: Vyberte počet hráčů",
+    "step2": "Krok 2: Vyberte kategorii hry",
+    "numberOfPlayers": "Počet hráčů:",
+    "chooseNumberOfPlayers": "Vyberte počet hráčů...",
+    "player": "Hráč",
+    "players": "Hráči",
+    "selectPlayersFirst": "Nejprve vyberte počet hráčů"
+  },
+  "categories": {
+    "mammals": "Savci",
+    "birds": "Ptáci",
+    "fish": "Ryby",
+    "reptiles": "Plazi",
+    "amphibians": "Obojživelníci"
+  },
+  "gameInterface": {
+    "title": "Pexeso - {{category}}",
+    "currentPlayer": "Aktuální hráč",
+    "moves": "{{count}} Tahů",
+    "scores": "Skóre",
+    "pts": "bodů",
+    "viewDeck": "Zobrazit balíček",
+    "backToMenu": "Zpět do menu",
+    "loadingImages": "Načítání obrázků...",
+    "error": "Chyba"
+  },
+  "modal": {
+    "size": "Velikost",
+    "lifespan": "Životnost",
+    "habitat": "Prostředí",
+    "funFact": "Zajímavost",
+    "close": "Zavřít",
+    "previousCard": "Předchozí karta",
+    "nextCard": "Další karta",
+    "cardOf": "Karta {{current}} z {{total}}",
+    "deck": "Balíček"
+  },
+  "deckModal": {
+    "playerDeck": "Sbírka hráče {{player}}",
+    "cardCounter": "Karta {{current}} z {{total}}",
+    "previousCard": "Předchozí",
+    "nextCard": "Další"
+  },
+  "winMessage": {
+    "congratulations": "Gratulujeme! Vyhráli jste za",
+    "movesText": "tahů!",
+    "playAgain": "Hrát znovu"
+  },
+  "errors": {
+    "selectPlayersError": "Nejprve vyberte počet hráčů.",
+    "loadError": "Nepodařilo se načíst data hry. Zkuste to znovu."
+  },
+  "languageSelector": {
+    "english": "English",
+    "czech": "Čeština"
+  }
+}

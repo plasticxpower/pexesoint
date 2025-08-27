@@ -1,0 +1,56 @@
+{
+  "category": "fish",
+  "totalPhotos": 5,
+  "photos": [
+    {
+      "fileName": "fish1.jpg",
+      "commonName": "Largemouth Bass",
+      "scientificName": "Micropterus salmoides",
+      "size": "30-60 cm (12-24 inches), 1-5 kg",
+      "lifespan": "10-16 years in wild",
+      "habitat": "Freshwater lakes, ponds, and slow-moving rivers with vegetation across North America.",
+      "funFact": "Largemouth bass are ambush predators with excellent vision and can see in color. They can open their mouths wide enough to create a powerful suction that helps them capture prey.",
+      "localPath": "/images/fish/fish1.jpg"
+    },
+    {
+      "fileName": "fish2.jpg",
+      "commonName": "Rainbow Trout",
+      "scientificName": "Oncorhynchus mykiss",
+      "size": "30-40 cm (12-16 inches), 1-2 kg",
+      "lifespan": "4-6 years in wild",
+      "habitat": "Cold, clear streams and lakes across North America and introduced worldwide.",
+      "funFact": "Rainbow trout can see ultraviolet light and have excellent color vision. They are known for their spectacular jumping ability when hooked or avoiding predators.",
+      "localPath": "/images/fish/fish2.jpg"
+    },
+    {
+      "fileName": "fish3.jpg",
+      "commonName": "Northern Pike",
+      "scientificName": "Esox lucius",
+      "size": "40-55 cm (16-22 inches), 1-3 kg",
+      "lifespan": "10-15 years in wild",
+      "habitat": "Shallow, vegetated areas of lakes and slow rivers across northern regions.",
+      "funFact": "Northern pike are apex predators with razor-sharp teeth and can accelerate from 0 to 25 mph in seconds. They have been known to attack prey up to half their own size.",
+      "localPath": "/images/fish/fish3.jpg"
+    },
+    {
+      "fileName": "fish4.jpg",
+      "commonName": "Bluegill",
+      "scientificName": "Lepomis macrochirus",
+      "size": "15-25 cm (6-10 inches), 200-500 g",
+      "lifespan": "5-8 years in wild",
+      "habitat": "Shallow waters of lakes, ponds, and slow streams with vegetation across North America.",
+      "funFact": "Male bluegills create circular nests in shallow water and aggressively defend them during breeding season. They can change color rapidly to communicate with other fish.",
+      "localPath": "/images/fish/fish4.jpg"
+    },
+    {
+      "fileName": "fish5.jpg",
+      "commonName": "Channel Catfish",
+      "scientificName": "Ictalurus punctatus",
+      "size": "40-60 cm (16-24 inches), 1-4 kg",
+      "lifespan": "15-20 years in wild",
+      "habitat": "Rivers, lakes, and ponds with muddy or sandy bottoms across North America.",
+      "funFact": "Channel catfish have over 100,000 taste buds covering their entire body, making them incredibly sensitive to chemical cues in the water. They can taste food before it enters their mouth.",
+      "localPath": "/images/fish/fish5.jpg"
+    }
+  ]
+}

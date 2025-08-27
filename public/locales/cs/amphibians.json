@@ -1,0 +1,56 @@
+{
+  "category": "amphibians",
+  "totalPhotos": 5,
+  "photos": [
+    {
+      "fileName": "amphibians1.jpg",
+      "commonName": "Americká žába skokanka",
+      "scientificName": "Lithobates catesbeianus",
+      "size": "15-20 cm, 500-600 g",
+      "lifespan": "7-9 let ve volné přírodě",
+      "habitat": "Velké trvalé vodní plochy jako rybníky, jezera a pomalu tekoucí potoky napříč východní Severní Amerikou.",
+      "funFact": "Žáby skokanky jsou pojmenovány podle svého hlubokého, rezonantního volání, které lze slyšet až na vzdálenost čtvrt míle. Jsou nenasytní predátoři, kteří sežerou téměř vše, co dokážou spolknout, včetně jiných žab.",
+      "localPath": "/images/amphibians/amphibians1.jpg"
+    },
+    {
+      "fileName": "amphibians2.jpg",
+      "commonName": "Mlok skvrnitý",
+      "scientificName": "Ambystoma maculatum",
+      "size": "15-25 cm",
+      "lifespan": "20+ let ve volné přírodě",
+      "habitat": "Listnaté a smíšené lesy blízko rybníků a potoků ve východní Severní Americe. Většinu času tráví pod zemí.",
+      "funFact": "Mloci skvrnitý mají symbiotický vztah s řasami, které žijí v jejich vaječných hmotách a poskytují kyslík vyvíjejícím se embryím. Dokážou regenerovat ztracené končetiny a ocasy.",
+      "localPath": "/images/amphibians/amphibians2.jpg"
+    },
+    {
+      "fileName": "amphibians3.jpg",
+      "commonName": "Rosnička jarní",
+      "scientificName": "Pseudacris crucifer",
+      "size": "2-3,5 cm",
+      "lifespan": "3-4 roky ve volné přírodě",
+      "habitat": "Zalesněné oblasti blízko rybníků, bažin a mokřadů napříč východní Severní Amerikou.",
+      "funFact": "Rosničky jarní patří mezi první žáby, které volají na jaře, vytvářejí sbor, který lze slyšet z více než míle daleko. Dokážou přežít zmrznutí napevno během zimy.",
+      "localPath": "/images/amphibians/amphibians3.jpg"
+    },
+    {
+      "fileName": "amphibians4.jpg",
+      "commonName": "Mlok červenohřbetý",
+      "scientificName": "Plethodon cinereus",
+      "size": "5,7-10 cm",
+      "lifespan": "25+ let ve volné přírodě",
+      "habitat": "Lesní půda pod kmeny, kameny a opadanými listy ve východní Severní Americe.",
+      "funFact": "Mloci červenohřbetí nemají plíce a dýchají výhradně přes kůži a sliznici úst. Jsou teritoriální a agresivně brání svá malá území.",
+      "localPath": "/images/amphibians/amphibians4.jpg"
+    },
+    {
+      "fileName": "amphibians5.jpg",
+      "commonName": "Žába lesní",
+      "scientificName": "Lithobates sylvaticus",
+      "size": "3,5-7 cm",
+      "lifespan": "3-5 let ve volné přírodě",
+      "habitat": "Lesy a lesnaté oblasti blízko dočasných tůní napříč severní Severní Amerikou.",
+      "funFact": "Žáby lesní dokážou přežít zmrznutí napevno po měsíce během zimy. Produkují glukózu a močovinu jako přírodní nemrznoucí směs k ochraně svých životně důležitých orgánů.",
+      "localPath": "/images/amphibians/amphibians5.jpg"
+    }
+  ]
+}

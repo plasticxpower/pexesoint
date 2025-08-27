@@ -1,0 +1,214 @@
+{
+  "category": "mammals",
+  "totalPhotos": 5,
+  "source": "Clean English Data - Generated",
+  "downloadedAt": "2025-08-26T20:33:09.465Z",
+  "photos": [
+    {
+      "fileName": "mammals1.jpg",
+      "filePath": "public\\images\\mammals\\mammals1.jpg",
+      "photoData": {
+        "id": "generated_mammals_1",
+        "description": "American Black Bear (Ursus americanus)",
+        "alt_description": "Ursus americanus",
+        "urls": {
+          "regular": "placeholder_url_mammals_1"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "mammals",
+        "taxon": "Ursus americanus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Ursus americanus",
+        "source": "generated_english_data"
+      },
+      "commonName": "American Black Bear",
+      "scientificName": "Ursus americanus",
+      "size": "1.2-1.9 m (4-6 feet) long, 90-140 kg",
+      "lifespan": "20-25 years in wild",
+      "habitat": "Large forested areas across North America. They inhabit deciduous and mixed forests, swamps, and mountainous regions.",
+      "funFact": "American black bears can sprint up to 55 km/hr (35 mph) and are excellent swimmers. Despite being classified as carnivores, they derive 90% of their diet from plants, making them highly adaptable omnivores.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ursus_americanus",
+        "https://animaldiversity.org/accounts/Ursus_americanus/"
+      ],
+      "taxon": "Ursus americanus",
+      "license": "CC-BY-SA",
+      "localPath": "/images/mammals/mammals1.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "American Black Bear",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/American_Black Bear",
+      "wikipediaExtract": "The American Black Bear (Ursus americanus) is a species found in Large forested areas across North America. They inhabit deciduous and mixed forests, swamps, and mountainous regions.",
+      "updatedAt": "2025-08-26T20:33:09.465Z",
+      "imageSource": "placeholder_image_source_mammals_1",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "mammals2.jpg",
+      "filePath": "public\\images\\mammals\\mammals2.jpg",
+      "photoData": {
+        "id": "generated_mammals_2",
+        "description": "White-tailed Deer (Odocoileus virginianus)",
+        "alt_description": "Odocoileus virginianus",
+        "urls": {
+          "regular": "placeholder_url_mammals_2"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "mammals",
+        "taxon": "Odocoileus virginianus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Odocoileus virginianus",
+        "source": "generated_english_data"
+      },
+      "commonName": "White-tailed Deer",
+      "scientificName": "Odocoileus virginianus",
+      "size": "1.5-2.1 m (5-7 feet) long, 30-136 kg",
+      "lifespan": "6-14 years in wild",
+      "habitat": "Forests, grasslands, and suburban areas across the Americas. They prefer edge habitats where forests meet open areas.",
+      "funFact": "White-tailed deer can leap up to 3 meters high and 9 meters in length. They have excellent night vision and can detect movement up to 600 feet away.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Odocoileus_virginianus",
+        "https://animaldiversity.org/accounts/Odocoileus_virginianus/"
+      ],
+      "taxon": "Odocoileus virginianus",
+      "license": "CC-BY-SA",
+      "localPath": "/images/mammals/mammals2.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "White-tailed Deer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/White-tailed_Deer",
+      "wikipediaExtract": "The White-tailed Deer (Odocoileus virginianus) is a species found in Forests, grasslands, and suburban areas across the Americas. They prefer edge habitats where forests meet open areas.",
+      "updatedAt": "2025-08-26T20:33:09.466Z",
+      "imageSource": "placeholder_image_source_mammals_2",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "mammals3.jpg",
+      "filePath": "public\\images\\mammals\\mammals3.jpg",
+      "photoData": {
+        "id": "generated_mammals_3",
+        "description": "Eastern Gray Squirrel (Sciurus carolinensis)",
+        "alt_description": "Sciurus carolinensis",
+        "urls": {
+          "regular": "placeholder_url_mammals_3"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "mammals",
+        "taxon": "Sciurus carolinensis",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Sciurus carolinensis",
+        "source": "generated_english_data"
+      },
+      "commonName": "Eastern Gray Squirrel",
+      "scientificName": "Sciurus carolinensis",
+      "size": "23-30 cm (9-12 inches) plus 19-25 cm tail",
+      "lifespan": "6 years in wild, up to 20 in captivity",
+      "habitat": "Deciduous and mixed forests in eastern North America. They are highly adaptable and thrive in urban parks and suburban areas.",
+      "funFact": "Gray squirrels can remember the locations of thousands of buried nuts and have been observed using deceptive tactics to protect their food caches from other squirrels.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sciurus_carolinensis",
+        "https://animaldiversity.org/accounts/Sciurus_carolinensis/"
+      ],
+      "taxon": "Sciurus carolinensis",
+      "license": "CC-BY-SA",
+      "localPath": "/images/mammals/mammals3.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Eastern Gray Squirrel",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eastern_Gray Squirrel",
+      "wikipediaExtract": "The Eastern Gray Squirrel (Sciurus carolinensis) is a species found in Deciduous and mixed forests in eastern North America. They are highly adaptable and thrive in urban parks and suburban areas.",
+      "updatedAt": "2025-08-26T20:33:09.466Z",
+      "imageSource": "placeholder_image_source_mammals_3",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "mammals4.jpg",
+      "filePath": "public\\images\\mammals\\mammals4.jpg",
+      "photoData": {
+        "id": "generated_mammals_4",
+        "description": "Raccoon (Procyon lotor)",
+        "alt_description": "Procyon lotor",
+        "urls": {
+          "regular": "placeholder_url_mammals_4"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "mammals",
+        "taxon": "Procyon lotor",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Procyon lotor",
+        "source": "generated_english_data"
+      },
+      "commonName": "Raccoon",
+      "scientificName": "Procyon lotor",
+      "size": "40-70 cm (16-28 inches), 5-26 kg",
+      "lifespan": "2-3 years in wild, can live over 20 years in captivity",
+      "habitat": "Deciduous and mixed forests, wetlands, and urban areas across North America. They prefer areas near water sources.",
+      "funFact": "Raccoons have extremely sensitive front paws with over 100,000 nerve endings. They often 'wash' their food in water to enhance their sense of touch and better examine their meal.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Procyon_lotor",
+        "https://animaldiversity.org/accounts/Procyon_lotor/"
+      ],
+      "taxon": "Procyon lotor",
+      "license": "CC-BY-SA",
+      "localPath": "/images/mammals/mammals4.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Raccoon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Raccoon",
+      "wikipediaExtract": "The Raccoon (Procyon lotor) is a species found in Deciduous and mixed forests, wetlands, and urban areas across North America. They prefer areas near water sources.",
+      "updatedAt": "2025-08-26T20:33:09.466Z",
+      "imageSource": "placeholder_image_source_mammals_4",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "mammals5.jpg",
+      "filePath": "public\\images\\mammals\\mammals5.jpg",
+      "photoData": {
+        "id": "generated_mammals_5",
+        "description": "Red Fox (Vulpes vulpes)",
+        "alt_description": "Vulpes vulpes",
+        "urls": {
+          "regular": "placeholder_url_mammals_5"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "mammals",
+        "taxon": "Vulpes vulpes",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Vulpes vulpes",
+        "source": "generated_english_data"
+      },
+      "commonName": "Red Fox",
+      "scientificName": "Vulpes vulpes",
+      "size": "45-90 cm (18-35 inches) plus 30-56 cm tail",
+      "lifespan": "2-5 years in wild",
+      "habitat": "Diverse environments across the northern hemisphere, including forests, grasslands, mountains, and urban areas.",
+      "funFact": "Red foxes have excellent hearing and can detect low-frequency sounds and rodents digging underground. They use Earth's magnetic field to hunt, making them one of the few animals with this ability.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vulpes_vulpes",
+        "https://animaldiversity.org/accounts/Vulpes_vulpes/"
+      ],
+      "taxon": "Vulpes vulpes",
+      "license": "CC-BY-SA",
+      "localPath": "/images/mammals/mammals5.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Red Fox",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Red_Fox",
+      "wikipediaExtract": "The Red Fox (Vulpes vulpes) is a species found in Diverse environments across the northern hemisphere, including forests, grasslands, mountains, and urban areas.",
+      "updatedAt": "2025-08-26T20:33:09.466Z",
+      "imageSource": "placeholder_image_source_mammals_5",
+      "imageMethod": "Generated Data"
+    }
+  ],
+  "cleanupSummary": {
+    "originalCount": 5,
+    "finalCount": 5,
+    "duplicatesResolved": 0,
+    "commonsUrlsRemoved": true
+  }
+}

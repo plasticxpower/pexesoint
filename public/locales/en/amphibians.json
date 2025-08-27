@@ -1,0 +1,56 @@
+{
+  "category": "amphibians",
+  "totalPhotos": 5,
+  "photos": [
+    {
+      "fileName": "amphibians1.jpg",
+      "commonName": "American Bullfrog",
+      "scientificName": "Lithobates catesbeianus",
+      "size": "15-20 cm (6-8 inches), 500-600 g",
+      "lifespan": "7-9 years in wild",
+      "habitat": "Large permanent water bodies such as ponds, lakes, and slow-moving streams across eastern North America.",
+      "funFact": "Bullfrogs are named for their deep, resonant call that can be heard up to a quarter mile away. They are voracious predators that will eat almost anything they can swallow, including other frogs.",
+      "localPath": "/images/amphibians/amphibians1.jpg"
+    },
+    {
+      "fileName": "amphibians2.jpg",
+      "commonName": "Spotted Salamander",
+      "scientificName": "Ambystoma maculatum",
+      "size": "15-25 cm (6-10 inches)",
+      "lifespan": "20+ years in wild",
+      "habitat": "Deciduous and mixed forests near ponds and streams in eastern North America. They spend most of their time underground.",
+      "funFact": "Spotted salamanders have a symbiotic relationship with algae that live in their egg masses, providing oxygen to developing embryos. They can regenerate lost limbs and tails.",
+      "localPath": "/images/amphibians/amphibians2.jpg"
+    },
+    {
+      "fileName": "amphibians3.jpg",
+      "commonName": "Spring Peeper",
+      "scientificName": "Pseudacris crucifer",
+      "size": "2-3.5 cm (1-1.4 inches)",
+      "lifespan": "3-4 years in wild",
+      "habitat": "Wooded areas near ponds, swamps, and marshes across eastern North America.",
+      "funFact": "Spring peepers are among the first frogs to call in spring, creating a chorus that can be heard from over a mile away. They can survive being frozen solid during winter.",
+      "localPath": "/images/amphibians/amphibians3.jpg"
+    },
+    {
+      "fileName": "amphibians4.jpg",
+      "commonName": "Red-backed Salamander",
+      "scientificName": "Plethodon cinereus",
+      "size": "5.7-10 cm (2.25-4 inches)",
+      "lifespan": "25+ years in wild",
+      "habitat": "Forest floors under logs, rocks, and leaf litter in eastern North America.",
+      "funFact": "Red-backed salamanders are lungless and breathe entirely through their skin and mouth lining. They are territorial and will defend their small territories aggressively.",
+      "localPath": "/images/amphibians/amphibians4.jpg"
+    },
+    {
+      "fileName": "amphibians5.jpg",
+      "commonName": "Wood Frog",
+      "scientificName": "Lithobates sylvaticus",
+      "size": "3.5-7 cm (1.4-2.8 inches)",
+      "lifespan": "3-5 years in wild",
+      "habitat": "Forests and woodlands near temporary pools across northern North America.",
+      "funFact": "Wood frogs can survive being frozen solid for months during winter. They produce glucose and urea as natural antifreeze to protect their vital organs.",
+      "localPath": "/images/amphibians/amphibians5.jpg"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "category": "birds",
+  "totalPhotos": 5,
+  "photos": [
+    {
+      "fileName": "birds1.jpg",
+      "commonName": "American Robin",
+      "scientificName": "Turdus migratorius",
+      "size": "20-28 cm (8-11 inches), 77 g",
+      "lifespan": "2 years in wild, up to 13 years",
+      "habitat": "Woodlands, parks, gardens, and lawns across North America. They prefer areas with trees for nesting and open ground for foraging.",
+      "funFact": "American robins are among the first birds to sing at dawn and the last to sing at dusk. They can see ultraviolet light, which helps them spot ripe berries and insects.",
+      "localPath": "/images/birds/birds1.jpg"
+    },
+    {
+      "fileName": "birds2.jpg",
+      "commonName": "American Crow",
+      "scientificName": "Corvus brachyrhynchos",
+      "size": "40-50 cm (16-20 inches), 315-620 g",
+      "lifespan": "7-8 years in wild, up to 20 years",
+      "habitat": "Open woodlands, fields, parks, and urban areas across North America. They are highly adaptable to human environments.",
+      "funFact": "Crows are among the most intelligent birds, capable of using tools, solving complex puzzles, and recognizing human faces. They can hold grudges and pass this information to their offspring.",
+      "localPath": "/images/birds/birds2.jpg"
+    },
+    {
+      "fileName": "birds3.jpg",
+      "commonName": "Black-capped Chickadee",
+      "scientificName": "Poecile atricapillus",
+      "size": "12-15 cm (5-6 inches), 9-14 g",
+      "lifespan": "2-3 years in wild",
+      "habitat": "Mixed and deciduous forests, parks, and wooded suburban areas across northern North America.",
+      "funFact": "Chickadees can remember thousands of hiding places where they store food. Their brain actually grows larger in fall to accommodate increased memory needs for winter survival.",
+      "localPath": "/images/birds/birds3.jpg"
+    },
+    {
+      "fileName": "birds4.jpg",
+      "commonName": "Eastern Bluebird",
+      "scientificName": "Sialia sialis",
+      "size": "16-21 cm (6-8 inches), 27-34 g",
+      "lifespan": "6-10 years in wild",
+      "habitat": "Open woodlands, farmlands, and parks with scattered trees across eastern North America.",
+      "funFact": "Eastern bluebirds are cavity nesters and have benefited greatly from nest box programs. Males are more brightly colored than females and perform elaborate courtship displays.",
+      "localPath": "/images/birds/birds4.jpg"
+    },
+    {
+      "fileName": "birds5.jpg",
+      "commonName": "American Goldfinch",
+      "scientificName": "Spinus tristis",
+      "size": "11-14 cm (4-5 inches), 11-20 g",
+      "lifespan": "3-6 years in wild",
+      "habitat": "Open country, roadsides, orchards, and suburban areas across North America. They prefer areas with thistle and other seed-producing plants.",
+      "funFact": "American goldfinches are strict vegetarians and one of the latest nesting birds, waiting until late summer when seeds are abundant. Males molt twice a year, changing from bright yellow to olive-brown.",
+      "localPath": "/images/birds/birds5.jpg"
+    }
+  ]
+}

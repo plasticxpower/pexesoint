@@ -1,0 +1,56 @@
+{
+  "category": "fish",
+  "totalPhotos": 5,
+  "photos": [
+    {
+      "fileName": "fish1.jpg",
+      "commonName": "Okoun velkohubý",
+      "scientificName": "Micropterus salmoides",
+      "size": "30-60 cm, 1-5 kg",
+      "lifespan": "10-16 let ve volné přírodě",
+      "habitat": "Sladkovodní jezera, rybníky a pomalu tekoucí řeky s vegetací napříč Severní Amerikou.",
+      "funFact": "Okouny velkohubí jsou predátoři z úkrytu s výborným zrakem a dokážou vidět v barvách. Dokážou otevřít ústa dostatečně široce, aby vytvořili silné sání, které jim pomáhá chytit kořist.",
+      "localPath": "/images/fish/fish1.jpg"
+    },
+    {
+      "fileName": "fish2.jpg",
+      "commonName": "Pstruh duhový",
+      "scientificName": "Oncorhynchus mykiss",
+      "size": "30-40 cm, 1-2 kg",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Studené, čisté potoky a jezera napříč Severní Amerikou a introdukován po celém světě.",
+      "funFact": "Pstruzi duhoví dokážou vidět ultrafialové světlo a mají výborné barevné vidění. Jsou známí svou spektakulární schopností skákat při chytání nebo vyhýbání se predátorům.",
+      "localPath": "/images/fish/fish2.jpg"
+    },
+    {
+      "fileName": "fish3.jpg",
+      "commonName": "Štika obecná",
+      "scientificName": "Esox lucius",
+      "size": "40-55 cm, 1-3 kg",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Mělké, zarostlé oblasti jezer a pomalých řek napříč severními regiony.",
+      "funFact": "Štiky obecné jsou vrcholoví predátoři s břitvě ostrými zuby a dokážou zrychlit z 0 na 40 km/h za sekundy. Je známo, že útočí na kořist až poloviční velikosti své vlastní.",
+      "localPath": "/images/fish/fish3.jpg"
+    },
+    {
+      "fileName": "fish4.jpg",
+      "commonName": "Slunečnice obecná",
+      "scientificName": "Lepomis macrochirus",
+      "size": "15-25 cm, 200-500 g",
+      "lifespan": "5-8 let ve volné přírodě",
+      "habitat": "Mělké vody jezer, rybníků a pomalých potoků s vegetací napříč Severní Amerikou.",
+      "funFact": "Samci slunečnic obecných vytvářejí kruhová hnízda v mělké vodě a agresivně je brání během období rozmnožování. Dokážou rychle měnit barvu pro komunikaci s jinými rybami.",
+      "localPath": "/images/fish/fish4.jpg"
+    },
+    {
+      "fileName": "fish5.jpg",
+      "commonName": "Sumec americký",
+      "scientificName": "Ictalurus punctatus",
+      "size": "40-60 cm, 1-4 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Řeky, jezera a rybníky s bahnitým nebo písčitým dnem napříč Severní Amerikou.",
+      "funFact": "Sumci američtí mají přes 100 000 chuťových pohárků pokrývajících celé jejich tělo, což je činí neuvěřitelně citlivými na chemické signály ve vodě. Dokážou ochutnat potravu dříve, než jim vstoupí do úst.",
+      "localPath": "/images/fish/fish5.jpg"
+    }
+  ]
+}

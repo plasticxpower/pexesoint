@@ -1,0 +1,56 @@
+{
+  "category": "mammals",
+  "totalPhotos": 5,
+  "photos": [
+    {
+      "fileName": "mammals1.jpg",
+      "commonName": "Americký černý medvěd",
+      "scientificName": "Ursus americanus",
+      "size": "1,2-1,9 m dlouhý, 90-140 kg",
+      "lifespan": "20-25 let ve volné přírodě",
+      "habitat": "Velké zalesněné oblasti napříč Severní Amerikou. Obývají listnaté a smíšené lesy, bažiny a horské oblasti.",
+      "funFact": "Američtí černí medvědi mohou sprintovat rychlostí až 55 km/h a jsou výbornými plavci. Přestože jsou klasifikováni jako masožravci, 90% jejich stravy tvoří rostliny, což z nich činí vysoce přizpůsobivé všežravce.",
+      "localPath": "/images/mammals/mammals1.jpg"
+    },
+    {
+      "fileName": "mammals2.jpg",
+      "commonName": "Běloocasý jelen",
+      "scientificName": "Odocoileus virginianus",
+      "size": "1,5-2,1 m dlouhý, 30-136 kg",
+      "lifespan": "6-14 let ve volné přírodě",
+      "habitat": "Lesy, travnaté oblasti a předměstské oblasti napříč Amerikou. Preferují okrajové biotopy, kde se lesy setkávají s otevřenými prostranstvími.",
+      "funFact": "Běloocasí jeleni mohou skákat až 3 metry vysoko a 9 metrů daleko. Mají výborné noční vidění a dokážou detekovat pohyb až na vzdálenost 180 metrů.",
+      "localPath": "/images/mammals/mammals2.jpg"
+    },
+    {
+      "fileName": "mammals3.jpg",
+      "commonName": "Východní šedá veverka",
+      "scientificName": "Sciurus carolinensis",
+      "size": "23-30 cm plus 19-25 cm ocas",
+      "lifespan": "6 let ve volné přírodě, až 20 v zajetí",
+      "habitat": "Listnaté a smíšené lesy ve východní Severní Americe. Jsou vysoce přizpůsobivé a prosperují v městských parcích a předměstských oblastech.",
+      "funFact": "Šedé veverky si dokážou zapamatovat umístění tisíců zakopáných ořechů a byly pozorovány při používání klamných taktik k ochraně svých zásob potravy před jinými veverkami.",
+      "localPath": "/images/mammals/mammals3.jpg"
+    },
+    {
+      "fileName": "mammals4.jpg",
+      "commonName": "Mýval severní",
+      "scientificName": "Procyon lotor",
+      "size": "40-70 cm, 5-26 kg",
+      "lifespan": "2-3 roky ve volné přírodě, může žít přes 20 let v zajetí",
+      "habitat": "Listnaté a smíšené lesy, mokřady a městské oblasti napříč Severní Amerikou. Preferují oblasti blízko vodních zdrojů.",
+      "funFact": "Mývali mají extrémně citlivé přední tlapky s více než 100 000 nervovými zakončeními. Často 'myjí' svou potravu ve vodě, aby zlepšili svůj hmat a lépe prozkoumali své jídlo.",
+      "localPath": "/images/mammals/mammals4.jpg"
+    },
+    {
+      "fileName": "mammals5.jpg",
+      "commonName": "Liška obecná",
+      "scientificName": "Vulpes vulpes",
+      "size": "45-90 cm plus 30-56 cm ocas",
+      "lifespan": "2-5 let ve volné přírodě",
+      "habitat": "Rozmanitá prostředí napříč severní polokoulí, včetně lesů, travnatých oblastí, hor a městských oblastí.",
+      "funFact": "Lišky obecné mají výborný sluch a dokážou detekovat nízkofrekvenční zvuky a hlodavce hrabající se pod zemí. Při lovu využívají magnetické pole Země, což z nich činí jeden z mála živočichů s touto schopností.",
+      "localPath": "/images/mammals/mammals5.jpg"
+    }
+  ]
+}

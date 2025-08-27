@@ -1,0 +1,64 @@
+{
+  "navigation": {
+    "gameTab": "PEXEDU",
+    "backToMenu": "Back to Main Menu"
+  },
+  "mainMenu": {
+    "mainTitle": "PEXEDU",
+    "step1": "Step 1: Select Number of Players",
+    "step2": "Step 2: Select Game Category",
+    "numberOfPlayers": "Number of Players:",
+    "chooseNumberOfPlayers": "Select number of players...",
+    "player": "Player",
+    "players": "Players",
+    "selectPlayersFirst": "Please select the number of players first"
+  },
+  "categories": {
+    "mammals": "Mammals",
+    "birds": "Birds",
+    "fish": "Fish",
+    "reptiles": "Reptiles",
+    "amphibians": "Amphibians"
+  },
+  "gameInterface": {
+    "title": "{{category}} Memory Game",
+    "currentPlayer": "Current Player",
+    "moves": "{{count}} Moves",
+    "scores": "Scores",
+    "pts": "pts",
+    "viewDeck": "View Deck",
+    "backToMenu": "Back to Menu",
+    "loadingImages": "Loading images...",
+    "error": "Error"
+  },
+  "modal": {
+    "size": "Size",
+    "lifespan": "Lifespan",
+    "habitat": "Habitat",
+    "funFact": "Fun Fact",
+    "close": "Close",
+    "previousCard": "Previous Card",
+    "nextCard": "Next Card",
+    "cardOf": "Card {{current}} of {{total}}",
+    "deck": "Deck"
+  },
+  "deckModal": {
+    "playerDeck": "{{player}}'s Collection",
+    "cardCounter": "Card {{current}} of {{total}}",
+    "previousCard": "Previous",
+    "nextCard": "Next"
+  },
+  "winMessage": {
+    "congratulations": "Congratulations! You won in",
+    "movesText": "moves!",
+    "playAgain": "Play Again"
+  },
+  "errors": {
+    "selectPlayersError": "Please select the number of players first.",
+    "loadError": "Failed to load game data. Please try again."
+  },
+  "languageSelector": {
+    "english": "English",
+    "czech": "Čeština"
+  }
+}

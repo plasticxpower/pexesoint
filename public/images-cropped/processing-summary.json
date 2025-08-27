@@ -1,0 +1,16 @@
+{
+  "processedAt": "2025-08-18T19:18:33.071Z",
+  "targetResolution": "800x600",
+  "aspectRatio": "4:3",
+  "totalProcessed": 150,
+  "successful": 150,
+  "failed": 0,
+  "categories": [
+    "amphibians",
+    "birds",
+    "fish",
+    "mammals",
+    "reptiles"
+  ],
+  "outputDirectory": "public/images-cropped"
+}

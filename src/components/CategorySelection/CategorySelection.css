@@ -1,0 +1,235 @@
+/* Modern Category Selection Component */
+.instruction-text {
+  color: var(--gray-600);
+  font-size: var(--text-lg);
+  font-weight: var(--font-medium);
+  text-align: center;
+  margin-bottom: var(--space-8);
+  line-height: 1.6;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.menu {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: var(--space-6);
+  margin-top: var(--space-8);
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.category-button {
+  padding: var(--space-8);
+  border: 2px solid var(--gray-200);
+  border-radius: var(--radius-2xl);
+  background: var(--white);
+  color: var(--gray-900);
+  font-size: var(--text-lg);
+  font-weight: var(--font-semibold);
+  cursor: pointer;
+  transition: all var(--transition-normal);
+  min-height: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+  box-shadow: var(--shadow-md);
+  backdrop-filter: blur(10px);
+}
+
+.category-button::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: linear-gradient(135deg, 
+    var(--primary-color) 0%, 
+    var(--secondary-color) 100%);
+  opacity: 0;
+  transition: opacity var(--transition-normal);
+  z-index: 1;
+}
+
+.category-button:hover::before {
+  opacity: 0.1;
+}
+
+.category-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-4);
+  position: relative;
+  z-index: 2;
+}
+
+.category-icon {
+  width: 64px;
+  height: 64px;
+  transition: all var(--transition-normal);
+  filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.1));
+}
+
+.category-button:hover:not(.disabled) .category-icon {
+  transform: scale(1.15) rotate(5deg);
+  filter: drop-shadow(0 8px 16px rgba(0, 0, 0, 0.2));
+}
+
+.category-button:hover:not(.disabled) {
+  border-color: var(--primary-color);
+  transform: translateY(-4px);
+  box-shadow: var(--shadow-2xl);
+  background: linear-gradient(135deg, var(--white) 0%, var(--gray-50) 100%);
+}
+
+.category-button:active:not(.disabled) {
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-lg);
+}
+
+.category-button.disabled {
+  background: var(--gray-100);
+  border-color: var(--gray-300);
+  color: var(--gray-400);
+  cursor: not-allowed;
+  opacity: 0.6;
+  transform: none;
+}
+
+.category-button.disabled .category-icon {
+  filter: grayscale(100%) opacity(0.5);
+}
+
+.category-button.disabled:hover {
+  transform: none;
+  box-shadow: var(--shadow-md);
+}
+
+.category-label {
+  text-align: center;
+  font-size: var(--text-xl);
+  font-weight: var(--font-semibold);
+  letter-spacing: -0.01em;
+}
+
+.category-description {
+  font-size: var(--text-sm);
+  color: var(--gray-500);
+  text-align: center;
+  margin-top: var(--space-2);
+  font-weight: var(--font-normal);
+  opacity: 0;
+  transform: translateY(10px);
+  transition: all var(--transition-normal);
+}
+
+.category-button:hover:not(.disabled) .category-description {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* Special Category Themes */
+.category-button[data-category="mammals"] {
+  background: linear-gradient(135deg, #fff5f5 0%, #fed7d7 100%);
+}
+
+.category-button[data-category="birds"] {
+  background: linear-gradient(135deg, #f0fff4 0%, #c6f6d5 100%);
+}
+
+.category-button[data-category="fish"] {
+  background: linear-gradient(135deg, #ebf8ff 0%, #bee3f8 100%);
+}
+
+.category-button[data-category="reptiles"] {
+  background: linear-gradient(135deg, #fffaf0 0%, #fbd38d 100%);
+}
+
+.category-button[data-category="amphibians"] {
+  background: linear-gradient(135deg, #f7fafc 0%, #e2e8f0 100%);
+}
+
+/* Loading State */
+.category-button.loading {
+  pointer-events: none;
+  position: relative;
+}
+
+.category-button.loading::after {
+  content: '';
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 24px;
+  height: 24px;
+  margin: -12px 0 0 -12px;
+  border: 2px solid var(--gray-300);
+  border-top-color: var(--primary-color);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+  z-index: 3;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .menu {
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: var(--space-4);
+  }
+  
+  .category-button {
+    min-height: 140px;
+    padding: var(--space-6);
+  }
+  
+  .category-icon {
+    width: 48px;
+    height: 48px;
+  }
+  
+  .category-label {
+    font-size: var(--text-lg);
+  }
+  
+  .instruction-text {
+    font-size: var(--text-base);
+    margin-bottom: var(--space-6);
+  }
+}
+
+@media (max-width: 480px) {
+  .menu {
+    grid-template-columns: 1fr;
+    gap: var(--space-3);
+  }
+  
+  .category-button {
+    min-height: 120px;
+    padding: var(--space-5);
+  }
+  
+  .category-icon {
+    width: 40px;
+    height: 40px;
+  }
+  
+  .category-label {
+    font-size: var(--text-base);
+  }
+  
+  .instruction-text {
+    font-size: var(--text-sm);
+  }
+}

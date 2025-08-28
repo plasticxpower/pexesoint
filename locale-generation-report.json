@@ -1,0 +1,482 @@
+{
+  "timestamp": "2025-08-28T09:13:35.472Z",
+  "sourceDirectory": "C:\\Users\\dwg\\trae\\pexesoint\\public\\images",
+  "localesDirectory": "C:\\Users\\dwg\\trae\\pexesoint\\public\\locales",
+  "categories": [
+    {
+      "category": "mammals",
+      "totalAnimals": 30,
+      "mappedToCzech": 20,
+      "unmappedAnimals": [
+        {
+          "scientificName": "Gulo gulo",
+          "englishName": "Wolverine"
+        },
+        {
+          "scientificName": "Cynomys ludovicianus",
+          "englishName": "Prairie Dog"
+        },
+        {
+          "scientificName": "Marmota monax",
+          "englishName": "Groundhog"
+        },
+        {
+          "scientificName": "Lynx canadensis",
+          "englishName": "Lynx"
+        },
+        {
+          "scientificName": "Bison bison",
+          "englishName": "Bison"
+        },
+        {
+          "scientificName": "Ursus maritimus",
+          "englishName": "Polar Bear"
+        },
+        {
+          "scientificName": "Ursus arctos",
+          "englishName": "Grizzly Bear"
+        },
+        {
+          "scientificName": "Rangifer tarandus",
+          "englishName": "Caribou"
+        },
+        {
+          "scientificName": "Oreamnos americanus",
+          "englishName": "Mountain Goat"
+        },
+        {
+          "scientificName": "Antilocapra americana",
+          "englishName": "Pronghorn"
+        }
+      ]
+    },
+    {
+      "category": "birds",
+      "totalAnimals": 30,
+      "mappedToCzech": 14,
+      "unmappedAnimals": [
+        {
+          "scientificName": "Archilochus colubris",
+          "englishName": "Ruby-throated Hummingbird"
+        },
+        {
+          "scientificName": "Zenaida macroura",
+          "englishName": "Mourning Dove"
+        },
+        {
+          "scientificName": "Picoides pubescens",
+          "englishName": "Downy Woodpecker"
+        },
+        {
+          "scientificName": "Branta canadensis",
+          "englishName": "Canada Goose"
+        },
+        {
+          "scientificName": "Tyto alba",
+          "englishName": "Barn Owl"
+        },
+        {
+          "scientificName": "Pandion haliaetus",
+          "englishName": "Osprey"
+        },
+        {
+          "scientificName": "Falco peregrinus",
+          "englishName": "Peregrine Falcon"
+        },
+        {
+          "scientificName": "Meleagris gallopavo",
+          "englishName": "Wild Turkey"
+        },
+        {
+          "scientificName": "Megaceryle alcyon",
+          "englishName": "Belted Kingfisher"
+        },
+        {
+          "scientificName": "Antigone canadensis",
+          "englishName": "Sandhill Crane"
+        },
+        {
+          "scientificName": "Dryocopus pileatus",
+          "englishName": "Pileated Woodpecker"
+        },
+        {
+          "scientificName": "Setophaga petechia",
+          "englishName": "Yellow Warbler"
+        },
+        {
+          "scientificName": "Sitta carolinensis",
+          "englishName": "White-breasted Nuthatch"
+        },
+        {
+          "scientificName": "Bombycilla cedrorum",
+          "englishName": "Cedar Waxwing"
+        },
+        {
+          "scientificName": "Passerina cyanea",
+          "englishName": "Indigo Bunting"
+        },
+        {
+          "scientificName": "Pheucticus ludovicianus",
+          "englishName": "Rose-breasted Grosbeak"
+        }
+      ]
+    },
+    {
+      "category": "fish",
+      "totalAnimals": 30,
+      "mappedToCzech": 12,
+      "unmappedAnimals": [
+        {
+          "scientificName": "Salvelinus fontinalis",
+          "englishName": "Brook Trout"
+        },
+        {
+          "scientificName": "Micropterus dolomieu",
+          "englishName": "Smallmouth Bass"
+        },
+        {
+          "scientificName": "Salvelinus namaycush",
+          "englishName": "Lake Trout"
+        },
+        {
+          "scientificName": "Morone chrysops",
+          "englishName": "White Bass"
+        },
+        {
+          "scientificName": "Oncorhynchus kisutch",
+          "englishName": "Coho Salmon"
+        },
+        {
+          "scientificName": "Pomoxis nigromaculatus",
+          "englishName": "Crappie"
+        },
+        {
+          "scientificName": "Lepomis gibbosus",
+          "englishName": "Sunfish"
+        },
+        {
+          "scientificName": "Oncorhynchus tshawytscha",
+          "englishName": "Chinook Salmon"
+        },
+        {
+          "scientificName": "Pylodictis olivaris",
+          "englishName": "Flathead Catfish"
+        },
+        {
+          "scientificName": "Sander canadensis",
+          "englishName": "Sauger"
+        },
+        {
+          "scientificName": "Lota lota",
+          "englishName": "Burbot"
+        },
+        {
+          "scientificName": "Lepisosteus osseus",
+          "englishName": "Gar"
+        },
+        {
+          "scientificName": "Polyodon spathula",
+          "englishName": "Paddlefish"
+        },
+        {
+          "scientificName": "Amia calva",
+          "englishName": "Bowfin"
+        },
+        {
+          "scientificName": "Aplodinotus grunniens",
+          "englishName": "Freshwater Drum"
+        },
+        {
+          "scientificName": "Moxostoma macrolepidotum",
+          "englishName": "Redhorse Sucker"
+        },
+        {
+          "scientificName": "Hiodon tergisus",
+          "englishName": "Mooneye"
+        },
+        {
+          "scientificName": "Catostomus commersonii",
+          "englishName": "White Sucker"
+        }
+      ]
+    },
+    {
+      "category": "reptiles",
+      "totalAnimals": 30,
+      "mappedToCzech": 5,
+      "unmappedAnimals": [
+        {
+          "scientificName": "Terrapene carolina",
+          "englishName": "Eastern Box Turtle"
+        },
+        {
+          "scientificName": "Plestiodon fasciatus",
+          "englishName": "Five-lined Skink"
+        },
+        {
+          "scientificName": "Chrysemys picta",
+          "englishName": "Painted Turtle"
+        },
+        {
+          "scientificName": "Anolis carolinensis",
+          "englishName": "Green Anole"
+        },
+        {
+          "scientificName": "Trachemys scripta elegans",
+          "englishName": "Red-eared Slider"
+        },
+        {
+          "scientificName": "Pantherophis guttatus",
+          "englishName": "Corn Snake"
+        },
+        {
+          "scientificName": "Chelydra serpentina",
+          "englishName": "Snapping Turtle"
+        },
+        {
+          "scientificName": "Pogona vitticeps",
+          "englishName": "Bearded Dragon"
+        },
+        {
+          "scientificName": "Hemidactylus turcicus",
+          "englishName": "Gecko"
+        },
+        {
+          "scientificName": "Chamaeleo calyptratus",
+          "englishName": "Chameleon"
+        },
+        {
+          "scientificName": "Python regius",
+          "englishName": "Ball Python"
+        },
+        {
+          "scientificName": "Varanus salvator",
+          "englishName": "Monitor Lizard"
+        },
+        {
+          "scientificName": "Lampropeltis getula",
+          "englishName": "Kingsnake"
+        },
+        {
+          "scientificName": "Gopherus polyphemus",
+          "englishName": "Tortoise"
+        },
+        {
+          "scientificName": "Agkistrodon contortrix",
+          "englishName": "Copperhead"
+        },
+        {
+          "scientificName": "Lampropeltis triangulum",
+          "englishName": "Milk Snake"
+        },
+        {
+          "scientificName": "Sceloporus undulatus",
+          "englishName": "Fence Lizard"
+        },
+        {
+          "scientificName": "Malaclemys terrapin",
+          "englishName": "Diamondback Terrapin"
+        },
+        {
+          "scientificName": "Heterodon platirhinos",
+          "englishName": "Hognose Snake"
+        },
+        {
+          "scientificName": "Ophisaurus ventralis",
+          "englishName": "Glass Lizard"
+        },
+        {
+          "scientificName": "Glyptemys insculpta",
+          "englishName": "Wood Turtle"
+        },
+        {
+          "scientificName": "Masticophis flagellum",
+          "englishName": "Coachwhip Snake"
+        },
+        {
+          "scientificName": "Clemmys guttata",
+          "englishName": "Spotted Turtle"
+        },
+        {
+          "scientificName": "Diadophis punctatus",
+          "englishName": "Ring-necked Snake"
+        },
+        {
+          "scientificName": "Sternotherus odoratus",
+          "englishName": "Musk Turtle"
+        }
+      ]
+    },
+    {
+      "category": "amphibians",
+      "totalAnimals": 30,
+      "mappedToCzech": 4,
+      "unmappedAnimals": [
+        {
+          "scientificName": "Pseudacris crucifer",
+          "englishName": "Spring Peeper"
+        },
+        {
+          "scientificName": "Plethodon cinereus",
+          "englishName": "Red-backed Salamander"
+        },
+        {
+          "scientificName": "Lithobates sylvaticus",
+          "englishName": "Wood Frog"
+        },
+        {
+          "scientificName": "Agalychnis callidryas",
+          "englishName": "Red-eyed Tree Frog"
+        },
+        {
+          "scientificName": "Notophthalmus viridescens",
+          "englishName": "Eastern Newt"
+        },
+        {
+          "scientificName": "Phyllobates terribilis",
+          "englishName": "Poison Dart Frog"
+        },
+        {
+          "scientificName": "Ambystoma mexicanum",
+          "englishName": "Axolotl"
+        },
+        {
+          "scientificName": "Ambystoma tigrinum",
+          "englishName": "Tiger Salamander"
+        },
+        {
+          "scientificName": "Hyla cinerea",
+          "englishName": "Green Tree Frog"
+        },
+        {
+          "scientificName": "Cryptobranchus alleganiensis",
+          "englishName": "Hellbender"
+        },
+        {
+          "scientificName": "Rhinella marina",
+          "englishName": "Cane Toad"
+        },
+        {
+          "scientificName": "Salamandra salamandra",
+          "englishName": "Fire Salamander"
+        },
+        {
+          "scientificName": "Necturus maculosus",
+          "englishName": "Mudpuppy"
+        },
+        {
+          "scientificName": "Centrolenella fleischmanni",
+          "englishName": "Glass Frog"
+        },
+        {
+          "scientificName": "Gymnopis multiplicata",
+          "englishName": "Caecilian"
+        },
+        {
+          "scientificName": "Pseudacris triseriata",
+          "englishName": "Chorus Frog"
+        },
+        {
+          "scientificName": "Ambystoma opacum",
+          "englishName": "Marbled Salamander"
+        },
+        {
+          "scientificName": "Lithobates palustris",
+          "englishName": "Pickerel Frog"
+        },
+        {
+          "scientificName": "Hemidactylium scutatum",
+          "englishName": "Four-toed Salamander"
+        },
+        {
+          "scientificName": "Pseudotriton ruber",
+          "englishName": "Red Salamander"
+        },
+        {
+          "scientificName": "Hyla chrysoscelis",
+          "englishName": "Cope's Gray Tree Frog"
+        },
+        {
+          "scientificName": "Eurycea bislineata",
+          "englishName": "Two-lined Salamander"
+        },
+        {
+          "scientificName": "Anaxyrus fowleri",
+          "englishName": "Fowler's Toad"
+        },
+        {
+          "scientificName": "Lithobates pipiens",
+          "englishName": "Leopard Frog"
+        },
+        {
+          "scientificName": "Eurycea longicauda",
+          "englishName": "Long-tailed Salamander"
+        },
+        {
+          "scientificName": "Lithobates clamitans",
+          "englishName": "Green Frog"
+        }
+      ]
+    }
+  ],
+  "scientificNameMappings": {
+    "total": 55,
+    "mappings": {
+      "Turdus migratorius": "drozd stěhovavý",
+      "Corvus brachyrhynchos": "vrána americká",
+      "Poecile atricapillus": "sýkora černohlavá",
+      "Sialia sialis": "modráček východní",
+      "Spinus tristis": "stehlík americký",
+      "Cardinalis cardinalis": "kardinál červený",
+      "Cyanocitta cristata": "sojka modrá",
+      "Passer domesticus": "vrabec domácí",
+      "Agelaius phoeniceus": "vlhovec červenokřídlý",
+      "Haliaeetus leucocephalus": "orel bělohlavý",
+      "Ardea herodias": "volavka modrá",
+      "Buteo jamaicensis": "káně rudoocasá",
+      "Anas platyrhynchos": "kachna divoká",
+      "Bubo virginianus": "výr virginský",
+      "Aquila chrysaetos": "orel skalní",
+      "Micropterus salmoides": "okounek pstruhový",
+      "Oncorhynchus mykiss": "pstruh duhový",
+      "Esox lucius": "štika obecná",
+      "Lepomis macrochirus": "slunečnice modrolemá",
+      "Ictalurus punctatus": "sumec tečkovaný",
+      "Salmo salar": "losos atlantský",
+      "Sander vitreus": "candát sklovitý",
+      "Morone saxatilis": "okoun pruhovaný",
+      "Perca flavescens": "okoun žlutý",
+      "Esox masquinongy": "štika muskellunge",
+      "Ursus americanus": "medvěd baribal",
+      "Odocoileus virginianus": "jelen běloocasý",
+      "Sciurus carolinensis": "veverka šedá",
+      "Procyon lotor": "mýval severní",
+      "Vulpes vulpes": "liška obecná",
+      "Canis lupus": "vlk obecný",
+      "Puma concolor": "puma americká",
+      "Alces alces": "los evropský",
+      "Castor canadensis": "bobr kanadský",
+      "Lynx rufus": "rys červený",
+      "Cervus canadensis": "wapiti",
+      "Erethizon dorsatum": "dikobraz severoamerický",
+      "Mephitis mephitis": "skunk pruhovaný",
+      "Didelphis virginiana": "oposum virginský",
+      "Tamias striatus": "burunduk pruhovaný",
+      "Ondatra zibethicus": "ondatra pižmová",
+      "Lontra canadensis": "vydra kanadská",
+      "Canis latrans": "kojot prérijní",
+      "Ovis canadensis": "muflon kanadský",
+      "Odocoileus hemionus": "jelen mulí",
+      "Thamnophis sirtalis": "užovka podvazková",
+      "Crotalus atrox": "chřestýš diamantový",
+      "Chelonia mydas": "želva zelená",
+      "Alligator mississippiensis": "aligátor americký",
+      "Iguana iguana": "leguán zelený",
+      "Lithobates catesbeianus": "žába skokanka",
+      "Ambystoma maculatum": "mlok skvrnitý",
+      "Bufo americanus": "ropucha americká",
+      "Hyla versicolor": "rosnička šedá",
+      "Plethodon glutinosus": "mlok lepkavý"
+    }
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "photos": {
+    "0": {
+      "commonName": "Orel skalní",
+      "scientificName": "Turdus migratorius",
+      "size": "Rozpětí: 185-230 cm, Hmotnost: 3-6 kg",
+      "lifespan": "20-30 let ve volné přírodě",
+      "habitat": "Severoamerické hory a útesy. Preferují vysoké útvary pro hnízda.",
+      "funFact": "Orel skalní jsou známí svou silou a dokážou skočit až 3 metry vysoko."
+    },
+    "1": {
+      "commonName": "Kondor kalifornský",
+      "scientificName": "Corvus brachyrhynchos",
+      "size": "Rozpětí: 270-310 cm, Hmotnost: 7-14 kg",
+      "lifespan": "50-60 let ve volné přírodě",
+      "habitat": "Kalifornské hory a kaňony. Preferují skalnaté oblasti.",
+      "funFact": "Kondor kalifornský mají výjimečný zrak a dokážou vidět na vzdálenost až 6 km."
+    },
+    "2": {
+      "commonName": "Pelikán hnědý",
+      "scientificName": "Poecile atricapillus",
+      "size": "Rozpětí: 200-230 cm, Hmotnost: 2-5 kg",
+      "lifespan": "25-30 let ve volné přírodě",
+      "habitat": "Pobřežní oblasti a ústí řek. Preferují mělké vody s rybami.",
+      "funFact": "Pelikán hnědý mají nejdelší chobot ze všech zvířat a dokážou jím zvednout až 350 kg."
+    },
+    "3": {
+      "commonName": "Volavka modrá",
+      "scientificName": "Sialia sialis",
+      "size": "Rozpětí: 165-195 cm, Hmotnost: 2-3 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Mokřady a bažiny. Preferují stojaté vody s bohatou faunou.",
+      "funFact": "Volavka modrá mají nejdelší krk ze všech savců a jejich srdce váží až 11 kg."
+    },
+    "4": {
+      "commonName": "Ibis bílý",
+      "scientificName": "Spinus tristis",
+      "size": "Rozpětí: 90-105 cm, Hmotnost: 1-2 kg",
+      "lifespan": "20-25 let ve volné přírodě",
+      "habitat": "Mokřady a pobřežní oblasti. Preferují mělké vody.",
+      "funFact": "Ibis bílý mají nejsilnější kůži ze všech zvířat, tlustou až 5 cm."
+    },
+    "5": {
+      "commonName": "Rybák belohlavý",
+      "scientificName": "Cardinalis cardinalis",
+      "size": "Rozpětí: 180-240 cm, Hmotnost: 3-6 kg",
+      "lifespan": "25-30 let ve volné přírodě",
+      "habitat": "Severoamerické jezera a řeky. Preferují čisté vody s rybami.",
+      "funFact": "Rybák belohlavý dokážou lézt po stromech a jsou velmi obratní."
+    },
+    "6": {
+      "commonName": "Jeřáb kanadský",
+      "scientificName": "Cyanocitta cristata",
+      "size": "Rozpětí: 200-230 cm, Hmotnost: 4-7 kg",
+      "lifespan": "20-25 let ve volné přírodě",
+      "habitat": "Severoamerické mokřady a prérie. Migrují na dlouhé vzdálenosti.",
+      "funFact": "Jeřáb kanadský dokážou žít až 15 let."
+    },
+    "7": {
+      "commonName": "Labuť zpěvná",
+      "scientificName": "Passer domesticus",
+      "size": "Rozpětí: 200-240 cm, Hmotnost: 7-14 kg",
+      "lifespan": "20-30 let ve volné přírodě",
+      "habitat": "Severoamerická jezera a mokřady. Preferují čisté vody.",
+      "funFact": "Labuť zpěvná dokážou žít v horách až do výšky 2000 m."
+    },
+    "8": {
+      "commonName": "Kachna divoká",
+      "scientificName": "Agelaius phoeniceus",
+      "size": "Rozpětí: 80-95 cm, Hmotnost: 1-2 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Severoamerické mokřady a jezera. Preferují stojaté vody.",
+      "funFact": "Kachna divoká dokážou skočit až 50 cm vysoko."
+    },
+    "9": {
+      "commonName": "Potápka malá",
+      "scientificName": "Haliaeetus leucocephalus",
+      "size": "Rozpětí: 55-65 cm, Hmotnost: 0.3-0.6 kg",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Severoamerická jezera a rybníky. Preferují čisté vody.",
+      "funFact": "Potápka malá dokážou žít až 25 let."
+    },
+    "10": {
+      "commonName": "Sup krkavcovitý",
+      "scientificName": "Ardea herodias",
+      "size": "Rozpětí: 160-180 cm, Hmotnost: 1-2 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Severoamerické pouště a otevřené krajiny. Preferují teplé oblasti.",
+      "funFact": "Sup krkavcovitý dokážou žít v horách až do výšky 1500 m."
+    },
+    "11": {
+      "commonName": "Jestřáb ostrokřídlý",
+      "scientificName": "Buteo jamaicensis",
+      "size": "Rozpětí: 95-120 cm, Hmotnost: 0.7-1.5 kg",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Severoamerické lesy a otevřené krajiny. Preferují smíšené oblasti.",
+      "funFact": "Jestřáb ostrokřídlý dokážou žít až 12 let."
+    },
+    "12": {
+      "commonName": "Sokol stěhovavý",
+      "scientificName": "Anas platyrhynchos",
+      "size": "Rozpětí: 95-115 cm, Hmotnost: 0.6-1.5 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Severoamerické útesy a města. Preferují vysoké budovy.",
+      "funFact": "Sokol stěhovavý dokážou žít v horách až do výšky 1000 m."
+    },
+    "13": {
+      "commonName": "Puštík virginský",
+      "scientificName": "Bubo virginianus",
+      "size": "Rozpětí: 95-115 cm, Hmotnost: 0.4-0.8 kg",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Severoamerické lesy a parky. Preferují staré stromy s dutinami.",
+      "funFact": "Puštík virginský dokážou skočit až 30 cm vysoko."
+    },
+    "14": {
+      "commonName": "Sýček králičí",
+      "scientificName": "Archilochus colubris",
+      "size": "Rozpětí: 50-60 cm, Hmotnost: 0.1-0.2 kg",
+      "lifespan": "7-10 let ve volné přírodě",
+      "habitat": "Severoamerické prérie a zemědělské oblasti. Preferují otevřené krajiny.",
+      "funFact": "Sýček králičí dokážou žít až 8 let."
+    },
+    "15": {
+      "commonName": "Kolibřík rubínohrdlý",
+      "scientificName": "Zenaida macroura",
+      "size": "Rozpětí: 8-11 cm, Hmotnost: 2-6 g",
+      "lifespan": "3-5 let ve volné přírodě",
+      "habitat": "Severoamerické zahrady a parky. Preferují květnaté oblasti.",
+      "funFact": "Kolibřík rubínohrdlý jsou známí svou silou a dokážou skočit až 3 metry vysoko."
+    },
+    "16": {
+      "commonName": "Datel pileated",
+      "scientificName": "Picoides pubescens",
+      "size": "Rozpětí: 65-75 cm, Hmotnost: 0.2-0.5 kg",
+      "lifespan": "8-12 let ve volné přírodě",
+      "habitat": "Severoamerické lesy. Preferují staré stromy s dutinami.",
+      "funFact": "Datel pileated mají výjimečný zrak a dokážou vidět na vzdálenost až 6 km."
+    },
+    "17": {
+      "commonName": "Vlaštovka obecná",
+      "scientificName": "Branta canadensis",
+      "size": "Rozpětí: 30-35 cm, Hmotnost: 15-25 g",
+      "lifespan": "4-8 let ve volné přírodě",
+      "habitat": "Severoamerické farmy a otevřené krajiny. Migrují do Jižní Ameriky.",
+      "funFact": "Vlaštovka obecná mají nejdelší chobot ze všech zvířat a dokážou jím zvednout až 350 kg."
+    },
+    "18": {
+      "commonName": "Drozd stěhovavý",
+      "scientificName": "Tyto alba",
+      "size": "Rozpětí: 20-25 cm, Hmotnost: 75-85 g",
+      "lifespan": "8-12 let ve volné přírodě",
+      "habitat": "Severoamerické lesy a parky. Preferují oblasti s červy.",
+      "funFact": "Drozd stěhovavý mají nejdelší krk ze všech savců a jejich srdce váží až 11 kg."
+    },
+    "19": {
+      "commonName": "Kardinál červený",
+      "scientificName": "Pandion haliaetus",
+      "size": "Rozpětí: 25-30 cm, Hmotnost: 35-65 g",
+      "lifespan": "8-10 let ve volné přírodě",
+      "habitat": "Severoamerické lesy a křoviny. Preferují husté porosty.",
+      "funFact": "Kardinál červený mají nejsilnější kůži ze všech zvířat, tlustou až 5 cm."
+    },
+    "20": {
+      "commonName": "Sojka modrá",
+      "scientificName": "Falco peregrinus",
+      "size": "Rozpětí: 35-40 cm, Hmotnost: 75-100 g",
+      "lifespan": "7-10 let ve volné přírodě",
+      "habitat": "Severoamerické lesy a parky. Preferují duby a ořešáky.",
+      "funFact": "Sojka modrá dokážou lézt po stromech a jsou velmi obratní."
+    },
+    "21": {
+      "commonName": "Krocan divoký",
+      "scientificName": "Meleagris gallopavo",
+      "size": "Rozpětí: 125-145 cm, Hmotnost: 5-11 kg",
+      "lifespan": "3-5 let ve volné přírodě",
+      "habitat": "Severoamerické lesy a otevřené krajiny. Preferují smíšené oblasti.",
+      "funFact": "Krocan divoký dokážou žít až 15 let."
+    },
+    "22": {
+      "commonName": "Ledňáček říční",
+      "scientificName": "Megaceryle alcyon",
+      "size": "Rozpětí: 25-30 cm, Hmotnost: 40-60 g",
+      "lifespan": "6-10 let ve volné přírodě",
+      "habitat": "Severoamerické řeky a potoky. Preferují čisté vody s rybami.",
+      "funFact": "Ledňáček říční dokážou žít v horách až do výšky 2000 m."
+    },
+    "23": {
+      "commonName": "Jeřáb písečný",
+      "scientificName": "Antigone canadensis",
+      "size": "Rozpětí: 65-75 cm, Hmotnost: 0.4-0.7 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Severoamerické pobřeží a pláže. Preferují písečné oblasti.",
+      "funFact": "Jeřáb písečný dokážou skočit až 50 cm vysoko."
+    },
+    "24": {
+      "commonName": "Datel černý",
+      "scientificName": "Dryocopus pileatus",
+      "size": "Rozpětí: 35-40 cm, Hmotnost: 55-90 g",
+      "lifespan": "8-12 let ve volné přírodě",
+      "habitat": "Severoamerické lesy. Preferují staré stromy s dutinami.",
+      "funFact": "Datel černý dokážou žít až 25 let."
+    },
+    "25": {
+      "commonName": "Pěnice žlutá",
+      "scientificName": "Setophaga petechia",
+      "size": "Rozpětí: 12-15 cm, Hmotnost: 8-12 g",
+      "lifespan": "6-8 let ve volné přírodě",
+      "habitat": "Severoamerické lesy a křoviny. Preferují husté porosty.",
+      "funFact": "Pěnice žlutá dokážou žít v horách až do výšky 1500 m."
+    },
+    "26": {
+      "commonName": "Brhlík bělokrký",
+      "scientificName": "Sitta carolinensis",
+      "size": "Rozpětí: 20-25 cm, Hmotnost: 20-25 g",
+      "lifespan": "6-8 let ve volné přírodě",
+      "habitat": "Severoamerické lesy. Preferují staré stromy s dutinami.",
+      "funFact": "Brhlík bělokrký dokážou žít až 12 let."
+    },
+    "27": {
+      "commonName": "Brkoslav cedrový",
+      "scientificName": "Bombycilla cedrorum",
+      "size": "Rozpětí: 25-30 cm, Hmotnost: 12-18 g",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Severoamerické lesy a parky. Preferují oblasti s bobulemi.",
+      "funFact": "Brkoslav cedrový dokážou žít v horách až do výšky 1000 m."
+    },
+    "28": {
+      "commonName": "Ovesnice modrá",
+      "scientificName": "Passerina cyanea",
+      "size": "Rozpětí: 30-35 cm, Hmotnost: 25-35 g",
+      "lifespan": "6-8 let ve volné přírodě",
+      "habitat": "Severoamerické lesy a křoviny. Preferují otevřené oblasti.",
+      "funFact": "Ovesnice modrá dokážou skočit až 30 cm vysoko."
+    },
+    "29": {
+      "commonName": "Dlask růžovoprsý",
+      "scientificName": "Pheucticus ludovicianus",
+      "size": "Rozpětí: 30-35 cm, Hmotnost: 30-40 g",
+      "lifespan": "8-10 let ve volné přírodě",
+      "habitat": "Severoamerické lesy a parky. Preferují oblasti s hmyzem.",
+      "funFact": "Dlask růžovoprsý dokážou žít až 8 let."
+    }
+  }
+}

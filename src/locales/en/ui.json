@@ -1,0 +1,19 @@
+{
+  "modal": {
+    "size": "Size",
+    "lifespan": "Lifespan",
+    "habitat": "Habitat",
+    "funFact": "Fun Fact",
+    "close": "Close",
+    "previousCard": "Previous Card",
+    "nextCard": "Next Card",
+    "cardOf": "Card {{current}} of {{total}}",
+    "deck": "Deck"
+  },
+  "deckModal": {
+    "playerDeck": "{{player}}'s Collection",
+    "cardCounter": "Card {{current}} of {{total}}",
+    "previousCard": "Previous",
+    "nextCard": "Next"
+  }
+}

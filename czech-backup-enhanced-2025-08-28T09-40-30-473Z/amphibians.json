@@ -1,0 +1,306 @@
+{
+  "category": "amphibians",
+  "totalPhotos": 30,
+  "photos": [
+    {
+      "fileName": "amphibians1.jpg",
+      "scientificName": "Lithobates catesbeianus",
+      "size": "15-20 cm (6-8 palců), 500-600 g",
+      "lifespan": "7-9 let v divočině",
+      "habitat": "Large permanent water bodies such as rybníky, jezera, and pomalu tekoucí potoky napříč východní Severní Amerika.",
+      "funFact": "Bullfrogs are named for their deep, resonant call that can be heard až a quarter mile away. They are voracious predátoři that will eat almost anything they can swallow, včetně other frogs.",
+      "localPath": "/images/amphibians/amphibians1.jpg",
+      "commonName": "žába skokanka"
+    },
+    {
+      "fileName": "amphibians2.jpg",
+      "scientificName": "Ambystoma maculatum",
+      "size": "15-25 cm (6-10 palců)",
+      "lifespan": "20+ let v divočině",
+      "habitat": "listnaté and smíšené lesy blízko rybníky and potoky in východní Severní Amerika. They spend most of their time underground.",
+      "funFact": "Spotted salamanders have a symbiotic relationship with algae that live in their egg masses, providing oxygen to developing embryos. They can regenerate lost limbs and tails.",
+      "localPath": "/images/amphibians/amphibians2.jpg",
+      "commonName": "mlok skvrnitý"
+    },
+    {
+      "fileName": "amphibians3.jpg",
+      "scientificName": "Pseudacris crucifer",
+      "size": "2-3.5 cm (1-1.4 palců)",
+      "lifespan": "3-4 let v divočině",
+      "habitat": "Wooded oblasti blízko rybníky, bažiny, and marshes napříč východní Severní Amerika.",
+      "funFact": "Spring peepers are among the first frogs to call in spring, creating a chorus that can be heard from over a mile away. They can survive being frozen solid during zimní.",
+      "localPath": "/images/amphibians/amphibians3.jpg",
+      "commonName": "Spring Peeper"
+    },
+    {
+      "fileName": "amphibians4.jpg",
+      "scientificName": "Plethodon cinereus",
+      "size": "5.7-10 cm (2.25-4 palců)",
+      "lifespan": "25+ let v divočině",
+      "habitat": "les floors under logs, rocks, and leaf litter in východní Severní Amerika.",
+      "funFact": "Red-backed salamanders are lungless and breathe entirely through their skin and mouth lining. They are territorial and will defend their small territories aggressively.",
+      "localPath": "/images/amphibians/amphibians4.jpg",
+      "commonName": "Red-backed Salamander"
+    },
+    {
+      "fileName": "amphibians5.jpg",
+      "scientificName": "Lithobates sylvaticus",
+      "size": "3.5-7 cm (1.4-2.8 palců)",
+      "lifespan": "3-5 let v divočině",
+      "habitat": "lesy and woodlands blízko temporary pools napříč severní Severní Amerika.",
+      "funFact": "Wood frogs can survive being frozen solid for months during zimní. They produce glucose and urea as natural antifreeze to protect their vital organs.",
+      "localPath": "/images/amphibians/amphibians5.jpg",
+      "commonName": "Wood Frog"
+    },
+    {
+      "fileName": "amphibians6.jpg",
+      "scientificName": "Agalychnis callidryas",
+      "size": "4-7 cm (1.5-3 palců)",
+      "lifespan": "5 let v divočině",
+      "habitat": "tropické deštné lesy blízko vodní zdroje in Central America.",
+      "funFact": "Red-eyed tree frogs have bright red eyes that startle predátoři. They can change color from bright green to dark brown depending on their mood and environment.",
+      "localPath": "/images/amphibians/amphibians6.jpg",
+      "commonName": "Red-eyed Tree Frog"
+    },
+    {
+      "fileName": "amphibians7.jpg",
+      "scientificName": "Notophthalmus viridescens",
+      "size": "7-10 cm (3-4 palců)",
+      "lifespan": "12-15 let v divočině",
+      "habitat": "rybníky, jezera, and slow potoky with vodní vegetace napříč východní Severní Amerika.",
+      "funFact": "východní newts have a unique three-stage life cycle včetně an vodní larva, terrestrial juvenile (eft), and vodní adult. The bright orange eft stage can last 2-7 let on land.",
+      "localPath": "/images/amphibians/amphibians7.jpg",
+      "commonName": "Eastern Newt"
+    },
+    {
+      "fileName": "amphibians8.jpg",
+      "scientificName": "Phyllobates terribilis",
+      "size": "2-5 cm (0.8-2 palců)",
+      "lifespan": "4-6 let v divočině",
+      "habitat": "tropické deštné lesy of Colombia and Ecuador.",
+      "funFact": "Golden poison dart frogs are among the most toxic animals on Earth. One frog contains enough poison to kill 10 adult humans, but they're only toxic in the wild due to their diet.",
+      "localPath": "/images/amphibians/amphibians8.jpg",
+      "commonName": "Poison Dart Frog"
+    },
+    {
+      "fileName": "amphibians9.jpg",
+      "scientificName": "Ambystoma mexicanum",
+      "size": "15-45 cm (6-18 palců)",
+      "lifespan": "10-15 let v divočině",
+      "habitat": "Lake Xochimilco and surrounding canals in Mexico City.",
+      "funFact": "Axolotls can regenerate entire limbs, organs, and even parts of their brain. They remain vodní their entire lives and are critically endangered in the wild.",
+      "localPath": "/images/amphibians/amphibians9.jpg",
+      "commonName": "Axolotl"
+    },
+    {
+      "fileName": "amphibians10.jpg",
+      "scientificName": "Ambystoma tigrinum",
+      "size": "15-35 cm (6-14 palců)",
+      "lifespan": "10-16 let v divočině",
+      "habitat": "Diverse stanoviště from lesy to travnaté plochy blízko rybníky napříč Severní Amerika.",
+      "funFact": "Tiger salamanders are the largest terrestrial salamanders in Severní Amerika. They může žít underground for let and emerge only to breed.",
+      "localPath": "/images/amphibians/amphibians10.jpg",
+      "commonName": "Tiger Salamander"
+    },
+    {
+      "fileName": "amphibians11.jpg",
+      "scientificName": "Hyla cinerea",
+      "size": "3-6 cm (1.2-2.4 palců)",
+      "lifespan": "2-5 let v divočině",
+      "habitat": "stromy and shrubs blízko water in southeastern United States.",
+      "funFact": "Green tree frogs can change color from bright green to gray or brown. They have sticky toe pads that allow them to climb smooth surfaces like glass.",
+      "localPath": "/images/amphibians/amphibians11.jpg",
+      "commonName": "Green Tree Frog"
+    },
+    {
+      "fileName": "amphibians12.jpg",
+      "scientificName": "Cryptobranchus alleganiensis",
+      "size": "30-74 cm (12-29 palců)",
+      "lifespan": "25-30 let v divočině",
+      "habitat": "Fast-flowing, skalnaté potoky in východní United States.",
+      "funFact": "Hellbenders are Severní Amerika's largest salamanders and může žít for decades. They breathe through their wrinkled skin and are indicators of čistá voda quality.",
+      "localPath": "/images/amphibians/amphibians12.jpg",
+      "commonName": "Hellbender"
+    },
+    {
+      "fileName": "amphibians13.jpg",
+      "scientificName": "Rhinella marina",
+      "size": "10-24 cm (4-9.5 palců)",
+      "lifespan": "10-15 let v divočině",
+      "habitat": "Diverse stanoviště from rainforests to městské oblasti, native to Central and South America.",
+      "funFact": "Cane toads are highly toxic and invasive in many countries. They can eat almost anything that fits in their mouth and have poison glands behind their eyes.",
+      "localPath": "/images/amphibians/amphibians13.jpg",
+      "commonName": "Cane Toad"
+    },
+    {
+      "fileName": "amphibians14.jpg",
+      "scientificName": "Salamandra salamandra",
+      "size": "15-25 cm (6-10 palců)",
+      "lifespan": "14-20 let v divočině",
+      "habitat": "listnaté lesy blízko potoky in Europe.",
+      "funFact": "Fire salamanders have bright yellow markings that warn predátoři of their toxicity. They může žít for decades and give birth to live larvae rather than laying eggs.",
+      "localPath": "/images/amphibians/amphibians14.jpg",
+      "commonName": "Fire Salamander"
+    },
+    {
+      "fileName": "amphibians15.jpg",
+      "scientificName": "Necturus maculosus",
+      "size": "20-33 cm (8-13 palců)",
+      "lifespan": "20-30 let v divočině",
+      "habitat": "Permanent water bodies včetně jezera, řeky, and potoky in východní Severní Amerika.",
+      "funFact": "Mudpuppies are fully vodní salamanders that keep their external gills throughout their lives. They are active year-round, even under ice in zimní.",
+      "localPath": "/images/amphibians/amphibians15.jpg",
+      "commonName": "Mudpuppy"
+    },
+    {
+      "fileName": "amphibians16.jpg",
+      "scientificName": "Centrolenella fleischmanni",
+      "size": "2-3 cm (0.8-1.2 palců)",
+      "lifespan": "7-14 let v divočině",
+      "habitat": "tropické deštné lesy blízko potoky in Central and South America.",
+      "funFact": "Glass frogs have transparent skin on their belly, allowing you to see their internal organs. Males guard their eggs and will fight off intruders.",
+      "localPath": "/images/amphibians/amphibians16.jpg",
+      "commonName": "Glass Frog"
+    },
+    {
+      "fileName": "amphibians17.jpg",
+      "scientificName": "Gymnopis multiplicata",
+      "size": "30-60 cm (12-24 palců)",
+      "lifespan": "4-5 let v divočině",
+      "habitat": "Underground burrows in tropical soils of Central America.",
+      "funFact": "Caecilians are worm-like amphibians that live underground. They are nearly blind and use chemical sensors to navigate and find kořist in the soil.",
+      "localPath": "/images/amphibians/amphibians17.jpg",
+      "commonName": "Caecilian"
+    },
+    {
+      "fileName": "amphibians18.jpg",
+      "scientificName": "Pseudacris triseriata",
+      "size": "2-4 cm (0.8-1.6 palců)",
+      "lifespan": "2-3 let v divočině",
+      "habitat": "travnaté plochy, prairies, and agricultural oblasti blízko temporary pools napříč central Severní Amerika.",
+      "funFact": "Chorus frogs are among the first to call in spring, creating loud choruses that can be heard from great distances. They can survive partial freezing.",
+      "localPath": "/images/amphibians/amphibians18.jpg",
+      "commonName": "Chorus Frog"
+    },
+    {
+      "fileName": "amphibians19.jpg",
+      "scientificName": "Ambystoma opacum",
+      "size": "8-12 cm (3-5 palců)",
+      "lifespan": "8-10 let v divočině",
+      "habitat": "listnaté and smíšené lesy napříč východní United States.",
+      "funFact": "Marbled salamanders breed in fall rather than spring. Females guard their eggs in dry pond beds until zimní rains fill the pools and the eggs hatch.",
+      "localPath": "/images/amphibians/amphibians19.jpg",
+      "commonName": "Marbled Salamander"
+    },
+    {
+      "fileName": "amphibians20.jpg",
+      "scientificName": "Lithobates palustris",
+      "size": "4-7 cm (1.6-2.8 palců)",
+      "lifespan": "4-5 let v divočině",
+      "habitat": "Cool, clear potoky and springs in východní Severní Amerika.",
+      "funFact": "Pickerel frogs produce toxic skin secretions that can kill other frogs in the same container. They have distinctive square spots arranged in two rows down their back.",
+      "localPath": "/images/amphibians/amphibians20.jpg",
+      "commonName": "Pickerel Frog"
+    },
+    {
+      "fileName": "amphibians21.jpg",
+      "scientificName": "Hemidactylium scutatum",
+      "size": "6-10 cm (2.4-4 palců)",
+      "lifespan": "5-7 let v divočině",
+      "habitat": "Sphagnum bogs and jehličnaté bažiny in východní Severní Amerika.",
+      "funFact": "Four-toed salamanders are the only salamanders with a constriction at the base of their ocas, allowing them to easily detach it when threatened.",
+      "localPath": "/images/amphibians/amphibians21.jpg",
+      "commonName": "Four-toed Salamander"
+    },
+    {
+      "fileName": "amphibians22.jpg",
+      "scientificName": "Hyla versicolor",
+      "size": "3-6 cm (1.2-2.4 palců)",
+      "lifespan": "7-9 let v divočině",
+      "habitat": "stromy and shrubs blízko water napříč východní Severní Amerika.",
+      "funFact": "Gray tree frogs can change color from gray to green to brown. They have a distinctive trill call and bright orange coloring on their inner thighs.",
+      "localPath": "/images/amphibians/amphibians22.jpg",
+      "commonName": "rosnička šedá"
+    },
+    {
+      "fileName": "amphibians23.jpg",
+      "scientificName": "Pseudotriton ruber",
+      "size": "8-18 cm (3-7 palců)",
+      "lifespan": "20+ let v divočině",
+      "habitat": "Springs, potoky, and surrounding lesy in východní United States.",
+      "funFact": "Red salamanders mimic the coloration of toxic red efts to avoid predation. They může žít for over 20 let and are excellent indicators of water quality.",
+      "localPath": "/images/amphibians/amphibians23.jpg",
+      "commonName": "Red Salamander"
+    },
+    {
+      "fileName": "amphibians24.jpg",
+      "scientificName": "Hyla chrysoscelis",
+      "size": "3-5 cm (1.2-2 palců)",
+      "lifespan": "7-9 let v divočině",
+      "habitat": "stromy and shrubs blízko temporary pools in southeastern United States.",
+      "funFact": "Cope's gray tree frogs are nearly identical to gray tree frogs but have a faster trill call. They can survive freezing temperatures by producing antifreeze proteins.",
+      "localPath": "/images/amphibians/amphibians24.jpg",
+      "commonName": "Cope's Gray Tree Frog"
+    },
+    {
+      "fileName": "amphibians25.jpg",
+      "scientificName": "Eurycea bislineata",
+      "size": "6-12 cm (2.4-4.7 palců)",
+      "lifespan": "5-10 let v divočině",
+      "habitat": "skalnaté potoky and springs in východní Severní Amerika.",
+      "funFact": "Two-lined salamanders have larvae that can take 2-4 let to metamorphose. They are excellent swimmers and can be found under rocks in fast-flowing potoky.",
+      "localPath": "/images/amphibians/amphibians25.jpg",
+      "commonName": "Two-lined Salamander"
+    },
+    {
+      "fileName": "amphibians26.jpg",
+      "scientificName": "Anaxyrus fowleri",
+      "size": "5-9 cm (2-3.5 palců)",
+      "lifespan": "5-10 let v divočině",
+      "habitat": "Sandy oblasti blízko water včetně beaches, fields, and gardens in východní Severní Amerika.",
+      "funFact": "Fowler's toads have a distinctive nasal trill call and can inflate their bodies when threatened. They are excellent diggers and often burrow in sand.",
+      "localPath": "/images/amphibians/amphibians26.jpg",
+      "commonName": "Fowler's Toad"
+    },
+    {
+      "fileName": "amphibians27.jpg",
+      "scientificName": "Plethodon glutinosus",
+      "size": "11-20 cm (4.3-7.9 palců)",
+      "lifespan": "5-20 let v divočině",
+      "habitat": "listnaté lesy under logs and rocks in východní United States.",
+      "funFact": "Slimy salamanders produce a sticky secretion that is difficult to remove from hands. They are lungless and breathe through their skin and mouth lining.",
+      "localPath": "/images/amphibians/amphibians27.jpg",
+      "commonName": "mlok lepkavý"
+    },
+    {
+      "fileName": "amphibians28.jpg",
+      "scientificName": "Lithobates pipiens",
+      "size": "5-11 cm (2-4.3 palců)",
+      "lifespan": "4-6 let v divočině",
+      "habitat": "rybníky, jezera, and slow potoky napříč severní Severní Amerika.",
+      "funFact": "severní leopard frogs are excellent jumpers and can leap distances až 20 times their body length. They are commonly used in biology education.",
+      "localPath": "/images/amphibians/amphibians28.jpg",
+      "commonName": "Leopard Frog"
+    },
+    {
+      "fileName": "amphibians29.jpg",
+      "scientificName": "Eurycea longicauda",
+      "size": "8-19 cm (3-7.5 palců)",
+      "lifespan": "10+ let v divočině",
+      "habitat": "Caves, springs, and skalnaté potoky in východní United States.",
+      "funFact": "dlouhý-tailed salamanders have tails that are longer than their body and head combined. They are excellent climbers and can often be found on cave walls.",
+      "localPath": "/images/amphibians/amphibians29.jpg",
+      "commonName": "Long-tailed Salamander"
+    },
+    {
+      "fileName": "amphibians30.jpg",
+      "scientificName": "Lithobates clamitans",
+      "size": "5-10 cm (2-4 palců)",
+      "lifespan": "6-10 let v divočině",
+      "habitat": "Permanent water bodies včetně rybníky, jezera, and potoky napříč východní Severní Amerika.",
+      "funFact": "Green frogs have a distinctive banjo-like call and prominent ridges running down their backs. Males are territorial and will wrestle with intruders.",
+      "localPath": "/images/amphibians/amphibians30.jpg",
+      "commonName": "Green Frog"
+    }
+  ]
+}

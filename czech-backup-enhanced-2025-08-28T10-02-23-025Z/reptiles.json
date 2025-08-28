@@ -1,0 +1,244 @@
+{
+  "photos": {
+    "0": {
+      "commonName": "Aligátor americký",
+      "scientificName": "Terrapene carolina",
+      "size": "Délka: 280-460 cm, Hmotnost: 230-450 kg",
+      "lifespan": "35-50 let ve volné přírodě",
+      "habitat": "Jihovýchodní USA, mokřady a bažiny. Preferují sladkovodní prostředí.",
+      "funFact": "Aligátor americký jsou známí svou silou a dokážou skočit až 3 metry vysoko."
+    },
+    "1": {
+      "commonName": "Želva zelená",
+      "scientificName": "Thamnophis sirtalis",
+      "size": "Délka: 80-150 cm, Hmotnost: 65-230 kg",
+      "lifespan": "80-100 let ve volné přírodě",
+      "habitat": "Tropické oceány po celém světě. Preferují teplé pobřežní vody.",
+      "funFact": "Želva zelená mají výjimečný zrak a dokážou vidět na vzdálenost až 6 km."
+    },
+    "2": {
+      "commonName": "Anakonda velká",
+      "scientificName": "Plestiodon fasciatus",
+      "size": "Délka: 400-900 cm, Hmotnost: 30-250 kg",
+      "lifespan": "10-20 let ve volné přírodě",
+      "habitat": "Jihoamerické deštné lesy a mokřady. Preferují oblasti blízko vody.",
+      "funFact": "Anakonda velká mají nejdelší chobot ze všech zvířat a dokážou jím zvednout až 350 kg."
+    },
+    "3": {
+      "commonName": "Komodský varan",
+      "scientificName": "Chrysemys picta",
+      "size": "Délka: 200-300 cm, Hmotnost: 70-90 kg",
+      "lifespan": "30-50 let ve volné přírodě",
+      "habitat": "Indonéské ostrovy. Preferují suché savany a lesy.",
+      "funFact": "Komodský varan mají nejdelší krk ze všech savců a jejich srdce váží až 11 kg."
+    },
+    "4": {
+      "commonName": "Galapážská želva",
+      "scientificName": "Anolis carolinensis",
+      "size": "Délka: 100-130 cm, Hmotnost: 180-400 kg",
+      "lifespan": "100-150 let ve volné přírodě",
+      "habitat": "Galapážské ostrovy. Preferují suché a vlhké oblasti.",
+      "funFact": "Galapážská želva mají nejsilnější kůži ze všech zvířat, tlustou až 5 cm."
+    },
+    "5": {
+      "commonName": "Chřestýš diamantový",
+      "scientificName": "Trachemys scripta elegans",
+      "size": "Délka: 90-150 cm, Hmotnost: 1-7 kg",
+      "lifespan": "15-25 let ve volné přírodě",
+      "habitat": "Jihovýchodní USA. Preferují suché oblasti s křovinami.",
+      "funFact": "Chřestýš diamantový dokážou lézt po stromech a jsou velmi obratní."
+    },
+    "6": {
+      "commonName": "Leguán zelený",
+      "scientificName": "Alligator mississippiensis",
+      "size": "Délka: 120-200 cm, Hmotnost: 4-17 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Střední a Jižní Amerika. Preferují tropické lesy.",
+      "funFact": "Leguán zelený dokážou žít až 15 let."
+    },
+    "7": {
+      "commonName": "Chameleon jemenský",
+      "scientificName": "Pantherophis guttatus",
+      "size": "Délka: 35-60 cm, Hmotnost: 0.1-0.3 kg",
+      "lifespan": "5-8 let ve volné přírodě",
+      "habitat": "Jemen a okolní oblasti. Preferují suché horské oblasti.",
+      "funFact": "Chameleon jemenský dokážou žít v horách až do výšky 2000 m."
+    },
+    "8": {
+      "commonName": "Gekon tokaj",
+      "scientificName": "Chelydra serpentina",
+      "size": "Délka: 20-40 cm, Hmotnost: 0.15-0.4 kg",
+      "lifespan": "7-10 let ve volné přírodě",
+      "habitat": "Jihovýchodní Asie. Preferují tropické lesy.",
+      "funFact": "Gekon tokaj dokážou skočit až 50 cm vysoko."
+    },
+    "9": {
+      "commonName": "Korytnačka červenouchá",
+      "scientificName": "Pogona vitticeps",
+      "size": "Délka: 15-30 cm, Hmotnost: 0.1-2 kg",
+      "lifespan": "20-40 let ve volné přírodě",
+      "habitat": "Severní Amerika. Preferují sladkovodní prostředí.",
+      "funFact": "Korytnačka červenouchá dokážou žít až 25 let."
+    },
+    "10": {
+      "commonName": "Krajta královská",
+      "scientificName": "Iguana iguana",
+      "size": "Délka: 90-180 cm, Hmotnost: 1-9 kg",
+      "lifespan": "20-30 let ve volné přírodě",
+      "habitat": "Afrika. Preferují savany a suché oblasti.",
+      "funFact": "Krajta královská dokážou žít v horách až do výšky 1500 m."
+    },
+    "11": {
+      "commonName": "Boa dusivá",
+      "scientificName": "Hemidactylus turcicus",
+      "size": "Délka: 180-400 cm, Hmotnost: 10-45 kg",
+      "lifespan": "20-30 let ve volné přírodě",
+      "habitat": "Střední a Jižní Amerika. Preferují tropické lesy.",
+      "funFact": "Boa dusivá dokážou žít až 12 let."
+    },
+    "12": {
+      "commonName": "Monitor nilský",
+      "scientificName": "Chamaeleo calyptratus",
+      "size": "Délka: 120-200 cm, Hmotnost: 15-20 kg",
+      "lifespan": "10-20 let ve volné přírodě",
+      "habitat": "Afrika. Preferují řeky a jezera.",
+      "funFact": "Monitor nilský dokážou žít v horách až do výšky 1000 m."
+    },
+    "13": {
+      "commonName": "Želva zelenavá",
+      "scientificName": "Python regius",
+      "size": "Délka: 60-120 cm, Hmotnost: 35-200 kg",
+      "lifespan": "50-80 let ve volné přírodě",
+      "habitat": "Tropické oceány. Preferují pobřežní vody.",
+      "funFact": "Želva zelenavá dokážou skočit až 30 cm vysoko."
+    },
+    "14": {
+      "commonName": "Skink modrý",
+      "scientificName": "Varanus salvator",
+      "size": "Délka: 35-60 cm, Hmotnost: 0.1-0.5 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Austrálie. Preferují suché oblasti s křovinami.",
+      "funFact": "Skink modrý dokážou žít až 8 let."
+    },
+    "15": {
+      "commonName": "Had korálový",
+      "scientificName": "Crotalus atrox",
+      "size": "Délka: 60-120 cm, Hmotnost: 0.5-5 kg",
+      "lifespan": "7-10 let ve volné přírodě",
+      "habitat": "Severní Amerika. Preferují suché oblasti.",
+      "funFact": "Had korálový jsou známí svou silou a dokážou skočit až 3 metry vysoko."
+    },
+    "16": {
+      "commonName": "Želva pouštní",
+      "scientificName": "Chelonia mydas",
+      "size": "Délka: 25-35 cm, Hmotnost: 0.2-0.7 kg",
+      "lifespan": "50-80 let ve volné přírodě",
+      "habitat": "Jihozápadní USA. Preferují pouštní oblasti.",
+      "funFact": "Želva pouštní mají výjimečný zrak a dokážou vidět na vzdálenost až 6 km."
+    },
+    "17": {
+      "commonName": "Varan bengálský",
+      "scientificName": "Lampropeltis getula",
+      "size": "Délka: 60-180 cm, Hmotnost: 2-25 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Jižní Asie. Preferují mokřady a lesy.",
+      "funFact": "Varan bengálský mají nejdelší chobot ze všech zvířat a dokážou jím zvednout až 350 kg."
+    },
+    "18": {
+      "commonName": "Anolis zelený",
+      "scientificName": "Gopherus polyphemus",
+      "size": "Délka: 15-20 cm, Hmotnost: 0.003-0.007 kg",
+      "lifespan": "4-8 let ve volné přírodě",
+      "habitat": "Karibik a jihovýchodní USA. Preferují tropické oblasti.",
+      "funFact": "Anolis zelený mají nejdelší krk ze všech savců a jejich srdce váží až 11 kg."
+    },
+    "19": {
+      "commonName": "Gekončík domácí",
+      "scientificName": "Agkistrodon contortrix",
+      "size": "Délka: 7-15 cm, Hmotnost: 0.002-0.01 kg",
+      "lifespan": "5-10 let ve volné přírodě",
+      "habitat": "Teplé oblasti po celém světě. Preferují lidská obydlí.",
+      "funFact": "Gekončík domácí mají nejsilnější kůži ze všech zvířat, tlustou až 5 cm."
+    },
+    "20": {
+      "commonName": "Zmije obecná",
+      "scientificName": "Lampropeltis triangulum",
+      "size": "Délka: 50-90 cm, Hmotnost: 0.05-0.2 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Evropa a Asie. Preferují suché oblasti s kameny.",
+      "funFact": "Zmije obecná dokážou lézt po stromech a jsou velmi obratní."
+    },
+    "21": {
+      "commonName": "Užovka obojková",
+      "scientificName": "Sceloporus undulatus",
+      "size": "Délka: 80-200 cm, Hmotnost: 0.1-2 kg",
+      "lifespan": "15-25 let ve volné přírodě",
+      "habitat": "Evropa. Preferují vlhké oblasti blízko vody.",
+      "funFact": "Užovka obojková dokážou žít až 15 let."
+    },
+    "22": {
+      "commonName": "Ještěrka obecná",
+      "scientificName": "Malaclemys terrapin",
+      "size": "Délka: 15-25 cm, Hmotnost: 0.005-0.02 kg",
+      "lifespan": "5-10 let ve volné přírodě",
+      "habitat": "Evropa. Preferují suché oblasti s vegetací.",
+      "funFact": "Ještěrka obecná dokážou žít v horách až do výšky 2000 m."
+    },
+    "23": {
+      "commonName": "Slepýš křehký",
+      "scientificName": "Heterodon platirhinos",
+      "size": "Délka: 30-50 cm, Hmotnost: 0.1-0.2 kg",
+      "lifespan": "30-54 let ve volné přírodě",
+      "habitat": "Evropa. Preferují suché oblasti s pískem.",
+      "funFact": "Slepýš křehký dokážou skočit až 50 cm vysoko."
+    },
+    "24": {
+      "commonName": "Želva bahenní",
+      "scientificName": "Ophisaurus ventralis",
+      "size": "Délka: 12-25 cm, Hmotnost: 0.1-0.5 kg",
+      "lifespan": "40-75 let ve volné přírodě",
+      "habitat": "Evropa a Severní Amerika. Preferují mokřady.",
+      "funFact": "Želva bahenní dokážou žít až 25 let."
+    },
+    "25": {
+      "commonName": "Chameleon obecný",
+      "scientificName": "Glyptemys insculpta",
+      "size": "Délka: 15-25 cm, Hmotnost: 0.01-0.05 kg",
+      "lifespan": "4-8 let ve volné přírodě",
+      "habitat": "Afrika a Madagaskar. Preferují suché oblasti.",
+      "funFact": "Chameleon obecný dokážou žít v horách až do výšky 1500 m."
+    },
+    "26": {
+      "commonName": "Leguán modrý",
+      "scientificName": "Masticophis flagellum",
+      "size": "Délka: 120-180 cm, Hmotnost: 13-18 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Karibik. Preferují tropické oblasti.",
+      "funFact": "Leguán modrý dokážou žít až 12 let."
+    },
+    "27": {
+      "commonName": "Had mléčný",
+      "scientificName": "Clemmys guttata",
+      "size": "Délka: 60-180 cm, Hmotnost: 0.2-8 kg",
+      "lifespan": "10-20 let ve volné přírodě",
+      "habitat": "Severní Amerika. Preferují suché oblasti.",
+      "funFact": "Had mléčný dokážou žít v horách až do výšky 1000 m."
+    },
+    "28": {
+      "commonName": "Želva nádherná",
+      "scientificName": "Diadophis punctatus",
+      "size": "Délka: 20-35 cm, Hmotnost: 0.1-0.4 kg",
+      "lifespan": "50-80 let ve volné přírodě",
+      "habitat": "Severní Amerika. Preferují pobřežní oblasti.",
+      "funFact": "Želva nádherná dokážou skočit až 30 cm vysoko."
+    },
+    "29": {
+      "commonName": "Varan nilský",
+      "scientificName": "Sternotherus odoratus",
+      "size": "Délka: 150-220 cm, Hmotnost: 15-20 kg",
+      "lifespan": "10-20 let ve volné přírodě",
+      "habitat": "Afrika. Preferují řeky a jezera.",
+      "funFact": "Varan nilský dokážou žít až 8 let."
+    }
+  }
+}

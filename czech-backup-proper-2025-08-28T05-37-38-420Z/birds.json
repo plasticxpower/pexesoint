@@ -1,0 +1,306 @@
+{
+  "category": "birds",
+  "totalPhotos": 30,
+  "photos": [
+    {
+      "fileName": "birds1.jpg",
+      "commonName": "Orel skalní",
+      "scientificName": "Turdus migratorius",
+      "size": "66-102 cm, 3-6,3 kg",
+      "lifespan": "20-30 let ve volné přírodě",
+      "habitat": "Horské oblasti, útesy a otevřené krajiny po celé severní polokouli. Preferují oblasti s dostatkem kořisti.",
+      "funFact": "Orli skalní dokážou létat rychlostí až 240 km/h při lovu a mají zrak osmkrát ostřejší než lidé. Dokážou spatřit kořist z vzdálenosti až 3 km.",
+      "localPath": "/images/birds/birds1.jpg"
+    },
+    {
+      "fileName": "birds2.jpg",
+      "commonName": "Sova pálená",
+      "scientificName": "Corvus brachyrhynchos",
+      "size": "33-35 cm, 470-570 g",
+      "lifespan": "4-10 let ve volné přírodě",
+      "habitat": "Otevřené krajiny, farmy a travnaté oblasti po celém světě. Preferují oblasti s dostatkem hlodavců.",
+      "funFact": "Sovy pálené mají asymetricky umístěné uši, což jim umožňuje přesně lokalizovat zvuky. Dokážou slyšet myš pod 30 cm sněhu.",
+      "localPath": "/images/birds/birds2.jpg"
+    },
+    {
+      "fileName": "birds3.jpg",
+      "commonName": "Kolibřík včelí",
+      "scientificName": "Poecile atricapillus",
+      "size": "5-6 cm, 1,6-2 g",
+      "lifespan": "3-5 let ve volné přírodě",
+      "habitat": "Tropické lesy Kuby a ostrova Isla de la Juventud. Preferují oblasti s bohatou květenou.",
+      "funFact": "Kolibříci včelí jsou nejmenší ptáci na světě a dokážou mávat křídly až 80krát za sekundu. Jejich srdce bije až 1260krát za minutu.",
+      "localPath": "/images/birds/birds3.jpg"
+    },
+    {
+      "fileName": "birds4.jpg",
+      "commonName": "Tučňák císařský",
+      "scientificName": "Sialia sialis",
+      "size": "100-130 cm, 22-45 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Antarktický led a okolní oceány. Tvoří velké kolonie na ledových plochách.",
+      "funFact": "Tučňáci císařští dokážou potápět se do hloubky až 565 metrů a zadržet dech až 22 minut. Samci inkubují vejce na nohou po dobu 64 dnů.",
+      "localPath": "/images/birds/birds4.jpg"
+    },
+    {
+      "fileName": "birds5.jpg",
+      "commonName": "Papoušek ara",
+      "scientificName": "Spinus tristis",
+      "size": "81-96 cm, 0,9-1,7 kg",
+      "lifespan": "50-80 let ve volné přírodě",
+      "habitat": "Tropické deštné pralesy Střední a Jižní Ameriky. Preferují vysoké stromy pro hnízdění.",
+      "funFact": "Papoušci ara mají jeden z nejsilnějších zobáků v ptačí říši a dokážou rozlousknout i nejtvrdší ořechy. Jsou velmi inteligentní a dokážou se naučit stovky slov.",
+      "localPath": "/images/birds/birds5.jpg"
+    },
+    {
+      "fileName": "birds6.jpg",
+      "commonName": "Albatros stěhovavý",
+      "scientificName": "Cardinalis cardinalis",
+      "size": "107-135 cm, 6-12 kg",
+      "lifespan": "50-80 let ve volné přírodě",
+      "habitat": "Jižní oceány kolem Antarktidy. Tráví většinu života na moři a přistávají pouze k rozmnožování.",
+      "funFact": "Albatrosové mají největší rozpětí křídel ze všech žijících ptáků - až 3,7 metru. Dokážou létat tisíce kilometrů bez jediného mávnutí křídel.",
+      "localPath": "/images/birds/birds6.jpg"
+    },
+    {
+      "fileName": "birds7.jpg",
+      "commonName": "Pelikán hnědý",
+      "scientificName": "Cyanocitta cristata",
+      "size": "106-137 cm, 2-5 kg",
+      "lifespan": "10-25 let ve volné přírodě",
+      "habitat": "Pobřežní oblasti a estuárie po celém světě. Preferují mělké vody bohaté na ryby.",
+      "funFact": "Pelikáni hnědí mají obrovský zobákový vak, který pojme až 11 litrů vody. Při lovu se vrhají do vody z výšky až 20 metrů.",
+      "localPath": "/images/birds/birds7.jpg"
+    },
+    {
+      "fileName": "birds8.jpg",
+      "commonName": "Kondor kalifornský",
+      "scientificName": "Passer domesticus",
+      "size": "117-134 cm, 7-14 kg",
+      "lifespan": "45-80 let ve volné přírodě",
+      "habitat": "Horské oblasti a kaňony Kalifornie. Preferují otevřené krajiny s termickými proudy.",
+      "funFact": "Kondoři kalifornští mají rozpětí křídel až 3 metry a dokážou létat ve výšce až 4600 metrů. Jsou kriticky ohroženi s méně než 500 jedinci.",
+      "localPath": "/images/birds/birds8.jpg"
+    },
+    {
+      "fileName": "birds9.jpg",
+      "commonName": "Plameňák růžový",
+      "scientificName": "Agelaius phoeniceus",
+      "size": "120-145 cm, 2-4 kg",
+      "lifespan": "20-30 let ve volné přírodě",
+      "habitat": "Slané jezera a laguny v tropických a subtropických oblastech. Preferují mělké alkalické vody.",
+      "funFact": "Plameňáci získávají svou růžovou barvu z karotenoidů v potravě. Dokážou stát na jedné noze hodiny a spí s hlavou pod křídlem.",
+      "localPath": "/images/birds/birds9.jpg"
+    },
+    {
+      "fileName": "birds10.jpg",
+      "commonName": "Pštros africký",
+      "scientificName": "Haliaeetus leucocephalus",
+      "size": "175-280 cm, 63-145 kg",
+      "lifespan": "30-70 let ve volné přírodě",
+      "habitat": "Savany a polopouště Afriky. Preferují otevřené krajiny s rozptýlenou vegetací.",
+      "funFact": "Pštrosi jsou největší žijící ptáci a dokážou běžet rychlostí až 70 km/h. Jejich vejce váží až 1,4 kg a jsou největší ptačí vejce na světě.",
+      "localPath": "/images/birds/birds10.jpg"
+    },
+    {
+      "fileName": "birds11.jpg",
+      "commonName": "Ledňáček říční",
+      "scientificName": "Ardea herodias",
+      "size": "16-17 cm, 34-46 g",
+      "lifespan": "6-10 let ve volné přírodě",
+      "habitat": "Řeky, potoky a jezera po celé Evropě a Asii. Preferují čisté vody s dostatkem ryb.",
+      "funFact": "Ledňáčci dokážou potápět se rychlostí až 40 km/h a mají speciální membránu, která chrání jejich oči pod vodou. Hnízdí v norách v břehu.",
+      "localPath": "/images/birds/birds11.jpg"
+    },
+    {
+      "fileName": "birds12.jpg",
+      "commonName": "Jeřáb popelavý",
+      "scientificName": "Buteo jamaicensis",
+      "size": "100-130 cm, 3-7 kg",
+      "lifespan": "20-40 let ve volné přírodě",
+      "habitat": "Mokřady, rašeliniště a otevřené krajiny severní Evropy a Asie. Migrují na dlouhé vzdálenosti.",
+      "funFact": "Jeřábi popelaví jsou známí svými složitými tančícími rituály během námluv. Dokážou létat ve výšce až 10 000 metrů během migrace.",
+      "localPath": "/images/birds/birds12.jpg"
+    },
+    {
+      "fileName": "birds13.jpg",
+      "commonName": "Sokol stěhovavý",
+      "scientificName": "Anas platyrhynchos",
+      "size": "34-58 cm, 330-1500 g",
+      "lifespan": "8-20 let ve volné přírodě",
+      "habitat": "Rozmanité biotopy po celém světě, včetně měst. Preferují otevřené oblasti pro lov.",
+      "funFact": "Sokoli stěhovaví jsou nejrychlejší zvířata na světě a při lovu dokážou dosáhnout rychlosti až 389 km/h. Mají speciální nosní přepážky pro dýchání při vysokých rychlostech.",
+      "localPath": "/images/birds/birds13.jpg"
+    },
+    {
+      "fileName": "birds14.jpg",
+      "commonName": "Labuť velká",
+      "scientificName": "Bubo virginianus",
+      "size": "125-170 cm, 7-14 kg",
+      "lifespan": "12-30 let ve volné přírodě",
+      "habitat": "Jezera, řeky a pobřežní oblasti po celé severní polokouli. Preferují klidné vody s vegetací.",
+      "funFact": "Labutě velké mají přes 25 000 per a jsou jedni z nejtěžších létajících ptáků. Dokážou létat rychlostí až 96 km/h a jsou monogamní.",
+      "localPath": "/images/birds/birds14.jpg"
+    },
+    {
+      "fileName": "birds15.jpg",
+      "commonName": "Kakadu žlutočečelý",
+      "scientificName": "Archilochus colubris",
+      "size": "45-55 cm, 815-975 g",
+      "lifespan": "60-100 let ve volné přírodě",
+      "habitat": "Lesy a otevřené krajiny Austrálie. Preferují oblasti s dostatkem semen a plodů.",
+      "funFact": "Kakadu žlutočečelí jsou velmi inteligentní a dokážou používat nástroje. Jejich charakteristický chocholek se zvedá při vzrušení nebo nebezpečí.",
+      "localPath": "/images/birds/birds15.jpg"
+    },
+    {
+      "fileName": "birds16.jpg",
+      "commonName": "Volavka popelavá",
+      "scientificName": "Zenaida macroura",
+      "size": "84-102 cm, 1-2 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Mokřady, řeky a jezera po celé Evropě, Asii a Africe. Preferují mělké vody s dostatkem ryb.",
+      "funFact": "Volavky popelavé dokážou stát nehybně hodiny a pak bleskově udeřit zobákem. Jejich krk má speciální kloubní mechanismus pro rychlé útoky.",
+      "localPath": "/images/birds/birds16.jpg"
+    },
+    {
+      "fileName": "birds17.jpg",
+      "commonName": "Sup mrchožravý",
+      "scientificName": "Picoides pubescens",
+      "size": "95-110 cm, 6-11 kg",
+      "lifespan": "11-18 let ve volné přírodě",
+      "habitat": "Horské oblasti a otevřené krajiny jižní Evropy, Asie a Afriky. Preferují oblasti s termickými proudy.",
+      "funFact": "Supi mrchožravý mají vynikající zrak a dokážou spatřit mršinu z výšky několika kilometrů. Jejich žaludeční kyseliny dokážou zničit nebezpečné bakterie.",
+      "localPath": "/images/birds/birds17.jpg"
+    },
+    {
+      "fileName": "birds18.jpg",
+      "commonName": "Čáp bílý",
+      "scientificName": "Branta canadensis",
+      "size": "100-115 cm, 2,3-4,4 kg",
+      "lifespan": "22-39 let ve volné přírodě",
+      "habitat": "Otevřené krajiny, mokřady a zemědělské oblasti Evropy a Asie. Migrují do Afriky na zimu.",
+      "funFact": "Čápi bílí podnikají jednu z nejdelších migrací - až 25 000 km ročně. Dokážou létat ve výšce až 4800 metrů a navigují pomocí magnetického pole Země.",
+      "localPath": "/images/birds/birds18.jpg"
+    },
+    {
+      "fileName": "birds19.jpg",
+      "commonName": "Racek chechtavý",
+      "scientificName": "Tyto alba",
+      "size": "54-60 cm, 394-991 g",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Pobřežní oblasti, jezera a řeky po celé severní polokouli. Velmi přizpůsobiví různým prostředím.",
+      "funFact": "Raceci chechtaví jsou velmi inteligentní a dokážou používat nástroje. Dokážou pít slanou vodu díky speciálním žlázám, které odstraňují sůl.",
+      "localPath": "/images/birds/birds19.jpg"
+    },
+    {
+      "fileName": "birds20.jpg",
+      "commonName": "Vlaštovka obecná",
+      "scientificName": "Pandion haliaetus",
+      "size": "17-19 cm, 16-25 g",
+      "lifespan": "4-8 let ve volné přírodě",
+      "habitat": "Otevřené krajiny po celém světě. Hnízdí v budovách a migrují na dlouhé vzdálenosti.",
+      "funFact": "Vlaštovky obecné tráví většinu života ve vzduchu a dokážou jíst, pít i spát za letu. Podnikají migraci až 11 000 km z Evropy do Afriky.",
+      "localPath": "/images/birds/birds20.jpg"
+    },
+    {
+      "fileName": "birds21.jpg",
+      "commonName": "Tetřev hlušec",
+      "scientificName": "Falco peregrinus",
+      "size": "74-85 cm, 3,3-6,5 kg",
+      "lifespan": "5-11 let ve volné přírodě",
+      "habitat": "Boreální lesy severní Evropy a Asie. Preferují staré jehličnaté lesy s bohatým podrostem.",
+      "funFact": "Tetřevi hlušci jsou největší tetřevovití ptáci v Evropě. Samci provádějí složité tokání s charakteristickými zvuky, při kterém dočasně 'ohluchnou'.",
+      "localPath": "/images/birds/birds21.jpg"
+    },
+    {
+      "fileName": "birds22.jpg",
+      "commonName": "Ibis posvátný",
+      "scientificName": "Meleagris gallopavo",
+      "size": "65-75 cm, 1,35 kg",
+      "lifespan": "20-25 let ve volné přírodě",
+      "habitat": "Mokřady a pobřežní oblasti subsaharské Afriky a historicky Egypta. Preferují mělké vody.",
+      "funFact": "Ibisové posvátní byli uctíváni ve starém Egyptě jako vtělení boha Thovta. Mají zakřivený zobák specializovaný na hledání potravy v bahně.",
+      "localPath": "/images/birds/birds22.jpg"
+    },
+    {
+      "fileName": "birds23.jpg",
+      "commonName": "Rybák obecný",
+      "scientificName": "Megaceryle alcyon",
+      "size": "25-32 cm, 65-90 g",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Lesy blízko vody po celé Evropě a Asii. Preferují oblasti s čistými potoky a řekami.",
+      "funFact": "Rybáci obecní hnízdí v norách dlouhých až 1 metr, které si vyhrabávají v břehu. Dokážou chytit rybu větší než je jejich hlava.",
+      "localPath": "/images/birds/birds23.jpg"
+    },
+    {
+      "fileName": "birds24.jpg",
+      "commonName": "Dudek chocholatý",
+      "scientificName": "Antigone canadensis",
+      "size": "25-32 cm, 46-89 g",
+      "lifespan": "9-10 let ve volné přírodě",
+      "habitat": "Otevřené krajiny s rozptýlenými stromy po celé Evropě, Asii a Africe. Preferují oblasti s měkkým podložím.",
+      "funFact": "Dudci chocholatí mají charakteristický chocholek, který zvedají při vzrušení. Jejich mláďata dokážou stříkat trus na predátory jako obranu.",
+      "localPath": "/images/birds/birds24.jpg"
+    },
+    {
+      "fileName": "birds25.jpg",
+      "commonName": "Žluna zelená",
+      "scientificName": "Dryocopus pileatus",
+      "size": "31-33 cm, 180-220 g",
+      "lifespan": "4-11 let ve volné přírodě",
+      "habitat": "Listnaté a smíšené lesy po celé Evropě a Asii. Preferují staré lesy s dostatkem mravenčích kolonií.",
+      "funFact": "Žluny zelené se živí především mravenci a mají jazyk dlouhý až 10 cm. Dokážou vytáhnout jazyk až 4 cm za konec zobáku.",
+      "localPath": "/images/birds/birds25.jpg"
+    },
+    {
+      "fileName": "birds26.jpg",
+      "commonName": "Krkavec velký",
+      "scientificName": "Setophaga petechia",
+      "size": "54-67 cm, 0,69-2 kg",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Rozmanité biotopy po celé severní polokouli. Velmi přizpůsobiví různým prostředím.",
+      "funFact": "Krkavci velcí patří mezi nejinteligentnější ptáky a dokážou používat nástroje. Dokážou napodobovat lidskou řeč a mají složitý sociální systém.",
+      "localPath": "/images/birds/birds26.jpg"
+    },
+    {
+      "fileName": "birds27.jpg",
+      "commonName": "Jestřáb lesní",
+      "scientificName": "Sitta carolinensis",
+      "size": "48-62 cm, 0,5-2 kg",
+      "lifespan": "4-19 let ve volné přírodě",
+      "habitat": "Lesy po celé Evropě, Asii a severní Africe. Preferují husté lesy s dostatkem kořisti.",
+      "funFact": "Jestřábi lesní jsou specialisté na lov v hustém lese a dokážou manévrovat mezi větvemi vysokou rychlostí. Samice jsou výrazně větší než samci.",
+      "localPath": "/images/birds/birds27.jpg"
+    },
+    {
+      "fileName": "birds28.jpg",
+      "commonName": "Výr velký",
+      "scientificName": "Bombycilla cedrorum",
+      "size": "58-71 cm, 1,5-4,2 kg",
+      "lifespan": "13-25 let ve volné přírodě",
+      "habitat": "Lesy, skalnaté oblasti a otevřené krajiny po celé Evropě a Asii. Preferují oblasti s dostatkem úkrytů.",
+      "funFact": "Výři velcí jsou největší sovy v Evropě a mají charakteristické 'uši' z per. Dokážou otočit hlavu o 270 stupňů a mají tichý let.",
+      "localPath": "/images/birds/birds28.jpg"
+    },
+    {
+      "fileName": "birds29.jpg",
+      "commonName": "Brkoslav severní",
+      "scientificName": "Passerina cyanea",
+      "size": "14-16 cm, 16-25 g",
+      "lifespan": "2-8 let ve volné přírodě",
+      "habitat": "Boreální lesy severní Evropy, Asie a Severní Ameriky. Preferují jehličnaté lesy s dostatkem semen.",
+      "funFact": "Brkoslavové severní mají speciálně přizpůsobený zobák pro otevírání šišek. Dokážou viset hlavou dolů při hledání potravy.",
+      "localPath": "/images/birds/birds29.jpg"
+    },
+    {
+      "fileName": "birds30.jpg",
+      "commonName": "Rorýs obecný",
+      "scientificName": "Pheucticus ludovicianus",
+      "size": "16-17 cm, 31-56 g",
+      "lifespan": "5-18 let ve volné přírodě",
+      "habitat": "Městské a venkovské oblasti po celé Evropě, Asii a Africe. Hnízdí v budovách a migrují na dlouhé vzdálenosti.",
+      "funFact": "Rorýsi obecní tráví téměř celý život ve vzduchu - jedí, pijí, spí i se páří za letu. Dokážou létat rychlostí až 111 km/h.",
+      "localPath": "/images/birds/birds30.jpg"
+    }
+  ]
+}

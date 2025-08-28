@@ -11,7 +11,8 @@ import './PlayerInfo.css';
  * @returns {JSX.Element} PlayerInfo component
  */
 function PlayerInfo({ players, currentPlayerIdx, openDeckModal }) {
-  const { t } = useTranslation();
+  const { t: tGame } = useTranslation('game');
+  const { t: tUi } = useTranslation('ui');
   
   return (
     <div className="players-container">
@@ -21,9 +22,9 @@ function PlayerInfo({ players, currentPlayerIdx, openDeckModal }) {
           className={`player-info ${idx === currentPlayerIdx ? 'active' : ''}`}
         >
           <div className="player-header">
-            <strong>{player.name}</strong> — {player.score} {t('gameInterface.pts')}
+            <strong>{player.name}</strong> — {player.score} {tGame('gameInterface.pts')}
             {idx === currentPlayerIdx && (
-              <span className="player-turn"> • {t('gameInterface.currentPlayer')}</span>
+              <span className="player-turn"> • {tGame('gameInterface.currentPlayer')}</span>
             )}
           </div>
           
@@ -32,7 +33,7 @@ function PlayerInfo({ players, currentPlayerIdx, openDeckModal }) {
               <div 
                 key={`${player.id}-${cardIdx}`} 
                 className="player-card" 
-                title={`${t('gameInterface.viewDeck')} ${card.label}`}
+                title={`${tGame('gameInterface.viewDeck')} ${card.label}`}
                 onClick={(e) => {
                   e.stopPropagation();
                   openDeckModal(player, cardIdx);
@@ -43,7 +44,7 @@ function PlayerInfo({ players, currentPlayerIdx, openDeckModal }) {
             ))}
             
             {player.deck.length === 0 && (
-              <div className="empty-deck">{t('modal.deck')}</div>
+              <div className="empty-deck">{tUi('modal.deck')}</div>
             )}
           </div>
         </div>

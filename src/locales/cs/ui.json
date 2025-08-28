@@ -1,0 +1,19 @@
+{
+  "modal": {
+    "size": "Velikost",
+    "lifespan": "Životnost",
+    "habitat": "Prostředí",
+    "funFact": "Zajímavost",
+    "close": "Zavřít",
+    "previousCard": "Předchozí karta",
+    "nextCard": "Další karta",
+    "cardOf": "Karta {{current}} z {{total}}",
+    "deck": "Balíček"
+  },
+  "deckModal": {
+    "playerDeck": "Sbírka hráče {{player}}",
+    "cardCounter": "Karta {{current}} z {{total}}",
+    "previousCard": "Předchozí",
+    "nextCard": "Další"
+  }
+}

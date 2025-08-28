@@ -31,21 +31,22 @@ function GameBoard({
   handleCardClick,
   openDeckModal 
 }) {
-  const { t } = useTranslation();
-  const categoryLabel = t(`categories.${category}`);
+  const { t: tGame } = useTranslation('game');
+  const { t: tCommon } = useTranslation('common');
+  const categoryLabel = tGame(`categories.${category}`);
 
   return (
     <div className="game-board">
       <div className="game-header">
-        <h1>{t('gameInterface.title', { category: categoryLabel })}</h1>
+        <h1>{tGame('gameInterface.title', { category: categoryLabel })}</h1>
         <button 
           onClick={resetGame} 
           className="back-button"
           disabled={loading}
         >
-          {t('gameInterface.backToMenu')}
+          {tGame('gameInterface.backToMenu')}
         </button>
-        <div className="moves-counter">{t('gameInterface.moves', { count: moves })}</div>
+        <div className="moves-counter">{tGame('gameInterface.moves', { count: moves })}</div>
       </div>
 
       <PlayerInfo 
@@ -54,10 +55,10 @@ function GameBoard({
         openDeckModal={openDeckModal}
       />
 
-      {loading && <div className="loading-message">{t('gameInterface.loadingImages')}</div>}
+      {loading && <div className="loading-message">{tGame('gameInterface.loadingImages')}</div>}
       {loadError && (
         <div className="error-message">
-          {t('errors.loadError')}
+          {tCommon('errors.loadError')}
         </div>
       )}
 

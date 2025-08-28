@@ -1,0 +1,306 @@
+{
+  "category": "reptiles",
+  "totalPhotos": 30,
+  "photos": [
+    {
+      "fileName": "reptiles1.jpg",
+      "commonName": "Aligátor americký",
+      "scientificName": "Terrapene carolina",
+      "size": "Délka: 280-460 cm, Hmotnost: 230-450 kg",
+      "lifespan": "35-50 let ve volné přírodě",
+      "habitat": "Lesy napříč Severní Amerikou",
+      "funFact": "Box turtles can completely close their shell for protection and have been known to live over 100 years. They have vynikající homing abilities and rarely travel far from their birthplace.",
+      "localPath": "/images/reptiles/reptiles1.jpg"
+    },
+    {
+      "fileName": "reptiles2.jpg",
+      "commonName": "Želva zelená",
+      "scientificName": "Thamnophis sirtalis",
+      "size": "Délka: 80-150 cm, Hmotnost: 65-230 kg",
+      "lifespan": "80-100 let ve volné přírodě",
+      "habitat": "Lesy napříč Severní Amerikou",
+      "funFact": "Garter snakes are among the most cold-tolerant snakes and can be active at temperatures as low as 1°C. They hibernate in large groups called hibernacula.",
+      "localPath": "/images/reptiles/reptiles2.jpg"
+    },
+    {
+      "fileName": "reptiles3.jpg",
+      "commonName": "Anakonda velká",
+      "scientificName": "Plestiodon fasciatus",
+      "size": "Délka: 400-900 cm, Hmotnost: 30-250 kg",
+      "lifespan": "10-20 let ve volné přírodě",
+      "habitat": "Wooded areas with abundant cover such as logs, rocks, and leaf litter napříč eastern Severní Amerika.",
+      "funFact": "Young five-lined skinks have bright blue tails that they can detach if grabbed by a predator. The tail continues to wiggle, distracting the predator while the skink escapes.",
+      "localPath": "/images/reptiles/reptiles3.jpg"
+    },
+    {
+      "fileName": "reptiles4.jpg",
+      "commonName": "Komodský varan",
+      "scientificName": "Chrysemys picta",
+      "size": "Délka: 200-300 cm, Hmotnost: 70-90 kg",
+      "lifespan": "30-50 let ve volné přírodě",
+      "habitat": "Slow-moving waters with muddy bottoms and aquatic vegetation napříč Severní Amerika.",
+      "funFact": "Painted turtles can survive winter by slowing their metabolism and absorbing oxygen through their skin while buried in mud underwater. They are vynikající plavci and baskers.",
+      "localPath": "/images/reptiles/reptiles4.jpg"
+    },
+    {
+      "fileName": "reptiles5.jpg",
+      "commonName": "Galapážská želva",
+      "scientificName": "Anolis carolinensis",
+      "size": "Délka: 100-130 cm, Hmotnost: 180-400 kg",
+      "lifespan": "100-150 let ve volné přírodě",
+      "habitat": "Trees, shrubs, and vegetation in warm, humid areas napříč southeastern United States.",
+      "funFact": "Green anoles can change color from bright green to brown depending on temperature, mood, and social signals. Males have a colorful throat fan called a dewlap used for communication.",
+      "localPath": "/images/reptiles/reptiles5.jpg"
+    },
+    {
+      "fileName": "reptiles6.jpg",
+      "commonName": "Chřestýš diamantový",
+      "scientificName": "Trachemys scripta elegans",
+      "size": "Délka: 90-150 cm, Hmotnost: 1-7 kg",
+      "lifespan": "15-25 let ve volné přírodě",
+      "habitat": "Ponds, lakes, marshes, and slow-moving streams napříč Severní Amerika.",
+      "funFact": "Red-eared sliders are vynikající plavci and can hold their breath for až 30 minutes. They are named for the distinctive red stripe behind their eyes.",
+      "localPath": "/images/reptiles/reptiles6.jpg"
+    },
+    {
+      "fileName": "reptiles7.jpg",
+      "commonName": "Leguán zelený",
+      "scientificName": "Alligator mississippiensis",
+      "size": "Délka: 120-200 cm, Hmotnost: 4-17 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Freshwater bažiny, marshes, rivers, and lakes in southeastern United States.",
+      "funFact": "American alligators are apex predators that can remain motionless for hours. They are vynikající mothers, carrying their babies to water in their mouths after hatching.",
+      "localPath": "/images/reptiles/reptiles7.jpg"
+    },
+    {
+      "fileName": "reptiles8.jpg",
+      "commonName": "Chameleon jemenský",
+      "scientificName": "Pantherophis guttatus",
+      "size": "Délka: 35-60 cm, Hmotnost: 0.1-0.3 kg",
+      "lifespan": "5-8 let ve volné přírodě",
+      "habitat": "lesy, fields, and agricultural areas napříč southeastern United States.",
+      "funFact": "Corn snakes are vynikající climbers and constrictors. They get their name from the corn-like pattern on their belly scales, not from eating corn.",
+      "localPath": "/images/reptiles/reptiles8.jpg"
+    },
+    {
+      "fileName": "reptiles9.jpg",
+      "commonName": "Gekon tokaj",
+      "scientificName": "Chelydra serpentina",
+      "size": "Délka: 20-40 cm, Hmotnost: 0.15-0.4 kg",
+      "lifespan": "7-10 let ve volné přírodě",
+      "habitat": "Freshwater environments including ponds, lakes, rivers, and marshes napříč Severní Amerika.",
+      "funFact": "Snapping turtles have incredibly powerful jaws and can snap with the force of 208 pounds per square inch. They are surprisingly fast plavci navzdory their bulky appearance.",
+      "localPath": "/images/reptiles/reptiles9.jpg"
+    },
+    {
+      "fileName": "reptiles10.jpg",
+      "commonName": "Korytnačka červenouchá",
+      "scientificName": "Pogona vitticeps",
+      "size": "Délka: 15-30 cm, Hmotnost: 0.1-2 kg",
+      "lifespan": "20-40 let ve volné přírodě",
+      "habitat": "Arid woodlands, deserts, and scrublands napříč Australia.",
+      "funFact": "Bearded dragons can change color to regulate body temperature and communicate. When threatened, they puff out their throat to appear larger and more intimidating.",
+      "localPath": "/images/reptiles/reptiles10.jpg"
+    },
+    {
+      "fileName": "reptiles11.jpg",
+      "commonName": "Krajta královská",
+      "scientificName": "Iguana iguana",
+      "size": "Délka: 90-180 cm, Hmotnost: 1-9 kg",
+      "lifespan": "20-30 let ve volné přírodě",
+      "habitat": "Tropical rainlesy, mangroves, and coastal areas in Central and South America.",
+      "funFact": "Iguanas are vynikající plavci and can hold their breath for až 30 minutes. They have a third eye on top of their head that detects shadows and changes in light.",
+      "localPath": "/images/reptiles/reptiles11.jpg"
+    },
+    {
+      "fileName": "reptiles12.jpg",
+      "commonName": "Boa dusivá",
+      "scientificName": "Hemidactylus turcicus",
+      "size": "Délka: 180-400 cm, Hmotnost: 10-45 kg",
+      "lifespan": "20-30 let ve volné přírodě",
+      "habitat": "Rocky areas, buildings, and urban environments in warm climates worldwide.",
+      "funFact": "Geckos can walk on any surface, including glass, due to millions of tiny hairs on their stop called setae. They are also one of the few lizards that can vocalize.",
+      "localPath": "/images/reptiles/reptiles12.jpg"
+    },
+    {
+      "fileName": "reptiles13.jpg",
+      "commonName": "Monitor nilský",
+      "scientificName": "Chamaeleo calyptratus",
+      "size": "Délka: 120-200 cm, Hmotnost: 15-20 kg",
+      "lifespan": "10-20 let ve volné přírodě",
+      "habitat": "Trees and shrubs in hornaté regiony of Yemen and Saudi Arabia.",
+      "funFact": "Chameleons can move their eyes independently and have tongues that can extend twice their body length. They change color based on mood, temperature, and communication.",
+      "localPath": "/images/reptiles/reptiles13.jpg"
+    },
+    {
+      "fileName": "reptiles14.jpg",
+      "commonName": "Želva zelenavá",
+      "scientificName": "Python regius",
+      "size": "Délka: 60-120 cm, Hmotnost: 35-200 kg",
+      "lifespan": "50-80 let ve volné přírodě",
+      "habitat": "travnaté oblasti, shrublands, and open lesy in West and Central Africa.",
+      "funFact": "Ball pythons get their name from their defensive behavior of curling into a tight ball. They are non-venomous constrictors that can go months without eating.",
+      "localPath": "/images/reptiles/reptiles14.jpg"
+    },
+    {
+      "fileName": "reptiles15.jpg",
+      "commonName": "Skink modrý",
+      "scientificName": "Varanus salvator",
+      "size": "Délka: 35-60 cm, Hmotnost: 0.1-0.5 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Tropical lesy, mangroves, and mokřady in Southeast Asia.",
+      "funFact": "Monitor lizards are highly intelligent reptiles with vynikající problem-solving abilities. They are semi-aquatic and vynikající plavci, often diving to escape predators.",
+      "localPath": "/images/reptiles/reptiles15.jpg"
+    },
+    {
+      "fileName": "reptiles16.jpg",
+      "commonName": "Had korálový",
+      "scientificName": "Crotalus atrox",
+      "size": "Délka: 60-120 cm, Hmotnost: 0.5-5 kg",
+      "lifespan": "7-10 let ve volné přírodě",
+      "habitat": "Deserts, travnaté oblasti, and scrub lesy napříč southwestern United States and Mexico.",
+      "funFact": "Rattlesnakes add a new segment to their rattle each time they shed their skin. They can sense heat through special organs and strike with incredible speed and accuracy.",
+      "localPath": "/images/reptiles/reptiles16.jpg"
+    },
+    {
+      "fileName": "reptiles17.jpg",
+      "commonName": "Želva pouštní",
+      "scientificName": "Chelonia mydas",
+      "size": "Délka: 25-35 cm, Hmotnost: 0.2-0.7 kg",
+      "lifespan": "50-80 let ve volné přírodě",
+      "habitat": "Tropical and subtropical oceans worldwide, nesting on sandy beaches.",
+      "funFact": "Sea turtles navigate using Earth's magnetic field and return to the same beach where they were born to lay eggs. They can hold their breath for až 5 hours.",
+      "localPath": "/images/reptiles/reptiles17.jpg"
+    },
+    {
+      "fileName": "reptiles18.jpg",
+      "commonName": "Varan bengálský",
+      "scientificName": "Lampropeltis getula",
+      "size": "Délka: 60-180 cm, Hmotnost: 2-25 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Lesy napříč Severní Amerikou",
+      "funFact": "Kingsnakes are immune to the venom of other snakes and regularly eat venomous species. They are powerful constrictors and vynikající climbers.",
+      "localPath": "/images/reptiles/reptiles18.jpg"
+    },
+    {
+      "fileName": "reptiles19.jpg",
+      "commonName": "Anolis zelený",
+      "scientificName": "Gopherus polyphemus",
+      "size": "Délka: 15-20 cm, Hmotnost: 0.003-0.007 kg",
+      "lifespan": "4-8 let ve volné přírodě",
+      "habitat": "Sandy soils in longleaf pine lesy and scrub habitats in southeastern United States.",
+      "funFact": "Gopher tortoises are ecosystem engineers that dig burrows až 40 stop long, providing shelter for over 350 other species. They are herbivores that help disperse seeds.",
+      "localPath": "/images/reptiles/reptiles19.jpg"
+    },
+    {
+      "fileName": "reptiles20.jpg",
+      "commonName": "Gekončík domácí",
+      "scientificName": "Agkistrodon contortrix",
+      "size": "Délka: 7-15 cm, Hmotnost: 0.002-0.01 kg",
+      "lifespan": "5-10 let ve volné přírodě",
+      "habitat": "lesy, rocky areas, and bažiny napříč eastern United States.",
+      "funFact": "Copperheads are venomous pit vipers that can sense heat through special organs. They give birth to live young and are known for their distinctive hourglass-shaped markings.",
+      "localPath": "/images/reptiles/reptiles20.jpg"
+    },
+    {
+      "fileName": "reptiles21.jpg",
+      "commonName": "Zmije obecná",
+      "scientificName": "Lampropeltis triangulum",
+      "size": "Délka: 50-90 cm, Hmotnost: 0.05-0.2 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Lesy napříč Severní Amerikou",
+      "funFact": "Milk snakes are harmless constrictors that mimic the coloration of venomous coral snakes. They are vynikající rodent controllers and are often found in barns.",
+      "localPath": "/images/reptiles/reptiles21.jpg"
+    },
+    {
+      "fileName": "reptiles22.jpg",
+      "commonName": "Užovka obojková",
+      "scientificName": "Sceloporus undulatus",
+      "size": "Délka: 80-200 cm, Hmotnost: 0.1-2 kg",
+      "lifespan": "15-25 let ve volné přírodě",
+      "habitat": "Rocky areas, fences, and open woodlands napříč Severní Amerika.",
+      "funFact": "Fence lizards are vynikající climbers and dokážou běžet on their hind legs when escaping predators. Males have bright blue patches on their throat and belly during breeding season.",
+      "localPath": "/images/reptiles/reptiles22.jpg"
+    },
+    {
+      "fileName": "reptiles23.jpg",
+      "commonName": "Ještěrka obecná",
+      "scientificName": "Malaclemys terrapin",
+      "size": "Délka: 15-25 cm, Hmotnost: 0.005-0.02 kg",
+      "lifespan": "5-10 let ve volné přírodě",
+      "habitat": "Salt marshes and brackish waters along the Atlantic and Gulf coasts.",
+      "funFact": "Diamondback terrapins are the only turtle species that lives exclusively in brackish water. They can drink both fresh and salt water through specialized glands.",
+      "localPath": "/images/reptiles/reptiles23.jpg"
+    },
+    {
+      "fileName": "reptiles24.jpg",
+      "commonName": "Slepýš křehký",
+      "scientificName": "Heterodon platirhinos",
+      "size": "Délka: 30-50 cm, Hmotnost: 0.1-0.2 kg",
+      "lifespan": "30-54 let ve volné přírodě",
+      "habitat": "Lesy napříč Severní Amerikou",
+      "funFact": "Hognose snakes are master actors that play dead when threatened, complete with rolling over and letting their tongue hang out. They have upturned snouts for digging.",
+      "localPath": "/images/reptiles/reptiles24.jpg"
+    },
+    {
+      "fileName": "reptiles25.jpg",
+      "commonName": "Želva bahenní",
+      "scientificName": "Ophisaurus ventralis",
+      "size": "Délka: 12-25 cm, Hmotnost: 0.1-0.5 kg",
+      "lifespan": "40-75 let ve volné přírodě",
+      "habitat": "travnaté oblasti, open woodlands, and scrub areas in southeastern United States.",
+      "funFact": "Glass lizards are legless lizards often mistaken for snakes. They can detach their tail when threatened, and the tail continues to move to distract predators.",
+      "localPath": "/images/reptiles/reptiles25.jpg"
+    },
+    {
+      "fileName": "reptiles26.jpg",
+      "commonName": "Chameleon obecný",
+      "scientificName": "Glyptemys insculpta",
+      "size": "Délka: 15-25 cm, Hmotnost: 0.01-0.05 kg",
+      "lifespan": "4-8 let ve volné přírodě",
+      "habitat": "Lesy napříč Severní Amerikou",
+      "funFact": "Wood turtles are highly intelligent and can be trained to navigate mazes. They have distinctive sculptured shells and are vynikající both on land and in water.",
+      "localPath": "/images/reptiles/reptiles26.jpg"
+    },
+    {
+      "fileName": "reptiles27.jpg",
+      "commonName": "Leguán modrý",
+      "scientificName": "Masticophis flagellum",
+      "size": "Délka: 120-180 cm, Hmotnost: 13-18 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Open areas including deserts, travnaté oblasti, and scrublands napříč southern United States.",
+      "funFact": "Coachwhip snakes are among the fastest snakes in North America, capable of speeds až 4 mph. They are vynikající climbers and often hunt in trees and bushes.",
+      "localPath": "/images/reptiles/reptiles27.jpg"
+    },
+    {
+      "fileName": "reptiles28.jpg",
+      "commonName": "Had mléčný",
+      "scientificName": "Clemmys guttata",
+      "size": "Délka: 60-180 cm, Hmotnost: 0.2-8 kg",
+      "lifespan": "10-20 let ve volné přírodě",
+      "habitat": "Shallow mokřady, bogs, and slow streams in eastern Severní Amerika.",
+      "funFact": "Spotted turtles are semi-aquatic and hibernate in mud at the bottom of ponds. Each turtle has a unique pattern of yellow spots that can be used for individual identification.",
+      "localPath": "/images/reptiles/reptiles28.jpg"
+    },
+    {
+      "fileName": "reptiles29.jpg",
+      "commonName": "Želva nádherná",
+      "scientificName": "Diadophis punctatus",
+      "size": "Délka: 20-35 cm, Hmotnost: 0.1-0.4 kg",
+      "lifespan": "50-80 let ve volné přírodě",
+      "habitat": "Lesy napříč Severní Amerikou",
+      "funFact": "Ring-necked snakes are secretive and rarely seen during the day. When threatened, they curl their tail in a corkscrew shape and display their bright orange or red belly.",
+      "localPath": "/images/reptiles/reptiles29.jpg"
+    },
+    {
+      "fileName": "reptiles30.jpg",
+      "commonName": "Varan nilský",
+      "scientificName": "Sternotherus odoratus",
+      "size": "Délka: 150-220 cm, Hmotnost: 15-20 kg",
+      "lifespan": "10-20 let ve volné přírodě",
+      "habitat": "Shallow, slow-moving waters with muddy bottoms napříč eastern Severní Amerika.",
+      "funFact": "Musk turtles are also called 'stinkpots' because they release a musky odor when threatened. They are vynikající climbers and can often be found basking on low branches over water.",
+      "localPath": "/images/reptiles/reptiles30.jpg"
+    }
+  ]
+}

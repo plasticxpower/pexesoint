@@ -1,0 +1,306 @@
+{
+  "category": "amphibians",
+  "totalPhotos": 30,
+  "photos": [
+    {
+      "fileName": "amphibians1.jpg",
+      "commonName": "Žába skokanka",
+      "scientificName": "Lithobates catesbeianus",
+      "size": "3,2-5,1 cm, 2-7 g",
+      "lifespan": "4-9 let ve volné přírodě",
+      "habitat": "Mokřady, rybníky a pomalu tekoucí potoky po celé východní Severní Americe.",
+      "funFact": "Žáby skokanky dokážou skákat až 20krát delší vzdálenost než je jejich tělo. Jejich volání může být slyšet až z 1,6 km.",
+      "localPath": "/images/amphibians/amphibians1.jpg"
+    },
+    {
+      "fileName": "amphibians2.jpg",
+      "commonName": "Ropucha americká",
+      "scientificName": "Ambystoma maculatum",
+      "size": "5-10 cm, 20-50 g",
+      "lifespan": "2-10 let ve volné přírodě",
+      "habitat": "Rozmanité biotopy po celé Severní Americe, včetně zahrad, lesů a travnatých oblastí.",
+      "funFact": "Ropuchy americké mají jedovaté žlázy za očima, které produkují toxiny pro obranu. Dokážou nafouknout své tělo, aby vypadaly větší.",
+      "localPath": "/images/amphibians/amphibians2.jpg"
+    },
+    {
+      "fileName": "amphibians3.jpg",
+      "commonName": "Mlok skvrnitý",
+      "scientificName": "Pseudacris crucifer",
+      "size": "15-25 cm, 2,5-5,5 g",
+      "lifespan": "12-15 let ve volné přírodě",
+      "habitat": "Listnaté lesy východní Severní Ameriky. Preferují oblasti s vlhkou půdou a dostatkem úkrytů.",
+      "funFact": "Mloci skvrnitý dokážou regenerovat ztracené končetiny, ocas a dokonce části srdce a mozku. Jejich kůže obsahuje toxiny pro obranu.",
+      "localPath": "/images/amphibians/amphibians3.jpg"
+    },
+    {
+      "fileName": "amphibians4.jpg",
+      "commonName": "Žába zelená",
+      "scientificName": "Plethodon cinereus",
+      "size": "5-10 cm, 6-31 g",
+      "lifespan": "2-6 let ve volné přírodě",
+      "habitat": "Jezera, rybníky a mokřady po celé východní Severní Americe. Preferují oblasti s vegetací pro úkryt.",
+      "funFact": "Žáby zelené dokážou změnit barvu od jasně zelené po tmavě hnědou v závislosti na teplotě a náladě. Samci mají žluté hrdlo.",
+      "localPath": "/images/amphibians/amphibians4.jpg"
+    },
+    {
+      "fileName": "amphibians5.jpg",
+      "commonName": "Čolek obecný",
+      "scientificName": "Lithobates sylvaticus",
+      "size": "7-11 cm, 0,3-1,0 g",
+      "lifespan": "6-14 let ve volné přírodě",
+      "habitat": "Rybníky, jezera a pomalu tekoucí potoky po celé Evropě. Preferují čistou vodu s vegetací.",
+      "funFact": "Čolci obecní podstupují dramatickou metamorfózu během rozmnožovacího období. Samci si vyvinou vysoký hřebenní lem a jasné zbarvení.",
+      "localPath": "/images/amphibians/amphibians5.jpg"
+    },
+    {
+      "fileName": "amphibians6.jpg",
+      "commonName": "Žába dřevní",
+      "scientificName": "Agalychnis callidryas",
+      "size": "3-6 cm, 3-9 g",
+      "lifespan": "4-8 let ve volné přírodě",
+      "habitat": "Lesy a křovinaté oblasti po celé východní Severní Americe. Preferují oblasti blízko vody pro rozmnožování.",
+      "funFact": "Žáby dřevní dokážou přežít zamrznutí díky glykolu v krvi, který funguje jako přírodní nemrznoucí směs. Dokážou lézt po hladkých površích.",
+      "localPath": "/images/amphibians/amphibians6.jpg"
+    },
+    {
+      "fileName": "amphibians7.jpg",
+      "commonName": "Axolotl",
+      "scientificName": "Notophthalmus viridescens",
+      "size": "15-45 cm, 60-227 g",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Jezera Xochimilco a Chalco v Mexiku. Preferují chladnou, kyslíkem bohatou vodu.",
+      "funFact": "Axolotlové si zachovávají larvální charakteristiky po celý život a dokážou regenerovat celé končetiny během měsíců. Jsou kriticky ohroženi.",
+      "localPath": "/images/amphibians/amphibians7.jpg"
+    },
+    {
+      "fileName": "amphibians8.jpg",
+      "commonName": "Ropucha zelená",
+      "scientificName": "Phyllobates terribilis",
+      "size": "5-9 cm, 10-40 g",
+      "lifespan": "5-10 let ve volné přírodě",
+      "habitat": "Rozmanité biotopy po celé Evropě a Asii, včetně zahrad, lesů a travnatých oblastí.",
+      "funFact": "Ropuchy zelené mají jasně zelenou barvu s tmavými skvrnami. Dokážou skákat překvapivě daleko a jsou aktivní především v noci.",
+      "localPath": "/images/amphibians/amphibians8.jpg"
+    },
+    {
+      "fileName": "amphibians9.jpg",
+      "commonName": "Mlok obecný",
+      "scientificName": "Ambystoma mexicanum",
+      "size": "8-11 cm, 0,3-1,0 g",
+      "lifespan": "6-14 let ve volné přírodě",
+      "habitat": "Rybníky, jezera a pomalu tekoucí potoky po celé Evropě. Preferují čistou vodu s vegetací.",
+      "funFact": "Mloci obecní tráví část roku na souši a část ve vodě. Dokážou regenerovat ztracené končetiny a mají vynikající regenerační schopnosti.",
+      "localPath": "/images/amphibians/amphibians9.jpg"
+    },
+    {
+      "fileName": "amphibians10.jpg",
+      "commonName": "Žába býčí",
+      "scientificName": "Ambystoma tigrinum",
+      "size": "9-20 cm, 500-800 g",
+      "lifespan": "7-10 let ve volné přírodě",
+      "habitat": "Velké rybníky, jezera a pomalu tekoucí řeky po celé východní Severní Americe.",
+      "funFact": "Žáby býčí jsou největší žáby v Severní Americe a jejich volání připomíná bučení býka. Dokážou skákat až 2 metry daleko.",
+      "localPath": "/images/amphibians/amphibians10.jpg"
+    },
+    {
+      "fileName": "amphibians11.jpg",
+      "commonName": "Ropucha obecná",
+      "scientificName": "Hyla cinerea",
+      "size": "6-13 cm, 20-80 g",
+      "lifespan": "4-12 let ve volné přírodě",
+      "habitat": "Rozmanité biotopy po celé Evropě, včetně zahrad, lesů a travnatých oblastí.",
+      "funFact": "Ropuchy obecné mají bradavičnatou kůži s jedovatými žlázami. Dokážou žít daleko od vody a vracejí se k ní pouze pro rozmnožování.",
+      "localPath": "/images/amphibians/amphibians11.jpg"
+    },
+    {
+      "fileName": "amphibians12.jpg",
+      "commonName": "Čolek karpatský",
+      "scientificName": "Cryptobranchus alleganiensis",
+      "size": "8-12 cm, 0,4-1,2 g",
+      "lifespan": "8-16 let ve volné přírodě",
+      "habitat": "Horské oblasti střední a východní Evropy. Preferují chladné, čisté potoky a jezera.",
+      "funFact": "Čolci karpatští jsou přizpůsobeni chladnému horskému klimatu a dokážou přežít v teplotách blízko nuly. Mají jasné zbarvení během rozmnožování.",
+      "localPath": "/images/amphibians/amphibians12.jpg"
+    },
+    {
+      "fileName": "amphibians13.jpg",
+      "commonName": "Žába leopardí",
+      "scientificName": "Rhinella marina",
+      "size": "5-11 cm, 10-80 g",
+      "lifespan": "2-5 let ve volné přírodě",
+      "habitat": "Mokřady, rybníky a travnaté oblasti po celé Severní Americe. Preferují oblasti s čistou vodou.",
+      "funFact": "Žáby leopardí mají charakteristické tmavé skvrny připomínající leopardí vzor. Dokážou skákat až 3 metry daleko a jsou vynikající plavci.",
+      "localPath": "/images/amphibians/amphibians13.jpg"
+    },
+    {
+      "fileName": "amphibians14.jpg",
+      "commonName": "Mlok alpský",
+      "scientificName": "Salamandra salamandra",
+      "size": "7-12 cm, 0,8-4,5 g",
+      "lifespan": "10-20 let ve volné přírodě",
+      "habitat": "Horské oblasti střední a jižní Evropy. Preferují chladné, čisté horské potoky a jezera.",
+      "funFact": "Mloci alpští dokážou žít ve vysokých nadmořských výškách až 2400 metrů. Samice dokážou zadržet vývoj embryí až 3 roky v nepříznivých podmínkách.",
+      "localPath": "/images/amphibians/amphibians14.jpg"
+    },
+    {
+      "fileName": "amphibians15.jpg",
+      "commonName": "Žába travní",
+      "scientificName": "Necturus maculosus",
+      "size": "4-7 cm, 6-22 g",
+      "lifespan": "3-8 let ve volné přírodě",
+      "habitat": "Travnaté oblasti, louky a okraje lesů po celé Evropě. Preferují vlhké oblasti s dostatkem hmyzu.",
+      "funFact": "Žáby travní mají špičatý čenich a dlouhé zadní nohy pro skákání. Dokážou změnit barvu od světle hnědé po tmavě hnědou.",
+      "localPath": "/images/amphibians/amphibians15.jpg"
+    },
+    {
+      "fileName": "amphibians16.jpg",
+      "commonName": "Ropucha krásná",
+      "scientificName": "Centrolenella fleischmanni",
+      "size": "6-9 cm, 15-35 g",
+      "lifespan": "5-12 let ve volné přírodě",
+      "habitat": "Stepní a polopouštní oblasti východní Evropy a Asie. Preferují písčité půdy s rozptýlenou vegetací.",
+      "funFact": "Ropuchy krásné mají jasně zelenou barvu s červenými skvrnami. Dokážou se zakopat do písku a přežít dlouhá období sucha.",
+      "localPath": "/images/amphibians/amphibians16.jpg"
+    },
+    {
+      "fileName": "amphibians17.jpg",
+      "commonName": "Mlok skvrnitý východní",
+      "scientificName": "Gymnopis multiplicata",
+      "size": "7-14 cm, 1,3-5,2 g",
+      "lifespan": "12-15 let ve volné přírodě",
+      "habitat": "Listnaté lesy východní Severní Ameriky. Preferují vlhké oblasti s dostatkem úkrytů.",
+      "funFact": "Mloci skvrnitý východní mají jasné žluté nebo oranžové skvrny na černém těle. Dokážou regenerovat ztracené končetiny a části orgánů.",
+      "localPath": "/images/amphibians/amphibians17.jpg"
+    },
+    {
+      "fileName": "amphibians18.jpg",
+      "commonName": "Žába ostronosá",
+      "scientificName": "Pseudacris triseriata",
+      "size": "4-6 cm, 4-12 g",
+      "lifespan": "3-6 let ve volné přírodě",
+      "habitat": "Rašeliniště a kyselé mokřady po celé severní Evropě. Preferují oblasti s kyselou vodou a sfagnovým mechem.",
+      "funFact": "Žáby ostronosé mají charakteristický špičatý čenich a dokážou přežít v kyselém prostředí, které by zabilo jiné obojživelníky.",
+      "localPath": "/images/amphibians/amphibians18.jpg"
+    },
+    {
+      "fileName": "amphibians19.jpg",
+      "commonName": "Čolek dunajský",
+      "scientificName": "Ambystoma opacum",
+      "size": "6-10 cm, 0,2-0,8 g",
+      "lifespan": "5-12 let ve volné přírodě",
+      "habitat": "Povodí Dunaje ve střední Evropě. Preferují čisté, chladné potoky s kamenitým dnem.",
+      "funFact": "Čolci dunajští jsou endemičtí pro povodí Dunaje a jsou ohroženi znečištěním vody. Mají jedinečné zbarvení s oranžovým břichem.",
+      "localPath": "/images/amphibians/amphibians19.jpg"
+    },
+    {
+      "fileName": "amphibians20.jpg",
+      "commonName": "Ropucha zelená východní",
+      "scientificName": "Lithobates palustris",
+      "size": "5-8 cm, 8-25 g",
+      "lifespan": "4-10 let ve volné přírodě",
+      "habitat": "Stepní a lesostepní oblasti východní Evropy. Preferují otevřené oblasti s rozptýlenou vegetací.",
+      "funFact": "Ropuchy zelené východní mají jasně zelenou barvu s bílými pruhy. Dokážou skákat překvapivě daleko a jsou aktivní především za soumraku.",
+      "localPath": "/images/amphibians/amphibians20.jpg"
+    },
+    {
+      "fileName": "amphibians21.jpg",
+      "commonName": "Mlok mramorovaný",
+      "scientificName": "Hemidactylium scutatum",
+      "size": "9-17 cm, 2-8 g",
+      "lifespan": "8-15 let ve volné přírodě",
+      "habitat": "Pobřežní oblasti západní Francie. Preferují mělké rybníky a mokřady s vegetací.",
+      "funFact": "Mloci mramorovaní mají jedinečný mramorovaný vzor na kůži. Jsou ohroženi ztrátou biotopů a klimatickými změnami.",
+      "localPath": "/images/amphibians/amphibians21.jpg"
+    },
+    {
+      "fileName": "amphibians22.jpg",
+      "commonName": "Žába štíhlá",
+      "scientificName": "Hyla versicolor",
+      "size": "3-5 cm, 2-8 g",
+      "lifespan": "2-5 let ve volné přírodě",
+      "habitat": "Mokřady a rybníky po celé jižní Evropě. Preferují mělké vody s bohatou vegetací.",
+      "funFact": "Žáby štíhlé mají velmi dlouhé zadní nohy a dokážou skákat neuvěřitelně daleko pro svou velikost. Jsou aktivní především v noci.",
+      "localPath": "/images/amphibians/amphibians22.jpg"
+    },
+    {
+      "fileName": "amphibians23.jpg",
+      "commonName": "Ropucha barevná",
+      "scientificName": "Pseudotriton ruber",
+      "size": "4-7 cm, 5-20 g",
+      "lifespan": "3-8 let ve volné přírodě",
+      "habitat": "Horské oblasti jižní Evropy. Preferují skalnaté oblasti s dostatkem úkrytů.",
+      "funFact": "Ropuchy barevné mají pestré zbarvení s jasně žlutými a oranžovými skvrnami. Dokážou žít ve vysokých nadmořských výškách.",
+      "localPath": "/images/amphibians/amphibians23.jpg"
+    },
+    {
+      "fileName": "amphibians24.jpg",
+      "commonName": "Čolek horský",
+      "scientificName": "Hyla chrysoscelis",
+      "size": "8-16 cm, 1-6 g",
+      "lifespan": "10-18 let ve volné přírodě",
+      "habitat": "Horské oblasti střední Evropy. Preferují chladné, čisté horské potoky a jezera.",
+      "funFact": "Čolci horští dokážou žít ve velmi chladných podmínkách a jejich metabolismus se zpomaluje v zimě. Mají tmavé zbarvení s jasným břichem.",
+      "localPath": "/images/amphibians/amphibians24.jpg"
+    },
+    {
+      "fileName": "amphibians25.jpg",
+      "commonName": "Žába skokan",
+      "scientificName": "Eurycea bislineata",
+      "size": "6-10 cm, 15-50 g",
+      "lifespan": "4-12 let ve volné přírodě",
+      "habitat": "Jezera, rybníky a pomalu tekoucí řeky po celé Evropě. Preferují čistou vodu s vegetací.",
+      "funFact": "Žáby skokani jsou vynikající plavci a dokážou zůstat pod vodou až 20 minut. Mají silné zadní nohy pro rychlé únikové skoky.",
+      "localPath": "/images/amphibians/amphibians25.jpg"
+    },
+    {
+      "fileName": "amphibians26.jpg",
+      "commonName": "Mlok černý",
+      "scientificName": "Anaxyrus fowleri",
+      "size": "8-11 cm, 0,5-2,0 g",
+      "lifespan": "6-12 let ve volné přírodě",
+      "habitat": "Listnaté lesy střední Evropy. Preferují vlhké oblasti s dostatkem úkrytů pod kameny a klády.",
+      "funFact": "Mloci černí jsou převážně suchozemští a k vodě se vrací pouze pro rozmnožování. Mají tmavě černou barvu s jasně oranžovým břichem.",
+      "localPath": "/images/amphibians/amphibians26.jpg"
+    },
+    {
+      "fileName": "amphibians27.jpg",
+      "commonName": "Ropucha krátkonohá",
+      "scientificName": "Plethodon glutinosus",
+      "size": "3-5 cm, 3-12 g",
+      "lifespan": "2-6 let ve volné přírodě",
+      "habitat": "Písčité oblasti a duny po pobřeží západní Evropy. Preferují oblasti s volným pískem pro zakopávání.",
+      "funFact": "Ropuchy krátkonohé mají krátké nohy a dokážou se rychle zakopat do písku. Jsou aktivní především v noci a živí se drobnými bezobratlými.",
+      "localPath": "/images/amphibians/amphibians27.jpg"
+    },
+    {
+      "fileName": "amphibians28.jpg",
+      "commonName": "Žába hnědá",
+      "scientificName": "Lithobates pipiens",
+      "size": "5-9 cm, 12-40 g",
+      "lifespan": "3-10 let ve volné přírodě",
+      "habitat": "Lesy a křovinaté oblasti po celé Evropě. Preferují vlhké oblasti s dostatkem úkrytů.",
+      "funFact": "Žáby hnědé mají hnědé zbarvení s tmavými skvrnami. Dokážou přežít mírné mrazy a jsou aktivní i při nízkých teplotách.",
+      "localPath": "/images/amphibians/amphibians28.jpg"
+    },
+    {
+      "fileName": "amphibians29.jpg",
+      "commonName": "Čolek italský",
+      "scientificName": "Eurycea longicauda",
+      "size": "6-11 cm, 0,3-1,5 g",
+      "lifespan": "5-10 let ve volné přírodě",
+      "habitat": "Horské oblasti Itálie a Balkánu. Preferují čisté, chladné horské potoky.",
+      "funFact": "Čolci italští jsou endemičtí pro jižní Evropu a mají jedinečné zbarvení s jasně žlutým břichem. Jsou citliví na znečištění vody.",
+      "localPath": "/images/amphibians/amphibians29.jpg"
+    },
+    {
+      "fileName": "amphibians30.jpg",
+      "commonName": "Ropucha nádherná",
+      "scientificName": "Lithobates clamitans",
+      "size": "4-6 cm, 4-15 g",
+      "lifespan": "3-7 let ve volné přírodě",
+      "habitat": "Stepní oblasti východní Evropy a Asie. Preferují otevřené travnaté oblasti s rozptýlenou vegetací.",
+      "funFact": "Ropuchy nádherné mají krásné zbarvení s jasně zelenými a žlutými skvrnami. Dokážou přežít v suchých podmínkách a jsou aktivní po dešti.",
+      "localPath": "/images/amphibians/amphibians30.jpg"
+    }
+  ]
+}

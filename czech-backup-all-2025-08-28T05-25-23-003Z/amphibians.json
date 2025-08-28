@@ -1,0 +1,306 @@
+{
+  "category": "amphibians",
+  "totalPhotos": 30,
+  "photos": [
+    {
+      "fileName": "amphibians1.jpg",
+      "commonName": "American Bullfrog",
+      "scientificName": "Lithobates catesbeianus",
+      "size": "15-20 cm, 500-600 g",
+      "lifespan": "7-9 let ve volné přírodě",
+      "habitat": "Velké trvalé vodní plochy po východní Severní Americe.",
+      "funFact": "Žáby skokani jsou pojmenovány podle svého hlubokého, rezonantního volání.",
+      "localPath": "/images/amphibians/amphibians1.jpg"
+    },
+    {
+      "fileName": "amphibians2.jpg",
+      "commonName": "Spotted Salamander",
+      "scientificName": "Ambystoma maculatum",
+      "size": "15-25 cm",
+      "lifespan": "20+ let ve volné přírodě",
+      "habitat": "Listnaté a smíšené lesy blízko rybníků ve východní Severní Americe.",
+      "funFact": "Mloci skvrnitý mají symbiotický vztah s řasami.",
+      "localPath": "/images/amphibians/amphibians2.jpg"
+    },
+    {
+      "fileName": "amphibians3.jpg",
+      "commonName": "Spring Peeper",
+      "scientificName": "Pseudacris crucifer",
+      "size": "2-3.5 cm",
+      "lifespan": "3-4 roky ve volné přírodě",
+      "habitat": "Zalesněné oblasti blízko rybníků po východní Severní Americe.",
+      "funFact": "Rosnička křižáková patří mezi první žáby, které volají na jaře.",
+      "localPath": "/images/amphibians/amphibians3.jpg"
+    },
+    {
+      "fileName": "amphibians4.jpg",
+      "commonName": "Red-backed Salamander",
+      "scientificName": "Plethodon cinereus",
+      "size": "5.7-10 cm",
+      "lifespan": "25+ let ve volné přírodě",
+      "habitat": "Lesní půda pod klády a kameny ve východní Severní Americe.",
+      "funFact": "Mloci červenohřbetí nemají plíce a dýchají kůží.",
+      "localPath": "/images/amphibians/amphibians4.jpg"
+    },
+    {
+      "fileName": "amphibians5.jpg",
+      "commonName": "Wood Frog",
+      "scientificName": "Lithobates sylvaticus",
+      "size": "3.5-7 cm",
+      "lifespan": "3-5 let ve volné přírodě",
+      "habitat": "Lesy a lesní oblasti blízko dočasných tůní po severní Severní Americe.",
+      "funFact": "Žáby lesní dokážou přežít zmrznutí na měsíce během zimy.",
+      "localPath": "/images/amphibians/amphibians5.jpg"
+    },
+    {
+      "fileName": "amphibians6.jpg",
+      "commonName": "Red-eyed Tree Frog",
+      "scientificName": "Agalychnis callidryas",
+      "size": "4-7 cm",
+      "lifespan": "5 let ve volné přírodě",
+      "habitat": "Tropické deštné lesy blízko vodních zdrojů ve Střední Americe.",
+      "funFact": "Žáby červenooké mají jasně červené oči, které vyděsí predátory.",
+      "localPath": "/images/amphibians/amphibians6.jpg"
+    },
+    {
+      "fileName": "amphibians7.jpg",
+      "commonName": "Eastern Newt",
+      "scientificName": "Notophthalmus viridescens",
+      "size": "7-10 cm",
+      "lifespan": "12-15 let ve volné přírodě",
+      "habitat": "Rybníky, jezera a pomalé potoky ve východní Severní Americe.",
+      "funFact": "Čolci východní mají unikátní třístupňový životní cyklus.",
+      "localPath": "/images/amphibians/amphibians7.jpg"
+    },
+    {
+      "fileName": "amphibians8.jpg",
+      "commonName": "Poison Dart Frog",
+      "scientificName": "Phyllobates terribilis",
+      "size": "2-5 cm",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Tropické deštné lesy Kolumbie a Ekvádoru.",
+      "funFact": "Žáby šípové zlaté patří mezi nejtoxičtější zvířata na Zemi.",
+      "localPath": "/images/amphibians/amphibians8.jpg"
+    },
+    {
+      "fileName": "amphibians9.jpg",
+      "commonName": "Axolotl",
+      "scientificName": "Ambystoma mexicanum",
+      "size": "15-45 cm",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Jezero Xochimilco a okolní kanály v Mexico City.",
+      "funFact": "Axolotlové dokážou regenerovat celé končetiny a orgány.",
+      "localPath": "/images/amphibians/amphibians9.jpg"
+    },
+    {
+      "fileName": "amphibians10.jpg",
+      "commonName": "Tiger Salamander",
+      "scientificName": "Ambystoma tigrinum",
+      "size": "15-35 cm",
+      "lifespan": "10-16 let ve volné přírodě",
+      "habitat": "Různorodá prostředí od lesů po traviny po Severní Americe.",
+      "funFact": "Mloci tygří jsou největší suchozemští mloci v Severní Americe.",
+      "localPath": "/images/amphibians/amphibians10.jpg"
+    },
+    {
+      "fileName": "amphibians11.jpg",
+      "commonName": "Green Tree Frog",
+      "scientificName": "Hyla cinerea",
+      "size": "3-6 cm",
+      "lifespan": "2-5 let ve volné přírodě",
+      "habitat": "Stromy a keře blízko vody v jihovýchodní USA.",
+      "funFact": "Žáby zelené dokážou měnit barvu a mají lepkavé polštářky na prstech.",
+      "localPath": "/images/amphibians/amphibians11.jpg"
+    },
+    {
+      "fileName": "amphibians12.jpg",
+      "commonName": "Hellbender",
+      "scientificName": "Cryptobranchus alleganiensis",
+      "size": "30-74 cm",
+      "lifespan": "25-30 let ve volné přírodě",
+      "habitat": "Rychle tekoucí, skalnaté potoky ve východní USA.",
+      "funFact": "Mloci obrovští jsou největší mloci v Severní Americe.",
+      "localPath": "/images/amphibians/amphibians12.jpg"
+    },
+    {
+      "fileName": "amphibians13.jpg",
+      "commonName": "Cane Toad",
+      "scientificName": "Rhinella marina",
+      "size": "10-24 cm",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Různorodá prostředí, původně ze Střední a Jižní Ameriky.",
+      "funFact": "Ropuchy obrovské jsou vysoce toxické a invazivní.",
+      "localPath": "/images/amphibians/amphibians13.jpg"
+    },
+    {
+      "fileName": "amphibians14.jpg",
+      "commonName": "Fire Salamander",
+      "scientificName": "Salamandra salamandra",
+      "size": "15-25 cm",
+      "lifespan": "14-20 let ve volné přírodě",
+      "habitat": "Listnaté lesy blízko potoků v Evropě.",
+      "funFact": "Mloci skvrnitý mají jasně žluté značky, které varují před toxicitou.",
+      "localPath": "/images/amphibians/amphibians14.jpg"
+    },
+    {
+      "fileName": "amphibians15.jpg",
+      "commonName": "Mudpuppy",
+      "scientificName": "Necturus maculosus",
+      "size": "20-33 cm",
+      "lifespan": "20-30 let ve volné přírodě",
+      "habitat": "Trvalé vodní plochy ve východní Severní Americe.",
+      "funFact": "Mloci bahnití jsou plně aquatičtí a zachovávají si žábry celý život.",
+      "localPath": "/images/amphibians/amphibians15.jpg"
+    },
+    {
+      "fileName": "amphibians16.jpg",
+      "commonName": "Glass Frog",
+      "scientificName": "Centrolenella fleischmanni",
+      "size": "2-3 cm",
+      "lifespan": "7-14 let ve volné přírodě",
+      "habitat": "Tropické deštné lesy blízko potoků ve Střední a Jižní Americe.",
+      "funFact": "Žáby skleněné mají průhlednou kůži na břiše.",
+      "localPath": "/images/amphibians/amphibians16.jpg"
+    },
+    {
+      "fileName": "amphibians17.jpg",
+      "commonName": "Caecilian",
+      "scientificName": "Gymnopis multiplicata",
+      "size": "30-60 cm",
+      "lifespan": "4-5 let ve volné přírodě",
+      "habitat": "Podzemní nory v tropických půdách Střední Ameriky.",
+      "funFact": "Červoři jsou červovití obojživelníci, kteří žijí pod zemí.",
+      "localPath": "/images/amphibians/amphibians17.jpg"
+    },
+    {
+      "fileName": "amphibians18.jpg",
+      "commonName": "Chorus Frog",
+      "scientificName": "Pseudacris triseriata",
+      "size": "2-4 cm",
+      "lifespan": "2-3 roky ve volné přírodě",
+      "habitat": "Traviny a prérie blízko dočasných tůní po střední Severní Americe.",
+      "funFact": "Rosničky stepní patří mezi první, které volají na jaře.",
+      "localPath": "/images/amphibians/amphibians18.jpg"
+    },
+    {
+      "fileName": "amphibians19.jpg",
+      "commonName": "Marbled Salamander",
+      "scientificName": "Ambystoma opacum",
+      "size": "8-12 cm",
+      "lifespan": "8-10 let ve volné přírodě",
+      "habitat": "Listnaté a smíšené lesy po východní USA.",
+      "funFact": "Mloci mramorovaní se rozmnožují na podzim místo na jaře.",
+      "localPath": "/images/amphibians/amphibians19.jpg"
+    },
+    {
+      "fileName": "amphibians20.jpg",
+      "commonName": "Pickerel Frog",
+      "scientificName": "Lithobates palustris",
+      "size": "4-7 cm",
+      "lifespan": "4-5 let ve volné přírodě",
+      "habitat": "Chladné, čisté potoky a prameny po východní USA.",
+      "funFact": "Žáby leopardí jsou toxické a mohou zabít jiné obojživelníky.",
+      "localPath": "/images/amphibians/amphibians20.jpg"
+    },
+    {
+      "fileName": "amphibians21.jpg",
+      "commonName": "Four-toed Salamander",
+      "scientificName": "Hemidactylium scutatum",
+      "size": "6-9 cm",
+      "lifespan": "3-6 let ve volné přírodě",
+      "habitat": "Mokřady a bažiny po východní Severní Americe.",
+      "funFact": "Žáby zelené mají hlasité volání, které lze slyšet na velkou vzdálenost.",
+      "localPath": "/images/amphibians/amphibians21.jpg"
+    },
+    {
+      "fileName": "amphibians22.jpg",
+      "commonName": "Gray Tree Frog",
+      "scientificName": "Hyla versicolor",
+      "size": "5-8 cm",
+      "lifespan": "4-7 let ve volné přírodě",
+      "habitat": "Lesy a traviny po celé Severní Americe.",
+      "funFact": "Žáby šedé dokážou měnit barvu podle prostředí.",
+      "localPath": "/images/amphibians/amphibians22.jpg"
+    },
+    {
+      "fileName": "amphibians23.jpg",
+      "commonName": "Red Salamander",
+      "scientificName": "Pseudotriton ruber",
+      "size": "3-5 cm",
+      "lifespan": "2-4 roky ve volné přírodě",
+      "habitat": "Mokřady a dočasné tůně po východní Severní Americe.",
+      "funFact": "Rosničky jarní mají charakteristické X na zádech.",
+      "localPath": "/images/amphibians/amphibians23.jpg"
+    },
+    {
+      "fileName": "amphibians24.jpg",
+      "commonName": "Cope's Gray Tree Frog",
+      "scientificName": "Hyla chrysoscelis",
+      "size": "10-15 cm",
+      "lifespan": "6-12 let ve volné přírodě",
+      "habitat": "Podzemní nory v lesích po východní USA.",
+      "funFact": "Mloci čtyřprstí žijí celý život pod zemí.",
+      "localPath": "/images/amphibians/amphibians24.jpg"
+    },
+    {
+      "fileName": "amphibians25.jpg",
+      "commonName": "Two-lined Salamander",
+      "scientificName": "Eurycea bislineata",
+      "size": "4-6 cm",
+      "lifespan": "3-5 let ve volné přírodě",
+      "habitat": "Horské potoky a prameny po východní USA.",
+      "funFact": "Mloci pramenitý preferují velmi čistou, chladnou vodu.",
+      "localPath": "/images/amphibians/amphibians25.jpg"
+    },
+    {
+      "fileName": "amphibians26.jpg",
+      "commonName": "Fowler's Toad",
+      "scientificName": "Anaxyrus fowleri",
+      "size": "8-12 cm",
+      "lifespan": "5-10 let ve volné přírodě",
+      "habitat": "Vlhké lesy po východní Severní Americe.",
+      "funFact": "Mloci dlouhoocasí mají nejdelší ocas ze všech pozemních mloků.",
+      "localPath": "/images/amphibians/amphibians26.jpg"
+    },
+    {
+      "fileName": "amphibians27.jpg",
+      "commonName": "Slimy Salamander",
+      "scientificName": "Plethodon glutinosus",
+      "size": "6-10 cm",
+      "lifespan": "4-8 let ve volné přírodě",
+      "habitat": "Skalnaté potoky v Apalačských horách.",
+      "funFact": "Mloci horští jsou přizpůsobeni životu v rychle tekoucí vodě.",
+      "localPath": "/images/amphibians/amphibians27.jpg"
+    },
+    {
+      "fileName": "amphibians28.jpg",
+      "commonName": "Leopard Frog",
+      "scientificName": "Lithobates pipiens",
+      "size": "12-18 cm",
+      "lifespan": "8-15 let ve volné přírodě",
+      "habitat": "Jeskyně a podzemní vody v jihovýchodní USA.",
+      "funFact": "Mloci jeskynní jsou slepí a bezbarvý.",
+      "localPath": "/images/amphibians/amphibians28.jpg"
+    },
+    {
+      "fileName": "amphibians29.jpg",
+      "commonName": "Long-tailed Salamander",
+      "scientificName": "Eurycea longicauda",
+      "size": "5-9 cm",
+      "lifespan": "3-7 let ve volné přírodě",
+      "habitat": "Pobřežní mokřady po východním pobřeží USA.",
+      "funFact": "Žáby pobřežní jsou tolerantní vůči slané vodě.",
+      "localPath": "/images/amphibians/amphibians29.jpg"
+    },
+    {
+      "fileName": "amphibians30.jpg",
+      "commonName": "Green Frog",
+      "scientificName": "Lithobates clamitans",
+      "size": "7-11 cm",
+      "lifespan": "4-8 let ve volné přírodě",
+      "habitat": "Bažiny a mokřady po jihovýchodní USA.",
+      "funFact": "Žáby bronzové mají kovově zbarvené tělo a hlasité volání.",
+      "localPath": "/images/amphibians/amphibians30.jpg"
+    }
+  ]
+}

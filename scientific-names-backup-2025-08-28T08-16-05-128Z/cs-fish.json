@@ -1,0 +1,306 @@
+{
+  "category": "Ryby",
+  "totalPhotos": 30,
+  "photos": [
+    {
+      "fileName": "fish1.jpg",
+      "commonName": "Žralok bílý",
+      "scientificName": "Micropterus salmoides",
+      "size": "30-60 cm (12-24 cm), 1-5 kg",
+      "lifespan": "10-16 let ve volné přírodě",
+      "habitat": "Sladkovodní řeky a jezera. Preferují čisté vody s kamenitým dnem.",
+      "funFact": "Žralok bílý dokážou žít až 30 let a mají složité sociální chování.",
+      "localPath": "/images/fish/fish1.jpg"
+    },
+    {
+      "fileName": "fish2.jpg",
+      "commonName": "Tuňák obecný",
+      "scientificName": "Oncorhynchus mykiss",
+      "size": "30-40 cm (12-16 cm), 1-2 kg",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Sladkovodní řeky a jezera. Preferují čisté vody s kamenitým dnem.",
+      "funFact": "Tuňák obecný dokážou žít až 30 let a mají složité sociální chování.",
+      "localPath": "/images/fish/fish2.jpg"
+    },
+    {
+      "fileName": "fish3.jpg",
+      "commonName": "Losos atlantský",
+      "scientificName": "Esox lucius",
+      "size": "40-55 cm (16-22 cm), 1-3 kg",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Chladné oceánské vody severních oblastí. Preferují hloubky 50-200 metrů.",
+      "funFact": "Losos atlantský migrují na tisíce kilometrů za potravou a rozmnožováním.",
+      "localPath": "/images/fish/fish3.jpg"
+    },
+    {
+      "fileName": "fish4.jpg",
+      "commonName": "Treska obecná",
+      "scientificName": "Lepomis macrochirus",
+      "size": "15-25 cm (6-10 inches), 200-500 g",
+      "lifespan": "5-8 let ve volné přírodě",
+      "habitat": "Sladkovodní řeky a jezera. Preferují čisté vody s kamenitým dnem.",
+      "funFact": "Treska obecná migrují na tisíce kilometrů za potravou a rozmnožováním.",
+      "localPath": "/images/fish/fish4.jpg"
+    },
+    {
+      "fileName": "fish5.jpg",
+      "commonName": "Halibut obecný",
+      "scientificName": "Ictalurus punctatus",
+      "size": "40-60 cm (16-24 cm), 1-4 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Tropické a subtropické oceány. Preferují teplé vody s bohatou faunou.",
+      "funFact": "Halibut obecný dokážou plavat rychlostí až 50 km/h a mají výborný čich.",
+      "localPath": "/images/fish/fish5.jpg"
+    },
+    {
+      "fileName": "fish6.jpg",
+      "commonName": "Mečoun obecný",
+      "scientificName": "Salmo salar",
+      "size": "70-75 cm (28-30 cm), 3-5 kg",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Hluboké oceánské vody. Migrují na dlouhé vzdálenosti za potravou.",
+      "funFact": "Mečoun obecný mají speciální orgány pro detekci elektrických polí.",
+      "localPath": "/images/fish/fish6.jpg"
+    },
+    {
+      "fileName": "fish7.jpg",
+      "commonName": "Marlín modrý",
+      "scientificName": "Sander vitreus",
+      "size": "35-50 cm (14-20 cm), 1-3 kg",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Pobřežní vody a ústí řek. Preferují oblasti s dostatkem planktonu.",
+      "funFact": "Marlín modrý dokážou změnit barvu podle prostředí a nálady.",
+      "localPath": "/images/fish/fish7.jpg"
+    },
+    {
+      "fileName": "fish8.jpg",
+      "commonName": "Manta obrovská",
+      "scientificName": "Morone saxatilis",
+      "size": "60-120 cm (24-48 cm), 4-15 kg",
+      "lifespan": "25-30 let ve volné přírodě",
+      "habitat": "Hluboké oceánské vody. Migrují na dlouhé vzdálenosti za potravou.",
+      "funFact": "Manta obrovská dokážou plavat rychlostí až 50 km/h a mají výborný čich.",
+      "localPath": "/images/fish/fish8.jpg"
+    },
+    {
+      "fileName": "fish9.jpg",
+      "commonName": "Žralok velrybí",
+      "scientificName": "Perca flavescens",
+      "size": "15-25 cm (6-10 inches), 100-300 g",
+      "lifespan": "7-10 let ve volné přírodě",
+      "habitat": "Chladné oceánské vody severních oblastí. Preferují hloubky 50-200 metrů.",
+      "funFact": "Žralok velrybí migrují na tisíce kilometrů za potravou a rozmnožováním.",
+      "localPath": "/images/fish/fish9.jpg"
+    },
+    {
+      "fileName": "fish10.jpg",
+      "commonName": "Úhoř říční",
+      "scientificName": "Esox masquinongy",
+      "size": "75-120 cm (30-48 cm), 7-16 kg",
+      "lifespan": "15-30 let ve volné přírodě",
+      "habitat": "Pobřežní vody a ústí řek. Preferují oblasti s dostatkem planktonu.",
+      "funFact": "Úhoř říční mají speciální orgány pro detekci elektrických polí.",
+      "localPath": "/images/fish/fish10.jpg"
+    },
+    {
+      "fileName": "fish11.jpg",
+      "commonName": "Štika obecná",
+      "scientificName": "Salvelinus fontinalis",
+      "size": "25-35 cm (10-14 inches), 300-800 g",
+      "lifespan": "3-5 let ve volné přírodě",
+      "habitat": "Tropické a subtropické oceány. Preferují teplé vody s bohatou faunou.",
+      "funFact": "Štika obecná dokážou plavat rychlostí až 50 km/h a mají výborný čich.",
+      "localPath": "/images/fish/fish11.jpg"
+    },
+    {
+      "fileName": "fish12.jpg",
+      "commonName": "Pstruh duhový",
+      "scientificName": "Micropterus dolomieu",
+      "size": "25-40 cm (10-16 inches), 500-2000 g",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Tropické a subtropické oceány. Preferují teplé vody s bohatou faunou.",
+      "funFact": "Pstruh duhový dokážou změnit barvu podle prostředí a nálady.",
+      "localPath": "/images/fish/fish12.jpg"
+    },
+    {
+      "fileName": "fish13.jpg",
+      "commonName": "Sumec velký",
+      "scientificName": "Salvelinus namaycush",
+      "size": "60-80 cm (24-32 cm), 4-8 kg",
+      "lifespan": "20-40 let ve volné přírodě",
+      "habitat": "Chladné oceánské vody severních oblastí. Preferují hloubky 50-200 metrů.",
+      "funFact": "Sumec velký mají speciální orgány pro detekci elektrických polí.",
+      "localPath": "/images/fish/fish13.jpg"
+    },
+    {
+      "fileName": "fish14.jpg",
+      "commonName": "Kapr obecný",
+      "scientificName": "Morone chrysops",
+      "size": "25-35 cm (10-14 inches), 500-1000 g",
+      "lifespan": "4-7 let ve volné přírodě",
+      "habitat": "Tropické a subtropické oceány. Preferují teplé vody s bohatou faunou.",
+      "funFact": "Kapr obecný dokážou změnit barvu podle prostředí a nálady.",
+      "localPath": "/images/fish/fish14.jpg"
+    },
+    {
+      "fileName": "fish15.jpg",
+      "commonName": "Okoun říční",
+      "scientificName": "Esox masquinongy",
+      "size": "90-150 cm (36-60 cm), 10-25 kg",
+      "lifespan": "18-30 let ve volné přírodě",
+      "habitat": "Chladné oceánské vody severních oblastí. Preferují hloubky 50-200 metrů.",
+      "funFact": "Okoun říční dokážou změnit barvu podle prostředí a nálady.",
+      "localPath": "/images/fish/fish15.jpg"
+    },
+    {
+      "fileName": "fish16.jpg",
+      "commonName": "Candát obecný",
+      "scientificName": "Oncorhynchus kisutch",
+      "size": "60-70 cm (24-28 cm), 3-5 kg",
+      "lifespan": "3-4 let ve volné přírodě",
+      "habitat": "Chladné oceánské vody severních oblastí. Preferují hloubky 50-200 metrů.",
+      "funFact": "Candát obecný dokážou žít až 30 let a mají složité sociální chování.",
+      "localPath": "/images/fish/fish16.jpg"
+    },
+    {
+      "fileName": "fish17.jpg",
+      "commonName": "Plotice obecná",
+      "scientificName": "Pomoxis nigromaculatus",
+      "size": "20-30 cm (8-12 inches), 200-500 g",
+      "lifespan": "5-8 let ve volné přírodě",
+      "habitat": "Sladkovodní řeky a jezera. Preferují čisté vody s kamenitým dnem.",
+      "funFact": "Plotice obecná dokážou změnit barvu podle prostředí a nálady.",
+      "localPath": "/images/fish/fish17.jpg"
+    },
+    {
+      "fileName": "fish18.jpg",
+      "commonName": "Cejn velký",
+      "scientificName": "Lepomis gibbosus",
+      "size": "15-20 cm (6-8 inches), 100-300 g",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Sladkovodní řeky a jezera. Preferují čisté vody s kamenitým dnem.",
+      "funFact": "Cejn velký dokážou žít až 30 let a mají složité sociální chování.",
+      "localPath": "/images/fish/fish18.jpg"
+    },
+    {
+      "fileName": "fish19.jpg",
+      "commonName": "Lín obecný",
+      "scientificName": "Oncorhynchus tshawytscha",
+      "size": "90-150 cm (36-60 cm), 14-60 kg",
+      "lifespan": "3-7 let ve volné přírodě",
+      "habitat": "Hluboké oceánské vody. Migrují na dlouhé vzdálenosti za potravou.",
+      "funFact": "Lín obecný dokážou žít až 30 let a mají složité sociální chování.",
+      "localPath": "/images/fish/fish19.jpg"
+    },
+    {
+      "fileName": "fish20.jpg",
+      "commonName": "Amur bílý",
+      "scientificName": "Oncorhynchus mykiss",
+      "size": "60-80 cm (24-32 cm), 3-8 kg",
+      "lifespan": "4-8 let ve volné přírodě",
+      "habitat": "Sladkovodní řeky a jezera. Preferují čisté vody s kamenitým dnem.",
+      "funFact": "Amur bílý dokážou plavat rychlostí až 50 km/h a mají výborný čich.",
+      "localPath": "/images/fish/fish20.jpg"
+    },
+    {
+      "fileName": "fish21.jpg",
+      "commonName": "Pstruh obecný",
+      "scientificName": "Pylodictis olivaris",
+      "size": "60-100 cm (24-40 cm), 5-20 kg",
+      "lifespan": "15-25 let ve volné přírodě",
+      "habitat": "Chladné oceánské vody severních oblastí. Preferují hloubky 50-200 metrů.",
+      "funFact": "Pstruh obecný mají speciální orgány pro detekci elektrických polí.",
+      "localPath": "/images/fish/fish21.jpg"
+    },
+    {
+      "fileName": "fish22.jpg",
+      "commonName": "Lipan podhorní",
+      "scientificName": "Sander canadensis",
+      "size": "25-35 cm (10-14 inches), 300-800 g",
+      "lifespan": "8-12 let ve volné přírodě",
+      "habitat": "Sladkovodní řeky a jezera. Preferují čisté vody s kamenitým dnem.",
+      "funFact": "Lipan podhorní dokážou plavat rychlostí až 50 km/h a mají výborný čich.",
+      "localPath": "/images/fish/fish22.jpg"
+    },
+    {
+      "fileName": "fish23.jpg",
+      "commonName": "Ostroretka stěhovavá",
+      "scientificName": "Lota lota",
+      "size": "40-60 cm (16-24 cm), 1-3 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Chladné oceánské vody severních oblastí. Preferují hloubky 50-200 metrů.",
+      "funFact": "Ostroretka stěhovavá dokážou žít až 30 let a mají složité sociální chování.",
+      "localPath": "/images/fish/fish23.jpg"
+    },
+    {
+      "fileName": "fish24.jpg",
+      "commonName": "Hlavatka obecná",
+      "scientificName": "Lepisosteus osseus",
+      "size": "60-120 cm (24-48 cm), 2-10 kg",
+      "lifespan": "18-26 let ve volné přírodě",
+      "habitat": "Hluboké oceánské vody. Migrují na dlouhé vzdálenosti za potravou.",
+      "funFact": "Hlavatka obecná dokážou žít až 30 let a mají složité sociální chování.",
+      "localPath": "/images/fish/fish24.jpg"
+    },
+    {
+      "fileName": "fish25.jpg",
+      "commonName": "Jelec tloušť",
+      "scientificName": "Polyodon spathula",
+      "size": "120-180 cm (48-72 cm), 20-60 kg",
+      "lifespan": "30-55 let ve volné přírodě",
+      "habitat": "Hluboké oceánské vody. Migrují na dlouhé vzdálenosti za potravou.",
+      "funFact": "Jelec tloušť dokážou změnit barvu podle prostředí a nálady.",
+      "localPath": "/images/fish/fish25.jpg"
+    },
+    {
+      "fileName": "fish26.jpg",
+      "commonName": "Parma obecná",
+      "scientificName": "Amia calva",
+      "size": "45-75 cm (18-30 cm), 2-5 kg",
+      "lifespan": "12-30 let ve volné přírodě",
+      "habitat": "Sladkovodní řeky a jezera. Preferují čisté vody s kamenitým dnem.",
+      "funFact": "Parma obecná dokážou plavat rychlostí až 50 km/h a mají výborný čich.",
+      "localPath": "/images/fish/fish26.jpg"
+    },
+    {
+      "fileName": "fish27.jpg",
+      "commonName": "Bolení dravé",
+      "scientificName": "Aplodinotus grunniens",
+      "size": "30-50 cm (12-20 cm), 1-4 kg",
+      "lifespan": "8-15 let ve volné přírodě",
+      "habitat": "Pobřežní vody a ústí řek. Preferují oblasti s dostatkem planktonu.",
+      "funFact": "Bolení dravé dokážou změnit barvu podle prostředí a nálady.",
+      "localPath": "/images/fish/fish27.jpg"
+    },
+    {
+      "fileName": "fish28.jpg",
+      "commonName": "Proudník jednovousý",
+      "scientificName": "Moxostoma macrolepidotum",
+      "size": "30-50 cm (12-20 cm), 1-3 kg",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Pobřežní vody a ústí řek. Preferují oblasti s dostatkem planktonu.",
+      "funFact": "Proudník jednovousý migrují na tisíce kilometrů za potravou a rozmnožováním.",
+      "localPath": "/images/fish/fish28.jpg"
+    },
+    {
+      "fileName": "fish29.jpg",
+      "commonName": "Mřenka mramorovaná",
+      "scientificName": "Hiodon tergisus",
+      "size": "20-35 cm (8-14 inches), 200-600 g",
+      "lifespan": "6-10 let ve volné přírodě",
+      "habitat": "Hluboké oceánské vody. Migrují na dlouhé vzdálenosti za potravou.",
+      "funFact": "Mřenka mramorovaná dokážou žít až 30 let a mají složité sociální chování.",
+      "localPath": "/images/fish/fish29.jpg"
+    },
+    {
+      "fileName": "fish30.jpg",
+      "commonName": "Perlín ostrobřichý",
+      "scientificName": "Catostomus commersonii",
+      "size": "30-50 cm (12-20 cm), 1-3 kg",
+      "lifespan": "10-17 let ve volné přírodě",
+      "habitat": "Chladné oceánské vody severních oblastí. Preferují hloubky 50-200 metrů.",
+      "funFact": "Perlín ostrobřichý mají speciální orgány pro detekci elektrických polí.",
+      "localPath": "/images/fish/fish30.jpg"
+    }
+  ]
+}

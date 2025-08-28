@@ -1,0 +1,20 @@
+{
+  "navigation": {
+    "gameTab": "PEXEDU",
+    "backToMenu": "Zpět do hlavního menu"
+  },
+  "languageSelector": {
+    "english": "English",
+    "czech": "Čeština"
+  },
+  "errors": {
+    "selectPlayersError": "Nejprve vyberte počet hráčů.",
+    "loadError": "Nepodařilo se načíst data hry. Zkuste to znovu."
+  },
+  "actions": {
+    "close": "Zavřít",
+    "previous": "Předchozí",
+    "next": "Další",
+    "playAgain": "Hrát znovu"
+  }
+}

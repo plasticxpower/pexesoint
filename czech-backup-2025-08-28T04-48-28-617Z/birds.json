@@ -1,0 +1,306 @@
+{
+  "category": "birds",
+  "totalPhotos": 30,
+  "photos": [
+    {
+      "fileName": "birds1.jpg",
+      "commonName": "American Robin",
+      "scientificName": "Turdus migratorius",
+      "size": "20-28 cm, 77 g",
+      "lifespan": "2 roky ve volné přírodě, až 13 let",
+      "habitat": "Lesy, parky, zahrady a trávníky po celé Severní Americe.",
+      "funFact": "Červenky americké patří mezi první ptáky, kteří zpívají za úsvitu.",
+      "localPath": "/images/birds/birds1.jpg"
+    },
+    {
+      "fileName": "birds2.jpg",
+      "commonName": "American Crow",
+      "scientificName": "Corvus brachyrhynchos",
+      "size": "40-50 cm, 315-620 g",
+      "lifespan": "7-8 let ve volné přírodě, až 20 let",
+      "habitat": "Otevřené lesy, pole, parky a městské oblasti po celé Severní Americe.",
+      "funFact": "Vrány patří mezi nejinteligentnější ptáky a dokážou používat nástroje.",
+      "localPath": "/images/birds/birds2.jpg"
+    },
+    {
+      "fileName": "birds3.jpg",
+      "commonName": "Black-capped Chickadee",
+      "scientificName": "Poecile atricapillus",
+      "size": "12-15 cm, 9-14 g",
+      "lifespan": "2-3 roky ve volné přírodě",
+      "habitat": "Smíšené a listnaté lesy, parky po celé severní Severní Americe.",
+      "funFact": "Sýkorky si dokážou zapamatovat tisíce úkrytů, kde si schovávají potravu.",
+      "localPath": "/images/birds/birds3.jpg"
+    },
+    {
+      "fileName": "birds4.jpg",
+      "commonName": "Eastern Bluebird",
+      "scientificName": "Sialia sialis",
+      "size": "16-21 cm, 27-34 g",
+      "lifespan": "6-10 let ve volné přírodě",
+      "habitat": "Otevřené lesy a zemědělské oblasti po celé východní Severní Americe.",
+      "funFact": "Drozdové modří hnízdí v dutinách a velmi prospěli z programů budek.",
+      "localPath": "/images/birds/birds4.jpg"
+    },
+    {
+      "fileName": "birds5.jpg",
+      "commonName": "American Goldfinch",
+      "scientificName": "Spinus tristis",
+      "size": "11-14 cm, 11-20 g",
+      "lifespan": "3-6 let ve volné přírodě",
+      "habitat": "Otevřená krajina, sady a předměstské oblasti po celé Severní Americe.",
+      "funFact": "Stehlíci američtí jsou přísní vegetariáni a jedni z nejpozději hnízdících ptáků.",
+      "localPath": "/images/birds/birds5.jpg"
+    },
+    {
+      "fileName": "birds6.jpg",
+      "commonName": "Northern Cardinal",
+      "scientificName": "Cardinalis cardinalis",
+      "size": "21-23 cm, 45 g",
+      "lifespan": "3-4 roky ve volné přírodě",
+      "habitat": "Lesy, zahrady a mokřady po celé východní a střední Severní Americe.",
+      "funFact": "Kardinálové se párují na celý život a samec krmí samici během námluv.",
+      "localPath": "/images/birds/birds6.jpg"
+    },
+    {
+      "fileName": "birds7.jpg",
+      "commonName": "Blue Jay",
+      "scientificName": "Cyanocitta cristata",
+      "size": "28-30 cm, 70-100 g",
+      "lifespan": "7-9 let ve volné přírodě",
+      "habitat": "Dubové a borové lesy, parky po celé východní Severní Americe.",
+      "funFact": "Sojky modré dokážou napodobovat volání jestřábů a hrají klíčovou roli v obnově lesů.",
+      "localPath": "/images/birds/birds7.jpg"
+    },
+    {
+      "fileName": "birds8.jpg",
+      "commonName": "House Sparrow",
+      "scientificName": "Passer domesticus",
+      "size": "14-18 cm, 24-39 g",
+      "lifespan": "4-5 let ve volné přírodě",
+      "habitat": "Městské a předměstské oblasti po celém světě, úzce spojené s lidským obydlím.",
+      "funFact": "Vrabci domácí patří mezi nejrozšířenější ptáky na světě.",
+      "localPath": "/images/birds/birds8.jpg"
+    },
+    {
+      "fileName": "birds9.jpg",
+      "commonName": "Red-winged Blackbird",
+      "scientificName": "Agelaius phoeniceus",
+      "size": "17-22 cm, 32-77 g",
+      "lifespan": "2-3 roky ve volné přírodě",
+      "habitat": "Mokřady, bažiny a pole po celé Severní Americe.",
+      "funFact": "Samci kosa červenokřídlého jsou velmi teritoriální a agresivně brání svá hnízdiště.",
+      "localPath": "/images/birds/birds9.jpg"
+    },
+    {
+      "fileName": "birds10.jpg",
+      "commonName": "Bald Eagle",
+      "scientificName": "Haliaeetus leucocephalus",
+      "size": "70-102 cm, 3-6.3 kg",
+      "lifespan": "20-30 let ve volné přírodě",
+      "habitat": "Blízko velkých vodních ploch po celé Severní Americe.",
+      "funFact": "Orli bělohlaví dokážou pikovat rychlostí až 160 km/h při lovu ryb.",
+      "localPath": "/images/birds/birds10.jpg"
+    },
+    {
+      "fileName": "birds11.jpg",
+      "commonName": "Great Blue Heron",
+      "scientificName": "Ardea herodias",
+      "size": "91-137 cm, 1.02-2.5 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Mokřady, bažiny, jezera a řeky po celé Severní Americe.",
+      "funFact": "Volavky modré dokážou stát nehybně hodiny a útočit rychlostí blesku.",
+      "localPath": "/images/birds/birds11.jpg"
+    },
+    {
+      "fileName": "birds12.jpg",
+      "commonName": "Red-tailed Hawk",
+      "scientificName": "Buteo jamaicensis",
+      "size": "45-65 cm, 0.69-1.67 kg",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Různorodá prostředí včetně lesů, pouští a městských oblastí.",
+      "funFact": "Jestřábi červenoocasí mají zrak 8krát ostřejší než lidé.",
+      "localPath": "/images/birds/birds12.jpg"
+    },
+    {
+      "fileName": "birds13.jpg",
+      "commonName": "Mallard Duck",
+      "scientificName": "Anas platyrhynchos",
+      "size": "50-65 cm, 0.72-1.58 kg",
+      "lifespan": "5-10 let ve volné přírodě",
+      "habitat": "Mokřady, rybníky, jezera a řeky po Severní Americe a Evropě.",
+      "funFact": "Kachny divoké jsou předky většiny domácích kachen.",
+      "localPath": "/images/birds/birds13.jpg"
+    },
+    {
+      "fileName": "birds14.jpg",
+      "commonName": "Great Horned Owl",
+      "scientificName": "Bubo virginianus",
+      "size": "43-64 cm, 0.91-2.5 kg",
+      "lifespan": "5-15 let ve volné přírodě",
+      "habitat": "Různorodá prostředí včetně lesů, bažin a městských oblastí.",
+      "funFact": "Výři velcí dokážou otočit hlavu o 270 stupňů.",
+      "localPath": "/images/birds/birds14.jpg"
+    },
+    {
+      "fileName": "birds15.jpg",
+      "commonName": "Ruby-throated Hummingbird",
+      "scientificName": "Archilochus colubris",
+      "size": "7-9 cm, 2-6 g",
+      "lifespan": "3-5 let ve volné přírodě",
+      "habitat": "Zahrady, parky a okraje lesů po celé východní Severní Americe.",
+      "funFact": "Kolibříci rubínoví mávají křídly 53krát za sekundu.",
+      "localPath": "/images/birds/birds15.jpg"
+    },
+    {
+      "fileName": "birds16.jpg",
+      "commonName": "Mourning Dove",
+      "scientificName": "Zenaida macroura",
+      "size": "23-34 cm, 96-170 g",
+      "lifespan": "1.5 roku ve volné přírodě",
+      "habitat": "Otevřené lesy, pole, parky po celé Severní Americe.",
+      "funFact": "Hrdličky zarmoucené produkují 'mléko z vole' pro krmení mláďat.",
+      "localPath": "/images/birds/birds16.jpg"
+    },
+    {
+      "fileName": "birds17.jpg",
+      "commonName": "Downy Woodpecker",
+      "scientificName": "Picoides pubescens",
+      "size": "14-18 cm, 20-33 g",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Listnaté a smíšené lesy, parky po celé Severní Americe.",
+      "funFact": "Strakapouds malí mají speciální tlumící tkáň mezi zobákem a lebkou.",
+      "localPath": "/images/birds/birds17.jpg"
+    },
+    {
+      "fileName": "birds18.jpg",
+      "commonName": "Canada Goose",
+      "scientificName": "Branta canadensis",
+      "size": "75-110 cm, 3.2-6.5 kg",
+      "lifespan": "10-24 let ve volné přírodě",
+      "habitat": "Jezera, rybníky, řeky a parky po celé Severní Americe.",
+      "funFact": "Husy kanadské se párují na celý život a létají ve formaci V.",
+      "localPath": "/images/birds/birds18.jpg"
+    },
+    {
+      "fileName": "birds19.jpg",
+      "commonName": "Barn Owl",
+      "scientificName": "Tyto alba",
+      "size": "25-45 cm, 224-710 g",
+      "lifespan": "4 roky ve volné přírodě",
+      "habitat": "Otevřená prostředí včetně zemědělských oblastí po celém světě.",
+      "funFact": "Sovy pálené mají srdcovitý obličejový kotouč, který směřuje zvuk k uším.",
+      "localPath": "/images/birds/birds19.jpg"
+    },
+    {
+      "fileName": "birds20.jpg",
+      "commonName": "Osprey",
+      "scientificName": "Pandion haliaetus",
+      "size": "54-58 cm, 1.2-2.0 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Pobřežní oblasti a řeky po celém světě.",
+      "funFact": "Orlové říční se živí téměř výhradně rybami a mají reverzibilní vnější prst.",
+      "localPath": "/images/birds/birds20.jpg"
+    },
+    {
+      "fileName": "birds21.jpg",
+      "commonName": "Peregrine Falcon",
+      "scientificName": "Falco peregrinus",
+      "size": "25-32 cm, 150-300 g",
+      "lifespan": "8-12 let ve volné přírodě",
+      "habitat": "Lesy a parky po celé Severní Americe.",
+      "funFact": "Strakapouds velcí dokážou vytesat díry do živých stromů za pouhé 12-17 dní.",
+      "localPath": "/images/birds/birds21.jpg"
+    },
+    {
+      "fileName": "birds22.jpg",
+      "commonName": "Wild Turkey",
+      "scientificName": "Meleagris gallopavo",
+      "size": "20-26 cm, 40-70 g",
+      "lifespan": "6-8 let ve volné přírodě",
+      "habitat": "Otevřené lesy a okraje lesů po celé Severní Americe.",
+      "funFact": "Lejsci východní loví hmyz za letu s neuvěřitelnou přesností.",
+      "localPath": "/images/birds/birds22.jpg"
+    },
+    {
+      "fileName": "birds23.jpg",
+      "commonName": "Belted Kingfisher",
+      "scientificName": "Megaceryle alcyon",
+      "size": "12-14 cm, 6-11 g",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Jehličnaté lesy po celé severní Severní Americe.",
+      "funFact": "Králíčci korunkatí dokáží viset hlavou dolů při hledání potravy.",
+      "localPath": "/images/birds/birds23.jpg"
+    },
+    {
+      "fileName": "birds24.jpg",
+      "commonName": "Sandhill Crane",
+      "scientificName": "Antigone canadensis",
+      "size": "11-13 cm, 8-13 g",
+      "lifespan": "2-5 let ve volné přírodě",
+      "habitat": "Listnaté lesy po celé východní Severní Americe.",
+      "funFact": "Pěnice žlutá migruje až do Střední Ameriky každou zimu.",
+      "localPath": "/images/birds/birds24.jpg"
+    },
+    {
+      "fileName": "birds25.jpg",
+      "commonName": "Pileated Woodpecker",
+      "scientificName": "Dryocopus pileatus",
+      "size": "18-20 cm, 32-40 g",
+      "lifespan": "4-7 let ve volné přírodě",
+      "habitat": "Lesy a parky po celé Severní Americe.",
+      "funFact": "Drozdi pěvci mají repertoár přes 100 různých písní.",
+      "localPath": "/images/birds/birds25.jpg"
+    },
+    {
+      "fileName": "birds26.jpg",
+      "commonName": "Yellow Warbler",
+      "scientificName": "Setophaga petechia",
+      "size": "40-53 cm, 310-1400 g",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Lesy a otevřené oblasti po celé Severní Americe.",
+      "funFact": "Jestřábi ostříži jsou neuvěřitelně rychlí a obratní lovci.",
+      "localPath": "/images/birds/birds26.jpg"
+    },
+    {
+      "fileName": "birds27.jpg",
+      "commonName": "White-breasted Nuthatch",
+      "scientificName": "Sitta carolinensis",
+      "size": "35-50 cm, 200-800 g",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Otevřené oblasti, pole a prérie po celé Severní Americe.",
+      "funFact": "Poštolky americké dokážou vidět ultrafialové světlo.",
+      "localPath": "/images/birds/birds27.jpg"
+    },
+    {
+      "fileName": "birds28.jpg",
+      "commonName": "Cedar Waxwing",
+      "scientificName": "Bombycilla cedrorum",
+      "size": "48-65 cm, 690-1600 g",
+      "lifespan": "12-18 let ve volné přírodě",
+      "habitat": "Lesy a horské oblasti po celé Severní Americe.",
+      "funFact": "Tetřevi límcoví produkují hlubokké bubnování křídly během námluv.",
+      "localPath": "/images/birds/birds28.jpg"
+    },
+    {
+      "fileName": "birds29.jpg",
+      "commonName": "Indigo Bunting",
+      "scientificName": "Passerina cyanea",
+      "size": "25-35 cm, 85-140 g",
+      "lifespan": "5-8 let ve volné přírodě",
+      "habitat": "Otevřené lesy a okraje lesů po celé Severní Americe.",
+      "funFact": "Kukačky žlutozobaté jsou jedni z mála ptáků, kteří jedí chlupaté housenky.",
+      "localPath": "/images/birds/birds29.jpg"
+    },
+    {
+      "fileName": "birds30.jpg",
+      "commonName": "Rose-breasted Grosbeak",
+      "scientificName": "Pheucticus ludovicianus",
+      "size": "22-27 cm, 85-142 g",
+      "lifespan": "6-10 let ve volné přírodě",
+      "habitat": "Lesy a parky po celé východní Severní Americe.",
+      "funFact": "Tangary šarlatové jsou jedni z nejkrásnějších severoamerických ptáků.",
+      "localPath": "/images/birds/birds30.jpg"
+    }
+  ]
+}

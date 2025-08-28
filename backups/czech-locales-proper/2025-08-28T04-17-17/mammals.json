@@ -1,0 +1,306 @@
+{
+  "category": "mammals",
+  "totalPhotos": 30,
+  "photos": [
+    {
+      "fileName": "mammals1.jpg",
+      "commonName": "American Black Bear",
+      "scientificName": "Ursus americanus",
+      "size": "1.2-1.9 m (4-6 stopy) dlouhý, 90-140 kg",
+      "lifespan": "20-25 let ve volné přírodě",
+      "habitat": "Large forested areas napříč Severní Amerika. Obývají listnaté and smíšené lesy, močály, and mountainous regions.",
+      "funFact": "American black bears mohou sprintovat až 55 km/h (35 mph) and jsou vynikající plavci. Navzdory tomu, že jsou klasifikováni jako masožravci, they získávají 90% své stravy z rostlin, což z nich činí vysoce přizpůsobivé všežravci.",
+      "localPath": "/images/mammals/mammals1.jpg"
+    },
+    {
+      "fileName": "mammals2.jpg",
+      "commonName": "White-tailed Deer",
+      "scientificName": "Odocoileus virginianus",
+      "size": "1.5-2.1 m (5-7 stopy) dlouhý, 30-136 kg",
+      "lifespan": "6-14 let ve volné přírodě",
+      "habitat": "lesy, travnaté oblasti, and předměstské areas napříč the Americas. Preferují okrajové biotopy kde lesy se setkávají otevřené areas.",
+      "funFact": "White-tailed deer mohou skočit až 3 metrů high and 9 metrů in délka. They mají vynikající night zrak and mohou detekovat pohyb až 600 stopy daleko.",
+      "localPath": "/images/mammals/mammals2.jpg"
+    },
+    {
+      "fileName": "mammals3.jpg",
+      "commonName": "Eastern Gray Squirrel",
+      "scientificName": "Sciurus carolinensis",
+      "size": "23-30 cm (9-12 palců) plus 19-25 cm ocas",
+      "lifespan": "6 let ve volné přírodě, až 20 v zajetí",
+      "habitat": "listnaté and smíšené lesy in eastern Severní Amerika. They are highly adaptable and thrive in urban parks and předměstské areas.",
+      "funFact": "Gray squirrels mohou remember the locations of thousands of buried nuts and mají been observed using deceptive tactics to chránit their food caches from other squirrels.",
+      "localPath": "/images/mammals/mammals3.jpg"
+    },
+    {
+      "fileName": "mammals4.jpg",
+      "commonName": "Raccoon",
+      "scientificName": "Procyon lotor",
+      "size": "40-70 cm (16-28 palců), 5-26 kg",
+      "lifespan": "2-3 let ve volné přírodě, může žít over 20 let v zajetí",
+      "habitat": "listnaté and smíšené lesy, mokřady, and městské oblasti napříč Severní Amerika. Preferují areas blízko vodní zdroje.",
+      "funFact": "Raccoons mají extremely sensitive front paws with over 100,000 nerve endings. They often 'wash' their food in water to enhance their sense of touch and better examine their meal.",
+      "localPath": "/images/mammals/mammals4.jpg"
+    },
+    {
+      "fileName": "mammals5.jpg",
+      "commonName": "Red Fox",
+      "scientificName": "Vulpes vulpes",
+      "size": "45-90 cm (18-35 palců) plus 30-56 cm ocas",
+      "lifespan": "2-5 let ve volné přírodě",
+      "habitat": "Diverse environments napříč the northern hemisphere, including lesy, travnaté oblasti, hory, and městské oblasti.",
+      "funFact": "Red foxes mají vynikající sluch and mohou detekovat low-frequency sounds and rodents digging underground. They používají Earth's magnetic field to loví, což z nich činí one of the few zvířata with this ability.",
+      "localPath": "/images/mammals/mammals5.jpg"
+    },
+    {
+      "fileName": "mammals6.jpg",
+      "commonName": "Gray Wolf",
+      "scientificName": "Canis lupus",
+      "size": "1.0-1.6 m (3.3-5.2 stopy) dlouhý, 20-80 kg",
+      "lifespan": "6-8 let ve volné přírodě, až 13 let",
+      "habitat": "lesy, tundra, pouště, plains, and hory napříč northern regions. Preferují oblasti s hojné prey and minimal human disturbance.",
+      "funFact": "Wolves mají an neuvěřitelné čich that je 100 krát silnější než lidé. They mohou detekovat a scent from over 1.5 mil daleko and track kořist for hours.",
+      "localPath": "/images/mammals/mammals6.jpg"
+    },
+    {
+      "fileName": "mammals7.jpg",
+      "commonName": "Mountain Lion",
+      "scientificName": "Puma concolor",
+      "size": "1.0-1.8 m (3.3-5.9 stopy) dlouhý, 29-90 kg",
+      "lifespan": "8-13 let ve volné přírodě",
+      "habitat": "Diverse habitats from tropické rainforests to pouště and hory napříč the Americas. Preferují oblasti s husté vegetace for stalking prey.",
+      "funFact": "Mountain lions mohou skočit 15 stopy vertically and 40 stopy horizontálně. They jsou vynikající lezci and plavci, což z nich činí one of the most adaptable velký cats.",
+      "localPath": "/images/mammals/mammals7.jpg"
+    },
+    {
+      "fileName": "mammals8.jpg",
+      "commonName": "Moose",
+      "scientificName": "Alces alces",
+      "size": "2.4-3.1 m (8-10 stopy) dlouhý, 270-720 kg",
+      "lifespan": "15-25 let ve volné přírodě",
+      "habitat": "Boreal and smíšené listnaté lesy blízko jezera, mokřady, and močály napříč northern regions. Preferují oblasti s hojné aquatic vegetace.",
+      "funFact": "Moose jsou vynikající plavci and mohou potápět se až 20 stopy deep to krmí se on aquatic plants. Navzdory their velikost, they mohou běžet až 35 mph and jsou surprisingly obratný.",
+      "localPath": "/images/mammals/mammals8.jpg"
+    },
+    {
+      "fileName": "mammals9.jpg",
+      "commonName": "Beaver",
+      "scientificName": "Castor canadensis",
+      "size": "74-90 cm (29-35 palců) plus 25-50 cm ocas, 11-30 kg",
+      "lifespan": "10-12 let ve volné přírodě",
+      "habitat": "sladkovodní environments including řeky, potoky, rybníky, and mokřady napříč Severní Amerika. Preferují oblasti s listnaté trees blízko water.",
+      "funFact": "Beavers jsou inženýry ekosystému whose dams vytvářejí wetland biotopy pro stovky of other druh. Their teeth nikdy nepřestávají růst and jsou samoostrující se from neustálé hlodání.",
+      "localPath": "/images/mammals/mammals9.jpg"
+    },
+    {
+      "fileName": "mammals10.jpg",
+      "commonName": "Bobcat",
+      "scientificName": "Lynx rufus",
+      "size": "65-105 cm (26-41 palců) dlouhý, 4-18 kg",
+      "lifespan": "7-10 let ve volné přírodě",
+      "habitat": "Diverse habitats including lesy, močály, pouště, and předměstské areas napříč Severní Amerika. Preferují oblasti s husté kryt for hunting.",
+      "funFact": "Bobcats jsou incredibly nenápadní lovci with zatažitelné drápy and mohou skočit až 12 stopy to catch kořist. They mají vynikající night zrak and sluch.",
+      "localPath": "/images/mammals/mammals10.jpg"
+    },
+    {
+      "fileName": "mammals11.jpg",
+      "commonName": "Elk",
+      "scientificName": "Cervus canadensis",
+      "size": "2.0-2.7 m (6.6-8.9 stopy) dlouhý, 147-499 kg",
+      "lifespan": "10-13 let ve volné přírodě",
+      "habitat": "les edges, louky, and travnaté oblasti napříč western Severní Amerika. They migrate seasonally between summer and winter ranges.",
+      "funFact": "samec elk rostou antlers that mohou váží až 40 liber and rozpětí 4 stopy napříč. They shazují a znovu si pěstují these antlers ročně, což z nich činí one of the nejrychleji rostoucí tkáně in the zvíře kingdom.",
+      "localPath": "/images/mammals/mammals11.jpg"
+    },
+    {
+      "fileName": "mammals12.jpg",
+      "commonName": "Porcupine",
+      "scientificName": "Erethizon dorsatum",
+      "size": "60-90 cm (24-35 palců) dlouhý, 5-14 kg",
+      "lifespan": "5-7 let ve volné přírodě",
+      "habitat": "jehličnaté and smíšené lesy napříč Severní Amerika. Preferují oblasti s hojné trees for feeding and denning.",
+      "funFact": "Porcupines mají about 30,000 quills that jsou actually upravené chlupy with háčkovité špičky. Na rozdíl od obecného přesvědčení, they nemohou vystřelit their quills but uvolňují je při dotyku.",
+      "localPath": "/images/mammals/mammals12.jpg"
+    },
+    {
+      "fileName": "mammals13.jpg",
+      "commonName": "Skunk",
+      "scientificName": "Mephitis mephitis",
+      "size": "40-68 cm (16-27 palců) dlouhý, 1.2-5.3 kg",
+      "lifespan": "2-3 let ve volné přírodě",
+      "habitat": "Diverse habitats including lesy, travnaté oblasti, and předměstské areas napříč Severní Amerika. Preferují oblasti s smíšené kryt and hojné food sources.",
+      "funFact": "Skunks mohou spray their obranný pižmo až 10 stopy with pozoruhodné přesnost. They give several varovné signály před spraying, včetně dupání stopy and zvedání their ocas.",
+      "localPath": "/images/mammals/mammals13.jpg"
+    },
+    {
+      "fileName": "mammals14.jpg",
+      "commonName": "Opossum",
+      "scientificName": "Didelphis virginiana",
+      "size": "35-55 cm (14-22 palců) dlouhý, 0.5-6 kg",
+      "lifespan": "1-2 let ve volné přírodě",
+      "habitat": "Diverse habitats including lesy, zemědělské oblasti, and městské oblasti napříč Severní Amerika. They are highly adaptable to human-modified environments.",
+      "funFact": "Opossums jsou Severní Amerika's only původní vačnatec and jsou imunní vůči most hadím jedům. They 'předstírají smrt' when ohroženi, vstupují do a katatonického stavu that mohou trvat hodiny.",
+      "localPath": "/images/mammals/mammals14.jpg"
+    },
+    {
+      "fileName": "mammals15.jpg",
+      "commonName": "Chipmunk",
+      "scientificName": "Tamias striatus",
+      "size": "14-19 cm (5.5-7.5 palců) plus 8-11 cm ocas",
+      "lifespan": "2-3 let ve volné přírodě",
+      "habitat": "listnaté lesy and woodland edges napříč eastern Severní Amerika. Preferují oblasti s hojné nuts and seeds.",
+      "funFact": "Chipmunks mohou nacpat their lícní vaky with až 32 beechnuts najednou. They vytvářejí složité systémy nor with více komor for spání, skladování potravy, and odpad.",
+      "localPath": "/images/mammals/mammals15.jpg"
+    },
+    {
+      "fileName": "mammals16.jpg",
+      "commonName": "Muskrat",
+      "scientificName": "Ondatra zibethicus",
+      "size": "40-70 cm (16-28 palců) dlouhý, 0.7-1.8 kg",
+      "lifespan": "1-3 let ve volné přírodě",
+      "habitat": "mokřady, bažiny, rybníky, and slow-moving potoky napříč Severní Amerika. Preferují oblasti s emergent vegetace.",
+      "funFact": "Muskrats mohou zůstat pod vodou for až 17 minut and plavat pozpátku as easily as dopředu. They stavějí kupolovité boudy from vegetace, podobně jako beavers.",
+      "localPath": "/images/mammals/mammals16.jpg"
+    },
+    {
+      "fileName": "mammals17.jpg",
+      "commonName": "River Otter",
+      "scientificName": "Lontra canadensis",
+      "size": "66-107 cm (26-42 palců) dlouhý, 5-14 kg",
+      "lifespan": "8-9 let ve volné přírodě",
+      "habitat": "sladkovodní and pobřežní mořské environments napříč Severní Amerika. Preferují oblasti s clean water and hojné fish populations.",
+      "funFact": "River otters mohou zadržet dech for až 8 minut and potápět se to hloubky of 60 stopy. They sjíždějí bahnitý or zasněžený břehy pro zábavu, nejen doprava.",
+      "localPath": "/images/mammals/mammals17.jpg"
+    },
+    {
+      "fileName": "mammals18.jpg",
+      "commonName": "Coyote",
+      "scientificName": "Canis latrans",
+      "size": "75-87 cm (30-34 palců) dlouhý, 7-21 kg",
+      "lifespan": "6-8 let ve volné přírodě",
+      "habitat": "Extremely diverse habitats from pouště to lesy to městské oblasti napříč Severní Amerika. They are highly adaptable to human environments.",
+      "funFact": "Coyotes mohou běžet až 43 mph and skákat 14 stopy horizontálně. They mají rozšířili their areál dramaticky and now žijí in každém US státě kromě Hawaii.",
+      "localPath": "/images/mammals/mammals18.jpg"
+    },
+    {
+      "fileName": "mammals19.jpg",
+      "commonName": "Bighorn Sheep",
+      "scientificName": "Ovis canadensis",
+      "size": "1.2-1.9 m (4-6 stopy) dlouhý, 53-158 kg",
+      "lifespan": "9-14 let ve volné přírodě",
+      "habitat": "Rocky mountainous areas, útesy, and alpine louky napříč western Severní Amerika. Preferují steep terrain that provides escape routes from predators.",
+      "funFact": "Bighorn sheep mohou šplhat svahy of 60 stupňů and skočit 20 stopy mezi římsami. Their kopyta mají a tvrdý vnější okraj and měkká vnitřní podložka for neuvěřitelné přilnavost on skály.",
+      "localPath": "/images/mammals/mammals19.jpg"
+    },
+    {
+      "fileName": "mammals20.jpg",
+      "commonName": "Mule Deer",
+      "scientificName": "Odocoileus hemionus",
+      "size": "1.2-2.1 m (4-7 stopy) dlouhý, 31-103 kg",
+      "lifespan": "9-11 let ve volné přírodě",
+      "habitat": "Diverse habitats from pouště to hory napříč western Severní Amerika. Preferují oblasti s smíšené vegetace and escape kryt.",
+      "funFact": "Mule deer get their name from their velký ears that resemble a mule's. They mají a jedinečný bounding gait called 'stotting' kde all four stopy hit the ground simultaneously.",
+      "localPath": "/images/mammals/mammals20.jpg"
+    },
+    {
+      "fileName": "mammals21.jpg",
+      "commonName": "Wolverine",
+      "scientificName": "Gulo gulo",
+      "size": "65-87 cm (26-34 palců) dlouhý, 9-25 kg",
+      "lifespan": "5-13 let ve volné přírodě",
+      "habitat": "Remote wilderness areas including boreal lesy, tundra, and alpine regions napříč northern regions. They require large territories with minimal human disturbance.",
+      "funFact": "Wolverines jsou incredibly silný for their velikost and mohou take down kořist much larger than themselves. They mají been known to drive bears and wolves daleko from kills.",
+      "localPath": "/images/mammals/mammals21.jpg"
+    },
+    {
+      "fileName": "mammals22.jpg",
+      "commonName": "Prairie Dog",
+      "scientificName": "Cynomys ludovicianus",
+      "size": "28-35 cm (11-14 palců) dlouhý, 0.5-1.7 kg",
+      "lifespan": "3-5 let ve volné přírodě",
+      "habitat": "Short and smíšené-grass prérie napříč central Severní Amerika. Preferují oblasti s low vegetace that allows for good visibility.",
+      "funFact": "Prairie dogs mají a sophisticated communication system with different calls for different types of predators. They žijí in complex underground 'towns' that mohou rozpětí hundreds of acres.",
+      "localPath": "/images/mammals/mammals22.jpg"
+    },
+    {
+      "fileName": "mammals23.jpg",
+      "commonName": "Groundhog",
+      "scientificName": "Marmota monax",
+      "size": "41-68 cm (16-27 palců) dlouhý, 2-6.3 kg",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "otevřené fields, louky, and les edges napříč eastern Severní Amerika. Preferují oblasti s well-drained soil for burrowing.",
+      "funFact": "Groundhogs jsou vynikající diggers and mohou move 700 liber of soil to vytvářejí a burrow. They hibernate for až 5 months, during which their heart rate drops from 80 to 5 beats per minute.",
+      "localPath": "/images/mammals/mammals23.jpg"
+    },
+    {
+      "fileName": "mammals24.jpg",
+      "commonName": "Lynx",
+      "scientificName": "Lynx canadensis",
+      "size": "67-107 cm (26-42 palců) dlouhý, 5-17 kg",
+      "lifespan": "7-10 let ve volné přírodě",
+      "habitat": "Boreal lesy and mountainous areas napříč northern Severní Amerika. Preferují oblasti s deep snow and hojné snowshoe hare populations.",
+      "funFact": "Lynx mají oversized paws that act like snowshoes, allowing them to loví effectively in deep snow. Their population cycles closely follow those of snowshoe hares.",
+      "localPath": "/images/mammals/mammals24.jpg"
+    },
+    {
+      "fileName": "mammals25.jpg",
+      "commonName": "Bison",
+      "scientificName": "Bison bison",
+      "size": "2.1-3.5 m (7-11.5 stopy) dlouhý, 318-1000 kg",
+      "lifespan": "12-20 let ve volné přírodě",
+      "habitat": "travnaté oblasti and prérie napříč central Severní Amerika. Preferují otevřené oblasti s hojné grasses and access to water.",
+      "funFact": "Bison mohou běžet až 35 mph Navzdory weighing až 2,000 liber. They nearly went vyhynulý but mají recovered from fewer than 1,000 individuals to over 500,000 today.",
+      "localPath": "/images/mammals/mammals25.jpg"
+    },
+    {
+      "fileName": "mammals26.jpg",
+      "commonName": "Polar Bear",
+      "scientificName": "Ursus maritimus",
+      "size": "1.8-2.4 m (6-8 stopy) dlouhý, 150-680 kg",
+      "lifespan": "15-18 let ve volné přírodě",
+      "habitat": "arktické oblasti sea ice and pobřežní areas napříč the arktické oblasti Circle. They depend on sea ice for hunting seals.",
+      "funFact": "Polar bears mají black skin under their white fur to absorb heat from the sun. They jsou vynikající plavci and mohou plavat for hours covering distances over 60 mil.",
+      "localPath": "/images/mammals/mammals26.jpg"
+    },
+    {
+      "fileName": "mammals27.jpg",
+      "commonName": "Grizzly Bear",
+      "scientificName": "Ursus arctos",
+      "size": "1.4-2.8 m (4.6-9.2 stopy) dlouhý, 80-600 kg",
+      "lifespan": "20-25 let ve volné přírodě",
+      "habitat": "lesy, alpine louky, and tundra napříč western Severní Amerika and Alaska. Preferují oblasti s hojné food sources and minimal human disturbance.",
+      "funFact": "Grizzly bears mají an neuvěřitelné čich that je 7 times better than a bloodhound's. They mohou detekovat food from over 18 mil daleko.",
+      "localPath": "/images/mammals/mammals27.jpg"
+    },
+    {
+      "fileName": "mammals28.jpg",
+      "commonName": "Caribou",
+      "scientificName": "Rangifer tarandus",
+      "size": "1.2-2.2 m (4-7 stopy) dlouhý, 60-318 kg",
+      "lifespan": "4.5 let ve volné přírodě",
+      "habitat": "arktické oblasti tundra and boreal lesy napříč northern regions. They migrate vast distances following seasonal food sources.",
+      "funFact": "Caribou undertake one of the longest migrations of any land zvíře, traveling až 3,000 mil ročně. Both males and females rostou antlers, jedinečný among deer druh.",
+      "localPath": "/images/mammals/mammals28.jpg"
+    },
+    {
+      "fileName": "mammals29.jpg",
+      "commonName": "Mountain Goat",
+      "scientificName": "Oreamnos americanus",
+      "size": "1.2-1.8 m (4-6 stopy) dlouhý, 45-140 kg",
+      "lifespan": "9-12 let ve volné přírodě",
+      "habitat": "Steep rocky útesy and alpine areas in mountainous regions of western Severní Amerika. Preferují areas above the tree line.",
+      "funFact": "Mountain goats mohou šplhat nearly vertical cliff faces and mají specialized kopyta with hard outer rims and soft inner pads for přilnavost. They mohou skákat 12 stopy in a single bound.",
+      "localPath": "/images/mammals/mammals29.jpg"
+    },
+    {
+      "fileName": "mammals30.jpg",
+      "commonName": "Pronghorn",
+      "scientificName": "Antilocapra americana",
+      "size": "1.0-1.5 m (3.3-4.9 stopy) dlouhý, 34-70 kg",
+      "lifespan": "7-10 let ve volné přírodě",
+      "habitat": "otevřené travnaté oblasti, prérie, and desert areas napříč western Severní Amerika. Preferují oblasti s good visibility and escape routes.",
+      "funFact": "Pronghorns jsou the fastest land zvíře in Severní Amerika, capable of running 70 mph for short distances and maintaining 45 mph for extended periods. They mají the largest eyes relative to body velikost of any North American savec.",
+      "localPath": "/images/mammals/mammals30.jpg"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "navigation": {
+    "gameTab": "PEXEDU",
+    "backToMenu": "Back to Main Menu"
+  },
+  "languageSelector": {
+    "english": "English",
+    "czech": "Čeština"
+  },
+  "errors": {
+    "selectPlayersError": "Please select the number of players first.",
+    "loadError": "Failed to load game data. Please try again."
+  },
+  "actions": {
+    "close": "Close",
+    "previous": "Previous",
+    "next": "Next",
+    "playAgain": "Play Again"
+  }
+}

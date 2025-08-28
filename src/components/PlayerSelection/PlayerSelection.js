@@ -11,7 +11,7 @@ import './PlayerSelection.css';
  * @returns {JSX.Element} PlayerSelection component
  */
 function PlayerSelection({ numPlayers, setNumPlayers }) {
-  const { t } = useTranslation();
+  const { t } = useTranslation('game');
   
   return (
     <div className="setup-section">

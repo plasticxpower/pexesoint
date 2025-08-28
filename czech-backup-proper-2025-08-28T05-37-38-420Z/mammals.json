@@ -1,0 +1,306 @@
+{
+  "category": "mammals",
+  "totalPhotos": 30,
+  "photos": [
+    {
+      "fileName": "mammals1.jpg",
+      "commonName": "Lev africký",
+      "scientificName": "Ursus americanus",
+      "size": "140-250 cm, 120-191 kg",
+      "lifespan": "10-14 let ve volné přírodě",
+      "habitat": "Savany, travnaté pláně a otevřené lesy subsaharské Afriky. Preferují oblasti s dostatkem kořisti a vodními zdroji.",
+      "funFact": "Lvi jsou jediné skutečně sociální kočkovité šelmy, žijí ve smečkách až 30 jedinců. Samci mohou řvát tak hlasitě, že je slyšet až na 8 km daleko.",
+      "localPath": "/images/mammals/mammals1.jpg"
+    },
+    {
+      "fileName": "mammals2.jpg",
+      "commonName": "Slon africký",
+      "scientificName": "Odocoileus virginianus",
+      "size": "600-750 cm, 4000-7000 kg",
+      "lifespan": "60-70 let ve volné přírodě",
+      "habitat": "Savany, lesy a pouště subsaharské Afriky. Potřebují velké území s dostatkem vody a potravy.",
+      "funFact": "Sloni mají nejdelší těhotenství ze všech savců - 22 měsíců. Dokážou komunikovat infrazvukem na vzdálenosti až 10 km a mají vynikající paměť.",
+      "localPath": "/images/mammals/mammals2.jpg"
+    },
+    {
+      "fileName": "mammals3.jpg",
+      "commonName": "Tygr sibiřský",
+      "scientificName": "Sciurus carolinensis",
+      "size": "190-230 cm, 180-306 kg",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Boreální lesy východní Asie, především Ruska, Číny a Severní Koreje. Preferují husté lesy s dostatkem kořisti.",
+      "funFact": "Tygři sibiřští jsou největší kočkovité šelmy na světě. Dokážou skočit horizontálně až 10 metrů a vertikálně až 5 metrů.",
+      "localPath": "/images/mammals/mammals3.jpg"
+    },
+    {
+      "fileName": "mammals4.jpg",
+      "commonName": "Panda velká",
+      "scientificName": "Procyon lotor",
+      "size": "120-190 cm, 85-125 kg",
+      "lifespan": "20-30 let ve volné přírodě",
+      "habitat": "Horské bambusové lesy střední Číny. Žijí ve výškách 1200-3400 metrů nad mořem.",
+      "funFact": "Pandy tráví 14 hodin denně jedením bambusu a sní až 38 kg denně. Mají speciální 'palec' pro uchopování bambusových stonků.",
+      "localPath": "/images/mammals/mammals4.jpg"
+    },
+    {
+      "fileName": "mammals5.jpg",
+      "commonName": "Žirafa síťovaná",
+      "scientificName": "Vulpes vulpes",
+      "size": "400-600 cm, 800-1930 kg",
+      "lifespan": "20-25 let ve volné přírodě",
+      "habitat": "Savany a otevřené lesy východní a jižní Afriky. Preferují oblasti s akáciemi a jinými vysokými stromy.",
+      "funFact": "Žirafy jsou nejvyšší zvířata na světě. Jejich srdce váží až 11 kg a musí pumpovat krev 2 metry vysoko do mozku.",
+      "localPath": "/images/mammals/mammals5.jpg"
+    },
+    {
+      "fileName": "mammals6.jpg",
+      "commonName": "Orangutan bornejský",
+      "scientificName": "Canis lupus",
+      "size": "97-180 cm, 30-90 kg",
+      "lifespan": "35-45 let ve volné přírodě",
+      "habitat": "Tropické deštné pralesy Bornea a Sumatry. Tráví většinu času v korunách stromů.",
+      "funFact": "Orangutani sdílejí 97% DNA s lidmi a jsou velmi inteligentní. Dokážou používat nástroje a mají kulturu předávanou z generace na generaci.",
+      "localPath": "/images/mammals/mammals6.jpg"
+    },
+    {
+      "fileName": "mammals7.jpg",
+      "commonName": "Nosorožec bílý",
+      "scientificName": "Puma concolor",
+      "size": "340-420 cm, 1700-2300 kg",
+      "lifespan": "40-50 let ve volné přírodě",
+      "habitat": "Travnaté savany a otevřené lesy jižní a východní Afriky. Preferují oblasti s krátkými trávami.",
+      "funFact": "Nosorožci bílí nejsou ve skutečnosti bílí, ale šedí. Název pochází z afrikánského slova 'wyd' znamenající široký, odkazující na jejich širokou hubu.",
+      "localPath": "/images/mammals/mammals7.jpg"
+    },
+    {
+      "fileName": "mammals8.jpg",
+      "commonName": "Gorila horská",
+      "scientificName": "Alces alces",
+      "size": "120-180 cm, 70-200 kg",
+      "lifespan": "35-40 let ve volné přírodě",
+      "habitat": "Horské lesy střední a východní Afriky ve výškách 2200-4300 metrů. Žijí v hustých bambusových lesích.",
+      "funFact": "Gorily horské jsou kriticky ohrožené s méně než 1000 jedinci. Samci silverbackové mohou být 10krát silnější než lidé.",
+      "localPath": "/images/mammals/mammals8.jpg"
+    },
+    {
+      "fileName": "mammals9.jpg",
+      "commonName": "Gepard štíhlý",
+      "scientificName": "Castor canadensis",
+      "size": "110-150 cm, 21-72 kg",
+      "lifespan": "8-12 let ve volné přírodě",
+      "habitat": "Otevřené savany a polopouště Afriky a malá populace v Íránu. Preferují oblasti s dobrou viditelností.",
+      "funFact": "Gepardi jsou nejrychlejší pozemní zvířata, dokážou běžet rychlostí až 112 km/h. Jejich tělo je dokonale přizpůsobeno pro rychlost.",
+      "localPath": "/images/mammals/mammals9.jpg"
+    },
+    {
+      "fileName": "mammals10.jpg",
+      "commonName": "Medvěd lední",
+      "scientificName": "Lynx rufus",
+      "size": "200-250 cm, 150-680 kg",
+      "lifespan": "15-30 let ve volné přírodě",
+      "habitat": "Arktický mořský led a pobřežní oblasti. Závislí na mořském ledu pro lov tuleňů.",
+      "funFact": "Medvědi lední mají černou kůži pod bílou srstí, která funguje jako solární kolektor. Dokážou plavat až 100 km bez odpočinku.",
+      "localPath": "/images/mammals/mammals10.jpg"
+    },
+    {
+      "fileName": "mammals11.jpg",
+      "commonName": "Klokan rudý",
+      "scientificName": "Cervus canadensis",
+      "size": "85-160 cm, 18-85 kg",
+      "lifespan": "12-18 let ve volné přírodě",
+      "habitat": "Otevřené pláně a lesy Austrálie. Preferují oblasti s rozptýlenou vegetací a vodními zdroji.",
+      "funFact": "Klokani dokážou skákat rychlostí až 56 km/h a překonat překážku vysokou 3 metry. Jejich ocas funguje jako páté končetina pro rovnováhu.",
+      "localPath": "/images/mammals/mammals11.jpg"
+    },
+    {
+      "fileName": "mammals12.jpg",
+      "commonName": "Koala medvídkovitý",
+      "scientificName": "Erethizon dorsatum",
+      "size": "60-85 cm, 4-15 kg",
+      "lifespan": "12-20 let ve volné přírodě",
+      "habitat": "Eukalyptové lesy východní a jihovýchodní Austrálie. Specializují se na určité druhy eukalyptu.",
+      "funFact": "Koaly spí 18-22 hodin denně a živí se pouze eukalyptovými listy, které jsou pro většinu zvířat jedovaté. Mají dva palce na každé přední tlapě.",
+      "localPath": "/images/mammals/mammals12.jpg"
+    },
+    {
+      "fileName": "mammals13.jpg",
+      "commonName": "Lenochod tříprstý",
+      "scientificName": "Mephitis mephitis",
+      "size": "45-60 cm, 3,5-4,5 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Tropické deštné pralesy Střední a Jižní Ameriky. Žijí výhradně v korunách stromů.",
+      "funFact": "Lenochodi se pohybují tak pomalu, že na jejich srsti rostou řasy, které jim poskytují kamufláž. Sestupují ze stromu pouze jednou týdně.",
+      "localPath": "/images/mammals/mammals13.jpg"
+    },
+    {
+      "fileName": "mammals14.jpg",
+      "commonName": "Hroch obojživelný",
+      "scientificName": "Didelphis virginiana",
+      "size": "300-400 cm, 1300-1800 kg",
+      "lifespan": "40-50 let ve volné přírodě",
+      "habitat": "Řeky, jezera a mokřady subsaharské Afriky. Potřebují hlubokou vodu pro ochlazování a mělčiny pro krmení.",
+      "funFact": "Hroši jsou jedni z nejnebezpečnějších savců Afriky. Dokážou běžet rychlostí až 48 km/h a jejich kousnutí má sílu 1825 PSI.",
+      "localPath": "/images/mammals/mammals14.jpg"
+    },
+    {
+      "fileName": "mammals15.jpg",
+      "commonName": "Zebra stepní",
+      "scientificName": "Tamias striatus",
+      "size": "200-250 cm, 175-385 kg",
+      "lifespan": "20-30 let ve volné přírodě",
+      "habitat": "Travnaté savany a otevřené lesy východní a jižní Afriky. Migrují za potravou a vodou.",
+      "funFact": "Každá zebra má unikátní vzor pruhů jako lidské otisky prstů. Pruhy pomáhají zmást mouchy tse-tse a regulovat tělesnou teplotu.",
+      "localPath": "/images/mammals/mammals15.jpg"
+    },
+    {
+      "fileName": "mammals16.jpg",
+      "commonName": "Velryba modrá",
+      "scientificName": "Ondatra zibethicus",
+      "size": "24-27 m, 100-160 tun",
+      "lifespan": "80-90 let ve volné přírodě",
+      "habitat": "Všechny oceány světa, migrují mezi krmními a rozmnožovacími oblastmi. Preferují studené, na krill bohaté vody.",
+      "funFact": "Velryby modré jsou největší zvířata, která kdy žila na Zemi. Jejich srdce samo váží jako malé auto a jejich volání je slyšet na stovky kilometrů.",
+      "localPath": "/images/mammals/mammals16.jpg"
+    },
+    {
+      "fileName": "mammals17.jpg",
+      "commonName": "Delfín skákavý",
+      "scientificName": "Lontra canadensis",
+      "size": "200-250 cm, 150-200 kg",
+      "lifespan": "20-45 let ve volné přírodě",
+      "habitat": "Teplé oceány po celém světě. Preferují pobřežní vody, ale nacházejí se i v otevřeném oceánu.",
+      "funFact": "Delfíni mají jména - unikátní hvizdy, kterými se identifikují. Dokážou rozpoznat sebe v zrcadle a používat nástroje.",
+      "localPath": "/images/mammals/mammals17.jpg"
+    },
+    {
+      "fileName": "mammals18.jpg",
+      "commonName": "Tuleň obecný",
+      "scientificName": "Canis latrans",
+      "size": "120-200 cm, 55-170 kg",
+      "lifespan": "25-30 let ve volné přírodě",
+      "habitat": "Pobřežní vody a pláže severního Atlantiku a Pacifiku. Potřebují přístup k souši pro odpočinek a rozmnožování.",
+      "funFact": "Tuleně dokážou zadržet dech až 30 minut a potopit se do hloubky 500 metrů. Jejich vousy fungují jako citlivé senzory pro detekci vibrací ve vodě.",
+      "localPath": "/images/mammals/mammals18.jpg"
+    },
+    {
+      "fileName": "mammals19.jpg",
+      "commonName": "Netopýr velký",
+      "scientificName": "Ovis canadensis",
+      "size": "14-16 cm, 20-40 g",
+      "lifespan": "4-8 let ve volné přírodě",
+      "habitat": "Lesy, parky a městské oblasti po celé Evropě. Zimují v jeskyních, půdách a dutinách stromů.",
+      "funFact": "Netopýři jsou jediní savci schopní aktivního letu. Používají echolokaci s frekvencemi až 200 kHz pro navigaci a lov hmyzu.",
+      "localPath": "/images/mammals/mammals19.jpg"
+    },
+    {
+      "fileName": "mammals20.jpg",
+      "commonName": "Ježek západní",
+      "scientificName": "Odocoileus hemionus",
+      "size": "14-30 cm, 0,5-1,2 kg",
+      "lifespan": "2-5 let ve volné přírodě",
+      "habitat": "Lesy, zahrady, parky a zemědělské oblasti po celé Evropě. Preferují oblasti s dostatkem úkrytů a hmyzu.",
+      "funFact": "Ježci mají až 8000 bodlin, které dokážou vztyčit při nebezpečí. Hibernují 5-6 měsíců a jejich srdeční tep klesne na 5 úderů za minutu.",
+      "localPath": "/images/mammals/mammals20.jpg"
+    },
+    {
+      "fileName": "mammals21.jpg",
+      "commonName": "Rosomák sibiřský",
+      "scientificName": "Gulo gulo",
+      "size": "65-87 cm, 9-25 kg",
+      "lifespan": "5-13 let ve volné přírodě",
+      "habitat": "Boreální lesy a tundra severní polokoule. Preferují odlehlé oblasti s drsným klimatem.",
+      "funFact": "Rosomáci jsou nejsilnější savci vzhledem ke své velikosti. Dokážou zahnát medvěda od kořisti a jejich zuby jsou tak silné, že dokážou kousat zmrzlé maso.",
+      "localPath": "/images/mammals/mammals21.jpg"
+    },
+    {
+      "fileName": "mammals22.jpg",
+      "commonName": "Karibu tundrovní",
+      "scientificName": "Cynomys ludovicianus",
+      "size": "120-220 cm, 60-318 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Arktická tundra a boreální lesy severní Ameriky a Eurasie. Podnikají dlouhé migrace za potravou.",
+      "funFact": "Karibu podnikají nejdelší pozemní migrace ze všech savců - až 5000 km ročně. Jejich parohy jsou duté a pomáhají jim plavat.",
+      "localPath": "/images/mammals/mammals22.jpg"
+    },
+    {
+      "fileName": "mammals23.jpg",
+      "commonName": "Medvěd grizzly",
+      "scientificName": "Marmota monax",
+      "size": "198-240 cm, 130-360 kg",
+      "lifespan": "20-25 let ve volné přírodě",
+      "habitat": "Lesy, hory a tundra západní Severní Ameriky. Potřebují velká území s rozmanitými zdroji potravy.",
+      "funFact": "Medvědi grizzly dokážou běžet rychlostí až 55 km/h a mají paměť na místa s potravou po mnoho let. Před hibernací mohou přibrat až 180 kg.",
+      "localPath": "/images/mammals/mammals23.jpg"
+    },
+    {
+      "fileName": "mammals24.jpg",
+      "commonName": "Puma americká",
+      "scientificName": "Lynx canadensis",
+      "size": "105-196 cm, 29-120 kg",
+      "lifespan": "8-13 let ve volné přírodě",
+      "habitat": "Rozmanité biotopy od Kanady po Jižní Ameriku - lesy, pouště, hory i džungle. Velmi přizpůsobivé.",
+      "funFact": "Pumy dokážou skočit vertikálně až 5,5 metru a horizontálně až 12 metrů. Nemohou řvát, ale vydávají zvuky podobné domácím kočkám.",
+      "localPath": "/images/mammals/mammals24.jpg"
+    },
+    {
+      "fileName": "mammals25.jpg",
+      "commonName": "Jaguár americký",
+      "scientificName": "Bison bison",
+      "size": "112-185 cm, 56-96 kg",
+      "lifespan": "12-15 let ve volné přírodě",
+      "habitat": "Tropické deštné pralesy Střední a Jižní Ameriky. Preferují oblasti blízko vody.",
+      "funFact": "Jaguáři mají nejsilnější kousnutí ze všech kočkovitých šelem - dokážou prokousnout lebku kajmana. Jsou výborní plavci a rádi loví ve vodě.",
+      "localPath": "/images/mammals/mammals25.jpg"
+    },
+    {
+      "fileName": "mammals26.jpg",
+      "commonName": "Bizon americký",
+      "scientificName": "Ursus maritimus",
+      "size": "300-380 cm, 400-1000 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Travnaté pláně a prérie Severní Ameriky. Preferují otevřené oblasti s bohatými pastvinami.",
+      "funFact": "Bizoni dokážou běžet rychlostí až 65 km/h a skočit až 2 metry vysoko. Téměř vyhynuli, ale díky ochranářským programům se jejich počet zvyšuje.",
+      "localPath": "/images/mammals/mammals26.jpg"
+    },
+    {
+      "fileName": "mammals27.jpg",
+      "commonName": "Los americký",
+      "scientificName": "Ursus arctos",
+      "size": "240-310 cm, 270-720 kg",
+      "lifespan": "15-25 let ve volné přírodě",
+      "habitat": "Boreální lesy a tundra severní polokoule. Preferují oblasti s jezery, močály a mladými lesy.",
+      "funFact": "Losi jsou největší jelenovití na světě. Samci mohou mít parohy široké až 2 metry a dokážou plavat až 20 km bez odpočinku.",
+      "localPath": "/images/mammals/mammals27.jpg"
+    },
+    {
+      "fileName": "mammals28.jpg",
+      "commonName": "Rys kanadský",
+      "scientificName": "Rangifer tarandus",
+      "size": "76-106 cm, 8-18 kg",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Boreální lesy Kanady a Aljašky. Specializují se na lov sněžních zajíců.",
+      "funFact": "Rysi mají obrovské tlapky, které fungují jako sněžnice a umožňují jim chodit po hlubokém sněhu. Jejich populace kolísá s populací sněžních zajíců.",
+      "localPath": "/images/mammals/mammals28.jpg"
+    },
+    {
+      "fileName": "mammals29.jpg",
+      "commonName": "Kojot prérijní",
+      "scientificName": "Oreamnos americanus",
+      "size": "76-86 cm, 7-21 kg",
+      "lifespan": "6-8 let ve volné přírodě",
+      "habitat": "Rozmanité biotopy po celé Severní Americe - od pouští po městské oblasti. Velmi přizpůsobiví.",
+      "funFact": "Kojoti dokážou běžet rychlostí až 65 km/h a skočit až 4 metry vysoko. Rozšířili svůj areál rozšíření díky vymýcení vlků.",
+      "localPath": "/images/mammals/mammals29.jpg"
+    },
+    {
+      "fileName": "mammals30.jpg",
+      "commonName": "Vidloroh americký",
+      "scientificName": "Antilocapra americana",
+      "size": "130-150 cm, 40-70 kg",
+      "lifespan": "10-12 let ve volné přírodě",
+      "habitat": "Otevřené pláně a pouště západní Severní Ameriky. Preferují oblasti s dobrou viditelností.",
+      "funFact": "Vidlorohy jsou nejrychlejší severoameričtí savci - dokážou běžet rychlostí až 98 km/h. Jejich rohy se každý rok obnovují.",
+      "localPath": "/images/mammals/mammals30.jpg"
+    }
+  ]
+}

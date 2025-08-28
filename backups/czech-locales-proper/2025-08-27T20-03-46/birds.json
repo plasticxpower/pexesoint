@@ -1,0 +1,56 @@
+{
+  "category": "birds",
+  "totalPhotos": 5,
+  "photos": [
+    {
+      "fileName": "birds1.jpg",
+      "commonName": "American Robin",
+      "scientificName": "Turdus migratorius",
+      "size": "20-28 cm (8-11 palců), 77 g",
+      "lifespan": "2 let in wild, až 13 let",
+      "habitat": "lesní oblasti, parks, gardens, and lawns napříč Severní Amerika. Preferují oblasti s trees for nesting and otevřené ground for foraging.",
+      "funFact": "American robins jsou among the first birds to sing at dawn and the last to sing at dusk. They mohou see ultraviolet light, which helps them spot ripe berries and insects.",
+      "localPath": "/images/birds/birds1.jpg"
+    },
+    {
+      "fileName": "birds2.jpg",
+      "commonName": "American Crow",
+      "scientificName": "Corvus brachyrhynchos",
+      "size": "40-50 cm (16-20 palců), 315-620 g",
+      "lifespan": "7-8 let in wild, až 20 let",
+      "habitat": "otevřené lesní oblasti, fields, parks, and městské oblasti napříč Severní Amerika. They are highly adaptable to human environments.",
+      "funFact": "Crows jsou among the most intelligent birds, capable of using tools, solving complex puzzles, and recognizing human faces. They mohou hold grudges and pass this information to their offspring.",
+      "localPath": "/images/birds/birds2.jpg"
+    },
+    {
+      "fileName": "birds3.jpg",
+      "commonName": "Black-capped Chickadee",
+      "scientificName": "Poecile atricapillus",
+      "size": "12-15 cm (5-6 palců), 9-14 g",
+      "lifespan": "2-3 let in wild",
+      "habitat": "smíšené and listnaté lesy, parks, and wooded předměstské areas napříč northern Severní Amerika.",
+      "funFact": "Chickadees mohou remember thousands of hiding places kde they store food. Their brain actually grows larger in fall to accommodate increased memory needs for winter survival.",
+      "localPath": "/images/birds/birds3.jpg"
+    },
+    {
+      "fileName": "birds4.jpg",
+      "commonName": "Eastern Bluebird",
+      "scientificName": "Sialia sialis",
+      "size": "16-21 cm (6-8 palců), 27-34 g",
+      "lifespan": "6-10 let in wild",
+      "habitat": "otevřené lesní oblasti, zemědělské oblasti, and parks with scattered trees napříč eastern Severní Amerika.",
+      "funFact": "Eastern bluebirds jsou cavity nesters and mají benefited greatly from nest box programs. Males jsou more brightly colored than females and perform složité courtship displays.",
+      "localPath": "/images/birds/birds4.jpg"
+    },
+    {
+      "fileName": "birds5.jpg",
+      "commonName": "American Goldfinch",
+      "scientificName": "Spinus tristis",
+      "size": "11-14 cm (4-5 palců), 11-20 g",
+      "lifespan": "3-6 let in wild",
+      "habitat": "otevřené country, roadsides, orchards, and předměstské areas napříč Severní Amerika. Preferují oblasti s thistle and other seed-producing plants.",
+      "funFact": "American goldfinches jsou strict vegetarians and one of the latest nesting birds, waiting until late summer when seeds jsou hojné. Males molt twice a year, changing from bright yellow to olive-brown.",
+      "localPath": "/images/birds/birds5.jpg"
+    }
+  ]
+}

@@ -1,0 +1,306 @@
+{
+  "category": "Plazi",
+  "totalPhotos": 30,
+  "photos": [
+    {
+      "fileName": "reptiles1.jpg",
+      "commonName": "Aligátor americký",
+      "scientificName": "Terrapene carolina",
+      "size": "10-15 cm (4-6 inches) shell length",
+      "lifespan": "50-100+ let ve volné přírodě",
+      "habitat": "Lesy a křovinaté oblasti. Preferují oblasti s dostatkem vegetace.",
+      "funFact": "Aligátor americký dokážou žít až 50 let a mají složité teritoriální chování.",
+      "localPath": "/images/reptiles/reptiles1.jpg"
+    },
+    {
+      "fileName": "reptiles2.jpg",
+      "commonName": "Želva zelená",
+      "scientificName": "Thamnophis sirtalis",
+      "size": "45-65 cm (18-26 inches)",
+      "lifespan": "4-5 let ve volné přírodě",
+      "habitat": "Tropické a subtropické oblasti. Preferují teplé a vlhké prostředí.",
+      "funFact": "Želva zelená mají speciální adaptace pro život v extrémních podmínkách.",
+      "localPath": "/images/reptiles/reptiles2.jpg"
+    },
+    {
+      "fileName": "reptiles3.jpg",
+      "commonName": "Anakonda velká",
+      "scientificName": "Plestiodon fasciatus",
+      "size": "12-20 cm (5-8 inches)",
+      "lifespan": "6-10 let ve volné přírodě",
+      "habitat": "Pouště a suché oblasti. Preferují skalnaté oblasti s dostatkem úkrytů.",
+      "funFact": "Anakonda velká dokážou žít až 50 let a mají složité teritoriální chování.",
+      "localPath": "/images/reptiles/reptiles3.jpg"
+    },
+    {
+      "fileName": "reptiles4.jpg",
+      "commonName": "Komodský varan",
+      "scientificName": "Chrysemys picta",
+      "size": "10-18 cm (4-7 inches) shell length",
+      "lifespan": "20-40 let ve volné přírodě",
+      "habitat": "Pouště a suché oblasti. Preferují skalnaté oblasti s dostatkem úkrytů.",
+      "funFact": "Komodský varan dokážou regenerovat ztracené končetiny a ocas.",
+      "localPath": "/images/reptiles/reptiles4.jpg"
+    },
+    {
+      "fileName": "reptiles5.jpg",
+      "commonName": "Galapážská želva",
+      "scientificName": "Anolis carolinensis",
+      "size": "12-20 cm (5-8 inches)",
+      "lifespan": "2-8 let ve volné přírodě",
+      "habitat": "Pobřežní oblasti a ostrovy. Preferují písečné pláže pro hnízda.",
+      "funFact": "Galapážská želva dokážou regenerovat ztracené končetiny a ocas.",
+      "localPath": "/images/reptiles/reptiles5.jpg"
+    },
+    {
+      "fileName": "reptiles6.jpg",
+      "commonName": "Chřestýš diamantový",
+      "scientificName": "Trachemys scripta elegans",
+      "size": "15-30 cm (6-12 inches) shell length",
+      "lifespan": "20-40 let ve volné přírodě",
+      "habitat": "Mokřady a bažiny. Tráví většinu času ve vodě nebo blízko ní.",
+      "funFact": "Chřestýš diamantový mají výborný čich a dokážou detekovat teplo kořisti.",
+      "localPath": "/images/reptiles/reptiles6.jpg"
+    },
+    {
+      "fileName": "reptiles7.jpg",
+      "commonName": "Leguán zelený",
+      "scientificName": "Alligator mississippiensis",
+      "size": "2-4 meters (6-14 feet), 90-230 kg",
+      "lifespan": "35-50 let ve volné přírodě",
+      "habitat": "Mokřady a bažiny. Tráví většinu času ve vodě nebo blízko ní.",
+      "funFact": "Leguán zelený mají speciální adaptace pro život v extrémních podmínkách.",
+      "localPath": "/images/reptiles/reptiles7.jpg"
+    },
+    {
+      "fileName": "reptiles8.jpg",
+      "commonName": "Chameleon jemenský",
+      "scientificName": "Pantherophis guttatus",
+      "size": "60-120 cm (24-48 inches)",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Tropické a subtropické oblasti. Preferují teplé a vlhké prostředí.",
+      "funFact": "Chameleon jemenský dokážou regenerovat ztracené končetiny a ocas.",
+      "localPath": "/images/reptiles/reptiles8.jpg"
+    },
+    {
+      "fileName": "reptiles9.jpg",
+      "commonName": "Gekon tokaj",
+      "scientificName": "Chelydra serpentina",
+      "size": "20-35 cm (8-14 inches) shell length",
+      "lifespan": "30-47 let ve volné přírodě",
+      "habitat": "Lesy a křovinaté oblasti. Preferují oblasti s dostatkem vegetace.",
+      "funFact": "Gekon tokaj mají výborný čich a dokážou detekovat teplo kořisti.",
+      "localPath": "/images/reptiles/reptiles9.jpg"
+    },
+    {
+      "fileName": "reptiles10.jpg",
+      "commonName": "Korytnačka červenouchá",
+      "scientificName": "Pogona vitticeps",
+      "size": "40-60 cm (16-24 inches)",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Tropické a subtropické oblasti. Preferují teplé a vlhké prostředí.",
+      "funFact": "Korytnačka červenouchá dokážou žít až 50 let a mají složité teritoriální chování.",
+      "localPath": "/images/reptiles/reptiles10.jpg"
+    },
+    {
+      "fileName": "reptiles11.jpg",
+      "commonName": "Krajta královská",
+      "scientificName": "Iguana iguana",
+      "size": "120-180 cm (48-72 inches)",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Lesy a křovinaté oblasti. Preferují oblasti s dostatkem vegetace.",
+      "funFact": "Krajta královská dokážou regenerovat ztracené končetiny a ocas.",
+      "localPath": "/images/reptiles/reptiles11.jpg"
+    },
+    {
+      "fileName": "reptiles12.jpg",
+      "commonName": "Boa dusivá",
+      "scientificName": "Hemidactylus turcicus",
+      "size": "7-15 cm (3-6 inches)",
+      "lifespan": "5-10 let ve volné přírodě",
+      "habitat": "Tropické a subtropické oblasti. Preferují teplé a vlhké prostředí.",
+      "funFact": "Boa dusivá mají speciální adaptace pro život v extrémních podmínkách.",
+      "localPath": "/images/reptiles/reptiles12.jpg"
+    },
+    {
+      "fileName": "reptiles13.jpg",
+      "commonName": "Monitor nilský",
+      "scientificName": "Chamaeleo calyptratus",
+      "size": "35-60 cm (14-24 inches)",
+      "lifespan": "5-8 let ve volné přírodě",
+      "habitat": "Pobřežní oblasti a ostrovy. Preferují písečné pláže pro hnízda.",
+      "funFact": "Monitor nilský dokážou přežít měsíce bez jídla a mají pomalý metabolismus.",
+      "localPath": "/images/reptiles/reptiles13.jpg"
+    },
+    {
+      "fileName": "reptiles14.jpg",
+      "commonName": "Želva zelenavá",
+      "scientificName": "Python regius",
+      "size": "90-150 cm (36-60 inches)",
+      "lifespan": "20-30 let ve volné přírodě",
+      "habitat": "Lesy a křovinaté oblasti. Preferují oblasti s dostatkem vegetace.",
+      "funFact": "Želva zelenavá mají výborný čich a dokážou detekovat teplo kořisti.",
+      "localPath": "/images/reptiles/reptiles14.jpg"
+    },
+    {
+      "fileName": "reptiles15.jpg",
+      "commonName": "Skink modrý",
+      "scientificName": "Varanus salvator",
+      "size": "150-250 cm (60-100 inches)",
+      "lifespan": "15-25 let ve volné přírodě",
+      "habitat": "Mokřady a bažiny. Tráví většinu času ve vodě nebo blízko ní.",
+      "funFact": "Skink modrý dokážou regenerovat ztracené končetiny a ocas.",
+      "localPath": "/images/reptiles/reptiles15.jpg"
+    },
+    {
+      "fileName": "reptiles16.jpg",
+      "commonName": "Had korálový",
+      "scientificName": "Crotalus atrox",
+      "size": "90-150 cm (36-60 inches)",
+      "lifespan": "15-25 let ve volné přírodě",
+      "habitat": "Lesy a křovinaté oblasti. Preferují oblasti s dostatkem vegetace.",
+      "funFact": "Had korálový dokážou žít až 50 let a mají složité teritoriální chování.",
+      "localPath": "/images/reptiles/reptiles16.jpg"
+    },
+    {
+      "fileName": "reptiles17.jpg",
+      "commonName": "Želva pouštní",
+      "scientificName": "Chelonia mydas",
+      "size": "80-120 cm (32-48 inches) shell length",
+      "lifespan": "60-80 let ve volné přírodě",
+      "habitat": "Mokřady a bažiny. Tráví většinu času ve vodě nebo blízko ní.",
+      "funFact": "Želva pouštní mají výborný čich a dokážou detekovat teplo kořisti.",
+      "localPath": "/images/reptiles/reptiles17.jpg"
+    },
+    {
+      "fileName": "reptiles18.jpg",
+      "commonName": "Varan bengálský",
+      "scientificName": "Lampropeltis getula",
+      "size": "90-150 cm (36-60 inches)",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Tropické a subtropické oblasti. Preferují teplé a vlhké prostředí.",
+      "funFact": "Varan bengálský dokážou přežít měsíce bez jídla a mají pomalý metabolismus.",
+      "localPath": "/images/reptiles/reptiles18.jpg"
+    },
+    {
+      "fileName": "reptiles19.jpg",
+      "commonName": "Anolis zelený",
+      "scientificName": "Gopherus polyphemus",
+      "size": "20-35 cm (8-14 inches) shell length",
+      "lifespan": "40-80 let ve volné přírodě",
+      "habitat": "Tropické a subtropické oblasti. Preferují teplé a vlhké prostředí.",
+      "funFact": "Anolis zelený mají speciální adaptace pro život v extrémních podmínkách.",
+      "localPath": "/images/reptiles/reptiles19.jpg"
+    },
+    {
+      "fileName": "reptiles20.jpg",
+      "commonName": "Gekončík domácí",
+      "scientificName": "Agkistrodon contortrix",
+      "size": "60-90 cm (24-36 inches)",
+      "lifespan": "18-25 let ve volné přírodě",
+      "habitat": "Mokřady a bažiny. Tráví většinu času ve vodě nebo blízko ní.",
+      "funFact": "Gekončík domácí dokážou přežít měsíce bez jídla a mají pomalý metabolismus.",
+      "localPath": "/images/reptiles/reptiles20.jpg"
+    },
+    {
+      "fileName": "reptiles21.jpg",
+      "commonName": "Zmije obecná",
+      "scientificName": "Lampropeltis triangulum",
+      "size": "50-150 cm (20-60 inches)",
+      "lifespan": "12-20 let ve volné přírodě",
+      "habitat": "Mokřady a bažiny. Tráví většinu času ve vodě nebo blízko ní.",
+      "funFact": "Zmije obecná dokážou přežít měsíce bez jídla a mají pomalý metabolismus.",
+      "localPath": "/images/reptiles/reptiles21.jpg"
+    },
+    {
+      "fileName": "reptiles22.jpg",
+      "commonName": "Užovka obojková",
+      "scientificName": "Sceloporus undulatus",
+      "size": "10-18 cm (4-7 inches)",
+      "lifespan": "4-7 let ve volné přírodě",
+      "habitat": "Pobřežní oblasti a ostrovy. Preferují písečné pláže pro hnízda.",
+      "funFact": "Užovka obojková dokážou regenerovat ztracené končetiny a ocas.",
+      "localPath": "/images/reptiles/reptiles22.jpg"
+    },
+    {
+      "fileName": "reptiles23.jpg",
+      "commonName": "Ještěrka obecná",
+      "scientificName": "Malaclemys terrapin",
+      "size": "10-23 cm (4-9 inches) shell length",
+      "lifespan": "25-40 let ve volné přírodě",
+      "habitat": "Pobřežní oblasti a ostrovy. Preferují písečné pláže pro hnízda.",
+      "funFact": "Ještěrka obecná mají výborný čich a dokážou detekovat teplo kořisti.",
+      "localPath": "/images/reptiles/reptiles23.jpg"
+    },
+    {
+      "fileName": "reptiles24.jpg",
+      "commonName": "Slepýš křehký",
+      "scientificName": "Heterodon platirhinos",
+      "size": "35-60 cm (14-24 inches)",
+      "lifespan": "15-18 let ve volné přírodě",
+      "habitat": "Pobřežní oblasti a ostrovy. Preferují písečné pláže pro hnízda.",
+      "funFact": "Slepýš křehký mají výborný čich a dokážou detekovat teplo kořisti.",
+      "localPath": "/images/reptiles/reptiles24.jpg"
+    },
+    {
+      "fileName": "reptiles25.jpg",
+      "commonName": "Želva bahenní",
+      "scientificName": "Ophisaurus ventralis",
+      "size": "45-60 cm (18-24 inches)",
+      "lifespan": "10-30 let ve volné přírodě",
+      "habitat": "Lesy a křovinaté oblasti. Preferují oblasti s dostatkem vegetace.",
+      "funFact": "Želva bahenní dokážou regenerovat ztracené končetiny a ocas.",
+      "localPath": "/images/reptiles/reptiles25.jpg"
+    },
+    {
+      "fileName": "reptiles26.jpg",
+      "commonName": "Chameleon obecný",
+      "scientificName": "Glyptemys insculpta",
+      "size": "14-20 cm (5.5-8 inches) shell length",
+      "lifespan": "40-58 let ve volné přírodě",
+      "habitat": "Tropické a subtropické oblasti. Preferují teplé a vlhké prostředí.",
+      "funFact": "Chameleon obecný dokážou přežít měsíce bez jídla a mají pomalý metabolismus.",
+      "localPath": "/images/reptiles/reptiles26.jpg"
+    },
+    {
+      "fileName": "reptiles27.jpg",
+      "commonName": "Leguán modrý",
+      "scientificName": "Masticophis flagellum",
+      "size": "90-180 cm (36-72 inches)",
+      "lifespan": "13-20 let ve volné přírodě",
+      "habitat": "Mokřady a bažiny. Tráví většinu času ve vodě nebo blízko ní.",
+      "funFact": "Leguán modrý mají výborný čich a dokážou detekovat teplo kořisti.",
+      "localPath": "/images/reptiles/reptiles27.jpg"
+    },
+    {
+      "fileName": "reptiles28.jpg",
+      "commonName": "Had mléčný",
+      "scientificName": "Clemmys guttata",
+      "size": "8-12 cm (3-5 inches) shell length",
+      "lifespan": "25-50 let ve volné přírodě",
+      "habitat": "Pobřežní oblasti a ostrovy. Preferují písečné pláže pro hnízda.",
+      "funFact": "Had mléčný dokážou přežít měsíce bez jídla a mají pomalý metabolismus.",
+      "localPath": "/images/reptiles/reptiles28.jpg"
+    },
+    {
+      "fileName": "reptiles29.jpg",
+      "commonName": "Želva nádherná",
+      "scientificName": "Diadophis punctatus",
+      "size": "25-38 cm (10-15 inches)",
+      "lifespan": "6-10 let ve volné přírodě",
+      "habitat": "Mokřady a bažiny. Tráví většinu času ve vodě nebo blízko ní.",
+      "funFact": "Želva nádherná mají výborný čich a dokážou detekovat teplo kořisti.",
+      "localPath": "/images/reptiles/reptiles29.jpg"
+    },
+    {
+      "fileName": "reptiles30.jpg",
+      "commonName": "Varan nilský",
+      "scientificName": "Sternotherus odoratus",
+      "size": "7-12 cm (3-5 inches) shell length",
+      "lifespan": "30-50 let ve volné přírodě",
+      "habitat": "Pouště a suché oblasti. Preferují skalnaté oblasti s dostatkem úkrytů.",
+      "funFact": "Varan nilský dokážou žít až 50 let a mají složité teritoriální chování.",
+      "localPath": "/images/reptiles/reptiles30.jpg"
+    }
+  ]
+}

@@ -10,7 +10,7 @@ import './Modal.css';
  * @returns {JSX.Element|null} MatchModal component
  */
 function MatchModal({ matchModal, onConfirm }) {
-  const { t } = useTranslation();
+  const { t } = useTranslation('ui');
   
   if (!matchModal) return null;
 

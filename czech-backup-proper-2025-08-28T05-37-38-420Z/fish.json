@@ -1,0 +1,306 @@
+{
+  "category": "fish",
+  "totalPhotos": 30,
+  "photos": [
+    {
+      "fileName": "fish1.jpg",
+      "commonName": "Žralok bílý",
+      "scientificName": "Micropterus salmoides",
+      "size": "4-6 m, 680-1100 kg",
+      "lifespan": "70+ let ve volné přírodě",
+      "habitat": "Pobřežní a otevřené oceánské vody po celém světě. Preferují chladnější vody s bohatou potravou.",
+      "funFact": "Žraloci bílí dokážou vyskočit až 3 metry nad hladinu při lovu. Mají až 300 zubů uspořádaných v několika řadách a dokážou cítit krev z kilometrové vzdálenosti.",
+      "localPath": "/images/fish/fish1.jpg"
+    },
+    {
+      "fileName": "fish2.jpg",
+      "commonName": "Tuňák obecný",
+      "scientificName": "Oncorhynchus mykiss",
+      "size": "2-4 m, 250-680 kg",
+      "lifespan": "15-50 let ve volné přírodě",
+      "habitat": "Otevřené oceány po celém světě. Migrují na dlouhé vzdálenosti za potravou a rozmnožováním.",
+      "funFact": "Tuňáci dokážou plavat rychlostí až 75 km/h a udržovat tělesnou teplotu vyšší než okolní voda. Jejich srdce váží až 25 kg.",
+      "localPath": "/images/fish/fish2.jpg"
+    },
+    {
+      "fileName": "fish3.jpg",
+      "commonName": "Losos atlantský",
+      "scientificName": "Esox lucius",
+      "size": "70-76 cm, 2,3-5,4 kg",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Severní Atlantik a řeky pro tření. Anadromní - žijí v moři, ale trou se ve sladké vodě.",
+      "funFact": "Lososi dokážou skákat až 3,7 metru vysoko při překonávání překážek během migrace. Najdou cestu zpět do řeky, kde se narodili, pomocí čichu.",
+      "localPath": "/images/fish/fish3.jpg"
+    },
+    {
+      "fileName": "fish4.jpg",
+      "commonName": "Štika obecná",
+      "scientificName": "Lepomis macrochirus",
+      "size": "40-55 cm, 0,7-3,6 kg",
+      "lifespan": "10-30 let ve volné přírodě",
+      "habitat": "Sladkovodní jezera, rybníky a pomalé řeky po celé severní polokouli. Preferují vegetací bohaté vody.",
+      "funFact": "Štiky mají až 700 ostrých zubů a dokážou útočit rychlostí až 48 km/h. Jsou ambush predátoři, kteří čekají nehybně na kořist.",
+      "localPath": "/images/fish/fish4.jpg"
+    },
+    {
+      "fileName": "fish5.jpg",
+      "commonName": "Kapr obecný",
+      "scientificName": "Ictalurus punctatus",
+      "size": "40-80 cm, 2-14 kg",
+      "lifespan": "20-100+ let ve volné přírodě",
+      "habitat": "Sladkovodní jezera, rybníky a řeky po celé Evropě a Asii. Velmi přizpůsobiví různým podmínkám.",
+      "funFact": "Kapři dokážou žít přes 100 let a jsou velmi inteligentní - dokážou se naučit rozpoznávat své chovatele a reagovat na různé signály.",
+      "localPath": "/images/fish/fish5.jpg"
+    },
+    {
+      "fileName": "fish6.jpg",
+      "commonName": "Pstruh duhový",
+      "scientificName": "Salmo salar",
+      "size": "30-40 cm, 0,5-2 kg",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Chladné sladkovodní potoky a jezera po celé severní polokouli. Preferují čisté, kyslíkem bohaté vody.",
+      "funFact": "Pstruzi duhoví dokážou skákat až 2 metry vysoko při překonávání překážek. Jejich duhové zbarvení se mění podle prostředí a nálady.",
+      "localPath": "/images/fish/fish6.jpg"
+    },
+    {
+      "fileName": "fish7.jpg",
+      "commonName": "Treska obecná",
+      "scientificName": "Sander vitreus",
+      "size": "60-200 cm, 5-96 kg",
+      "lifespan": "13-25 let ve volné přírodě",
+      "habitat": "Chladné vody severního Atlantiku a Pacifiku. Preferují hloubky 150-200 metrů.",
+      "funFact": "Tresky dokážou produkovat zvuky pomocí plynových měchýřů pro komunikaci. Jsou důležitou komerční rybou po staletí.",
+      "localPath": "/images/fish/fish7.jpg"
+    },
+    {
+      "fileName": "fish8.jpg",
+      "commonName": "Manta obrovská",
+      "scientificName": "Morone saxatilis",
+      "size": "3-7 m rozpětí, 1350-2000 kg",
+      "lifespan": "40+ let ve volné přírodě",
+      "habitat": "Tropické a subtropické oceány po celém světě. Často se vyskytují blízko pobřeží a kolem ostrovů.",
+      "funFact": "Manta obrovské mají největší mozek ze všech ryb a jsou velmi inteligentní. Dokážou rozpoznat sebe v zrcadle a mají unikátní vzory skvrn.",
+      "localPath": "/images/fish/fish8.jpg"
+    },
+    {
+      "fileName": "fish9.jpg",
+      "commonName": "Mečoun obecný",
+      "scientificName": "Perca flavescens",
+      "size": "3-4,5 m, 200-650 kg",
+      "lifespan": "9-15 let ve volné přírodě",
+      "habitat": "Teplé oceány po celém světě. Preferují otevřené vody a často se vyskytují blízko povrchu.",
+      "funFact": "Mečouni dokážou plavat rychlostí až 97 km/h a jejich 'meč' může být dlouhý až třetinu jejich těla. Používají ho k omráčení kořisti.",
+      "localPath": "/images/fish/fish9.jpg"
+    },
+    {
+      "fileName": "fish10.jpg",
+      "commonName": "Rejnok elektrický",
+      "scientificName": "Esox masquinongy",
+      "size": "150-200 cm, 20-90 kg",
+      "lifespan": "15-25 let ve volné přírodě",
+      "habitat": "Mělké pobřežní vody Atlantiku. Preferují písčité a bahnité dno, kde se zahrabávají.",
+      "funFact": "Rejnoky elektrické dokážou generovat elektrické výboje až 220 voltů pro obranu a lov. Jejich elektrické orgány tvoří až šestinu jejich těla.",
+      "localPath": "/images/fish/fish10.jpg"
+    },
+    {
+      "fileName": "fish11.jpg",
+      "commonName": "Úhoř říční",
+      "scientificName": "Salvelinus fontinalis",
+      "size": "60-150 cm, 0,5-6 kg",
+      "lifespan": "15-85 let ve volné přírodě",
+      "habitat": "Řeky a jezera Evropy a Severní Ameriky, migrují do Sargasového moře na tření.",
+      "funFact": "Úhoři podnikají jednu z nejdelších migrací - až 6000 km do Sargasového moře. Dokážou přežít mimo vodu několik hodin díky schopnosti dýchat kůží.",
+      "localPath": "/images/fish/fish11.jpg"
+    },
+    {
+      "fileName": "fish12.jpg",
+      "commonName": "Žralok kladivoun",
+      "scientificName": "Micropterus dolomieu",
+      "size": "0,9-6 m, 3-580 kg",
+      "lifespan": "20-30 let ve volné přírodě",
+      "habitat": "Teplé pobřežní a otevřené oceánské vody po celém světě. Často tvoří velké skupiny.",
+      "funFact": "Žraloci kladivouni mají unikátní tvar hlavy, který jim poskytuje 360° vidění a lepší manévrovatelnost. Dokážou detekovat elektrické pole kořisti.",
+      "localPath": "/images/fish/fish12.jpg"
+    },
+    {
+      "fileName": "fish13.jpg",
+      "commonName": "Mořský koník",
+      "scientificName": "Salvelinus namaycush",
+      "size": "1,5-35 cm, 1-50 g",
+      "lifespan": "1-5 let ve volné přírodě",
+      "habitat": "Mělké tropické a mírné pobřežní vody po celém světě. Preferují oblasti s mořskými trávami a koráli.",
+      "funFact": "Mořští koníci jsou jediní samci v živočišné říši, kteří otěhotní a rodí mláďata. Dokážou pohybovat očima nezávisle na sobě.",
+      "localPath": "/images/fish/fish13.jpg"
+    },
+    {
+      "fileName": "fish14.jpg",
+      "commonName": "Ryba-klaun",
+      "scientificName": "Morone chrysops",
+      "size": "7-16 cm, 10-150 g",
+      "lifespan": "6-10 let ve volné přírodě",
+      "habitat": "Koralové útesy Indického a Tichého oceánu. Žijí v symbióze s mořskými sasankami.",
+      "funFact": "Ryby-klauni jsou imunní vůči jedovatým chapadlům sasanek díky speciálnímu hlenu. Všechny se rodí jako samci a mohou se změnit na samice.",
+      "localPath": "/images/fish/fish14.jpg"
+    },
+    {
+      "fileName": "fish15.jpg",
+      "commonName": "Žralok velrybí",
+      "scientificName": "Esox masquinongy",
+      "size": "5,5-10 m, 9-19 tun",
+      "lifespan": "70-100+ let ve volné přírodě",
+      "habitat": "Teplé oceány po celém světě. Migrují za potravou a často se vyskytují blízko povrchu.",
+      "funFact": "Žraloci velrybí jsou největší ryby na světě, ale živí se pouze planktonem a malými rybami. Dokážou otevřít ústa na šířku až 1,5 metru.",
+      "localPath": "/images/fish/fish15.jpg"
+    },
+    {
+      "fileName": "fish16.jpg",
+      "commonName": "Platýs modrý",
+      "scientificName": "Oncorhynchus kisutch",
+      "size": "10-31 cm, 200-600 g",
+      "lifespan": "10-30 let ve volné přírodě",
+      "habitat": "Koralové útesy Indického a Tichého oceánu. Preferují oblasti s bohatým koralovým růstem.",
+      "funFact": "Platýsi modří dokážou změnit barvu podle nálady a prostředí. Jsou hermafrodité a mohou změnit pohlaví podle potřeb skupiny.",
+      "localPath": "/images/fish/fish16.jpg"
+    },
+    {
+      "fileName": "fish17.jpg",
+      "commonName": "Sumec obrovský",
+      "scientificName": "Pomoxis nigromaculatus",
+      "size": "150-300 cm, 100-300 kg",
+      "lifespan": "60-80 let ve volné přírodě",
+      "habitat": "Velké řeky střední a východní Evropy. Preferují hluboké tůně s kamenitým nebo písčitým dnem.",
+      "funFact": "Sumci obrovští jsou největší sladkovodní ryby Evropy. Dokážou žít přes 80 let a mají vynikající čich a hmat díky svým vousům.",
+      "localPath": "/images/fish/fish17.jpg"
+    },
+    {
+      "fileName": "fish18.jpg",
+      "commonName": "Makrela obecná",
+      "scientificName": "Lepomis gibbosus",
+      "size": "30-60 cm, 0,5-3,4 kg",
+      "lifespan": "17-20 let ve volné přírodě",
+      "habitat": "Mírné a subtropické vody Atlantiku a Pacifiku. Tvoří velké hejna a migrují za potravou.",
+      "funFact": "Makrely dokážou plavat rychlostí až 77 km/h a nikdy se nezastavují - musí neustále plavat, aby mohly dýchat. Tvoří hejna až milionů jedinců.",
+      "localPath": "/images/fish/fish18.jpg"
+    },
+    {
+      "fileName": "fish19.jpg",
+      "commonName": "Mořský ďas",
+      "scientificName": "Oncorhynchus tshawytscha",
+      "size": "60-200 cm, 10-57 kg",
+      "lifespan": "24+ let ve volné přírodě",
+      "habitat": "Hluboké vody Atlantiku a Středozemního moře. Žijí na dně v hloubkách 50-1000 metrů.",
+      "funFact": "Mořští ďasi mají obrovskou hlavu a ústa, která tvoří až polovinu jejich těla. Dokážou spolknout kořist stejně velkou jako oni sami.",
+      "localPath": "/images/fish/fish19.jpg"
+    },
+    {
+      "fileName": "fish20.jpg",
+      "commonName": "Sardinka obecná",
+      "scientificName": "Oncorhynchus mykiss",
+      "size": "15-20 cm, 15-30 g",
+      "lifespan": "2-6 let ve volné přírodě",
+      "habitat": "Pobřežní vody Atlantiku a Středozemního moře. Tvoří obrovská hejna blízko povrchu.",
+      "funFact": "Sardinky tvoří některá z největších hejn v oceánu - až miliony jedinců. Jejich koordinované pohyby vypadají jako jeden obrovský organismus.",
+      "localPath": "/images/fish/fish20.jpg"
+    },
+    {
+      "fileName": "fish21.jpg",
+      "commonName": "Candát obecný",
+      "scientificName": "Pylodictis olivaris",
+      "size": "40-100 cm, 1-15 kg",
+      "lifespan": "10-20 let ve volné přírodě",
+      "habitat": "Sladkovodní jezera a řeky Evropy a Asie. Preferují čisté vody s písčitým nebo kamenitým dnem.",
+      "funFact": "Candáti mají vynikající noční vidění díky speciální vrstvě v očích. Jsou aktivní predátoři, kteří loví především v soumraku a v noci.",
+      "localPath": "/images/fish/fish21.jpg"
+    },
+    {
+      "fileName": "fish22.jpg",
+      "commonName": "Okoun říční",
+      "scientificName": "Sander canadensis",
+      "size": "15-50 cm, 0,1-4,8 kg",
+      "lifespan": "9-22 let ve volné přírodě",
+      "habitat": "Sladkovodní jezera, rybníky a řeky po celé Evropě a Asii. Velmi přizpůsobiví různým podmínkám.",
+      "funFact": "Okouně mají charakteristické tmavé pruhy a červené ploutve. Mladí okouně tvoří hejna, ale dospělí jsou teritoriální a samotářští.",
+      "localPath": "/images/fish/fish22.jpg"
+    },
+    {
+      "fileName": "fish23.jpg",
+      "commonName": "Plotice obecná",
+      "scientificName": "Lota lota",
+      "size": "15-45 cm, 0,1-2 kg",
+      "lifespan": "8-15 let ve volné přírodě",
+      "habitat": "Sladkovodní jezera, rybníky a řeky po celé Evropě. Preferují pomalé vody s vegetací.",
+      "funFact": "Plotice jsou velmi sociální ryby, které tvoří velká hejna. Dokážou se naučit rozpoznávat jednotlivé členy své skupiny a mají dobrou paměť.",
+      "localPath": "/images/fish/fish23.jpg"
+    },
+    {
+      "fileName": "fish24.jpg",
+      "commonName": "Cejn velký",
+      "scientificName": "Lepisosteus osseus",
+      "size": "30-60 cm, 1-6 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Sladkovodní jezera a pomalé řeky střední a východní Evropy. Preferují teplé vody s bahnitým dnem.",
+      "funFact": "Cejni velcí jsou velmi odolní a dokážou přežít v podmínkách s nízkým obsahem kyslíku. V zimě se zahrabávají do bahna a впадají do stavu podobného hibernaci.",
+      "localPath": "/images/fish/fish24.jpg"
+    },
+    {
+      "fileName": "fish25.jpg",
+      "commonName": "Lín obecný",
+      "scientificName": "Polyodon spathula",
+      "size": "20-70 cm, 1-7,5 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Sladkovodní jezera a rybníky s bohatou vegetací po celé Evropě a Asii. Preferují teplé, mělké vody.",
+      "funFact": "Líni mají léčivé vlastnosti - jejich sliz obsahuje antibakteriální látky. Jiné ryby se o ně často otírají, když jsou zraněné nebo nemocné.",
+      "localPath": "/images/fish/fish25.jpg"
+    },
+    {
+      "fileName": "fish26.jpg",
+      "commonName": "Amur bílý",
+      "scientificName": "Amia calva",
+      "size": "60-120 cm, 5-40 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Velké řeky východní Asie, introdukován do Evropy a Severní Ameriky. Preferují rychle tekoucí vody.",
+      "funFact": "Amuři bílí jsou býložravé ryby, které dokážou sníst až 40% své tělesné hmotnosti rostlinné potravy denně. Používají se k biologickému čištění vodních ploch.",
+      "localPath": "/images/fish/fish26.jpg"
+    },
+    {
+      "fileName": "fish27.jpg",
+      "commonName": "Tolstolobik pestrý",
+      "scientificName": "Aplodinotus grunniens",
+      "size": "60-100 cm, 16-27 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Velké řeky a jezera východní Asie, introdukován do mnoha zemí. Preferují teplé vody s bohatým planktonem.",
+      "funFact": "Tolstolobici pestří dokážou vyskočit až 3 metry nad hladinu, když jsou vyplašeni. Filtrují vodu a živí se fytoplanktonem a zooplanktonem.",
+      "localPath": "/images/fish/fish27.jpg"
+    },
+    {
+      "fileName": "fish28.jpg",
+      "commonName": "Jeseter ruský",
+      "scientificName": "Moxostoma macrolepidotum",
+      "size": "100-200 cm, 50-100 kg",
+      "lifespan": "40-48 let ve volné přírodě",
+      "habitat": "Kaspické, Azovské a Černé moře a jejich přítoky. Anadromní - trou se ve sladké vodě.",
+      "funFact": "Jeseteri ruští jsou zdrojem nejcennějšího kaviáru na světě. Dokážou žít desítky let a samice začínají klást jikry až ve věku 10-16 let.",
+      "localPath": "/images/fish/fish28.jpg"
+    },
+    {
+      "fileName": "fish29.jpg",
+      "commonName": "Mihule říční",
+      "scientificName": "Hiodon tergisus",
+      "size": "15-50 cm, 50-150 g",
+      "lifespan": "5-7 let celkem (včetně larvální stádium)",
+      "habitat": "Řeky a potoky Evropy a Severní Ameriky. Larvy žijí v sedimentech, dospělci migrují do moře.",
+      "funFact": "Mihule nejsou skutečné ryby, ale primitivní obratlovci bez čelistí. Dospělci se přisávají na ryby a živí se jejich krví a tělesnými tekutinami.",
+      "localPath": "/images/fish/fish29.jpg"
+    },
+    {
+      "fileName": "fish30.jpg",
+      "commonName": "Mník jednovousý",
+      "scientificName": "Catostomus commersonii",
+      "size": "150-250 cm, 30-60 kg",
+      "lifespan": "30-50 let ve volné přírodě",
+      "habitat": "Velké řeky střední a východní Evropy. Preferují hluboké tůně s kamenitým nebo písčitým dnem.",
+      "funFact": "Mníci jednovousí mají pouze jeden vous na bradě, na rozdíl od sumců. Jsou noční predátoři s vynikajícím čichem a hmatem.",
+      "localPath": "/images/fish/fish30.jpg"
+    }
+  ]
+}

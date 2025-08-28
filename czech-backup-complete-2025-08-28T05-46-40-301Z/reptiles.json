@@ -1,0 +1,306 @@
+{
+  "category": "Plazi",
+  "totalPhotos": 30,
+  "photos": [
+    {
+      "fileName": "reptiles1.jpg",
+      "commonName": "Eastern Box Turtle",
+      "scientificName": "Terrapene carolina",
+      "size": "10-15 cm (4-6 inches) shell length",
+      "lifespan": "50-100+ years in wild",
+      "habitat": "Deciduous forests, fields, and woodland edges across eastern North America.",
+      "funFact": "Box turtles can completely close their shell for protection and have been known to live over 100 years. They have excellent homing abilities and rarely travel far from their birthplace.",
+      "localPath": "/images/reptiles/reptiles1.jpg"
+    },
+    {
+      "fileName": "reptiles2.jpg",
+      "commonName": "Garter Snake",
+      "scientificName": "Thamnophis sirtalis",
+      "size": "45-65 cm (18-26 inches)",
+      "lifespan": "4-5 years in wild",
+      "habitat": "Diverse habitats including forests, fields, wetlands, and suburban areas across North America.",
+      "funFact": "Garter snakes are among the most cold-tolerant snakes and can be active at temperatures as low as 1°C. They hibernate in large groups called hibernacula.",
+      "localPath": "/images/reptiles/reptiles2.jpg"
+    },
+    {
+      "fileName": "reptiles3.jpg",
+      "commonName": "Five-lined Skink",
+      "scientificName": "Plestiodon fasciatus",
+      "size": "12-20 cm (5-8 inches)",
+      "lifespan": "6-10 years in wild",
+      "habitat": "Wooded areas with abundant cover such as logs, rocks, and leaf litter across eastern North America.",
+      "funFact": "Young five-lined skinks have bright blue tails that they can detach if grabbed by a predator. The tail continues to wiggle, distracting the predator while the skink escapes.",
+      "localPath": "/images/reptiles/reptiles3.jpg"
+    },
+    {
+      "fileName": "reptiles4.jpg",
+      "commonName": "Painted Turtle",
+      "scientificName": "Chrysemys picta",
+      "size": "10-18 cm (4-7 inches) shell length",
+      "lifespan": "20-40 years in wild",
+      "habitat": "Slow-moving waters with muddy bottoms and aquatic vegetation across North America.",
+      "funFact": "Painted turtles can survive winter by slowing their metabolism and absorbing oxygen through their skin while buried in mud underwater. They are excellent swimmers and baskers.",
+      "localPath": "/images/reptiles/reptiles4.jpg"
+    },
+    {
+      "fileName": "reptiles5.jpg",
+      "commonName": "Green Anole",
+      "scientificName": "Anolis carolinensis",
+      "size": "12-20 cm (5-8 inches)",
+      "lifespan": "2-8 years in wild",
+      "habitat": "Trees, shrubs, and vegetation in warm, humid areas across southeastern United States.",
+      "funFact": "Green anoles can change color from bright green to brown depending on temperature, mood, and social signals. Males have a colorful throat fan called a dewlap used for communication.",
+      "localPath": "/images/reptiles/reptiles5.jpg"
+    },
+    {
+      "fileName": "reptiles6.jpg",
+      "commonName": "Red-eared Slider",
+      "scientificName": "Trachemys scripta elegans",
+      "size": "15-30 cm (6-12 inches) shell length",
+      "lifespan": "20-40 years in wild",
+      "habitat": "Ponds, lakes, marshes, and slow-moving streams across North America.",
+      "funFact": "Red-eared sliders are excellent swimmers and can hold their breath for up to 30 minutes. They are named for the distinctive red stripe behind their eyes.",
+      "localPath": "/images/reptiles/reptiles6.jpg"
+    },
+    {
+      "fileName": "reptiles7.jpg",
+      "commonName": "American Alligator",
+      "scientificName": "Alligator mississippiensis",
+      "size": "2-4 meters (6-14 feet), 90-230 kg",
+      "lifespan": "35-50 years in wild",
+      "habitat": "Freshwater swamps, marshes, rivers, and lakes in southeastern United States.",
+      "funFact": "American alligators are apex predators that can remain motionless for hours. They are excellent mothers, carrying their babies to water in their mouths after hatching.",
+      "localPath": "/images/reptiles/reptiles7.jpg"
+    },
+    {
+      "fileName": "reptiles8.jpg",
+      "commonName": "Corn Snake",
+      "scientificName": "Pantherophis guttatus",
+      "size": "60-120 cm (24-48 inches)",
+      "lifespan": "15-20 years in wild",
+      "habitat": "Forests, fields, and agricultural areas across southeastern United States.",
+      "funFact": "Corn snakes are excellent climbers and constrictors. They get their name from the corn-like pattern on their belly scales, not from eating corn.",
+      "localPath": "/images/reptiles/reptiles8.jpg"
+    },
+    {
+      "fileName": "reptiles9.jpg",
+      "commonName": "Snapping Turtle",
+      "scientificName": "Chelydra serpentina",
+      "size": "20-35 cm (8-14 inches) shell length",
+      "lifespan": "30-47 years in wild",
+      "habitat": "Freshwater environments including ponds, lakes, rivers, and marshes across North America.",
+      "funFact": "Snapping turtles have incredibly powerful jaws and can snap with the force of 208 pounds per square inch. They are surprisingly fast swimmers despite their bulky appearance.",
+      "localPath": "/images/reptiles/reptiles9.jpg"
+    },
+    {
+      "fileName": "reptiles10.jpg",
+      "commonName": "Bearded Dragon",
+      "scientificName": "Pogona vitticeps",
+      "size": "40-60 cm (16-24 inches)",
+      "lifespan": "10-15 years in wild",
+      "habitat": "Arid woodlands, deserts, and scrublands across Australia.",
+      "funFact": "Bearded dragons can change color to regulate body temperature and communicate. When threatened, they puff out their throat to appear larger and more intimidating.",
+      "localPath": "/images/reptiles/reptiles10.jpg"
+    },
+    {
+      "fileName": "reptiles11.jpg",
+      "commonName": "Iguana",
+      "scientificName": "Iguana iguana",
+      "size": "120-180 cm (48-72 inches)",
+      "lifespan": "15-20 years in wild",
+      "habitat": "Tropical rainforests, mangroves, and coastal areas in Central and South America.",
+      "funFact": "Iguanas are excellent swimmers and can hold their breath for up to 30 minutes. They have a third eye on top of their head that detects shadows and changes in light.",
+      "localPath": "/images/reptiles/reptiles11.jpg"
+    },
+    {
+      "fileName": "reptiles12.jpg",
+      "commonName": "Gecko",
+      "scientificName": "Hemidactylus turcicus",
+      "size": "7-15 cm (3-6 inches)",
+      "lifespan": "5-10 years in wild",
+      "habitat": "Rocky areas, buildings, and urban environments in warm climates worldwide.",
+      "funFact": "Geckos can walk on any surface, including glass, due to millions of tiny hairs on their feet called setae. They are also one of the few lizards that can vocalize.",
+      "localPath": "/images/reptiles/reptiles12.jpg"
+    },
+    {
+      "fileName": "reptiles13.jpg",
+      "commonName": "Chameleon",
+      "scientificName": "Chamaeleo calyptratus",
+      "size": "35-60 cm (14-24 inches)",
+      "lifespan": "5-8 years in wild",
+      "habitat": "Trees and shrubs in mountainous regions of Yemen and Saudi Arabia.",
+      "funFact": "Chameleons can move their eyes independently and have tongues that can extend twice their body length. They change color based on mood, temperature, and communication.",
+      "localPath": "/images/reptiles/reptiles13.jpg"
+    },
+    {
+      "fileName": "reptiles14.jpg",
+      "commonName": "Ball Python",
+      "scientificName": "Python regius",
+      "size": "90-150 cm (36-60 inches)",
+      "lifespan": "20-30 years in wild",
+      "habitat": "Grasslands, shrublands, and open forests in West and Central Africa.",
+      "funFact": "Ball pythons get their name from their defensive behavior of curling into a tight ball. They are non-venomous constrictors that can go months without eating.",
+      "localPath": "/images/reptiles/reptiles14.jpg"
+    },
+    {
+      "fileName": "reptiles15.jpg",
+      "commonName": "Monitor Lizard",
+      "scientificName": "Varanus salvator",
+      "size": "150-250 cm (60-100 inches)",
+      "lifespan": "15-25 years in wild",
+      "habitat": "Tropical forests, mangroves, and wetlands in Southeast Asia.",
+      "funFact": "Monitor lizards are highly intelligent reptiles with excellent problem-solving abilities. They are semi-aquatic and excellent swimmers, often diving to escape predators.",
+      "localPath": "/images/reptiles/reptiles15.jpg"
+    },
+    {
+      "fileName": "reptiles16.jpg",
+      "commonName": "Rattlesnake",
+      "scientificName": "Crotalus atrox",
+      "size": "90-150 cm (36-60 inches)",
+      "lifespan": "15-25 years in wild",
+      "habitat": "Deserts, grasslands, and scrub forests across southwestern United States and Mexico.",
+      "funFact": "Rattlesnakes add a new segment to their rattle each time they shed their skin. They can sense heat through special organs and strike with incredible speed and accuracy.",
+      "localPath": "/images/reptiles/reptiles16.jpg"
+    },
+    {
+      "fileName": "reptiles17.jpg",
+      "commonName": "Sea Turtle",
+      "scientificName": "Chelonia mydas",
+      "size": "80-120 cm (32-48 inches) shell length",
+      "lifespan": "60-80 years in wild",
+      "habitat": "Tropical and subtropical oceans worldwide, nesting on sandy beaches.",
+      "funFact": "Sea turtles navigate using Earth's magnetic field and return to the same beach where they were born to lay eggs. They can hold their breath for up to 5 hours.",
+      "localPath": "/images/reptiles/reptiles17.jpg"
+    },
+    {
+      "fileName": "reptiles18.jpg",
+      "commonName": "Kingsnake",
+      "scientificName": "Lampropeltis getula",
+      "size": "90-150 cm (36-60 inches)",
+      "lifespan": "10-15 years in wild",
+      "habitat": "Diverse habitats including forests, deserts, and grasslands across North America.",
+      "funFact": "Kingsnakes are immune to the venom of other snakes and regularly eat venomous species. They are powerful constrictors and excellent climbers.",
+      "localPath": "/images/reptiles/reptiles18.jpg"
+    },
+    {
+      "fileName": "reptiles19.jpg",
+      "commonName": "Tortoise",
+      "scientificName": "Gopherus polyphemus",
+      "size": "20-35 cm (8-14 inches) shell length",
+      "lifespan": "40-80 years in wild",
+      "habitat": "Sandy soils in longleaf pine forests and scrub habitats in southeastern United States.",
+      "funFact": "Gopher tortoises are ecosystem engineers that dig burrows up to 40 feet long, providing shelter for over 350 other species. They are herbivores that help disperse seeds.",
+      "localPath": "/images/reptiles/reptiles19.jpg"
+    },
+    {
+      "fileName": "reptiles20.jpg",
+      "commonName": "Copperhead",
+      "scientificName": "Agkistrodon contortrix",
+      "size": "60-90 cm (24-36 inches)",
+      "lifespan": "18-25 years in wild",
+      "habitat": "Forests, rocky areas, and swamps across eastern United States.",
+      "funFact": "Copperheads are venomous pit vipers that can sense heat through special organs. They give birth to live young and are known for their distinctive hourglass-shaped markings.",
+      "localPath": "/images/reptiles/reptiles20.jpg"
+    },
+    {
+      "fileName": "reptiles21.jpg",
+      "commonName": "Milk Snake",
+      "scientificName": "Lampropeltis triangulum",
+      "size": "50-150 cm (20-60 inches)",
+      "lifespan": "12-20 years in wild",
+      "habitat": "Diverse habitats including forests, fields, and rocky areas across North America.",
+      "funFact": "Milk snakes are harmless constrictors that mimic the coloration of venomous coral snakes. They are excellent rodent controllers and are often found in barns.",
+      "localPath": "/images/reptiles/reptiles21.jpg"
+    },
+    {
+      "fileName": "reptiles22.jpg",
+      "commonName": "Fence Lizard",
+      "scientificName": "Sceloporus undulatus",
+      "size": "10-18 cm (4-7 inches)",
+      "lifespan": "4-7 years in wild",
+      "habitat": "Rocky areas, fences, and open woodlands across North America.",
+      "funFact": "Fence lizards are excellent climbers and can run on their hind legs when escaping predators. Males have bright blue patches on their throat and belly during breeding season.",
+      "localPath": "/images/reptiles/reptiles22.jpg"
+    },
+    {
+      "fileName": "reptiles23.jpg",
+      "commonName": "Diamondback Terrapin",
+      "scientificName": "Malaclemys terrapin",
+      "size": "10-23 cm (4-9 inches) shell length",
+      "lifespan": "25-40 years in wild",
+      "habitat": "Salt marshes and brackish waters along the Atlantic and Gulf coasts.",
+      "funFact": "Diamondback terrapins are the only turtle species that lives exclusively in brackish water. They can drink both fresh and salt water through specialized glands.",
+      "localPath": "/images/reptiles/reptiles23.jpg"
+    },
+    {
+      "fileName": "reptiles24.jpg",
+      "commonName": "Hognose Snake",
+      "scientificName": "Heterodon platirhinos",
+      "size": "35-60 cm (14-24 inches)",
+      "lifespan": "15-18 years in wild",
+      "habitat": "Sandy soils in forests, fields, and coastal areas across eastern North America.",
+      "funFact": "Hognose snakes are master actors that play dead when threatened, complete with rolling over and letting their tongue hang out. They have upturned snouts for digging.",
+      "localPath": "/images/reptiles/reptiles24.jpg"
+    },
+    {
+      "fileName": "reptiles25.jpg",
+      "commonName": "Glass Lizard",
+      "scientificName": "Ophisaurus ventralis",
+      "size": "45-60 cm (18-24 inches)",
+      "lifespan": "10-30 years in wild",
+      "habitat": "Grasslands, open woodlands, and scrub areas in southeastern United States.",
+      "funFact": "Glass lizards are legless lizards often mistaken for snakes. They can detach their tail when threatened, and the tail continues to move to distract predators.",
+      "localPath": "/images/reptiles/reptiles25.jpg"
+    },
+    {
+      "fileName": "reptiles26.jpg",
+      "commonName": "Wood Turtle",
+      "scientificName": "Glyptemys insculpta",
+      "size": "14-20 cm (5.5-8 inches) shell length",
+      "lifespan": "40-58 years in wild",
+      "habitat": "Streams, rivers, and adjacent forests in northeastern North America.",
+      "funFact": "Wood turtles are highly intelligent and can be trained to navigate mazes. They have distinctive sculptured shells and are excellent both on land and in water.",
+      "localPath": "/images/reptiles/reptiles26.jpg"
+    },
+    {
+      "fileName": "reptiles27.jpg",
+      "commonName": "Coachwhip Snake",
+      "scientificName": "Masticophis flagellum",
+      "size": "90-180 cm (36-72 inches)",
+      "lifespan": "13-20 years in wild",
+      "habitat": "Open areas including deserts, grasslands, and scrublands across southern United States.",
+      "funFact": "Coachwhip snakes are among the fastest snakes in North America, capable of speeds up to 4 mph. They are excellent climbers and often hunt in trees and bushes.",
+      "localPath": "/images/reptiles/reptiles27.jpg"
+    },
+    {
+      "fileName": "reptiles28.jpg",
+      "commonName": "Spotted Turtle",
+      "scientificName": "Clemmys guttata",
+      "size": "8-12 cm (3-5 inches) shell length",
+      "lifespan": "25-50 years in wild",
+      "habitat": "Shallow wetlands, bogs, and slow streams in eastern North America.",
+      "funFact": "Spotted turtles are semi-aquatic and hibernate in mud at the bottom of ponds. Each turtle has a unique pattern of yellow spots that can be used for individual identification.",
+      "localPath": "/images/reptiles/reptiles28.jpg"
+    },
+    {
+      "fileName": "reptiles29.jpg",
+      "commonName": "Ring-necked Snake",
+      "scientificName": "Diadophis punctatus",
+      "size": "25-38 cm (10-15 inches)",
+      "lifespan": "6-10 years in wild",
+      "habitat": "Forests, woodlands, and rocky areas with abundant cover across North America.",
+      "funFact": "Ring-necked snakes are secretive and rarely seen during the day. When threatened, they curl their tail in a corkscrew shape and display their bright orange or red belly.",
+      "localPath": "/images/reptiles/reptiles29.jpg"
+    },
+    {
+      "fileName": "reptiles30.jpg",
+      "commonName": "Musk Turtle",
+      "scientificName": "Sternotherus odoratus",
+      "size": "7-12 cm (3-5 inches) shell length",
+      "lifespan": "30-50 years in wild",
+      "habitat": "Shallow, slow-moving waters with muddy bottoms across eastern North America.",
+      "funFact": "Musk turtles are also called 'stinkpots' because they release a musky odor when threatened. They are excellent climbers and can often be found basking on low branches over water.",
+      "localPath": "/images/reptiles/reptiles30.jpg"
+    }
+  ]
+}

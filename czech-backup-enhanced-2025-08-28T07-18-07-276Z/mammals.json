@@ -1,0 +1,306 @@
+{
+  "category": "Savci",
+  "totalPhotos": 30,
+  "photos": [
+    {
+      "fileName": "mammals1.jpg",
+      "commonName": "American Black Bear",
+      "scientificName": "Ursus americanus",
+      "size": "1.2-1.9 m (4-6 feet) long, 90-140 kg",
+      "lifespan": "20-25 years in wild",
+      "habitat": "Large forested areas across North America. They inhabit deciduous and mixed forests, swamps, and mountainous regions.",
+      "funFact": "American black bears can sprint up to 55 km/hr (35 mph) and are excellent swimmers. Despite being classified as carnivores, they derive 90% of their diet from plants, making them highly adaptable omnivores.",
+      "localPath": "/images/mammals/mammals1.jpg"
+    },
+    {
+      "fileName": "mammals2.jpg",
+      "commonName": "White-tailed Deer",
+      "scientificName": "Odocoileus virginianus",
+      "size": "1.5-2.1 m (5-7 feet) long, 30-136 kg",
+      "lifespan": "6-14 years in wild",
+      "habitat": "Forests, grasslands, and suburban areas across the Americas. They prefer edge habitats where forests meet open areas.",
+      "funFact": "White-tailed deer can leap up to 3 meters high and 9 meters in length. They have excellent night vision and can detect movement up to 600 feet away.",
+      "localPath": "/images/mammals/mammals2.jpg"
+    },
+    {
+      "fileName": "mammals3.jpg",
+      "commonName": "Eastern Gray Squirrel",
+      "scientificName": "Sciurus carolinensis",
+      "size": "23-30 cm (9-12 inches) plus 19-25 cm tail",
+      "lifespan": "6 years in wild, up to 20 in captivity",
+      "habitat": "Deciduous and mixed forests in eastern North America. They are highly adaptable and thrive in urban parks and suburban areas.",
+      "funFact": "Gray squirrels can remember the locations of thousands of buried nuts and have been observed using deceptive tactics to protect their food caches from other squirrels.",
+      "localPath": "/images/mammals/mammals3.jpg"
+    },
+    {
+      "fileName": "mammals4.jpg",
+      "commonName": "Raccoon",
+      "scientificName": "Procyon lotor",
+      "size": "40-70 cm (16-28 inches), 5-26 kg",
+      "lifespan": "2-3 years in wild, can live over 20 years in captivity",
+      "habitat": "Deciduous and mixed forests, wetlands, and urban areas across North America. They prefer areas near water sources.",
+      "funFact": "Raccoons have extremely sensitive front paws with over 100,000 nerve endings. They often 'wash' their food in water to enhance their sense of touch and better examine their meal.",
+      "localPath": "/images/mammals/mammals4.jpg"
+    },
+    {
+      "fileName": "mammals5.jpg",
+      "commonName": "Red Fox",
+      "scientificName": "Vulpes vulpes",
+      "size": "45-90 cm (18-35 inches) plus 30-56 cm tail",
+      "lifespan": "2-5 years in wild",
+      "habitat": "Diverse environments across the northern hemisphere, including forests, grasslands, mountains, and urban areas.",
+      "funFact": "Red foxes have excellent hearing and can detect low-frequency sounds and rodents digging underground. They use Earth's magnetic field to hunt, making them one of the few animals with this ability.",
+      "localPath": "/images/mammals/mammals5.jpg"
+    },
+    {
+      "fileName": "mammals6.jpg",
+      "commonName": "Gray Wolf",
+      "scientificName": "Canis lupus",
+      "size": "1.0-1.6 m (3.3-5.2 feet) long, 20-80 kg",
+      "lifespan": "6-8 years in wild, up to 13 years",
+      "habitat": "Forests, tundra, deserts, plains, and mountains across northern regions. They prefer areas with abundant prey and minimal human disturbance.",
+      "funFact": "Wolves have an incredible sense of smell that is 100 times stronger than humans. They can detect a scent from over 1.5 miles away and track prey for hours.",
+      "localPath": "/images/mammals/mammals6.jpg"
+    },
+    {
+      "fileName": "mammals7.jpg",
+      "commonName": "Mountain Lion",
+      "scientificName": "Puma concolor",
+      "size": "1.0-1.8 m (3.3-5.9 feet) long, 29-90 kg",
+      "lifespan": "8-13 years in wild",
+      "habitat": "Diverse habitats from tropical rainforests to deserts and mountains across the Americas. They prefer areas with dense vegetation for stalking prey.",
+      "funFact": "Mountain lions can leap 15 feet vertically and 40 feet horizontally. They are excellent climbers and swimmers, making them one of the most adaptable big cats.",
+      "localPath": "/images/mammals/mammals7.jpg"
+    },
+    {
+      "fileName": "mammals8.jpg",
+      "commonName": "Moose",
+      "scientificName": "Alces alces",
+      "size": "2.4-3.1 m (8-10 feet) long, 270-720 kg",
+      "lifespan": "15-25 years in wild",
+      "habitat": "Boreal and mixed deciduous forests near lakes, wetlands, and swamps across northern regions. They prefer areas with abundant aquatic vegetation.",
+      "funFact": "Moose are excellent swimmers and can dive up to 20 feet deep to feed on aquatic plants. Despite their size, they can run up to 35 mph and are surprisingly agile.",
+      "localPath": "/images/mammals/mammals8.jpg"
+    },
+    {
+      "fileName": "mammals9.jpg",
+      "commonName": "Beaver",
+      "scientificName": "Castor canadensis",
+      "size": "74-90 cm (29-35 inches) plus 25-50 cm tail, 11-30 kg",
+      "lifespan": "10-12 years in wild",
+      "habitat": "Freshwater environments including rivers, streams, ponds, and wetlands across North America. They prefer areas with deciduous trees near water.",
+      "funFact": "Beavers are ecosystem engineers whose dams create wetland habitats for hundreds of other species. Their teeth never stop growing and are self-sharpening from constant gnawing.",
+      "localPath": "/images/mammals/mammals9.jpg"
+    },
+    {
+      "fileName": "mammals10.jpg",
+      "commonName": "Bobcat",
+      "scientificName": "Lynx rufus",
+      "size": "65-105 cm (26-41 inches) long, 4-18 kg",
+      "lifespan": "7-10 years in wild",
+      "habitat": "Diverse habitats including forests, swamps, deserts, and suburban areas across North America. They prefer areas with dense cover for hunting.",
+      "funFact": "Bobcats are incredibly stealthy hunters with retractable claws and can leap up to 12 feet to catch prey. They have excellent night vision and hearing.",
+      "localPath": "/images/mammals/mammals10.jpg"
+    },
+    {
+      "fileName": "mammals11.jpg",
+      "commonName": "Jelen kanadský",
+      "scientificName": "Cervus canadensis",
+      "size": "2,0-2,7 m délka, 147-499 kg",
+      "lifespan": "10-13 let ve volné přírodě",
+      "habitat": "Okraje lesů, louky a travnaté pláně západní Severní Ameriky. Migrují sezónně mezi letními a zimními oblastmi.",
+      "funFact": "Samci jelenů kanadských si nechávají narůst parohy, které mohou vážit až 18 kg a mít rozpětí 120 cm. Tyto parohy si každoročně shazují a znovu si je nechávají narůst, což z nich činí jednu z nejrychleji rostoucích tkání v živočišné říši.",
+      "localPath": "/images/mammals/mammals11.jpg"
+    },
+    {
+      "fileName": "mammals12.jpg",
+      "commonName": "Dikobraz severoamerický",
+      "scientificName": "Erethizon dorsatum",
+      "size": "60-90 cm délka, 5-14 kg",
+      "lifespan": "5-7 let ve volné přírodě",
+      "habitat": "Jehličnaté a smíšené lesy Severní Ameriky. Preferují oblasti s dostatkem stromů pro krmení a úkryt.",
+      "funFact": "Dikobrazové mají asi 30 000 bodlin, které jsou ve skutečnosti upravené chlupy s háčkovitými konci. Navzdory rozšířené představě nemohou své bodliny vystřelovat, ale uvolňují je při dotyku.",
+      "localPath": "/images/mammals/mammals12.jpg"
+    },
+    {
+      "fileName": "mammals13.jpg",
+      "commonName": "Skunk pruhovaný",
+      "scientificName": "Mephitis mephitis",
+      "size": "40-68 cm délka, 1,2-5,3 kg",
+      "lifespan": "2-3 roky ve volné přírodě",
+      "habitat": "Rozmanité biotopy včetně lesů, travnatých plání a předměstských oblastí Severní Ameriky. Preferují oblasti se smíšeným krytem a dostatkem potravy.",
+      "funFact": "Skunky dokážou vystříknout svůj obranný pižmo až na 3 metry s pozoruhodnou přesností. Před stříkáním dávají několik varovných signálů, včetně dupání nohama a zvedání ocasu.",
+      "localPath": "/images/mammals/mammals13.jpg"
+    },
+    {
+      "fileName": "mammals14.jpg",
+      "commonName": "Opossum virginský",
+      "scientificName": "Didelphis virginiana",
+      "size": "35-55 cm délka, 0,5-6 kg",
+      "lifespan": "1-2 roky ve volné přírodě",
+      "habitat": "Rozmanité biotopy včetně lesů, zemědělských oblastí a městských zón Severní Ameriky. Velmi dobře se přizpůsobují prostředí změněnému člověkem.",
+      "funFact": "Opossumové jsou jediní původní vačnatci Severní Ameriky a jsou imunní vůči většině hadích jedů. Když jsou ohroženi, 'předstírají smrt' a vstupují do katatonického stavu, který může trvat hodiny.",
+      "localPath": "/images/mammals/mammals14.jpg"
+    },
+    {
+      "fileName": "mammals15.jpg",
+      "commonName": "Burunduk pruhovaný",
+      "scientificName": "Tamias striatus",
+      "size": "14-19 cm plus 8-11 cm ocas",
+      "lifespan": "2-3 roky ve volné přírodě",
+      "habitat": "Listnaté lesy a okraje lesů východní Severní Ameriky. Preferují oblasti s dostatkem ořechů a semen.",
+      "funFact": "Burundukové si dokážou nacpat do lícních váčků až 32 bukových oříšků najednou. Vytváří složité systémy nor s více komorami pro spánek, skladování potravy a odpad.",
+      "localPath": "/images/mammals/mammals15.jpg"
+    },
+    {
+      "fileName": "mammals16.jpg",
+      "commonName": "Ondatra pižmová",
+      "scientificName": "Ondatra zibethicus",
+      "size": "40-70 cm délka, 0,7-1,8 kg",
+      "lifespan": "1-3 roky ve volné přírodě",
+      "habitat": "Mokřady, bažiny, rybníky a pomalu tekoucí potoky Severní Ameriky. Preferují oblasti s vodní vegetací.",
+      "funFact": "Ondatry dokážou zůstat pod vodou až 17 minut a plavat pozpátku stejně snadno jako vpřed. Staví kopulovité příbytky z vegetace, podobně jako bobři.",
+      "localPath": "/images/mammals/mammals16.jpg"
+    },
+    {
+      "fileName": "mammals17.jpg",
+      "commonName": "Vydra říční",
+      "scientificName": "Lontra canadensis",
+      "size": "66-107 cm délka, 5-14 kg",
+      "lifespan": "8-9 let ve volné přírodě",
+      "habitat": "Sladkovodní a pobřežní mořská prostředí Severní Ameriky. Preferují oblasti s čistou vodou a dostatkem ryb.",
+      "funFact": "Vydry říční dokážou zadržet dech až 8 minut a ponořit se do hloubky 18 metrů. Sjíždějí po bahnitých nebo zasněžených svazích pro zábavu, nejen pro přepravu.",
+      "localPath": "/images/mammals/mammals17.jpg"
+    },
+    {
+      "fileName": "mammals18.jpg",
+      "commonName": "Kojot prérijní",
+      "scientificName": "Canis latrans",
+      "size": "75-87 cm délka, 7-21 kg",
+      "lifespan": "6-8 let ve volné přírodě",
+      "habitat": "Extrémně rozmanité biotopy od pouští po lesy až po městské oblasti Severní Ameriky. Velmi dobře se přizpůsobují lidskému prostředí.",
+      "funFact": "Kojoti dokážou běžet rychlostí až 69 km/h a skočit 4,3 metru horizontálně. Dramaticky rozšířili svůj areál výskytu a nyní žijí ve všech amerických státech kromě Havaje.",
+      "localPath": "/images/mammals/mammals18.jpg"
+    },
+    {
+      "fileName": "mammals19.jpg",
+      "commonName": "Muflon tlustorohý",
+      "scientificName": "Ovis canadensis",
+      "size": "1,2-1,9 m délka, 53-158 kg",
+      "lifespan": "9-14 let ve volné přírodě",
+      "habitat": "Skalnaté horské oblasti, útesy a alpské louky západní Severní Ameriky. Preferují strmý terén, který poskytuje únikové cesty před predátory.",
+      "funFact": "Mufloni tlustorohí dokážou šplhat po svazích se sklonem 60 stupňů a skočit 6 metrů mezi skalními římsami. Jejich kopyta mají tvrdý vnější okraj a měkkou vnitřní podložku pro neuvěřitelný grip na skalách.",
+      "localPath": "/images/mammals/mammals19.jpg"
+    },
+    {
+      "fileName": "mammals20.jpg",
+      "commonName": "Jelen oslí",
+      "scientificName": "Odocoileus hemionus",
+      "size": "1,2-2,1 m délka, 31-103 kg",
+      "lifespan": "9-11 let ve volné přírodě",
+      "habitat": "Rozmanité biotopy od pouští po hory západní Severní Ameriky. Preferují oblasti se smíšenou vegetací a úkryty.",
+      "funFact": "Jeleni oslí dostali své jméno podle velkých uší, které připomínají oslí. Mají unikátní skákavý chod zvaný 'stotting', při kterém všechny čtyři nohy dopadají na zem současně.",
+      "localPath": "/images/mammals/mammals20.jpg"
+    },
+    {
+      "fileName": "mammals21.jpg",
+      "commonName": "Rosomák sibiřský",
+      "scientificName": "Gulo gulo",
+      "size": "65-87 cm délka, 9-25 kg",
+      "lifespan": "5-13 let ve volné přírodě",
+      "habitat": "Odlehlé divočiny včetně boreálních lesů, tundry a alpských oblastí severních regionů. Potřebují velká území s minimálním lidským rušením.",
+      "funFact": "Rosomáci jsou neuvěřitelně silní vzhledem ke své velikosti a dokážou skolit kořist mnohem větší než oni sami. Bylo pozorováno, jak zahnali medvědy a vlky od jejich úlovků.",
+      "localPath": "/images/mammals/mammals21.jpg"
+    },
+    {
+      "fileName": "mammals22.jpg",
+      "commonName": "Psík prérijní",
+      "scientificName": "Cynomys ludovicianus",
+      "size": "28-35 cm délka, 0,5-1,7 kg",
+      "lifespan": "3-5 let ve volné přírodě",
+      "habitat": "Krátké a smíšené travnaté prérie střední Severní Ameriky. Preferují oblasti s nízkou vegetací, která umožňuje dobrou viditelnost.",
+      "funFact": "Psíci prérijní mají sofistikovaný komunikační systém s různými voláními pro různé typy predátorů. Žijí ve složitých podzemních 'městech', která se mohou rozprostírat na stovky hektarů.",
+      "localPath": "/images/mammals/mammals22.jpg"
+    },
+    {
+      "fileName": "mammals23.jpg",
+      "commonName": "Svišť lesní",
+      "scientificName": "Marmota monax",
+      "size": "41-68 cm délka, 2-6,3 kg",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Otevřená pole, louky a okraje lesů východní Severní Ameriky. Preferují oblasti s dobře odvodněnou půdou pro kopání nor.",
+      "funFact": "Svišti lesní jsou výborní kopáči a dokážou přemístit 320 kg půdy při vytváření nory. Hibernují až 5 měsíců, během nichž jejich srdeční tep klesne z 80 na 5 úderů za minutu.",
+      "localPath": "/images/mammals/mammals23.jpg"
+    },
+    {
+      "fileName": "mammals24.jpg",
+      "commonName": "Rys kanadský",
+      "scientificName": "Lynx canadensis",
+      "size": "67-107 cm délka, 5-17 kg",
+      "lifespan": "7-10 let ve volné přírodě",
+      "habitat": "Boreální lesy a horské oblasti severní Severní Ameriky. Preferují oblasti s hlubokým sněhem a dostatkem populací sněžních zajíců.",
+      "funFact": "Rysi mají nadměrně velké tlapky, které fungují jako sněžnice a umožňují jim efektivně lovit v hlubokém sněhu. Jejich populační cykly úzce následují cykly sněžních zajíců.",
+      "localPath": "/images/mammals/mammals24.jpg"
+    },
+    {
+      "fileName": "mammals25.jpg",
+      "commonName": "Bizon americký",
+      "scientificName": "Bison bison",
+      "size": "2,1-3,5 m délka, 318-1000 kg",
+      "lifespan": "12-20 let ve volné přírodě",
+      "habitat": "Travnaté pláně a prérie střední Severní Ameriky. Preferují otevřené oblasti s dostatkem trav a přístupem k vodě.",
+      "funFact": "Bizoni dokážou běžet rychlostí až 56 km/h navzdory váze až 900 kg. Téměř vyhynuli, ale zotavili se z méně než 1000 jedinců na více než 500 000 dnes.",
+      "localPath": "/images/mammals/mammals25.jpg"
+    },
+    {
+      "fileName": "mammals26.jpg",
+      "commonName": "Medvěd lední",
+      "scientificName": "Ursus maritimus",
+      "size": "1,8-2,4 m délka, 150-680 kg",
+      "lifespan": "15-18 let ve volné přírodě",
+      "habitat": "Arktický mořský led a pobřežní oblasti kolem arktického kruhu. Závislí na mořském ledu pro lov tuleňů.",
+      "funFact": "Medvědi lední mají černou kůži pod bílou srstí, která absorbuje teplo ze slunce. Jsou výborní plavci a dokážou plavat hodiny a překonat vzdálenosti přes 100 km.",
+      "localPath": "/images/mammals/mammals26.jpg"
+    },
+    {
+      "fileName": "mammals27.jpg",
+      "commonName": "Medvěd grizzly",
+      "scientificName": "Ursus arctos",
+      "size": "1,4-2,8 m délka, 80-600 kg",
+      "lifespan": "20-25 let ve volné přírodě",
+      "habitat": "Lesy, alpské louky a tundra západní Severní Ameriky a Aljašky. Preferují oblasti s dostatkem zdrojů potravy a minimálním lidským rušením.",
+      "funFact": "Medvědi grizzly mají neuvěřitelný čich, který je 7krát lepší než u bloodhounda. Dokážou detekovat potravu z více než 29 km daleko.",
+      "localPath": "/images/mammals/mammals27.jpg"
+    },
+    {
+      "fileName": "mammals28.jpg",
+      "commonName": "Karibu",
+      "scientificName": "Rangifer tarandus",
+      "size": "1,2-2,2 m délka, 60-318 kg",
+      "lifespan": "4,5 roku ve volné přírodě",
+      "habitat": "Arktická tundra a boreální lesy severních regionů. Migrují na obrovské vzdálenosti za sezónními zdroji potravy.",
+      "funFact": "Karibu podnikají jednu z nejdelších migrací ze všech pozemních zvířat, cestují až 4800 km ročně. Jako jediní z čeledi jelenovitých mají parohy jak samci, tak samice.",
+      "localPath": "/images/mammals/mammals28.jpg"
+    },
+    {
+      "fileName": "mammals29.jpg",
+      "commonName": "Koza horská",
+      "scientificName": "Oreamnos americanus",
+      "size": "1,2-1,8 m délka, 45-140 kg",
+      "lifespan": "9-12 let ve volné přírodě",
+      "habitat": "Strmé skalní útesy a alpské oblasti v horských regionech západní Severní Ameriky. Preferují oblasti nad hranicí lesa.",
+      "funFact": "Kozy horské dokážou šplhat téměř po svislých skalních stěnách a mají specializovaná kopyta s tvrdými vnějšími okraji a měkkými vnitřními podložkami pro grip. Dokážou skočit 3,7 metru v jednom skoku.",
+      "localPath": "/images/mammals/mammals29.jpg"
+    },
+    {
+      "fileName": "mammals30.jpg",
+      "commonName": "Vidloroh americký",
+      "scientificName": "Antilocapra americana",
+      "size": "1,0-1,5 m délka, 34-70 kg",
+      "lifespan": "7-10 let ve volné přírodě",
+      "habitat": "Otevřené travnaté pláně, prérie a pouštní oblasti západní Severní Ameriky. Preferují oblasti s dobrou viditelností a únikovými cestami.",
+      "funFact": "Vidlorohy jsou nejrychlejší pozemní zvířata Severní Ameriky, schopná běžet rychlostí 113 km/h na krátké vzdálenosti a udržet 72 km/h po delší dobu. Mají největší oči vzhledem k velikosti těla ze všech severoamerických savců.",
+      "localPath": "/images/mammals/mammals30.jpg"
+    }
+  ]
+}

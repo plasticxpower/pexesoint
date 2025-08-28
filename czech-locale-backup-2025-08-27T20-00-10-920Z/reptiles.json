@@ -1,0 +1,56 @@
+{
+  "category": "reptiles",
+  "totalPhotos": 5,
+  "photos": [
+    {
+      "fileName": "reptiles1.jpg",
+      "commonName": "Želva krabičková východní",
+      "scientificName": "Terrapene carolina",
+      "size": "10-15 cm délka krunýře",
+      "lifespan": "50-100+ let ve volné přírodě",
+      "habitat": "Listnaté lesy, pole a okraje lesů napříč východní Severní Amerikou.",
+      "funFact": "Želvy krabičkové dokážou úplně uzavřít svůj krunýř pro ochranu a je známo, že žijí přes 100 let. Mají vynikající schopnost orientace a zřídka cestují daleko od místa narození.",
+      "localPath": "/images/reptiles/reptiles1.jpg"
+    },
+    {
+      "fileName": "reptiles2.jpg",
+      "commonName": "Užovka podvazková",
+      "scientificName": "Thamnophis sirtalis",
+      "size": "45-65 cm",
+      "lifespan": "4-5 let ve volné přírodě",
+      "habitat": "Rozmanité prostředí včetně lesů, polí, mokřadů a předměstských oblastí napříč Severní Amerikou.",
+      "funFact": "Užovky podvazkové patří mezi nejodolnější hady vůči chladu a mohou být aktivní při teplotách až 1°C. Hibernují ve velkých skupinách zvaných hibernacula.",
+      "localPath": "/images/reptiles/reptiles2.jpg"
+    },
+    {
+      "fileName": "reptiles3.jpg",
+      "commonName": "Scink pětipruhý",
+      "scientificName": "Plestiodon fasciatus",
+      "size": "12-20 cm",
+      "lifespan": "6-10 let ve volné přírodě",
+      "habitat": "Zalesněné oblasti s dostatkem úkrytu jako kmeny, kameny a opadané listí napříč východní Severní Amerikou.",
+      "funFact": "Mladí scinkové pětipruzí mají jasně modré ocasy, které dokážou odhodit, pokud je chytí predátor. Ocas pokračuje v pohybu a rozptyluje predátora, zatímco scink uteče.",
+      "localPath": "/images/reptiles/reptiles3.jpg"
+    },
+    {
+      "fileName": "reptiles4.jpg",
+      "commonName": "Želva malovaná",
+      "scientificName": "Chrysemys picta",
+      "size": "10-18 cm délka krunýře",
+      "lifespan": "20-40 let ve volné přírodě",
+      "habitat": "Pomalu tekoucí vody s bahnitým dnem a vodní vegetací napříč Severní Amerikou.",
+      "funFact": "Želvy malované dokážou přežít zimu zpomalením metabolismu a vstřebáváním kyslíku přes kůži, zatímco jsou zakopané v bahně pod vodou. Jsou vynikající plavci a vyhřívači.",
+      "localPath": "/images/reptiles/reptiles4.jpg"
+    },
+    {
+      "fileName": "reptiles5.jpg",
+      "commonName": "Anolis zelený",
+      "scientificName": "Anolis carolinensis",
+      "size": "12-20 cm",
+      "lifespan": "2-8 let ve volné přírodě",
+      "habitat": "Stromy, keře a vegetace v teplých, vlhkých oblastech napříč jihovýchodními Spojenými státy.",
+      "funFact": "Anolisové zelení dokážou měnit barvu ze světle zelené na hnědou v závislosti na teplotě, náladě a sociálních signálech. Samci mají barevný hrdelní vějíř zvaný lalok používaný ke komunikaci.",
+      "localPath": "/images/reptiles/reptiles5.jpg"
+    }
+  ]
+}

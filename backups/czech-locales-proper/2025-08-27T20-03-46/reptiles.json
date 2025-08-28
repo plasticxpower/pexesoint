@@ -1,0 +1,56 @@
+{
+  "category": "reptiles",
+  "totalPhotos": 5,
+  "photos": [
+    {
+      "fileName": "reptiles1.jpg",
+      "commonName": "Eastern Box Turtle",
+      "scientificName": "Terrapene carolina",
+      "size": "10-15 cm (4-6 palců) shell length",
+      "lifespan": "50-100+ let in wild",
+      "habitat": "listnaté lesy, fields, and woodland edges napříč eastern Severní Amerika.",
+      "funFact": "Box turtles mohou completely close their shell for protection and mají been known to live over 100 years. They mají vynikající homing abilities and rarely travel far from their birthplace.",
+      "localPath": "/images/reptiles/reptiles1.jpg"
+    },
+    {
+      "fileName": "reptiles2.jpg",
+      "commonName": "Garter Snake",
+      "scientificName": "Thamnophis sirtalis",
+      "size": "45-65 cm (18-26 palců)",
+      "lifespan": "4-5 let in wild",
+      "habitat": "Diverse habitats including lesy, fields, mokřady, and předměstské areas napříč Severní Amerika.",
+      "funFact": "Garter snakes jsou among the most cold-tolerant snakes and mohou be active at temperatures as low as 1°C. They hibernate in large groups called hibernacula.",
+      "localPath": "/images/reptiles/reptiles2.jpg"
+    },
+    {
+      "fileName": "reptiles3.jpg",
+      "commonName": "Five-lined Skink",
+      "scientificName": "Plestiodon fasciatus",
+      "size": "12-20 cm (5-8 palců)",
+      "lifespan": "6-10 let in wild",
+      "habitat": "Wooded oblasti s hojné kryt such as logs, rocks, and leaf litter napříč eastern Severní Amerika.",
+      "funFact": "Young five-lined skinks mají bright blue tails that they mohou detach if grabbed by a predator. The ocas continues to wiggle, distracting the predator while the skink escapes.",
+      "localPath": "/images/reptiles/reptiles3.jpg"
+    },
+    {
+      "fileName": "reptiles4.jpg",
+      "commonName": "Painted Turtle",
+      "scientificName": "Chrysemys picta",
+      "size": "10-18 cm (4-7 palců) shell length",
+      "lifespan": "20-40 let in wild",
+      "habitat": "Slow-moving waters with muddy bottoms and aquatic vegetace napříč Severní Amerika.",
+      "funFact": "Painted turtles mohou survive winter by slowing their metabolism and absorbing oxygen through their skin while buried in mud underwater. They jsou vynikající plavci and baskers.",
+      "localPath": "/images/reptiles/reptiles4.jpg"
+    },
+    {
+      "fileName": "reptiles5.jpg",
+      "commonName": "Green Anole",
+      "scientificName": "Anolis carolinensis",
+      "size": "12-20 cm (5-8 palců)",
+      "lifespan": "2-8 let in wild",
+      "habitat": "Trees, shrubs, and vegetace in warm, humid areas napříč southeastern United States.",
+      "funFact": "Green anoles mohou change color from bright green to brown depending on temperature, mood, and social signals. Males mají a colorful throat fan called a dewlap used for communication.",
+      "localPath": "/images/reptiles/reptiles5.jpg"
+    }
+  ]
+}

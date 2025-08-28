@@ -1,0 +1,244 @@
+{
+  "photos": {
+    "0": {
+      "commonName": "Žába skokavá",
+      "scientificName": "Lithobates catesbeianus",
+      "size": "Délka: 6-9 cm, Hmotnost: 22-80 g",
+      "lifespan": "5-10 let ve volné přírodě",
+      "habitat": "Evropské louky a lesy. Preferují vlhké oblasti s vegetací.",
+      "funFact": "Žába skokavá jsou známí svou silou a dokážou skočit až 3 metry vysoko."
+    },
+    "1": {
+      "commonName": "Ropucha obecná",
+      "scientificName": "Ambystoma maculatum",
+      "size": "Délka: 8-20 cm, Hmotnost: 20-180 g",
+      "lifespan": "8-12 let ve volné přírodě",
+      "habitat": "Evropa a Asie. Preferují suché oblasti s úkryty.",
+      "funFact": "Ropucha obecná mají výjimečný zrak a dokážou vidět na vzdálenost až 6 km."
+    },
+    "2": {
+      "commonName": "Čolek obecný",
+      "scientificName": "Pseudacris crucifer",
+      "size": "Délka: 7-11 cm, Hmotnost: 0.3-5 g",
+      "lifespan": "10-16 let ve volné přírodě",
+      "habitat": "Evropa. Preferují čisté potoky a jezírka.",
+      "funFact": "Čolek obecný mají nejdelší chobot ze všech zvířat a dokážou jím zvednout až 350 kg."
+    },
+    "3": {
+      "commonName": "Salamandr skvrnitý",
+      "scientificName": "Plethodon cinereus",
+      "size": "Délka: 15-25 cm, Hmotnost: 8-65 g",
+      "lifespan": "10-20 let ve volné přírodě",
+      "habitat": "Evropa. Preferují vlhké lesy a potoky.",
+      "funFact": "Salamandr skvrnitý mají nejdelší krk ze všech savců a jejich srdce váží až 11 kg."
+    },
+    "4": {
+      "commonName": "Rosnička zelená",
+      "scientificName": "Lithobates sylvaticus",
+      "size": "Délka: 3-5 cm, Hmotnost: 3-10 g",
+      "lifespan": "5-9 let ve volné přírodě",
+      "habitat": "Evropa. Preferují mokřady a rybníky.",
+      "funFact": "Rosnička zelená mají nejsilnější kůži ze všech zvířat, tlustou až 5 cm."
+    },
+    "5": {
+      "commonName": "Mlok velký",
+      "scientificName": "Agalychnis callidryas",
+      "size": "Délka: 12-18 cm, Hmotnost: 9-50 g",
+      "lifespan": "16-20 let ve volné přírodě",
+      "habitat": "Evropa. Preferují velká jezera a rybníky.",
+      "funFact": "Mlok velký dokážou lézt po stromech a jsou velmi obratní."
+    },
+    "6": {
+      "commonName": "Žába zelená",
+      "scientificName": "Notophthalmus viridescens",
+      "size": "Délka: 5-12 cm, Hmotnost: 4-35 g",
+      "lifespan": "5-12 let ve volné přírodě",
+      "habitat": "Evropa. Preferují stojaté vody s vegetací.",
+      "funFact": "Žába zelená dokážou žít až 15 let."
+    },
+    "7": {
+      "commonName": "Ropucha zelená",
+      "scientificName": "Phyllobates terribilis",
+      "size": "Délka: 5-10 cm, Hmotnost: 10-50 g",
+      "lifespan": "6-10 let ve volné přírodě",
+      "habitat": "Evropa. Preferují mokřady a bažiny.",
+      "funFact": "Ropucha zelená dokážou žít v horách až do výšky 2000 m."
+    },
+    "8": {
+      "commonName": "Čolek horský",
+      "scientificName": "Ambystoma mexicanum",
+      "size": "Délka: 8-12 cm, Hmotnost: 2-8 g",
+      "lifespan": "8-15 let ve volné přírodě",
+      "habitat": "Evropské hory. Preferují chladné horské potoky.",
+      "funFact": "Čolek horský dokážou skočit až 50 cm vysoko."
+    },
+    "9": {
+      "commonName": "Žába štíhlá",
+      "scientificName": "Ambystoma tigrinum",
+      "size": "Délka: 4-7 cm, Hmotnost: 2-15 g",
+      "lifespan": "4-8 let ve volné přírodě",
+      "habitat": "Evropa. Preferují mělké vody s vegetací.",
+      "funFact": "Žába štíhlá dokážou žít až 25 let."
+    },
+    "10": {
+      "commonName": "Salamandr alpský",
+      "scientificName": "Hyla cinerea",
+      "size": "Délka: 7-12 cm, Hmotnost: 3-15 g",
+      "lifespan": "10-20 let ve volné přírodě",
+      "habitat": "Evropské Alpy. Preferují chladné horské oblasti.",
+      "funFact": "Salamandr alpský dokážou žít v horách až do výšky 1500 m."
+    },
+    "11": {
+      "commonName": "Rosnička stromová",
+      "scientificName": "Cryptobranchus alleganiensis",
+      "size": "Délka: 3-5 cm, Hmotnost: 2-8 g",
+      "lifespan": "4-7 let ve volné přírodě",
+      "habitat": "Evropa. Preferují křoviny a stromy blízko vody.",
+      "funFact": "Rosnička stromová dokážou žít až 12 let."
+    },
+    "12": {
+      "commonName": "Ropucha krásná",
+      "scientificName": "Rhinella marina",
+      "size": "Délka: 6-8 cm, Hmotnost: 8-25 g",
+      "lifespan": "7-12 let ve volné přírodě",
+      "habitat": "Evropa. Preferují čisté vody v lesích.",
+      "funFact": "Ropucha krásná dokážou žít v horách až do výšky 1000 m."
+    },
+    "13": {
+      "commonName": "Čolek dunajský",
+      "scientificName": "Salamandra salamandra",
+      "size": "Délka: 7-10 cm, Hmotnost: 1-4 g",
+      "lifespan": "8-12 let ve volné přírodě",
+      "habitat": "Střední Evropa. Preferují čisté horské potoky.",
+      "funFact": "Čolek dunajský dokážou skočit až 30 cm vysoko."
+    },
+    "14": {
+      "commonName": "Žába ostronosá",
+      "scientificName": "Necturus maculosus",
+      "size": "Délka: 4-6 cm, Hmotnost: 3-12 g",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Evropa. Preferují mělké vody s bahnem.",
+      "funFact": "Žába ostronosá dokážou žít až 8 let."
+    },
+    "15": {
+      "commonName": "Mlok karpatský",
+      "scientificName": "Centrolenella fleischmanni",
+      "size": "Délka: 8-11 cm, Hmotnost: 2-6 g",
+      "lifespan": "8-12 let ve volné přírodě",
+      "habitat": "Karpaty. Preferují chladné horské potoky.",
+      "funFact": "Mlok karpatský jsou známí svou silou a dokážou skočit až 3 metry vysoko."
+    },
+    "16": {
+      "commonName": "Ropucha obecná velká",
+      "scientificName": "Gymnopis multiplicata",
+      "size": "Délka: 9-15 cm, Hmotnost: 25-100 g",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Evropa. Preferují velké mokřady.",
+      "funFact": "Ropucha obecná velká mají výjimečný zrak a dokážou vidět na vzdálenost až 6 km."
+    },
+    "17": {
+      "commonName": "Čolek malý",
+      "scientificName": "Pseudacris triseriata",
+      "size": "Délka: 6-9 cm, Hmotnost: 1-3 g",
+      "lifespan": "6-10 let ve volné přírodě",
+      "habitat": "Evropa. Preferují malá jezírka a tůně.",
+      "funFact": "Čolek malý mají nejdelší chobot ze všech zvířat a dokážou jím zvednout až 350 kg."
+    },
+    "18": {
+      "commonName": "Žába hnědá",
+      "scientificName": "Ambystoma opacum",
+      "size": "Délka: 5-8 cm, Hmotnost: 5-20 g",
+      "lifespan": "6-9 let ve volné přírodě",
+      "habitat": "Evropa. Preferují vlhké lesy a louky.",
+      "funFact": "Žába hnědá mají nejdelší krk ze všech savců a jejich srdce váží až 11 kg."
+    },
+    "19": {
+      "commonName": "Salamandr černý",
+      "scientificName": "Lithobates palustris",
+      "size": "Délka: 8-14 cm, Hmotnost: 5-25 g",
+      "lifespan": "15-25 let ve volné přírodě",
+      "habitat": "Evropské hory. Preferují chladné oblasti.",
+      "funFact": "Salamandr černý mají nejsilnější kůži ze všech zvířat, tlustou až 5 cm."
+    },
+    "20": {
+      "commonName": "Rosnička obecná",
+      "scientificName": "Hemidactylium scutatum",
+      "size": "Délka: 3-4 cm, Hmotnost: 2-6 g",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Evropa. Preferují mělké vody s vegetací.",
+      "funFact": "Rosnička obecná dokážou lézt po stromech a jsou velmi obratní."
+    },
+    "21": {
+      "commonName": "Ropucha krásná malá",
+      "scientificName": "Hyla versicolor",
+      "size": "Délka: 5-7 cm, Hmotnost: 6-18 g",
+      "lifespan": "6-9 let ve volné přírodě",
+      "habitat": "Evropa. Preferují čisté lesní tůně.",
+      "funFact": "Ropucha krásná malá dokážou žít až 15 let."
+    },
+    "22": {
+      "commonName": "Čolek alpský",
+      "scientificName": "Pseudotriton ruber",
+      "size": "Délka: 6-9 cm, Hmotnost: 1-3 g",
+      "lifespan": "6-10 let ve volné přírodě",
+      "habitat": "Evropské Alpy. Preferují vysokohorské oblasti.",
+      "funFact": "Čolek alpský dokážou žít v horách až do výšky 2000 m."
+    },
+    "23": {
+      "commonName": "Žába travní",
+      "scientificName": "Hyla chrysoscelis",
+      "size": "Délka: 6-10 cm, Hmotnost: 8-30 g",
+      "lifespan": "7-12 let ve volné přírodě",
+      "habitat": "Evropa. Preferují travnaté oblasti blízko vody.",
+      "funFact": "Žába travní dokážou skočit až 50 cm vysoko."
+    },
+    "24": {
+      "commonName": "Mlok horský",
+      "scientificName": "Eurycea bislineata",
+      "size": "Délka: 7-10 cm, Hmotnost: 2-5 g",
+      "lifespan": "6-9 let ve volné přírodě",
+      "habitat": "Evropské hory. Preferují chladné horské oblasti.",
+      "funFact": "Mlok horský dokážou žít až 25 let."
+    },
+    "25": {
+      "commonName": "Salamandr ohnivý",
+      "scientificName": "Anaxyrus fowleri",
+      "size": "Délka: 15-23 cm, Hmotnost: 15-40 g",
+      "lifespan": "20-30 let ve volné přírodě",
+      "habitat": "Evropa. Preferují vlhké lesy s potoky.",
+      "funFact": "Salamandr ohnivý dokážou žít v horách až do výšky 1500 m."
+    },
+    "26": {
+      "commonName": "Rosnička skvělá",
+      "scientificName": "Plethodon glutinosus",
+      "size": "Délka: 3-4 cm, Hmotnost: 2-5 g",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Evropa. Preferují čisté vody v lesích.",
+      "funFact": "Rosnička skvělá dokážou žít až 12 let."
+    },
+    "27": {
+      "commonName": "Ropucha zelená velká",
+      "scientificName": "Lithobates pipiens",
+      "size": "Délka: 6-12 cm, Hmotnost: 12-60 g",
+      "lifespan": "8-12 let ve volné přírodě",
+      "habitat": "Evropa. Preferují velké mokřady.",
+      "funFact": "Ropucha zelená velká dokážou žít v horách až do výšky 1000 m."
+    },
+    "28": {
+      "commonName": "Čolek severní",
+      "scientificName": "Eurycea longicauda",
+      "size": "Délka: 6-8 cm, Hmotnost: 1-2 g",
+      "lifespan": "6-8 let ve volné přírodě",
+      "habitat": "Severní Evropa. Preferují chladné oblasti.",
+      "funFact": "Čolek severní dokážou skočit až 30 cm vysoko."
+    },
+    "29": {
+      "commonName": "Žába lesní",
+      "scientificName": "Lithobates clamitans",
+      "size": "Délka: 4-7 cm, Hmotnost: 3-15 g",
+      "lifespan": "5-8 let ve volné přírodě",
+      "habitat": "Evropa. Preferují husté lesy s potoky.",
+      "funFact": "Žába lesní dokážou žít až 8 let."
+    }
+  }
+}

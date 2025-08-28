@@ -1,0 +1,1038 @@
+[
+  {
+    "category": "birds",
+    "scientificName": "Turdus migratorius",
+    "englishCommon": "American Robin",
+    "czechCommon": "drozd stěhovavý",
+    "hasCorrection": true
+  },
+  {
+    "category": "birds",
+    "scientificName": "Corvus brachyrhynchos",
+    "englishCommon": "American Crow",
+    "czechCommon": "Kondor kalifornský",
+    "hasCorrection": true
+  },
+  {
+    "category": "birds",
+    "scientificName": "Poecile atricapillus",
+    "englishCommon": "Black-capped Chickadee",
+    "czechCommon": "Pelikán hnědý",
+    "hasCorrection": true
+  },
+  {
+    "category": "birds",
+    "scientificName": "Sialia sialis",
+    "englishCommon": "Eastern Bluebird",
+    "czechCommon": "Volavka modrá",
+    "hasCorrection": true
+  },
+  {
+    "category": "birds",
+    "scientificName": "Spinus tristis",
+    "englishCommon": "American Goldfinch",
+    "czechCommon": "Ibis bílý",
+    "hasCorrection": true
+  },
+  {
+    "category": "birds",
+    "scientificName": "Cardinalis cardinalis",
+    "englishCommon": "Northern Cardinal",
+    "czechCommon": "Rybák belohlavý",
+    "hasCorrection": true
+  },
+  {
+    "category": "birds",
+    "scientificName": "Cyanocitta cristata",
+    "englishCommon": "Blue Jay",
+    "czechCommon": "Jeřáb kanadský",
+    "hasCorrection": true
+  },
+  {
+    "category": "birds",
+    "scientificName": "Passer domesticus",
+    "englishCommon": "House Sparrow",
+    "czechCommon": "Labuť zpěvná",
+    "hasCorrection": true
+  },
+  {
+    "category": "birds",
+    "scientificName": "Agelaius phoeniceus",
+    "englishCommon": "Red-winged Blackbird",
+    "czechCommon": "Kachna divoká",
+    "hasCorrection": true
+  },
+  {
+    "category": "birds",
+    "scientificName": "Haliaeetus leucocephalus",
+    "englishCommon": "Bald Eagle",
+    "czechCommon": "Potápka malá",
+    "hasCorrection": true
+  },
+  {
+    "category": "birds",
+    "scientificName": "Ardea herodias",
+    "englishCommon": "Great Blue Heron",
+    "czechCommon": "Sup krkavcovitý",
+    "hasCorrection": true
+  },
+  {
+    "category": "birds",
+    "scientificName": "Buteo jamaicensis",
+    "englishCommon": "Red-tailed Hawk",
+    "czechCommon": "Jestřáb ostrokřídlý",
+    "hasCorrection": true
+  },
+  {
+    "category": "birds",
+    "scientificName": "Anas platyrhynchos",
+    "englishCommon": "Mallard Duck",
+    "czechCommon": "Sokol stěhovavý",
+    "hasCorrection": true
+  },
+  {
+    "category": "birds",
+    "scientificName": "Bubo virginianus",
+    "englishCommon": "Great Horned Owl",
+    "czechCommon": "Puštík virginský",
+    "hasCorrection": true
+  },
+  {
+    "category": "birds",
+    "scientificName": "Archilochus colubris",
+    "englishCommon": "Ruby-throated Hummingbird",
+    "czechCommon": "Sýček králičí",
+    "hasCorrection": false
+  },
+  {
+    "category": "birds",
+    "scientificName": "Zenaida macroura",
+    "englishCommon": "Mourning Dove",
+    "czechCommon": "Kolibřík rubínohrdlý",
+    "hasCorrection": false
+  },
+  {
+    "category": "birds",
+    "scientificName": "Picoides pubescens",
+    "englishCommon": "Downy Woodpecker",
+    "czechCommon": "Datel pileated",
+    "hasCorrection": false
+  },
+  {
+    "category": "birds",
+    "scientificName": "Branta canadensis",
+    "englishCommon": "Canada Goose",
+    "czechCommon": "Vlaštovka obecná",
+    "hasCorrection": false
+  },
+  {
+    "category": "birds",
+    "scientificName": "Tyto alba",
+    "englishCommon": "Barn Owl",
+    "czechCommon": "Drozd stěhovavý",
+    "hasCorrection": false
+  },
+  {
+    "category": "birds",
+    "scientificName": "Pandion haliaetus",
+    "englishCommon": "Osprey",
+    "czechCommon": "Kardinál červený",
+    "hasCorrection": false
+  },
+  {
+    "category": "birds",
+    "scientificName": "Falco peregrinus",
+    "englishCommon": "Peregrine Falcon",
+    "czechCommon": "Sokol stěhovavý",
+    "hasCorrection": false
+  },
+  {
+    "category": "birds",
+    "scientificName": "Meleagris gallopavo",
+    "englishCommon": "Wild Turkey",
+    "czechCommon": "Krocan divoký",
+    "hasCorrection": false
+  },
+  {
+    "category": "birds",
+    "scientificName": "Megaceryle alcyon",
+    "englishCommon": "Belted Kingfisher",
+    "czechCommon": "Ledňáček říční",
+    "hasCorrection": false
+  },
+  {
+    "category": "birds",
+    "scientificName": "Antigone canadensis",
+    "englishCommon": "Sandhill Crane",
+    "czechCommon": "Jeřáb písečný",
+    "hasCorrection": false
+  },
+  {
+    "category": "birds",
+    "scientificName": "Dryocopus pileatus",
+    "englishCommon": "Pileated Woodpecker",
+    "czechCommon": "Datel černý",
+    "hasCorrection": false
+  },
+  {
+    "category": "birds",
+    "scientificName": "Setophaga petechia",
+    "englishCommon": "Yellow Warbler",
+    "czechCommon": "Pěnice žlutá",
+    "hasCorrection": false
+  },
+  {
+    "category": "birds",
+    "scientificName": "Sitta carolinensis",
+    "englishCommon": "White-breasted Nuthatch",
+    "czechCommon": "Brhlík bělokrký",
+    "hasCorrection": false
+  },
+  {
+    "category": "birds",
+    "scientificName": "Bombycilla cedrorum",
+    "englishCommon": "Cedar Waxwing",
+    "czechCommon": "Brkoslav cedrový",
+    "hasCorrection": false
+  },
+  {
+    "category": "birds",
+    "scientificName": "Passerina cyanea",
+    "englishCommon": "Indigo Bunting",
+    "czechCommon": "Ovesnice modrá",
+    "hasCorrection": false
+  },
+  {
+    "category": "birds",
+    "scientificName": "Pheucticus ludovicianus",
+    "englishCommon": "Rose-breasted Grosbeak",
+    "czechCommon": "Dlask růžovoprsý",
+    "hasCorrection": false
+  },
+  {
+    "category": "fish",
+    "scientificName": "Micropterus salmoides",
+    "englishCommon": "Largemouth Bass",
+    "czechCommon": "Žralok bílý",
+    "hasCorrection": true
+  },
+  {
+    "category": "fish",
+    "scientificName": "Oncorhynchus mykiss",
+    "englishCommon": "Steelhead Trout",
+    "czechCommon": "Amur bílý",
+    "hasCorrection": true
+  },
+  {
+    "category": "fish",
+    "scientificName": "Esox lucius",
+    "englishCommon": "Northern Pike",
+    "czechCommon": "Losos atlantský",
+    "hasCorrection": true
+  },
+  {
+    "category": "fish",
+    "scientificName": "Lepomis macrochirus",
+    "englishCommon": "Bluegill",
+    "czechCommon": "Treska obecná",
+    "hasCorrection": true
+  },
+  {
+    "category": "fish",
+    "scientificName": "Ictalurus punctatus",
+    "englishCommon": "Channel Catfish",
+    "czechCommon": "Halibut obecný",
+    "hasCorrection": true
+  },
+  {
+    "category": "fish",
+    "scientificName": "Salmo salar",
+    "englishCommon": "Atlantic Salmon",
+    "czechCommon": "Mečoun obecný",
+    "hasCorrection": true
+  },
+  {
+    "category": "fish",
+    "scientificName": "Sander vitreus",
+    "englishCommon": "Walleye",
+    "czechCommon": "Marlín modrý",
+    "hasCorrection": true
+  },
+  {
+    "category": "fish",
+    "scientificName": "Morone saxatilis",
+    "englishCommon": "Striped Bass",
+    "czechCommon": "Manta obrovská",
+    "hasCorrection": true
+  },
+  {
+    "category": "fish",
+    "scientificName": "Perca flavescens",
+    "englishCommon": "Yellow Perch",
+    "czechCommon": "Žralok velrybí",
+    "hasCorrection": true
+  },
+  {
+    "category": "fish",
+    "scientificName": "Esox masquinongy",
+    "englishCommon": "Northern Muskellunge",
+    "czechCommon": "Okoun říční",
+    "hasCorrection": true
+  },
+  {
+    "category": "fish",
+    "scientificName": "Salvelinus fontinalis",
+    "englishCommon": "Brook Trout",
+    "czechCommon": "Štika obecná",
+    "hasCorrection": false
+  },
+  {
+    "category": "fish",
+    "scientificName": "Micropterus dolomieu",
+    "englishCommon": "Smallmouth Bass",
+    "czechCommon": "Pstruh duhový",
+    "hasCorrection": false
+  },
+  {
+    "category": "fish",
+    "scientificName": "Salvelinus namaycush",
+    "englishCommon": "Lake Trout",
+    "czechCommon": "Sumec velký",
+    "hasCorrection": false
+  },
+  {
+    "category": "fish",
+    "scientificName": "Morone chrysops",
+    "englishCommon": "White Bass",
+    "czechCommon": "Kapr obecný",
+    "hasCorrection": false
+  },
+  {
+    "category": "fish",
+    "scientificName": "Oncorhynchus kisutch",
+    "englishCommon": "Coho Salmon",
+    "czechCommon": "Candát obecný",
+    "hasCorrection": false
+  },
+  {
+    "category": "fish",
+    "scientificName": "Pomoxis nigromaculatus",
+    "englishCommon": "Crappie",
+    "czechCommon": "Plotice obecná",
+    "hasCorrection": false
+  },
+  {
+    "category": "fish",
+    "scientificName": "Lepomis gibbosus",
+    "englishCommon": "Sunfish",
+    "czechCommon": "Cejn velký",
+    "hasCorrection": false
+  },
+  {
+    "category": "fish",
+    "scientificName": "Oncorhynchus tshawytscha",
+    "englishCommon": "Chinook Salmon",
+    "czechCommon": "Lín obecný",
+    "hasCorrection": false
+  },
+  {
+    "category": "fish",
+    "scientificName": "Pylodictis olivaris",
+    "englishCommon": "Flathead Catfish",
+    "czechCommon": "Pstruh obecný",
+    "hasCorrection": false
+  },
+  {
+    "category": "fish",
+    "scientificName": "Sander canadensis",
+    "englishCommon": "Sauger",
+    "czechCommon": "Lipan podhorní",
+    "hasCorrection": false
+  },
+  {
+    "category": "fish",
+    "scientificName": "Lota lota",
+    "englishCommon": "Burbot",
+    "czechCommon": "Ostroretka stěhovavá",
+    "hasCorrection": false
+  },
+  {
+    "category": "fish",
+    "scientificName": "Lepisosteus osseus",
+    "englishCommon": "Gar",
+    "czechCommon": "Hlavatka obecná",
+    "hasCorrection": false
+  },
+  {
+    "category": "fish",
+    "scientificName": "Polyodon spathula",
+    "englishCommon": "Paddlefish",
+    "czechCommon": "Jelec tloušť",
+    "hasCorrection": false
+  },
+  {
+    "category": "fish",
+    "scientificName": "Amia calva",
+    "englishCommon": "Bowfin",
+    "czechCommon": "Parma obecná",
+    "hasCorrection": false
+  },
+  {
+    "category": "fish",
+    "scientificName": "Aplodinotus grunniens",
+    "englishCommon": "Freshwater Drum",
+    "czechCommon": "Bolení dravé",
+    "hasCorrection": false
+  },
+  {
+    "category": "fish",
+    "scientificName": "Moxostoma macrolepidotum",
+    "englishCommon": "Redhorse Sucker",
+    "czechCommon": "Proudník jednovousý",
+    "hasCorrection": false
+  },
+  {
+    "category": "fish",
+    "scientificName": "Hiodon tergisus",
+    "englishCommon": "Mooneye",
+    "czechCommon": "Mřenka mramorovaná",
+    "hasCorrection": false
+  },
+  {
+    "category": "fish",
+    "scientificName": "Catostomus commersonii",
+    "englishCommon": "White Sucker",
+    "czechCommon": "Perlín ostrobřichý",
+    "hasCorrection": false
+  },
+  {
+    "category": "reptiles",
+    "scientificName": "Terrapene carolina",
+    "englishCommon": "Eastern Box Turtle",
+    "czechCommon": "Aligátor americký",
+    "hasCorrection": false
+  },
+  {
+    "category": "reptiles",
+    "scientificName": "Thamnophis sirtalis",
+    "englishCommon": "Garter Snake",
+    "czechCommon": "Želva zelená",
+    "hasCorrection": false
+  },
+  {
+    "category": "reptiles",
+    "scientificName": "Plestiodon fasciatus",
+    "englishCommon": "Five-lined Skink",
+    "czechCommon": "Anakonda velká",
+    "hasCorrection": false
+  },
+  {
+    "category": "reptiles",
+    "scientificName": "Chrysemys picta",
+    "englishCommon": "Painted Turtle",
+    "czechCommon": "Komodský varan",
+    "hasCorrection": false
+  },
+  {
+    "category": "reptiles",
+    "scientificName": "Anolis carolinensis",
+    "englishCommon": "Green Anole",
+    "czechCommon": "Galapážská želva",
+    "hasCorrection": false
+  },
+  {
+    "category": "reptiles",
+    "scientificName": "Trachemys scripta elegans",
+    "englishCommon": "Red-eared Slider",
+    "czechCommon": "Chřestýš diamantový",
+    "hasCorrection": false
+  },
+  {
+    "category": "reptiles",
+    "scientificName": "Alligator mississippiensis",
+    "englishCommon": "American Alligator",
+    "czechCommon": "Leguán zelený",
+    "hasCorrection": false
+  },
+  {
+    "category": "reptiles",
+    "scientificName": "Pantherophis guttatus",
+    "englishCommon": "Corn Snake",
+    "czechCommon": "Chameleon jemenský",
+    "hasCorrection": false
+  },
+  {
+    "category": "reptiles",
+    "scientificName": "Chelydra serpentina",
+    "englishCommon": "Snapping Turtle",
+    "czechCommon": "Gekon tokaj",
+    "hasCorrection": false
+  },
+  {
+    "category": "reptiles",
+    "scientificName": "Pogona vitticeps",
+    "englishCommon": "Bearded Dragon",
+    "czechCommon": "Korytnačka červenouchá",
+    "hasCorrection": false
+  },
+  {
+    "category": "reptiles",
+    "scientificName": "Iguana iguana",
+    "englishCommon": "Iguana",
+    "czechCommon": "Krajta královská",
+    "hasCorrection": false
+  },
+  {
+    "category": "reptiles",
+    "scientificName": "Hemidactylus turcicus",
+    "englishCommon": "Gecko",
+    "czechCommon": "Boa dusivá",
+    "hasCorrection": false
+  },
+  {
+    "category": "reptiles",
+    "scientificName": "Chamaeleo calyptratus",
+    "englishCommon": "Chameleon",
+    "czechCommon": "Monitor nilský",
+    "hasCorrection": false
+  },
+  {
+    "category": "reptiles",
+    "scientificName": "Python regius",
+    "englishCommon": "Ball Python",
+    "czechCommon": "Želva zelenavá",
+    "hasCorrection": false
+  },
+  {
+    "category": "reptiles",
+    "scientificName": "Varanus salvator",
+    "englishCommon": "Monitor Lizard",
+    "czechCommon": "Skink modrý",
+    "hasCorrection": false
+  },
+  {
+    "category": "reptiles",
+    "scientificName": "Crotalus atrox",
+    "englishCommon": "Rattlesnake",
+    "czechCommon": "Had korálový",
+    "hasCorrection": false
+  },
+  {
+    "category": "reptiles",
+    "scientificName": "Chelonia mydas",
+    "englishCommon": "Sea Turtle",
+    "czechCommon": "Želva pouštní",
+    "hasCorrection": false
+  },
+  {
+    "category": "reptiles",
+    "scientificName": "Lampropeltis getula",
+    "englishCommon": "Kingsnake",
+    "czechCommon": "Varan bengálský",
+    "hasCorrection": false
+  },
+  {
+    "category": "reptiles",
+    "scientificName": "Gopherus polyphemus",
+    "englishCommon": "Tortoise",
+    "czechCommon": "Anolis zelený",
+    "hasCorrection": false
+  },
+  {
+    "category": "reptiles",
+    "scientificName": "Agkistrodon contortrix",
+    "englishCommon": "Copperhead",
+    "czechCommon": "Gekončík domácí",
+    "hasCorrection": false
+  },
+  {
+    "category": "reptiles",
+    "scientificName": "Lampropeltis triangulum",
+    "englishCommon": "Milk Snake",
+    "czechCommon": "Zmije obecná",
+    "hasCorrection": false
+  },
+  {
+    "category": "reptiles",
+    "scientificName": "Sceloporus undulatus",
+    "englishCommon": "Fence Lizard",
+    "czechCommon": "Užovka obojková",
+    "hasCorrection": false
+  },
+  {
+    "category": "reptiles",
+    "scientificName": "Malaclemys terrapin",
+    "englishCommon": "Diamondback Terrapin",
+    "czechCommon": "Ještěrka obecná",
+    "hasCorrection": false
+  },
+  {
+    "category": "reptiles",
+    "scientificName": "Heterodon platirhinos",
+    "englishCommon": "Hognose Snake",
+    "czechCommon": "Slepýš křehký",
+    "hasCorrection": false
+  },
+  {
+    "category": "reptiles",
+    "scientificName": "Ophisaurus ventralis",
+    "englishCommon": "Glass Lizard",
+    "czechCommon": "Želva bahenní",
+    "hasCorrection": false
+  },
+  {
+    "category": "reptiles",
+    "scientificName": "Glyptemys insculpta",
+    "englishCommon": "Wood Turtle",
+    "czechCommon": "Chameleon obecný",
+    "hasCorrection": false
+  },
+  {
+    "category": "reptiles",
+    "scientificName": "Masticophis flagellum",
+    "englishCommon": "Coachwhip Snake",
+    "czechCommon": "Leguán modrý",
+    "hasCorrection": false
+  },
+  {
+    "category": "reptiles",
+    "scientificName": "Clemmys guttata",
+    "englishCommon": "Spotted Turtle",
+    "czechCommon": "Had mléčný",
+    "hasCorrection": false
+  },
+  {
+    "category": "reptiles",
+    "scientificName": "Diadophis punctatus",
+    "englishCommon": "Ring-necked Snake",
+    "czechCommon": "Želva nádherná",
+    "hasCorrection": false
+  },
+  {
+    "category": "reptiles",
+    "scientificName": "Sternotherus odoratus",
+    "englishCommon": "Musk Turtle",
+    "czechCommon": "Varan nilský",
+    "hasCorrection": false
+  },
+  {
+    "category": "amphibians",
+    "scientificName": "Lithobates catesbeianus",
+    "englishCommon": "American Bullfrog",
+    "czechCommon": "Žába skokavá",
+    "hasCorrection": false
+  },
+  {
+    "category": "amphibians",
+    "scientificName": "Ambystoma maculatum",
+    "englishCommon": "Spotted Salamander",
+    "czechCommon": "Ropucha obecná",
+    "hasCorrection": false
+  },
+  {
+    "category": "amphibians",
+    "scientificName": "Pseudacris crucifer",
+    "englishCommon": "Spring Peeper",
+    "czechCommon": "Čolek obecný",
+    "hasCorrection": false
+  },
+  {
+    "category": "amphibians",
+    "scientificName": "Plethodon cinereus",
+    "englishCommon": "Red-backed Salamander",
+    "czechCommon": "Salamandr skvrnitý",
+    "hasCorrection": false
+  },
+  {
+    "category": "amphibians",
+    "scientificName": "Lithobates sylvaticus",
+    "englishCommon": "Wood Frog",
+    "czechCommon": "Rosnička zelená",
+    "hasCorrection": false
+  },
+  {
+    "category": "amphibians",
+    "scientificName": "Agalychnis callidryas",
+    "englishCommon": "Red-eyed Tree Frog",
+    "czechCommon": "Mlok velký",
+    "hasCorrection": false
+  },
+  {
+    "category": "amphibians",
+    "scientificName": "Notophthalmus viridescens",
+    "englishCommon": "Eastern Newt",
+    "czechCommon": "Žába zelená",
+    "hasCorrection": false
+  },
+  {
+    "category": "amphibians",
+    "scientificName": "Phyllobates terribilis",
+    "englishCommon": "Poison Dart Frog",
+    "czechCommon": "Ropucha zelená",
+    "hasCorrection": false
+  },
+  {
+    "category": "amphibians",
+    "scientificName": "Ambystoma mexicanum",
+    "englishCommon": "Axolotl",
+    "czechCommon": "Čolek horský",
+    "hasCorrection": false
+  },
+  {
+    "category": "amphibians",
+    "scientificName": "Ambystoma tigrinum",
+    "englishCommon": "Tiger Salamander",
+    "czechCommon": "Žába štíhlá",
+    "hasCorrection": false
+  },
+  {
+    "category": "amphibians",
+    "scientificName": "Hyla cinerea",
+    "englishCommon": "Green Tree Frog",
+    "czechCommon": "Salamandr alpský",
+    "hasCorrection": false
+  },
+  {
+    "category": "amphibians",
+    "scientificName": "Cryptobranchus alleganiensis",
+    "englishCommon": "Hellbender",
+    "czechCommon": "Rosnička stromová",
+    "hasCorrection": false
+  },
+  {
+    "category": "amphibians",
+    "scientificName": "Rhinella marina",
+    "englishCommon": "Cane Toad",
+    "czechCommon": "Ropucha krásná",
+    "hasCorrection": false
+  },
+  {
+    "category": "amphibians",
+    "scientificName": "Salamandra salamandra",
+    "englishCommon": "Fire Salamander",
+    "czechCommon": "Čolek dunajský",
+    "hasCorrection": false
+  },
+  {
+    "category": "amphibians",
+    "scientificName": "Necturus maculosus",
+    "englishCommon": "Mudpuppy",
+    "czechCommon": "Žába ostronosá",
+    "hasCorrection": false
+  },
+  {
+    "category": "amphibians",
+    "scientificName": "Centrolenella fleischmanni",
+    "englishCommon": "Glass Frog",
+    "czechCommon": "Mlok karpatský",
+    "hasCorrection": false
+  },
+  {
+    "category": "amphibians",
+    "scientificName": "Gymnopis multiplicata",
+    "englishCommon": "Caecilian",
+    "czechCommon": "Ropucha obecná velká",
+    "hasCorrection": false
+  },
+  {
+    "category": "amphibians",
+    "scientificName": "Pseudacris triseriata",
+    "englishCommon": "Chorus Frog",
+    "czechCommon": "Čolek malý",
+    "hasCorrection": false
+  },
+  {
+    "category": "amphibians",
+    "scientificName": "Ambystoma opacum",
+    "englishCommon": "Marbled Salamander",
+    "czechCommon": "Žába hnědá",
+    "hasCorrection": false
+  },
+  {
+    "category": "amphibians",
+    "scientificName": "Lithobates palustris",
+    "englishCommon": "Pickerel Frog",
+    "czechCommon": "Salamandr černý",
+    "hasCorrection": false
+  },
+  {
+    "category": "amphibians",
+    "scientificName": "Hemidactylium scutatum",
+    "englishCommon": "Four-toed Salamander",
+    "czechCommon": "Rosnička obecná",
+    "hasCorrection": false
+  },
+  {
+    "category": "amphibians",
+    "scientificName": "Hyla versicolor",
+    "englishCommon": "Gray Tree Frog",
+    "czechCommon": "Ropucha krásná malá",
+    "hasCorrection": false
+  },
+  {
+    "category": "amphibians",
+    "scientificName": "Pseudotriton ruber",
+    "englishCommon": "Red Salamander",
+    "czechCommon": "Čolek alpský",
+    "hasCorrection": false
+  },
+  {
+    "category": "amphibians",
+    "scientificName": "Hyla chrysoscelis",
+    "englishCommon": "Cope's Gray Tree Frog",
+    "czechCommon": "Žába travní",
+    "hasCorrection": false
+  },
+  {
+    "category": "amphibians",
+    "scientificName": "Eurycea bislineata",
+    "englishCommon": "Two-lined Salamander",
+    "czechCommon": "Mlok horský",
+    "hasCorrection": false
+  },
+  {
+    "category": "amphibians",
+    "scientificName": "Anaxyrus fowleri",
+    "englishCommon": "Fowler's Toad",
+    "czechCommon": "Salamandr ohnivý",
+    "hasCorrection": false
+  },
+  {
+    "category": "amphibians",
+    "scientificName": "Plethodon glutinosus",
+    "englishCommon": "Slimy Salamander",
+    "czechCommon": "Rosnička skvělá",
+    "hasCorrection": false
+  },
+  {
+    "category": "amphibians",
+    "scientificName": "Lithobates pipiens",
+    "englishCommon": "Leopard Frog",
+    "czechCommon": "Ropucha zelená velká",
+    "hasCorrection": false
+  },
+  {
+    "category": "amphibians",
+    "scientificName": "Eurycea longicauda",
+    "englishCommon": "Long-tailed Salamander",
+    "czechCommon": "Čolek severní",
+    "hasCorrection": false
+  },
+  {
+    "category": "amphibians",
+    "scientificName": "Lithobates clamitans",
+    "englishCommon": "Green Frog",
+    "czechCommon": "Žába lesní",
+    "hasCorrection": false
+  },
+  {
+    "category": "mammals",
+    "scientificName": "Ursus americanus",
+    "englishCommon": "American Black Bear",
+    "czechCommon": "MISSING",
+    "hasCorrection": false
+  },
+  {
+    "category": "mammals",
+    "scientificName": "Odocoileus virginianus",
+    "englishCommon": "White-tailed Deer",
+    "czechCommon": "MISSING",
+    "hasCorrection": false
+  },
+  {
+    "category": "mammals",
+    "scientificName": "Sciurus carolinensis",
+    "englishCommon": "Eastern Gray Squirrel",
+    "czechCommon": "MISSING",
+    "hasCorrection": false
+  },
+  {
+    "category": "mammals",
+    "scientificName": "Procyon lotor",
+    "englishCommon": "Raccoon",
+    "czechCommon": "MISSING",
+    "hasCorrection": false
+  },
+  {
+    "category": "mammals",
+    "scientificName": "Vulpes vulpes",
+    "englishCommon": "Red Fox",
+    "czechCommon": "MISSING",
+    "hasCorrection": false
+  },
+  {
+    "category": "mammals",
+    "scientificName": "Canis lupus",
+    "englishCommon": "Gray Wolf",
+    "czechCommon": "MISSING",
+    "hasCorrection": false
+  },
+  {
+    "category": "mammals",
+    "scientificName": "Puma concolor",
+    "englishCommon": "Mountain Lion",
+    "czechCommon": "MISSING",
+    "hasCorrection": false
+  },
+  {
+    "category": "mammals",
+    "scientificName": "Alces alces",
+    "englishCommon": "Moose",
+    "czechCommon": "MISSING",
+    "hasCorrection": false
+  },
+  {
+    "category": "mammals",
+    "scientificName": "Castor canadensis",
+    "englishCommon": "Beaver",
+    "czechCommon": "MISSING",
+    "hasCorrection": false
+  },
+  {
+    "category": "mammals",
+    "scientificName": "Lynx rufus",
+    "englishCommon": "Bobcat",
+    "czechCommon": "MISSING",
+    "hasCorrection": false
+  },
+  {
+    "category": "mammals",
+    "scientificName": "Cervus canadensis",
+    "englishCommon": "Elk",
+    "czechCommon": "MISSING",
+    "hasCorrection": false
+  },
+  {
+    "category": "mammals",
+    "scientificName": "Erethizon dorsatum",
+    "englishCommon": "Porcupine",
+    "czechCommon": "MISSING",
+    "hasCorrection": false
+  },
+  {
+    "category": "mammals",
+    "scientificName": "Mephitis mephitis",
+    "englishCommon": "Skunk",
+    "czechCommon": "MISSING",
+    "hasCorrection": false
+  },
+  {
+    "category": "mammals",
+    "scientificName": "Didelphis virginiana",
+    "englishCommon": "Opossum",
+    "czechCommon": "MISSING",
+    "hasCorrection": false
+  },
+  {
+    "category": "mammals",
+    "scientificName": "Tamias striatus",
+    "englishCommon": "Chipmunk",
+    "czechCommon": "MISSING",
+    "hasCorrection": false
+  },
+  {
+    "category": "mammals",
+    "scientificName": "Ondatra zibethicus",
+    "englishCommon": "Muskrat",
+    "czechCommon": "MISSING",
+    "hasCorrection": false
+  },
+  {
+    "category": "mammals",
+    "scientificName": "Lontra canadensis",
+    "englishCommon": "River Otter",
+    "czechCommon": "MISSING",
+    "hasCorrection": false
+  },
+  {
+    "category": "mammals",
+    "scientificName": "Canis latrans",
+    "englishCommon": "Coyote",
+    "czechCommon": "MISSING",
+    "hasCorrection": false
+  },
+  {
+    "category": "mammals",
+    "scientificName": "Ovis canadensis",
+    "englishCommon": "Bighorn Sheep",
+    "czechCommon": "MISSING",
+    "hasCorrection": false
+  },
+  {
+    "category": "mammals",
+    "scientificName": "Odocoileus hemionus",
+    "englishCommon": "Mule Deer",
+    "czechCommon": "MISSING",
+    "hasCorrection": false
+  },
+  {
+    "category": "mammals",
+    "scientificName": "Gulo gulo",
+    "englishCommon": "Wolverine",
+    "czechCommon": "MISSING",
+    "hasCorrection": false
+  },
+  {
+    "category": "mammals",
+    "scientificName": "Cynomys ludovicianus",
+    "englishCommon": "Prairie Dog",
+    "czechCommon": "MISSING",
+    "hasCorrection": false
+  },
+  {
+    "category": "mammals",
+    "scientificName": "Marmota monax",
+    "englishCommon": "Groundhog",
+    "czechCommon": "MISSING",
+    "hasCorrection": false
+  },
+  {
+    "category": "mammals",
+    "scientificName": "Lynx canadensis",
+    "englishCommon": "Lynx",
+    "czechCommon": "MISSING",
+    "hasCorrection": false
+  },
+  {
+    "category": "mammals",
+    "scientificName": "Bison bison",
+    "englishCommon": "Bison",
+    "czechCommon": "MISSING",
+    "hasCorrection": false
+  },
+  {
+    "category": "mammals",
+    "scientificName": "Ursus maritimus",
+    "englishCommon": "Polar Bear",
+    "czechCommon": "MISSING",
+    "hasCorrection": false
+  },
+  {
+    "category": "mammals",
+    "scientificName": "Ursus arctos",
+    "englishCommon": "Grizzly Bear",
+    "czechCommon": "MISSING",
+    "hasCorrection": false
+  },
+  {
+    "category": "mammals",
+    "scientificName": "Rangifer tarandus",
+    "englishCommon": "Caribou",
+    "czechCommon": "MISSING",
+    "hasCorrection": false
+  },
+  {
+    "category": "mammals",
+    "scientificName": "Oreamnos americanus",
+    "englishCommon": "Mountain Goat",
+    "czechCommon": "MISSING",
+    "hasCorrection": false
+  },
+  {
+    "category": "mammals",
+    "scientificName": "Antilocapra americana",
+    "englishCommon": "Pronghorn",
+    "czechCommon": "MISSING",
+    "hasCorrection": false
+  }
+]

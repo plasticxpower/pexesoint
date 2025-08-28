@@ -1,0 +1,306 @@
+{
+  "category": "Ptáci",
+  "totalPhotos": 30,
+  "photos": [
+    {
+      "fileName": "birds1.jpg",
+      "commonName": "Orel skalní",
+      "scientificName": "Turdus migratorius",
+      "size": "71-96 cm rozpětí křídel, 3-6,3 kg",
+      "lifespan": "20-30 let ve volné přírodě",
+      "habitat": "Horské oblasti, útesy a otevřené krajiny západní Severní Ameriky. Preferují vysoké útvary pro hnízda a dobrý výhled na kořist.",
+      "funFact": "Orli skalní dokážou dosáhnout rychlosti až 240 km/h při lovu v piké, což z nich činí jedny z nejrychlejších ptáků na světě. Mají výjimečný zrak, který je 4-8krát ostřejší než lidský.",
+      "localPath": "/images/birds/birds1.jpg"
+    },
+    {
+      "fileName": "birds2.jpg",
+      "commonName": "Kondor kalifornský",
+      "scientificName": "Corvus brachyrhynchos",
+      "size": "2,5-3,0 m rozpětí křídel, 7-14 kg",
+      "lifespan": "45-80 let ve volné přírodě",
+      "habitat": "Skalnaté oblasti, kaňony a otevřené krajiny Kalifornie. Preferují vysoké útvary pro odpočinek a hnízda.",
+      "funFact": "Kondoři kalifornští mají největší rozpětí křídel ze všech severoamerických ptáků a dokážou plachtit hodiny bez jediného mávnutí křídly. Téměř vyhynuli, ale díky ochranářským programům se jejich počet zvýšil z 27 na více než 500 jedinců.",
+      "localPath": "/images/birds/birds2.jpg"
+    },
+    {
+      "fileName": "birds3.jpg",
+      "commonName": "Pelikán hnědý",
+      "scientificName": "Poecile atricapillus",
+      "size": "1,8-2,3 m rozpětí křídel, 2-5 kg",
+      "lifespan": "10-25 let ve volné přírodě",
+      "habitat": "Pobřežní oblasti, zálivy a ústí řek podél atlantického a pacifického pobřeží. Preferují mělké vody bohaté na ryby.",
+      "funFact": "Pelikáni hnědí dokážou nořit z výšky až 20 metrů a jejich zobák pojme až 11 litrů vody. Mají speciální vzduchové vaky, které je chrání při nárazu do vody.",
+      "localPath": "/images/birds/birds3.jpg"
+    },
+    {
+      "fileName": "birds4.jpg",
+      "commonName": "Volavka modrá",
+      "scientificName": "Sialia sialis",
+      "size": "97-137 cm rozpětí křídel, 1,5-2,5 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Mokřady, bažiny, jezera a pobřežní oblasti po celé Severní Americe. Preferují mělké vody s dostatkem ryb a žab.",
+      "funFact": "Volavky modré dokážou stát nehybně hodiny a čekat na kořist. Jejich krk má speciální S-tvar, který jim umožňuje vystřelit hlavu vpřed rychlostí blesku při lovu.",
+      "localPath": "/images/birds/birds4.jpg"
+    },
+    {
+      "fileName": "birds5.jpg",
+      "commonName": "Ibis bílý",
+      "scientificName": "Spinus tristis",
+      "size": "84-91 cm rozpětí křídel, 0,75-1,05 kg",
+      "lifespan": "16-20 let ve volné přírodě",
+      "habitat": "Pobřežní mokřady, bažiny a mělké laguny jihovýchodní Severní Ameriky. Preferují oblasti s bohatou vodní faunou.",
+      "funFact": "Ibisové bílí mají zakřivený zobák, který je dokonale přizpůsoben pro hledání potravy v bahně. Létají ve formaci V a dokážou najít cestu pomocí magnetického pole Země.",
+      "localPath": "/images/birds/birds5.jpg"
+    },
+    {
+      "fileName": "birds6.jpg",
+      "commonName": "Rybák belohlavý",
+      "scientificName": "Cardinalis cardinalis",
+      "size": "1,8-2,3 m rozpětí křídel, 3-6,3 kg",
+      "lifespan": "20-30 let ve volné přírodě",
+      "habitat": "Pobřežní oblasti, jezera a řeky po celé Severní Americe. Preferují oblasti s dostatkem ryb a vysokými stromy pro hnízda.",
+      "funFact": "Rybáci belohlaví dokážou zaměřit rybu pod vodou a kompenzovat lom světla. Jejich hnízda mohou vážit až 1 tunu a používají je mnoho let po sobě.",
+      "localPath": "/images/birds/birds6.jpg"
+    },
+    {
+      "fileName": "birds7.jpg",
+      "commonName": "Jeřáb kanadský",
+      "scientificName": "Cyanocitta cristata",
+      "size": "1,8-2,4 m rozpětí křídel, 3,6-7,3 kg",
+      "lifespan": "20-40 let ve volné přírodě",
+      "habitat": "Mokřady, prérie a zemědělské oblasti Severní Ameriky. Migrují na dlouhé vzdálenosti mezi hnízdišti a zimovišti.",
+      "funFact": "Jeřábi kanadští podnikají jednu z nejdelších migrací ze všech severoamerických ptáků, cestují až 5000 km. Jejich volání je slyšet až na 4 km daleko.",
+      "localPath": "/images/birds/birds7.jpg"
+    },
+    {
+      "fileName": "birds8.jpg",
+      "commonName": "Labuť zpěvná",
+      "scientificName": "Passer domesticus",
+      "size": "1,8-2,4 m rozpětí křídel, 7-13,6 kg",
+      "lifespan": "12-20 let ve volné přírodě",
+      "habitat": "Jezera, rybníky a mokřady Severní Ameriky. Preferují mělké vody s vodní vegetací.",
+      "funFact": "Labutě zpěvné mají nejdelší krk ze všech severoamerických ptáků a dokážou dosáhnout na potravu až 1,5 metru pod hladinou. Jejich volání připomíná zvuk trubky.",
+      "localPath": "/images/birds/birds8.jpg"
+    },
+    {
+      "fileName": "birds9.jpg",
+      "commonName": "Kachna divoká",
+      "scientificName": "Agelaius phoeniceus",
+      "size": "81-98 cm rozpětí křídel, 0,7-1,6 kg",
+      "lifespan": "5-10 let ve volné přírodě",
+      "habitat": "Jezera, rybníky, řeky a mokřady po celé Severní Americe. Velmi přizpůsobivé různým vodním prostředím.",
+      "funFact": "Kachny divoké jsou předky většiny domácích kachen a dokážou létat rychlostí až 88 km/h. Samice dokážou snést až 13 vajec v jedné snůšce.",
+      "localPath": "/images/birds/birds9.jpg"
+    },
+    {
+      "fileName": "birds10.jpg",
+      "commonName": "Potápka malá",
+      "scientificName": "Haliaeetus leucocephalus",
+      "size": "58-73 cm rozpětí křídel, 0,2-0,6 kg",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Jezera, rybníky a pomalé řeky Severní Ameriky. Preferují vody s dostatkem vodních rostlin pro hnízda.",
+      "funFact": "Potápky malé dokážou okamžitě zmizet pod vodou při nebezpečí a plavat pod hladinou až 25 metrů. Jejich hnízda plovají na vodní hladině.",
+      "localPath": "/images/birds/birds10.jpg"
+    },
+    {
+      "fileName": "birds11.jpg",
+      "commonName": "Sup krkavcovitý",
+      "scientificName": "Ardea herodias",
+      "size": "1,7-1,8 m rozpětí křídel, 1,4-2,3 kg",
+      "lifespan": "16-20 let ve volné přírodě",
+      "habitat": "Otevřené krajiny, prérie a zemědělské oblasti Severní Ameriky. Preferují oblasti s dostatkem mršin.",
+      "funFact": "Supi krkavcovití mají výjimečný čich a dokážou detekovat mršinu z více než 1,5 km daleko. Dokážou strávit i shnilé maso díky silným žaludečním kyselinám.",
+      "localPath": "/images/birds/birds11.jpg"
+    },
+    {
+      "fileName": "birds12.jpg",
+      "commonName": "Jestřáb ostrokřídlý",
+      "scientificName": "Buteo jamaicensis",
+      "size": "56-79 cm rozpětí křídel, 0,08-0,22 kg",
+      "lifespan": "4-8 let ve volné přírodě",
+      "habitat": "Lesy a lesní okraje Severní Ameriky. Preferují husté porosty pro lov a hnízda.",
+      "funFact": "Jestřábi ostrokřídlí dokážou manévrovat mezi stromy rychlostí až 60 km/h při lovu. Migrují ve velkých hejnech, která mohou čítát tisíce jedinců.",
+      "localPath": "/images/birds/birds12.jpg"
+    },
+    {
+      "fileName": "birds13.jpg",
+      "commonName": "Sokol stěhovavý",
+      "scientificName": "Anas platyrhynchos",
+      "size": "74-120 cm rozpětí křídel, 0,33-1,5 kg",
+      "lifespan": "8-15 let ve volné přírodě",
+      "habitat": "Útesy, mrakodrapy a otevřené krajiny po celém světě. Velmi přizpůsobivé městskému prostředí.",
+      "funFact": "Sokoli stěhovaví jsou nejrychlejší zvířata na planetě, dosahují rychlosti až 389 km/h při lovu v piké. Téměř vyhynuli kvůli DDT, ale úspěšně se zotavili.",
+      "localPath": "/images/birds/birds13.jpg"
+    },
+    {
+      "fileName": "birds14.jpg",
+      "commonName": "Puštík virginský",
+      "scientificName": "Bubo virginianus",
+      "size": "81-114 cm rozpětí křídel, 0,4-1,15 kg",
+      "lifespan": "4-8 let ve volné přírodě",
+      "habitat": "Lesy, bažiny a lesní okraje východní Severní Ameriky. Preferují staré duté stromy pro hnízda.",
+      "funFact": "Puštíci virginští mají asymetrické uši, které jim umožňují přesně lokalizovat kořist ve tmě. Dokážou otočit hlavu o 270 stupňů.",
+      "localPath": "/images/birds/birds14.jpg"
+    },
+    {
+      "fileName": "birds15.jpg",
+      "commonName": "Sýček králičí",
+      "scientificName": "Archilochus colubris",
+      "size": "51-61 cm rozpětí křídel, 0,14-0,24 kg",
+      "lifespan": "6-8 let ve volné přírodě",
+      "habitat": "Otevřené travnaté oblasti, prérie a zemědělské pozemky západní Severní Ameriky. Hnízdi v podzemních norách.",
+      "funFact": "Sýčci králičí jsou jediné sovy, které hnízdi pod zemí v norách. Dokážou napodobit zvuk chřestýše, aby odradili predátory od svých hnízd.",
+      "localPath": "/images/birds/birds15.jpg"
+    },
+    {
+      "fileName": "birds16.jpg",
+      "commonName": "Kolibřík rubínohrdlý",
+      "scientificName": "Zenaida macroura",
+      "size": "7-9 cm rozpětí křídel, 2-6 g",
+      "lifespan": "3-5 let ve volné přírodě",
+      "habitat": "Zahrady, lesy a okraje lesů východní Severní Ameriky. Preferují oblasti s dostatkem květin a krmítek.",
+      "funFact": "Kolibříci rubínohrdlí dokážou mávat křídly až 80krát za sekundu a létat pozpátku. Jejich srdce bije až 1260krát za minutu během letu.",
+      "localPath": "/images/birds/birds16.jpg"
+    },
+    {
+      "fileName": "birds17.jpg",
+      "commonName": "Datel pileated",
+      "scientificName": "Picoides pubescens",
+      "size": "40-49 cm rozpětí křídel, 0,25-0,35 kg",
+      "lifespan": "4-11 let ve volné přírodě",
+      "habitat": "Staré lesy s velkými stromy po celé východní Severní Americe. Preferují oblasti s dostatkem mrtvého dřeva.",
+      "funFact": "Datlové pileated vytváří obdélníkové díry v kmenech stromů a jejich kladívkování je slyšet až na 1,5 km daleko. Mají speciální jazyk dlouhý až 10 cm.",
+      "localPath": "/images/birds/birds17.jpg"
+    },
+    {
+      "fileName": "birds18.jpg",
+      "commonName": "Vlaštovka obecná",
+      "scientificName": "Branta canadensis",
+      "size": "32-35 cm rozpětí křídel, 17-20 g",
+      "lifespan": "4-8 let ve volné přírodě",
+      "habitat": "Otevřené krajiny, farmy a předměstské oblasti Severní Ameriky. Staví hnízda z bláta pod střechami.",
+      "funFact": "Vlaštovky obecné tráví většinu života ve vzduchu a dokážou jíst, pít a dokonce se pářit za letu. Migrují až 11 000 km do Jižní Ameriky.",
+      "localPath": "/images/birds/birds18.jpg"
+    },
+    {
+      "fileName": "birds19.jpg",
+      "commonName": "Drozd stěhovavý",
+      "scientificName": "Tyto alba",
+      "size": "20-28 cm rozpětí křídel, 77 g",
+      "lifespan": "6-13 let ve volné přírodě",
+      "habitat": "Lesy, parky, zahrady a předměstské oblasti Severní Ameriky. Velmi přizpůsobivé různým prostředím.",
+      "funFact": "Drozdi stěhovaví jsou jedni z prvních ptáků, kteří zpívají ráno, často začínají před úsvitem. Dokážou naučit více než 100 různých písní.",
+      "localPath": "/images/birds/birds19.jpg"
+    },
+    {
+      "fileName": "birds20.jpg",
+      "commonName": "Kardinál červený",
+      "scientificName": "Pandion haliaetus",
+      "size": "24-26 cm rozpětí křídel, 33-65 g",
+      "lifespan": "3-4 roky ve volné přírodě",
+      "habitat": "Lesy, zahrady a křovinaté oblasti východní Severní Ameriky. Preferují husté porosty pro úkryt.",
+      "funFact": "Kardinálové červení jsou jedni z mála ptáků, kde samice také zpívá. Dokážou rozpoznat své vlastní mláďata mezi stovkami jiných v kolonii.",
+      "localPath": "/images/birds/birds20.jpg"
+    },
+    {
+      "fileName": "birds21.jpg",
+      "commonName": "Peregrine Falcon",
+      "scientificName": "Falco peregrinus",
+      "size": "34-58 cm (13-23 inches), 0.33-1.5 kg",
+      "lifespan": "8-15 years in wild",
+      "habitat": "Cliffs, tall buildings, and bridges in urban and wild areas worldwide. They prefer high perches with good visibility for hunting.",
+      "funFact": "Peregrine falcons are the fastest animals on Earth, reaching speeds over 240 mph during hunting dives. They have special baffles in their nostrils to breathe at high speeds.",
+      "localPath": "/images/birds/birds21.jpg"
+    },
+    {
+      "fileName": "birds22.jpg",
+      "commonName": "Wild Turkey",
+      "scientificName": "Meleagris gallopavo",
+      "size": "100-125 cm (39-49 inches), 2.5-11 kg",
+      "lifespan": "3-5 years in wild",
+      "habitat": "Forests and woodland edges across North America. They prefer areas with oak and hickory trees for food and roosting.",
+      "funFact": "Wild turkeys can fly at speeds up to 55 mph and run up to 25 mph. Males can change the color of their head and neck from red to blue to white.",
+      "localPath": "/images/birds/birds22.jpg"
+    },
+    {
+      "fileName": "birds23.jpg",
+      "commonName": "Belted Kingfisher",
+      "scientificName": "Megaceryle alcyon",
+      "size": "27-35 cm (11-14 inches), 113-178 g",
+      "lifespan": "6-10 years in wild",
+      "habitat": "Near water bodies including streams, rivers, ponds, and lakes across North America. They prefer areas with clear water for fishing.",
+      "funFact": "Belted kingfishers excavate tunnels up to 8 feet long in riverbanks for nesting. Females are more colorful than males, which is unusual among birds.",
+      "localPath": "/images/birds/birds23.jpg"
+    },
+    {
+      "fileName": "birds24.jpg",
+      "commonName": "Sandhill Crane",
+      "scientificName": "Antigone canadensis",
+      "size": "80-136 cm (31-54 inches), 3.0-6.4 kg",
+      "lifespan": "20-40 years in wild",
+      "habitat": "Wetlands, grasslands, and agricultural fields across North America. They prefer shallow wetlands for roosting and open fields for feeding.",
+      "funFact": "Sandhill cranes perform elaborate dancing displays during courtship, including jumping, bowing, and calling. They can live over 40 years and mate for life.",
+      "localPath": "/images/birds/birds24.jpg"
+    },
+    {
+      "fileName": "birds25.jpg",
+      "commonName": "Pileated Woodpecker",
+      "scientificName": "Dryocopus pileatus",
+      "size": "40-49 cm (16-19 inches), 250-400 g",
+      "lifespan": "9-12 years in wild",
+      "habitat": "Mature forests across eastern North America. They prefer areas with large dead trees and fallen logs.",
+      "funFact": "Pileated woodpeckers create rectangular holes that can be over a foot long. Their powerful pecking can be heard from half a mile away.",
+      "localPath": "/images/birds/birds25.jpg"
+    },
+    {
+      "fileName": "birds26.jpg",
+      "commonName": "Yellow Warbler",
+      "scientificName": "Setophaga petechia",
+      "size": "10-18 cm (4-7 inches), 9-11 g",
+      "lifespan": "6-10 years in wild",
+      "habitat": "Wetlands, gardens, and forest edges across North America. They prefer areas with dense shrubs and small trees near water.",
+      "funFact": "Yellow warblers can recognize cowbird eggs in their nests and will build a new nest floor over them. They migrate up to 5,000 miles to Central and South America.",
+      "localPath": "/images/birds/birds26.jpg"
+    },
+    {
+      "fileName": "birds27.jpg",
+      "commonName": "White-breasted Nuthatch",
+      "scientificName": "Sitta carolinensis",
+      "size": "13-14 cm (5-5.5 inches), 18-30 g",
+      "lifespan": "2-3 years in wild",
+      "habitat": "Mature forests and wooded parks across North America. They prefer areas with large deciduous trees, especially oak and hickory.",
+      "funFact": "Nuthatches can walk headfirst down tree trunks, a unique ability among North American birds. They wedge nuts into bark crevices and hammer them open.",
+      "localPath": "/images/birds/birds27.jpg"
+    },
+    {
+      "fileName": "birds28.jpg",
+      "commonName": "Cedar Waxwing",
+      "scientificName": "Bombycilla cedrorum",
+      "size": "14-18 cm (5.5-7 inches), 30-40 g",
+      "lifespan": "4-5 years in wild",
+      "habitat": "Open woodlands, orchards, and suburban areas across North America. They prefer areas with fruit-bearing trees and shrubs.",
+      "funFact": "Cedar waxwings are highly social and often pass berries down a line of birds until one decides to eat it. Their wing tips look like they're dipped in red sealing wax.",
+      "localPath": "/images/birds/birds28.jpg"
+    },
+    {
+      "fileName": "birds29.jpg",
+      "commonName": "Indigo Bunting",
+      "scientificName": "Passerina cyanea",
+      "size": "11.5-15 cm (4.5-6 inches), 12-18 g",
+      "lifespan": "4-5 years in wild",
+      "habitat": "Forest edges, fields, and suburban areas across eastern North America. They prefer areas with scattered trees and open spaces.",
+      "funFact": "Male indigo buntings appear blue but actually have no blue pigment. Their feathers reflect blue light due to microscopic structures. They navigate by stars during migration.",
+      "localPath": "/images/birds/birds29.jpg"
+    },
+    {
+      "fileName": "birds30.jpg",
+      "commonName": "Rose-breasted Grosbeak",
+      "scientificName": "Pheucticus ludovicianus",
+      "size": "18-22 cm (7-8.5 inches), 35-65 g",
+      "lifespan": "5-13 years in wild",
+      "habitat": "Deciduous and mixed forests across eastern North America. They prefer areas with dense canopy and understory vegetation.",
+      "funFact": "Rose-breasted grosbeaks have powerful bills that can crack cherry pits. Males and females take turns incubating eggs, with males often singing while on the nest.",
+      "localPath": "/images/birds/birds30.jpg"
+    }
+  ]
+}

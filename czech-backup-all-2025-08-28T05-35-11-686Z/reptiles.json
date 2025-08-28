@@ -1,0 +1,306 @@
+{
+  "category": "reptiles",
+  "totalPhotos": 30,
+  "photos": [
+    {
+      "fileName": "reptiles1.jpg",
+      "commonName": "Krokodýl nilský",
+      "scientificName": "Terrapene carolina",
+      "size": "250-500 cm, 225-750 kg",
+      "lifespan": "45-100 let ve volné přírodě",
+      "habitat": "Řeky, jezera a mokřady subsaharské Afriky a Nilu. Preferují sladkovodní prostředí s přístupem k souši.",
+      "funFact": "Krokodýli nilští mají nejsilnější kousnutí ze všech zvířat - až 22 000 newtonů. Dokážou zůstat pod vodou až 2 hodiny a jsou vynikající rodiče.",
+      "localPath": "/images/reptiles/reptiles1.jpg"
+    },
+    {
+      "fileName": "reptiles2.jpg",
+      "commonName": "Aligátor americký",
+      "scientificName": "Thamnophis sirtalis",
+      "size": "280-460 cm, 230-454 kg",
+      "lifespan": "35-50 let ve volné přírodě",
+      "habitat": "Sladkovodní mokřady, bažiny a řeky jihovýchodní Severní Ameriky. Preferují teplé, mělké vody.",
+      "funFact": "Aligátoři američtí dokážou zůstat nehybní hodiny a pak explodovat do akce rychlostí až 56 km/h. Jejich kousnutí má sílu 1260 kg na čtvereční centimetr.",
+      "localPath": "/images/reptiles/reptiles2.jpg"
+    },
+    {
+      "fileName": "reptiles3.jpg",
+      "commonName": "Anakonda velká",
+      "scientificName": "Plestiodon fasciatus",
+      "size": "400-900 cm, 30-250 kg",
+      "lifespan": "10-30 let ve volné přírodě",
+      "habitat": "Tropické deštné pralesy a mokřady Jižní Ameriky. Preferují oblasti blízko vody.",
+      "funFact": "Anakondy velké jsou nejedovaté, ale zabíjejí kořist stisknutím. Dokážou spolknout kořist mnohem větší než je jejich hlava díky rozepínacím čelistem.",
+      "localPath": "/images/reptiles/reptiles3.jpg"
+    },
+    {
+      "fileName": "reptiles4.jpg",
+      "commonName": "Komodský varan",
+      "scientificName": "Chrysemys picta",
+      "size": "200-300 cm, 70-90 kg",
+      "lifespan": "30-50 let ve volné přírodě",
+      "habitat": "Ostrovy Komodo, Rinca, Flores a Gili Motang v Indonésii. Preferují savany a suché lesy.",
+      "funFact": "Komodští varani jsou největší žijící ještěři a mají jedovaté kousnutí. Dokážou běžet rychlostí až 20 km/h a jsou vynikající plavci.",
+      "localPath": "/images/reptiles/reptiles4.jpg"
+    },
+    {
+      "fileName": "reptiles5.jpg",
+      "commonName": "Chameleon jemenský",
+      "scientificName": "Anolis carolinensis",
+      "size": "35-61 cm, 85-170 g",
+      "lifespan": "5-8 let ve volné přírodě",
+      "habitat": "Horské oblasti Jemenu a Saúdské Arábie. Preferují oblasti s hustou vegetací.",
+      "funFact": "Chameleoni dokážou změnit barvu během sekund a jejich oči se mohou pohybovat nezávisle. Jejich jazyk může být dvakrát delší než jejich tělo.",
+      "localPath": "/images/reptiles/reptiles5.jpg"
+    },
+    {
+      "fileName": "reptiles6.jpg",
+      "commonName": "Gekončík domácí",
+      "scientificName": "Trachemys scripta elegans",
+      "size": "7,5-15 cm, 2-5 g",
+      "lifespan": "5-10 let ve volné přírodě",
+      "habitat": "Teplé oblasti po celém světě, často v lidských obydlích. Preferují oblasti s dostatkem hmyzu.",
+      "funFact": "Gekončíci dokážou lézt po hladkých površích díky milionům drobných chloupků na tlapkách. Dokážou vydávat zvuky pro komunikaci.",
+      "localPath": "/images/reptiles/reptiles6.jpg"
+    },
+    {
+      "fileName": "reptiles7.jpg",
+      "commonName": "Leguán zelený",
+      "scientificName": "Alligator mississippiensis",
+      "size": "120-200 cm, 4-17 kg",
+      "lifespan": "12-20 let ve volné přírodě",
+      "habitat": "Tropické deštné pralesy Střední a Jižní Ameriky. Preferují oblasti blízko vody.",
+      "funFact": "Leguáni zelení mají třetí oko na vrcholu hlavy, které detekuje stíny predátorů. Jsou vynikající plavci a dokážou zadržet dech až 30 minut.",
+      "localPath": "/images/reptiles/reptiles7.jpg"
+    },
+    {
+      "fileName": "reptiles8.jpg",
+      "commonName": "Chřestýš diamantový",
+      "scientificName": "Pantherophis guttatus",
+      "size": "90-150 cm, 1,5-6,8 kg",
+      "lifespan": "15-25 let ve volné přírodě",
+      "habitat": "Pouště a suché oblasti jihozápadní Severní Ameriky. Preferují skalnaté oblasti s úkryty.",
+      "funFact": "Chřestýši mají termoreceptory, které detekují teplo kořisti. Jejich chřestítko je tvořeno keratinem a přidává se nový segment při každém svlékání.",
+      "localPath": "/images/reptiles/reptiles8.jpg"
+    },
+    {
+      "fileName": "reptiles9.jpg",
+      "commonName": "Kobra indická",
+      "scientificName": "Chelydra serpentina",
+      "size": "100-175 cm, 1-2 kg",
+      "lifespan": "20-30 let ve volné přírodě",
+      "habitat": "Rozmanité biotopy Indie a jihovýchodní Asie, včetně lesů, polí a lidských sídel.",
+      "funFact": "Kobry indické dokážou vztyčit třetinu svého těla a rozšířit kapuci jako varovný signál. Jejich jed je neurotoxický a může být smrtelný.",
+      "localPath": "/images/reptiles/reptiles9.jpg"
+    },
+    {
+      "fileName": "reptiles10.jpg",
+      "commonName": "Želva karetní",
+      "scientificName": "Pogona vitticeps",
+      "size": "60-90 cm, 45-80 kg",
+      "lifespan": "30-50 let ve volné přírodě",
+      "habitat": "Tropické a subtropické oceány po celém světě. Preferují korálové útesy a skalnaté oblasti.",
+      "funFact": "Želvy karetní mají speciálně tvarovaný zobák pro získávání hub a měkkýšů ze štěrbin. Jsou kriticky ohrožené kvůli lovu pro jejich krunýř.",
+      "localPath": "/images/reptiles/reptiles10.jpg"
+    },
+    {
+      "fileName": "reptiles11.jpg",
+      "commonName": "Tuatara",
+      "scientificName": "Iguana iguana",
+      "size": "45-61 cm, 0,5-1,3 kg",
+      "lifespan": "60-100 let ve volné přírodě",
+      "habitat": "Ostrovy Nového Zélandu. Preferují pobřežní lesy a křovinaté oblasti.",
+      "funFact": "Tuatary jsou 'živoucí fosilie' a jediní přeživší ze skupiny sphenodontů. Mají třetí oko a dokážou žít při teplotách, které by zabily jiné plazy.",
+      "localPath": "/images/reptiles/reptiles11.jpg"
+    },
+    {
+      "fileName": "reptiles12.jpg",
+      "commonName": "Anolis zelený",
+      "scientificName": "Hemidactylus turcicus",
+      "size": "12-20 cm, 2-9 g",
+      "lifespan": "4-8 let ve volné přírodě",
+      "habitat": "Jihovýchodní Severní Amerika a Karibik. Preferují lesy a zalesněné předměstské oblasti.",
+      "funFact": "Anolisové dokážou změnit barvu z jasně zelené na tmavě hnědou během sekund. Samci mají barevný lalok pod krkem pro komunikaci.",
+      "localPath": "/images/reptiles/reptiles12.jpg"
+    },
+    {
+      "fileName": "reptiles13.jpg",
+      "commonName": "Krokodýl kubánský",
+      "scientificName": "Chamaeleo calyptratus",
+      "size": "210-350 cm, 70-215 kg",
+      "lifespan": "50-75 let ve volné přírodě",
+      "habitat": "Sladkovodní mokřady Kuby. Preferují oblasti s čistou vodou a vegetací.",
+      "funFact": "Krokodýli kubánští jsou kriticky ohroženi s méně než 4000 jedinci ve volné přírodě. Dokážou skákat z vody pro chytání kořisti.",
+      "localPath": "/images/reptiles/reptiles13.jpg"
+    },
+    {
+      "fileName": "reptiles14.jpg",
+      "commonName": "Mamba černá",
+      "scientificName": "Python regius",
+      "size": "200-300 cm, 1,6 kg",
+      "lifespan": "11-20 let ve volné přírodě",
+      "habitat": "Savany a skalnaté oblasti východní a jižní Afriky. Preferují oblasti s dostatkem úkrytů.",
+      "funFact": "Mamby černé jsou nejrychlejší hadi na světě, dokážou se pohybovat rychlostí až 20 km/h. Jejich jed je extrémně toxický a bez léčby je smrtelný.",
+      "localPath": "/images/reptiles/reptiles14.jpg"
+    },
+    {
+      "fileName": "reptiles15.jpg",
+      "commonName": "Želva obrovská",
+      "scientificName": "Varanus salvator",
+      "size": "100-130 cm, 250-400 kg",
+      "lifespan": "80-120 let ve volné přírodě",
+      "habitat": "Galápagské ostrovy a Seychely. Preferují suché a vlhké oblasti s vegetací.",
+      "funFact": "Želvy obrovské jsou nejdéle žijící obratlovci na světě, některé žijí přes 150 let. Dokážou přežít rok bez jídla a vody.",
+      "localPath": "/images/reptiles/reptiles15.jpg"
+    },
+    {
+      "fileName": "reptiles16.jpg",
+      "commonName": "Gekon tokaj",
+      "scientificName": "Crotalus atrox",
+      "size": "24-40 cm, 150-400 g",
+      "lifespan": "7-10 let ve volné přírodě",
+      "habitat": "Tropické lesy jihovýchodní Asie. Preferují dutiny stromů a skalní štěrbiny.",
+      "funFact": "Gekoni tokaj jsou jedni z největších gekonů a vydávají hlasité volání 'to-kay'. Mají silné čelisti a dokážou kousnout tak silně, že je těžké je oddělit.",
+      "localPath": "/images/reptiles/reptiles16.jpg"
+    },
+    {
+      "fileName": "reptiles17.jpg",
+      "commonName": "Boa dusivá",
+      "scientificName": "Chelonia mydas",
+      "size": "180-400 cm, 10-45 kg",
+      "lifespan": "20-30 let ve volné přírodě",
+      "habitat": "Tropické deštné pralesy Střední a Jižní Ameriky. Preferují oblasti s hustou vegetací.",
+      "funFact": "Boa dusivé jsou živorodé a samice může porodit až 60 mláďat najednou. Dokážou detekovat teplo kořisti pomocí speciálních receptorů.",
+      "localPath": "/images/reptiles/reptiles17.jpg"
+    },
+    {
+      "fileName": "reptiles18.jpg",
+      "commonName": "Monitor nilský",
+      "scientificName": "Lampropeltis getula",
+      "size": "120-200 cm, 5-20 kg",
+      "lifespan": "10-20 let ve volné přírodě",
+      "habitat": "Řeky a jezera po celé Africe. Preferují oblasti s dostatkem vody a úkrytů.",
+      "funFact": "Monitory nilské jsou vynikající plavci a potápěči. Dokážou zůstat pod vodou až 1 hodinu a jsou jedni z nejinteligentnějších plazů.",
+      "localPath": "/images/reptiles/reptiles18.jpg"
+    },
+    {
+      "fileName": "reptiles19.jpg",
+      "commonName": "Želva kožatá",
+      "scientificName": "Gopherus polyphemus",
+      "size": "130-183 cm, 250-700 kg",
+      "lifespan": "30-100 let ve volné přírodě",
+      "habitat": "Otevřené oceány po celém světě. Migrují na obrovské vzdálenosti za potravou.",
+      "funFact": "Želvy kožaté jsou největší želvy na světě a dokážou se potápět do hloubky přes 1200 metrů. Nemají tvrdý krunýř, ale kožovitou pokrývku.",
+      "localPath": "/images/reptiles/reptiles19.jpg"
+    },
+    {
+      "fileName": "reptiles20.jpg",
+      "commonName": "Skink modrý",
+      "scientificName": "Agkistrodon contortrix",
+      "size": "45-60 cm, 280-510 g",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Lesy a křovinaté oblasti východní Austrálie. Preferují oblasti s dostatkem úkrytů.",
+      "funFact": "Skinky modré mají jasně modrý jazyk, který používají k zastrašování predátorů. Jsou všežravci a hrají důležitou roli v ekosystému jako rozšiřovatelé semen.",
+      "localPath": "/images/reptiles/reptiles20.jpg"
+    },
+    {
+      "fileName": "reptiles21.jpg",
+      "commonName": "Gaviál indický",
+      "scientificName": "Lampropeltis triangulum",
+      "size": "350-610 cm, 159-250 kg",
+      "lifespan": "40-60 let ve volné přírodě",
+      "habitat": "Řeky severní Indie a Nepálu. Preferují hluboké, rychle tekoucí vody.",
+      "funFact": "Gaviálové mají úzkou čelist specializovanou na lov ryb. Samci mají na konci čelisti výrůstek zvaný 'ghara', který zesiluje jejich volání.",
+      "localPath": "/images/reptiles/reptiles21.jpg"
+    },
+    {
+      "fileName": "reptiles22.jpg",
+      "commonName": "Chřestýš texaský",
+      "scientificName": "Sceloporus undulatus",
+      "size": "90-150 cm, 1,5-4,5 kg",
+      "lifespan": "15-25 let ve volné přírodě",
+      "habitat": "Pouště a suché oblasti jihozápadní Severní Ameriky. Preferují skalnaté oblasti s úkryty.",
+      "funFact": "Chřestýši texaští dokážou přežít bez vody měsíce a získávají vlhkost z kořisti. Jejich jed obsahuje hemotoxiny, které ničí tkáně.",
+      "localPath": "/images/reptiles/reptiles22.jpg"
+    },
+    {
+      "fileName": "reptiles23.jpg",
+      "commonName": "Leguán mořský",
+      "scientificName": "Malaclemys terrapin",
+      "size": "60-100 cm, 0,5-1,5 kg",
+      "lifespan": "5-12 let ve volné přírodě",
+      "habitat": "Pobřežní oblasti Galápagských ostrovů. Jediný mořský ještěr na světě.",
+      "funFact": "Leguáni mořští jsou jediní ještěři, kteří se živí v oceánu. Dokážou zadržet dech až 30 minut a potápět se do hloubky 9 metrů.",
+      "localPath": "/images/reptiles/reptiles23.jpg"
+    },
+    {
+      "fileName": "reptiles24.jpg",
+      "commonName": "Kobra královská",
+      "scientificName": "Heterodon platirhinos",
+      "size": "300-550 cm, 6-12 kg",
+      "lifespan": "17-20 let ve volné přírodě",
+      "habitat": "Lesy jihovýchodní Asie. Preferují oblasti s dostatkem jiných hadů, kterými se živí.",
+      "funFact": "Kobry královské jsou nejdelší jedovaté hadi na světě a živí se výhradně jinými hady. Dokážou vztyčit třetinu svého těla a jsou vynikající rodiče.",
+      "localPath": "/images/reptiles/reptiles24.jpg"
+    },
+    {
+      "fileName": "reptiles25.jpg",
+      "commonName": "Želva hvězdnatá",
+      "scientificName": "Ophisaurus ventralis",
+      "size": "15-38 cm, 0,7-7 kg",
+      "lifespan": "30-80 let ve volné přírodě",
+      "habitat": "Suché oblasti Indie a Srí Lanky. Preferují travnaté oblasti a křovinaté savany.",
+      "funFact": "Želvy hvězdnaté mají krásný hvězdnatý vzor na krunýři. Dokážou přežít dlouhá období sucha a jsou aktivní především za deště.",
+      "localPath": "/images/reptiles/reptiles25.jpg"
+    },
+    {
+      "fileName": "reptiles26.jpg",
+      "commonName": "Varanovec komodský",
+      "scientificName": "Glyptemys insculpta",
+      "size": "200-300 cm, 70-90 kg",
+      "lifespan": "30-50 let ve volné přírodě",
+      "habitat": "Ostrovy Komodo, Rinca, Flores a Gili Motang v Indonésii.",
+      "funFact": "Varanovec komodský je největší žijící ještěr a má jedovaté kousnutí. Dokážou běžet rychlostí až 20 km/h a jsou vynikající plavci.",
+      "localPath": "/images/reptiles/reptiles26.jpg"
+    },
+    {
+      "fileName": "reptiles27.jpg",
+      "commonName": "Anakonda žlutá",
+      "scientificName": "Masticophis flagellum",
+      "size": "300-450 cm, 30-55 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Mokřady a řeky Jižní Ameriky. Preferují oblasti s pomalou nebo stojatou vodou.",
+      "funFact": "Anakondy žluté jsou menší než velké anakondy, ale stále patří mezi největší hady. Jsou vynikající plavci a většinu času tráví ve vodě.",
+      "localPath": "/images/reptiles/reptiles27.jpg"
+    },
+    {
+      "fileName": "reptiles28.jpg",
+      "commonName": "Želva bahenní",
+      "scientificName": "Clemmys guttata",
+      "size": "8-14 cm, 60-110 g",
+      "lifespan": "30-50 let ve volné přírodě",
+      "habitat": "Mokřady, rybníky a pomalu tekoucí potoky východní Severní Ameriky.",
+      "funFact": "Želvy bahenní dokážou přežít zamrznutí a hibernují na dně rybníků. Mají silné čelisti a dokážé kousnout překvapivě silně pro svou velikost.",
+      "localPath": "/images/reptiles/reptiles28.jpg"
+    },
+    {
+      "fileName": "reptiles29.jpg",
+      "commonName": "Gekon leopardí",
+      "scientificName": "Diadophis punctatus",
+      "size": "15-25 cm, 45-80 g",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Suché oblasti Afghánistánu, Pákistánu, severozápadní Indie a Íránu.",
+      "funFact": "Gekoni leopardí jsou jedni z mála gekonů, kteří mají pohyblivá víčka. Dokážou regenerovat ztracený ocas a jsou aktivní v noci.",
+      "localPath": "/images/reptiles/reptiles29.jpg"
+    },
+    {
+      "fileName": "reptiles30.jpg",
+      "commonName": "Želva zelenavá",
+      "scientificName": "Sternotherus odoratus",
+      "size": "80-150 cm, 68-190 kg",
+      "lifespan": "60-70 let ve volné přírodě",
+      "habitat": "Tropické a subtropické oceány po celém světě. Hnízdí na písčitých plážích.",
+      "funFact": "Želvy zelenavé dokážou zadržet dech až 5 hodin pod vodou a navigovat pomocí magnetického pole Země. Samice se vrací na stejnou pláž, kde se narodily.",
+      "localPath": "/images/reptiles/reptiles30.jpg"
+    }
+  ]
+}

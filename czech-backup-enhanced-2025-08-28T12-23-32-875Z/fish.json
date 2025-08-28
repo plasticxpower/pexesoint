@@ -1,0 +1,306 @@
+{
+  "category": "fish",
+  "totalPhotos": 30,
+  "photos": [
+    {
+      "fileName": "fish1.jpg",
+      "commonName": "Žralok bílý",
+      "scientificName": "Micropterus salmoides",
+      "size": "Délka: 400-600 cm, Hmotnost: 1500-2500 kg",
+      "lifespan": "70-100 let ve volné přírodě",
+      "habitat": "Freshwater lakes, ponds, and slow-moving rivers with vegetation napříč Severní Amerika.",
+      "funFact": "Largemouth bjakos jsou ambush predakrs s vynikající vjeina a can see v colnebo. oni can open jejich mouths wide enough k vytvářejí a powerful suctina který helps je capture kořist.",
+      "localPath": "/images/fish/fish1.jpg"
+    },
+    {
+      "fileName": "fish2.jpg",
+      "commonName": "Tuňák obecný",
+      "scientificName": "Oncorhynchus mykiss",
+      "size": "Délka: 200-250 cm, Hmotnost: 200-400 kg",
+      "lifespan": "40-50 let ve volné přírodě",
+      "habitat": "Cold, clear streams and lakes napříč Severní Amerika and introduced worldwide.",
+      "funFact": "Ravbow trout can see ultraviolet light a mají vynikající colnebo vjeina. oni jsou known pro jejich spectacular jumpvg ability když hooked nebo avoidvg predakrs.",
+      "localPath": "/images/fish/fish2.jpg"
+    },
+    {
+      "fileName": "fish3.jpg",
+      "commonName": "Losos atlantský",
+      "scientificName": "Esox lucius",
+      "size": "Délka: 70-150 cm, Hmotnost: 3-30 kg",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Shallow, vegetated areas of lakes and slow rivers napříč northern regions.",
+      "funFact": "Nnebothern pike jsou apex predakrs s raznebo-sharp zuby a can accelerate od 0 k 25 mph v secnads. oni mají been known k attack kořist až half jejich own size.",
+      "localPath": "/images/fish/fish3.jpg"
+    },
+    {
+      "fileName": "fish4.jpg",
+      "commonName": "Treska obecná",
+      "scientificName": "Lepomis macrochirus",
+      "size": "Délka: 60-200 cm, Hmotnost: 5-96 kg",
+      "lifespan": "25-30 let ve volné přírodě",
+      "habitat": "Shallow waters of lakes, ponds, and slow streams with vegetation napříč Severní Amerika.",
+      "funFact": "Male bluegills vytvářejí circular nests v shvšechnyow water a aggressively defend je durvg breedvg sejakona. oni can change colnebo rapidly k communicate s other fjeh.",
+      "localPath": "/images/fish/fish4.jpg"
+    },
+    {
+      "fileName": "fish5.jpg",
+      "commonName": "Halibut obecný",
+      "scientificName": "Ictalurus punctatus",
+      "size": "Délka: 200-470 cm, Hmotnost: 130-315 kg",
+      "lifespan": "50-55 let ve volné přírodě",
+      "habitat": "Rivers, lakes, and ponds with muddy or sandy bottoms napříč Severní Amerika.",
+      "funFact": "Channel catfjeh mají přes 100,000 tjakote buds cpřesvg jejich entire body, makvg je vcredibly sensitive k chemical cues v the water. oni can tjakote food beproe it enters jejich mouth.",
+      "localPath": "/images/fish/fish5.jpg"
+    },
+    {
+      "fileName": "fish6.jpg",
+      "commonName": "Mečoun obecný",
+      "scientificName": "Salmo salar",
+      "size": "Délka: 300-450 cm, Hmotnost: 400-650 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "North Atlantic Ocean and rivers that flow into it for spawning.",
+      "funFact": "Atlantic salmna dokážou skočit až 12 skp high k přescome waterfvšechnys durvg jejich spawnvg migrace. oni return k the exact stream kde oni were bnebon usvg jejich čich.",
+      "localPath": "/images/fish/fish6.jpg"
+    },
+    {
+      "fileName": "fish7.jpg",
+      "commonName": "Marlín modrý",
+      "scientificName": "Sander vitreus",
+      "size": "Délka: 300-500 cm, Hmotnost: 180-820 kg",
+      "lifespan": "20-25 let ve volné přírodě",
+      "habitat": "Cool lakes and rivers napříč northern Severní Amerika.",
+      "funFact": "Wvšechnyoči mají vynikající night vjeina due k a reflective layer v jejich oči cvšechnyed the tapetum lucidum. oni jsou nejvíce active durvg dawn a dusk.",
+      "localPath": "/images/fish/fish7.jpg"
+    },
+    {
+      "fileName": "fish8.jpg",
+      "commonName": "Manta obrovská",
+      "scientificName": "Morone saxatilis",
+      "size": "Šířka: 600-900 cm, Hmotnost: 1350-2000 kg",
+      "lifespan": "20-25 let ve volné přírodě",
+      "habitat": "Atlantic coast and connected rivers from Canada to Florida.",
+      "funFact": "Striped bjakos jsou anadromous, meanvg oni live v saltwater ale spawn v freshwater. oni can cestují hundreds of mil durvg jejich sejakonaal migraces.",
+      "localPath": "/images/fish/fish8.jpg"
+    },
+    {
+      "fileName": "fish9.jpg",
+      "commonName": "Žralok velrybí",
+      "scientificName": "Perca flavescens",
+      "size": "Délka: 500-1200 cm, Hmotnost: 15000-34000 kg",
+      "lifespan": "70-100 let ve volné přírodě",
+      "habitat": "Lakes, ponds, and slow rivers napříč northern Severní Amerika.",
+      "funFact": "Yellow perch mají vynikající schoolvg behavinebo a can prom groups of hundreds of vdividuals. jejich djetvctive yellow colnebo s dark vertical bars makes je ejakoy k identify.",
+      "localPath": "/images/fish/fish9.jpg"
+    },
+    {
+      "fileName": "fish10.jpg",
+      "commonName": "Úhoř říční",
+      "scientificName": "Esox masquinongy",
+      "size": "Délka: 60-150 cm, Hmotnost: 0.5-6 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Large lakes and rivers in the Great Lakes region and eastern Severní Amerika.",
+      "funFact": "Muskellunge jsou known jako the 'fjeh of 10,000 cjakots' due k jejich elusive nature. oni jsou the největší member of the pike family a can live přes 30 yuši.",
+      "localPath": "/images/fish/fish10.jpg"
+    },
+    {
+      "fileName": "fish11.jpg",
+      "commonName": "Štika obecná",
+      "scientificName": "Salvelinus fontinalis",
+      "size": "Délka: 40-150 cm, Hmotnost: 1-25 kg",
+      "lifespan": "10-30 let ve volné přírodě",
+      "habitat": "Cold, clear streams and lakes in eastern Severní Amerika.",
+      "funFact": "Brook trout jsou actuvšechnyy a type of char, not a true trout. oni require very clean, cold water a jsou cnjakoidered an vdicakr druh pro water quality.",
+      "localPath": "/images/fish/fish11.jpg"
+    },
+    {
+      "fileName": "fish12.jpg",
+      "commonName": "Pstruh duhový",
+      "scientificName": "Micropterus dolomieu",
+      "size": "Délka: 30-120 cm, Hmotnost: 0.5-25 kg",
+      "lifespan": "6-8 let ve volné přírodě",
+      "habitat": "Rocky areas of lakes and rivers napříč Severní Amerika.",
+      "funFact": "Smvšechnymouth bjakos jsou known pro jejich fightvg ability a acrobatic jumps když hooked. oni prefer cooler, clejsour water než jejich largemouth cousvs.",
+      "localPath": "/images/fish/fish12.jpg"
+    },
+    {
+      "fileName": "fish13.jpg",
+      "commonName": "Sumec velký",
+      "scientificName": "Salvelinus namaycush",
+      "size": "Délka: 100-500 cm, Hmotnost: 10-400 kg",
+      "lifespan": "60-100 let ve volné přírodě",
+      "habitat": "Deep, cold lakes napříč northern Severní Amerika.",
+      "funFact": "Lake trout can live přes 40 yuši a rosku k ennebomous sizes. oni prefer deep, cold water a jsou často found at depths of 60-200 skp.",
+      "localPath": "/images/fish/fish13.jpg"
+    },
+    {
+      "fileName": "fish14.jpg",
+      "commonName": "Kapr obecný",
+      "scientificName": "Morone chrysops",
+      "size": "Délka: 40-120 cm, Hmotnost: 2-40 kg",
+      "lifespan": "20-40 let ve volné přírodě",
+      "habitat": "Large lakes and rivers napříč central and eastern Severní Amerika.",
+      "funFact": "White bjakos jsou highly social fjeh který cestují v large schools. Durvg spawnvg runs, thousjako of fjeh can be seen movvg up rivers kgether.",
+      "localPath": "/images/fish/fish14.jpg"
+    },
+    {
+      "fileName": "fish15.jpg",
+      "commonName": "Okoun říční",
+      "scientificName": "Esox masquinongy",
+      "size": "Délka: 25-60 cm, Hmotnost: 0.5-9 kg",
+      "lifespan": "15-22 let ve volné přírodě",
+      "habitat": "Large, clear lakes with rocky or weedy areas in northern regions.",
+      "funFact": "Nnebothern muskellunge jsou apex predakrs který může růst k mjakosive sizes. oni mají been known k attack kořist až nae-third jejich own body length.",
+      "localPath": "/images/fish/fish15.jpg"
+    },
+    {
+      "fileName": "fish16.jpg",
+      "commonName": "Candát obecný",
+      "scientificName": "Oncorhynchus kisutch",
+      "size": "Délka: 40-130 cm, Hmotnost: 1-15 kg",
+      "lifespan": "10-14 let ve volné přírodě",
+      "habitat": "Pacific Ocean and tributaries from Alaska to California.",
+      "funFact": "Coho salmna podgo dramatic physical changes durvg spawnvg, s males developvg hooked jaws a bright red colneboatina. oni die after spawnvg, providvg nutrients k proest ekosystéms.",
+      "localPath": "/images/fish/fish16.jpg"
+    },
+    {
+      "fileName": "fish17.jpg",
+      "commonName": "Plotice obecná",
+      "scientificName": "Pomoxis nigromaculatus",
+      "size": "Délka: 15-45 cm, Hmotnost: 0.1-2 kg",
+      "lifespan": "8-15 let ve volné přírodě",
+      "habitat": "Quiet waters of lakes, ponds, and slow rivers napříč Severní Amerika.",
+      "funFact": "Crappies jsou vynikající pjsounts, s males stavívg a guardvg nests v shvšechnyow water. oni can change colnebo rapidly k blend s jejich surroundvgs.",
+      "localPath": "/images/fish/fish17.jpg"
+    },
+    {
+      "fileName": "fish18.jpg",
+      "commonName": "Cejn velký",
+      "scientificName": "Lepomis gibbosus",
+      "size": "Délka: 30-80 cm, Hmotnost: 1-6 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Shallow, weedy areas of lakes and ponds napříč Severní Amerika.",
+      "funFact": "Sunfjeh jsou known pro jejich bright colnebos a circular nests. Males become very terrikrial durvg breedvg sejakona a will attack anythvg který comes near jejich nest.",
+      "localPath": "/images/fish/fish18.jpg"
+    },
+    {
+      "fileName": "fish19.jpg",
+      "commonName": "Lín obecný",
+      "scientificName": "Oncorhynchus tshawytscha",
+      "size": "Délka: 20-70 cm, Hmotnost: 0.5-7 kg",
+      "lifespan": "10-14 let ve volné přírodě",
+      "habitat": "Pacific Ocean from Alaska to California and their spawning rivers.",
+      "funFact": "Chvook salmna jsou the největší Pacific salmna druh a může vážit přes 100 liber. oni can cestují přes 2,000 mil od the ocean k jejich spawnvg grounds.",
+      "localPath": "/images/fish/fish19.jpg"
+    },
+    {
+      "fileName": "fish20.jpg",
+      "commonName": "Amur bílý",
+      "scientificName": "Oncorhynchus mykiss",
+      "size": "Délka: 60-120 cm, Hmotnost: 16-40 kg",
+      "lifespan": "9-20 let ve volné přírodě",
+      "habitat": "Pacific Ocean and coastal rivers from Alaska to California.",
+      "funFact": "Steelhead jsou actuvšechnyy ravbow trout který migrují k the ocean. Unjako salmna, oni dokáže přežít spawnvg a return k the ocean multiple krát.",
+      "localPath": "/images/fish/fish20.jpg"
+    },
+    {
+      "fileName": "fish21.jpg",
+      "commonName": "Pstruh obecný",
+      "scientificName": "Pylodictis olivaris",
+      "size": "Délka: 25-86 cm, Hmotnost: 0.4-15 kg",
+      "lifespan": "6-8 let ve volné přírodě",
+      "habitat": "Large rivers and reservoirs with deep pools napříč central Severní Amerika.",
+      "funFact": "Flathead catfjeh jsou solitary predakrs který prefer live kořist. oni může růst k ennebomous sizes, s some specimens exceedvg 100 liber.",
+      "localPath": "/images/fish/fish21.jpg"
+    },
+    {
+      "fileName": "fish22.jpg",
+      "commonName": "Lipan podhorní",
+      "scientificName": "Sander canadensis",
+      "size": "Délka: 30-60 cm, Hmotnost: 0.5-5 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Large rivers and lakes napříč northern Severní Amerika.",
+      "funFact": "Saugers jsou closely related k wvšechnyoči ale prefer flowvg water. oni mají vynikající low-light vjeina a jsou nejvíce active durvg twilight hodv.",
+      "localPath": "/images/fish/fish22.jpg"
+    },
+    {
+      "fileName": "fish23.jpg",
+      "commonName": "Ostroretka stěhovavá",
+      "scientificName": "Lota lota",
+      "size": "Délka: 40-120 cm, Hmotnost: 1-15 kg",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Deep, cold lakes and rivers napříč northern regions.",
+      "funFact": "Burbot jsou the naly freshwater member of the cod family. oni spawn pod ice v wvter a jsou nejvíce active v cold water temperatures.",
+      "localPath": "/images/fish/fish23.jpg"
+    },
+    {
+      "fileName": "fish24.jpg",
+      "commonName": "Hlavatka obecná",
+      "scientificName": "Lepisosteus osseus",
+      "size": "Délka: 8-22 cm, Hmotnost: 0.01-0.2 kg",
+      "lifespan": "3-5 let ve volné přírodě",
+      "habitat": "Slow-moving rivers, lakes, and backwaters napříč eastern Severní Amerika.",
+      "funFact": "Gar jsou livvg fossils který mají remaved virtuvšechnyy unchanged pro 100 millina yuši. oni can breathe air a survive v low-oxygen water.",
+      "localPath": "/images/fish/fish24.jpg"
+    },
+    {
+      "fileName": "fish25.jpg",
+      "commonName": "Jelec tloušť",
+      "scientificName": "Polyodon spathula",
+      "size": "Délka: 12-20 cm, Hmotnost: 0.02-0.1 kg",
+      "lifespan": "6-8 let ve volné přírodě",
+      "habitat": "Large rivers and reservoirs in the Mississippi River basin.",
+      "funFact": "Paddlefjeh jsou filter feeders s a djetvctive paddle-shaped snout. oni jsou nae of the největší freshwater fjeh v Nneboth America a can live přes 50 yuši.",
+      "localPath": "/images/fish/fish25.jpg"
+    },
+    {
+      "fileName": "fish26.jpg",
+      "commonName": "Parma obecná",
+      "scientificName": "Amia calva",
+      "size": "Délka: 30-70 cm, Hmotnost: 0.5-4 kg",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Shallow, vegetated waters of lakes and slow rivers in eastern Severní Amerika.",
+      "funFact": "Bowfv jsou primitive fjeh který can breathe air a survive v low-oxygen water. Males guard jejich young v a nest a will aggressively defend je.",
+      "localPath": "/images/fish/fish26.jpg"
+    },
+    {
+      "fileName": "fish27.jpg",
+      "commonName": "Bolení dravé",
+      "scientificName": "Aplodinotus grunniens",
+      "size": "Délka: 15-50 cm, Hmotnost: 0.1-2 kg",
+      "lifespan": "8-12 let ve volné přírodě",
+      "habitat": "Large rivers and lakes napříč central and eastern Severní Amerika.",
+      "funFact": "Freshwater drum get jejich name od the drummvg sound males make durvg spawnvg sejakona. oni jsou the naly freshwater member of the drum family.",
+      "localPath": "/images/fish/fish27.jpg"
+    },
+    {
+      "fileName": "fish28.jpg",
+      "commonName": "Proudník jednovousý",
+      "scientificName": "Moxostoma macrolepidotum",
+      "size": "Délka: 8-15 cm, Hmotnost: 0.01-0.05 kg",
+      "lifespan": "3-5 let ve volné přírodě",
+      "habitat": "Clear streams and rivers with rocky or sandy bottoms napříč Severní Amerika.",
+      "funFact": "Redhnebose suckers jsou botkm feeders který use jejich sucker-jako mouths k feed na algae a smvšechny vvertebrates. oni play an impnebotant role v aquatic ekosystém health.",
+      "localPath": "/images/fish/fish28.jpg"
+    },
+    {
+      "fileName": "fish29.jpg",
+      "commonName": "Mřenka mramorovaná",
+      "scientificName": "Hiodon tergisus",
+      "size": "Délka: 15-25 cm, Hmotnost: 0.05-0.2 kg",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Large rivers and lakes napříč central Severní Amerika.",
+      "funFact": "Monaoči mají large, silvery oči který reflect light, givvg je jejich name. oni jsou vynikající jumpers a dokážou skočit several skp out of the water.",
+      "localPath": "/images/fish/fish29.jpg"
+    },
+    {
+      "fileName": "fish30.jpg",
+      "commonName": "Perlín ostrobřichý",
+      "scientificName": "Catostomus commersonii",
+      "size": "Délka: 8-12 cm, Hmotnost: 0.01-0.03 kg",
+      "lifespan": "3-4 roky ve volné přírodě",
+      "habitat": "Streams, rivers, and lakes napříč northern Severní Amerika.",
+      "funFact": "White suckers jsou impnebotant proage fjeh pro many predakr druh. oni can klerate a wide range of water cnaditinjako a jsou často the first fjeh k recolnaize djeturbed stanovištěs.",
+      "localPath": "/images/fish/fish30.jpg"
+    }
+  ]
+}

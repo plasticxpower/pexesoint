@@ -12,6 +12,7 @@
     "dotenv": "^17.2.1",
     "exifreader": "^4.31.1",
     "i18next": "^25.4.2",
+    "i18next-http-backend": "^3.0.2",
     "node-fetch": "^2.7.0",
     "openai": "^5.12.2",
     "puppeteer": "^22.15.0",

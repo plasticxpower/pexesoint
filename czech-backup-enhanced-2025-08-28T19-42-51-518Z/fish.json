@@ -1,0 +1,306 @@
+{
+  "category": "fish",
+  "totalPhotos": 30,
+  "photos": [
+    {
+      "fileName": "fish1.jpg",
+      "commonName": "Okounek pstruhový",
+      "scientificName": "Micropterus salmoides",
+      "size": "Délka: 400-600 cm, Hmotnost: 1500-2500 kg",
+      "lifespan": "70-100 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/fish/fish1.jpg"
+    },
+    {
+      "fileName": "fish2.jpg",
+      "commonName": "Pstruh duhový",
+      "scientificName": "Oncorhynchus mykiss",
+      "size": "Délka: 200-250 cm, Hmotnost: 200-400 kg",
+      "lifespan": "40-50 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/fish/fish2.jpg"
+    },
+    {
+      "fileName": "fish3.jpg",
+      "commonName": "Štika obecná",
+      "scientificName": "Esox lucius",
+      "size": "Délka: 70-150 cm, Hmotnost: 3-30 kg",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/fish/fish3.jpg"
+    },
+    {
+      "fileName": "fish4.jpg",
+      "commonName": "Slunečnice velkoploutvá",
+      "scientificName": "Lepomis macrochirus",
+      "size": "Délka: 60-200 cm, Hmotnost: 5-96 kg",
+      "lifespan": "25-30 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/fish/fish4.jpg"
+    },
+    {
+      "fileName": "fish5.jpg",
+      "commonName": "Sumeček velký",
+      "scientificName": "Ictalurus punctatus",
+      "size": "Délka: 200-470 cm, Hmotnost: 130-315 kg",
+      "lifespan": "50-55 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/fish/fish5.jpg"
+    },
+    {
+      "fileName": "fish6.jpg",
+      "commonName": "Losos obecný",
+      "scientificName": "Salmo salar",
+      "size": "Délka: 300-450 cm, Hmotnost: 400-650 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/fish/fish6.jpg"
+    },
+    {
+      "fileName": "fish7.jpg",
+      "commonName": "Candát",
+      "scientificName": "Sander vitreus",
+      "size": "Délka: 300-500 cm, Hmotnost: 180-820 kg",
+      "lifespan": "20-25 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/fish/fish7.jpg"
+    },
+    {
+      "fileName": "fish8.jpg",
+      "commonName": "Mořčák pruhovaný",
+      "scientificName": "Morone saxatilis",
+      "size": "Šířka: 600-900 cm, Hmotnost: 1350-2000 kg",
+      "lifespan": "20-25 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/fish/fish8.jpg"
+    },
+    {
+      "fileName": "fish9.jpg",
+      "commonName": "Okoun žlutý",
+      "scientificName": "Perca flavescens",
+      "size": "Délka: 500-1200 cm, Hmotnost: 15000-34000 kg",
+      "lifespan": "70-100 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/fish/fish9.jpg"
+    },
+    {
+      "fileName": "fish10.jpg",
+      "commonName": "Štika muskalunga",
+      "scientificName": "Esox masquinongy",
+      "size": "Délka: 60-150 cm, Hmotnost: 0.5-6 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/fish/fish10.jpg"
+    },
+    {
+      "fileName": "fish11.jpg",
+      "commonName": "Siven americký",
+      "scientificName": "Salvelinus fontinalis",
+      "size": "Délka: 40-150 cm, Hmotnost: 1-25 kg",
+      "lifespan": "10-30 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/fish/fish11.jpg"
+    },
+    {
+      "fileName": "fish12.jpg",
+      "commonName": "Okounek černý",
+      "scientificName": "Micropterus dolomieu",
+      "size": "Délka: 30-120 cm, Hmotnost: 0.5-25 kg",
+      "lifespan": "6-8 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/fish/fish12.jpg"
+    },
+    {
+      "fileName": "fish13.jpg",
+      "commonName": "Montreal",
+      "scientificName": "Salvelinus namaycush",
+      "size": "Délka: 100-500 cm, Hmotnost: 10-400 kg",
+      "lifespan": "60-100 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/fish/fish13.jpg"
+    },
+    {
+      "fileName": "fish14.jpg",
+      "commonName": "Neznámý ryby 14",
+      "scientificName": "Morone chrysops",
+      "size": "Délka: 40-120 cm, Hmotnost: 2-40 kg",
+      "lifespan": "20-40 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/fish/fish14.jpg"
+    },
+    {
+      "fileName": "fish15.jpg",
+      "commonName": "Štika muskalunga",
+      "scientificName": "Esox masquinongy",
+      "size": "Délka: 25-60 cm, Hmotnost: 0.5-9 kg",
+      "lifespan": "15-22 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/fish/fish15.jpg"
+    },
+    {
+      "fileName": "fish16.jpg",
+      "commonName": "Oncorhynchus",
+      "scientificName": "Oncorhynchus kisutch",
+      "size": "Délka: 40-130 cm, Hmotnost: 1-15 kg",
+      "lifespan": "10-14 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/fish/fish16.jpg"
+    },
+    {
+      "fileName": "fish17.jpg",
+      "commonName": "Okounkovití",
+      "scientificName": "Pomoxis nigromaculatus",
+      "size": "Délka: 15-45 cm, Hmotnost: 0.1-2 kg",
+      "lifespan": "8-15 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/fish/fish17.jpg"
+    },
+    {
+      "fileName": "fish18.jpg",
+      "commonName": "Slunečnice pestrá",
+      "scientificName": "Lepomis gibbosus",
+      "size": "Délka: 30-80 cm, Hmotnost: 1-6 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/fish/fish18.jpg"
+    },
+    {
+      "fileName": "fish19.jpg",
+      "commonName": "Losos čavyča",
+      "scientificName": "Oncorhynchus tshawytscha",
+      "size": "Délka: 20-70 cm, Hmotnost: 0.5-7 kg",
+      "lifespan": "10-14 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/fish/fish19.jpg"
+    },
+    {
+      "fileName": "fish20.jpg",
+      "commonName": "Pstruh duhový",
+      "scientificName": "Oncorhynchus mykiss",
+      "size": "Délka: 60-120 cm, Hmotnost: 16-40 kg",
+      "lifespan": "9-20 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/fish/fish20.jpg"
+    },
+    {
+      "fileName": "fish21.jpg",
+      "commonName": "Sumečkovití",
+      "scientificName": "Pylodictis olivaris",
+      "size": "Délka: 25-86 cm, Hmotnost: 0.4-15 kg",
+      "lifespan": "6-8 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/fish/fish21.jpg"
+    },
+    {
+      "fileName": "fish22.jpg",
+      "commonName": "Candát",
+      "scientificName": "Sander canadensis",
+      "size": "Délka: 30-60 cm, Hmotnost: 0.5-5 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/fish/fish22.jpg"
+    },
+    {
+      "fileName": "fish23.jpg",
+      "commonName": "Mník jednovousý",
+      "scientificName": "Lota lota",
+      "size": "Délka: 40-120 cm, Hmotnost: 1-15 kg",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/fish/fish23.jpg"
+    },
+    {
+      "fileName": "fish24.jpg",
+      "commonName": "Neznámý ryby 24",
+      "scientificName": "Lepisosteus osseus",
+      "size": "Délka: 8-22 cm, Hmotnost: 0.01-0.2 kg",
+      "lifespan": "3-5 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/fish/fish24.jpg"
+    },
+    {
+      "fileName": "fish25.jpg",
+      "commonName": "Veslonos americký",
+      "scientificName": "Polyodon spathula",
+      "size": "Délka: 12-20 cm, Hmotnost: 0.02-0.1 kg",
+      "lifespan": "6-8 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/fish/fish25.jpg"
+    },
+    {
+      "fileName": "fish26.jpg",
+      "commonName": "Kaproun obecný",
+      "scientificName": "Amia calva",
+      "size": "Délka: 30-70 cm, Hmotnost: 0.5-4 kg",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/fish/fish26.jpg"
+    },
+    {
+      "fileName": "fish27.jpg",
+      "commonName": "Neznámý ryby 27",
+      "scientificName": "Aplodinotus grunniens",
+      "size": "Délka: 15-50 cm, Hmotnost: 0.1-2 kg",
+      "lifespan": "8-12 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/fish/fish27.jpg"
+    },
+    {
+      "fileName": "fish28.jpg",
+      "commonName": "Neznámý ryby 28",
+      "scientificName": "Moxostoma macrolepidotum",
+      "size": "Délka: 8-15 cm, Hmotnost: 0.01-0.05 kg",
+      "lifespan": "3-5 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/fish/fish28.jpg"
+    },
+    {
+      "fileName": "fish29.jpg",
+      "commonName": "Neznámý ryby 29",
+      "scientificName": "Hiodon tergisus",
+      "size": "Délka: 15-25 cm, Hmotnost: 0.05-0.2 kg",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/fish/fish29.jpg"
+    },
+    {
+      "fileName": "fish30.jpg",
+      "commonName": "Montreal",
+      "scientificName": "Catostomus commersonii",
+      "size": "Délka: 8-12 cm, Hmotnost: 0.01-0.03 kg",
+      "lifespan": "3-4 roky ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/fish/fish30.jpg"
+    }
+  ]
+}

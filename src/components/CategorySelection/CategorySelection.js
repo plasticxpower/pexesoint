@@ -11,7 +11,7 @@ import './CategorySelection.css';
  * @returns {JSX.Element} CategorySelection component
  */
 function CategorySelection({ numPlayers, startGame }) {
-  const { t } = useTranslation();
+  const { t } = useTranslation('game');
   
   return (
     <div className="setup-section">

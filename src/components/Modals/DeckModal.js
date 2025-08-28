@@ -11,7 +11,7 @@ import './Modal.css';
  * @returns {JSX.Element|null} DeckModal component
  */
 function DeckModal({ deckModal, onClose, onNavigate }) {
-  const { t } = useTranslation();
+  const { t } = useTranslation('ui');
   
   if (!deckModal) return null;
 

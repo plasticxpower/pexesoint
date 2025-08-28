@@ -1,0 +1,244 @@
+{
+  "photos": {
+    "0": {
+      "commonName": "Medvěd baribal",
+      "scientificName": "Ursus americanus",
+      "size": "Délka: 120-190 cm, Hmotnost: 90-140 kg",
+      "lifespan": "20-30 let ve volné přírodě",
+      "habitat": "Africké savany a travnaté pláně. Preferují otevřené krajiny s dostatkem kořisti.",
+      "funFact": "Medvěd baribal jsou známí svou silou a dokážou skočit až 3 metry vysoko."
+    },
+    "1": {
+      "commonName": "Jelen běloocasý",
+      "scientificName": "Odocoileus virginianus",
+      "size": "Délka: 150-210 cm, Hmotnost: 30-136 kg",
+      "lifespan": "6-14 let ve volné přírodě",
+      "habitat": "Sibiřské tajgy a smíšené lesy. Preferují chladné oblasti s hustou vegetací.",
+      "funFact": "Jelen běloocasý mají výjimečný zrak a dokážou vidět na vzdálenost až 6 km."
+    },
+    "2": {
+      "commonName": "Veverka šedá",
+      "scientificName": "Sciurus carolinensis",
+      "size": "Délka: 23-30 cm plus 19-25 cm ocas",
+      "lifespan": "6-10 let ve volné přírodě",
+      "habitat": "Africké savany a lesní oblasti. Preferují oblasti s dostatkem vody a vegetace.",
+      "funFact": "Veverka šedá mají nejdelší chobot ze všech zvířat a dokážou jím zvednout až 350 kg."
+    },
+    "3": {
+      "commonName": "Mýval severní",
+      "scientificName": "Procyon lotor",
+      "size": "Délka: 40-70 cm, Hmotnost: 5-26 kg",
+      "lifespan": "2-3 roky ve volné přírodě",
+      "habitat": "Africké savany a otevřené krajiny. Preferují oblasti s vysokými stromy.",
+      "funFact": "Mýval severní mají nejdelší krk ze všech savců a jejich srdce váží až 11 kg."
+    },
+    "4": {
+      "commonName": "Liška obecná",
+      "scientificName": "Vulpes vulpes",
+      "size": "Délka: 45-90 cm plus 30-56 cm ocas",
+      "lifespan": "2-5 let ve volné přírodě",
+      "habitat": "Africké savany a travnaté oblasti. Preferují oblasti s bahnitými jezery.",
+      "funFact": "Liška obecná mají nejsilnější kůži ze všech zvířat, tlustou až 5 cm."
+    },
+    "5": {
+      "commonName": "Vlk šedý",
+      "scientificName": "Canis lupus",
+      "size": "Délka: 100-160 cm, Hmotnost: 20-80 kg",
+      "lifespan": "6-8 let ve volné přírodě",
+      "habitat": "Africké řeky a jezera. Tráví většinu času ve vodě.",
+      "funFact": "Vlk šedý dokážou lézt po stromech a jsou velmi obratní."
+    },
+    "6": {
+      "commonName": "Puma americká",
+      "scientificName": "Puma concolor",
+      "size": "Délka: 100-180 cm, Hmotnost: 29-90 kg",
+      "lifespan": "8-13 let ve volné přírodě",
+      "habitat": "Africké savany a travnaté pláně. Žijí ve stádech.",
+      "funFact": "Puma americká dokážou žít až 15 let."
+    },
+    "7": {
+      "commonName": "Los evropský",
+      "scientificName": "Alces alces",
+      "size": "Délka: 240-310 cm, Hmotnost: 270-720 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Africké a asijské savany. Preferují otevřené krajiny pro lov.",
+      "funFact": "Los evropský dokážou žít v horách až do výšky 2000 m."
+    },
+    "8": {
+      "commonName": "Bobr kanadský",
+      "scientificName": "Castor canadensis",
+      "size": "Délka: 74-90 cm plus 25-50 cm ocas, Hmotnost: 11-30 kg",
+      "lifespan": "10-12 let ve volné přírodě",
+      "habitat": "Africké a asijské lesy. Preferují hustou vegetaci pro úkryt.",
+      "funFact": "Bobr kanadský dokážou skočit až 50 cm vysoko."
+    },
+    "9": {
+      "commonName": "Rys červený",
+      "scientificName": "Lynx rufus",
+      "size": "Délka: 65-105 cm, Hmotnost: 4-18 kg",
+      "lifespan": "7-10 let ve volné přírodě",
+      "habitat": "Jihoamerické deštné lesy. Preferují oblasti blízko vody.",
+      "funFact": "Rys červený dokážou žít až 25 let."
+    },
+    "10": {
+      "commonName": "Wapiti",
+      "scientificName": "Cervus canadensis",
+      "size": "Délka: 200-270 cm, Hmotnost: 147-499 kg",
+      "lifespan": "10-13 let ve volné přírodě",
+      "habitat": "Severní a jihoamerické hory a lesy. Preferují skalnaté oblasti.",
+      "funFact": "Wapiti dokážou žít v horách až do výšky 1500 m."
+    },
+    "11": {
+      "commonName": "Dikobraz severoamerický",
+      "scientificName": "Erethizon dorsatum",
+      "size": "Délka: 60-90 cm, Hmotnost: 5-14 kg",
+      "lifespan": "5-7 let ve volné přírodě",
+      "habitat": "Severní lesy a tundra. Preferují chladné oblasti.",
+      "funFact": "Dikobraz severoamerický dokážou žít až 12 let."
+    },
+    "12": {
+      "commonName": "Skunk pruhovaný",
+      "scientificName": "Mephitis mephitis",
+      "size": "Délka: 40-68 cm, Hmotnost: 1.2-5.3 kg",
+      "lifespan": "2-3 roky ve volné přírodě",
+      "habitat": "Severní lesy a tundra. Žijí ve smečkách.",
+      "funFact": "Skunk pruhovaný dokážou žít v horách až do výšky 1000 m."
+    },
+    "13": {
+      "commonName": "Opossum virginský",
+      "scientificName": "Didelphis virginiana",
+      "size": "Délka: 35-55 cm, Hmotnost: 0.5-6 kg",
+      "lifespan": "1-3 roky ve volné přírodě",
+      "habitat": "Severní lesy a hory. Preferují oblasti s dostatkem ryb.",
+      "funFact": "Opossum virginský dokážou skočit až 30 cm vysoko."
+    },
+    "14": {
+      "commonName": "Burunduk pruhovaný",
+      "scientificName": "Tamias striatus",
+      "size": "Délka: 14-19 cm plus 8-11 cm ocas",
+      "lifespan": "6-8 let ve volné přírodě",
+      "habitat": "Arktické oblasti a ledové kry. Preferují chladné prostředí.",
+      "funFact": "Burunduk pruhovaný dokážou žít až 8 let."
+    },
+    "15": {
+      "commonName": "Ondatra pižmová",
+      "scientificName": "Ondatra zibethicus",
+      "size": "Délka: 40-70 cm, Hmotnost: 0.7-1.8 kg",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Jihovýchodní asijské deštné lesy. Preferují koruny stromů.",
+      "funFact": "Ondatra pižmová jsou známí svou silou a dokážou skočit až 3 metry vysoko."
+    },
+    "16": {
+      "commonName": "Vydra říční",
+      "scientificName": "Lontra canadensis",
+      "size": "Délka: 66-107 cm, Hmotnost: 5-14 kg",
+      "lifespan": "8-12 let ve volné přírodě",
+      "habitat": "Africké deštné lesy. Preferují hustou vegetaci.",
+      "funFact": "Vydra říční mají výjimečný zrak a dokážou vidět na vzdálenost až 6 km."
+    },
+    "17": {
+      "commonName": "Kojot prérijní",
+      "scientificName": "Canis latrans",
+      "size": "Délka: 75-87 cm, Hmotnost: 7-21 kg",
+      "lifespan": "8-12 let ve volné přírodě",
+      "habitat": "Africké deštné lesy. Žijí ve skupinách.",
+      "funFact": "Kojot prérijní mají nejdelší chobot ze všech zvířat a dokážou jím zvednout až 350 kg."
+    },
+    "18": {
+      "commonName": "Muflon kanadský",
+      "scientificName": "Ovis canadensis",
+      "size": "Délka: 120-190 cm, Hmotnost: 53-158 kg",
+      "lifespan": "11-18 let ve volné přírodě",
+      "habitat": "Madagaskarské lesy. Preferují stromy a křoviny.",
+      "funFact": "Muflon kanadský mají nejdelší krk ze všech savců a jejich srdce váží až 11 kg."
+    },
+    "19": {
+      "commonName": "Jelen oslí",
+      "scientificName": "Odocoileus hemionus",
+      "size": "Délka: 120-210 cm, Hmotnost: 31-103 kg",
+      "lifespan": "8-10 let ve volné přírodě",
+      "habitat": "Australské eukalyptové lesy. Preferují koruny stromů.",
+      "funFact": "Jelen oslí mají nejsilnější kůži ze všech zvířat, tlustou až 5 cm."
+    },
+    "20": {
+      "commonName": "Rosomák sibiřský",
+      "scientificName": "Gulo gulo",
+      "size": "Délka: 65-87 cm, Hmotnost: 9-25 kg",
+      "lifespan": "5-13 let ve volné přírodě",
+      "habitat": "Australské stepi a travnaté oblasti. Žijí ve skupinách.",
+      "funFact": "Rosomák sibiřský dokážou lézt po stromech a jsou velmi obratní."
+    },
+    "21": {
+      "commonName": "Psoun prérijní",
+      "scientificName": "Cynomys ludovicianus",
+      "size": "Délka: 28-35 cm, Hmotnost: 0.5-1.7 kg",
+      "lifespan": "1-3 roky ve volné přírodě",
+      "habitat": "Australské lesy a křoviny. Preferují podzemní nory.",
+      "funFact": "Psoun prérijní dokážou žít až 15 let."
+    },
+    "22": {
+      "commonName": "Svišť lesní",
+      "scientificName": "Marmota monax",
+      "size": "Délka: 41-68 cm, Hmotnost: 2-6.3 kg",
+      "lifespan": "3-7 let ve volné přírodě",
+      "habitat": "Africké savany a lesy. Preferují oblasti s mravenci.",
+      "funFact": "Svišť lesní dokážou žít v horách až do výšky 2000 m."
+    },
+    "23": {
+      "commonName": "Rys kanadský",
+      "scientificName": "Lynx canadensis",
+      "size": "Délka: 67-107 cm, Hmotnost: 5-17 kg",
+      "lifespan": "10-17 let ve volné přírodě",
+      "habitat": "Jihoamerické deštné lesy. Preferují koruny stromů.",
+      "funFact": "Rys kanadský dokážou skočit až 50 cm vysoko."
+    },
+    "24": {
+      "commonName": "Bizon americký",
+      "scientificName": "Bison bison",
+      "size": "Délka: 210-350 cm, Hmotnost: 318-1000 kg",
+      "lifespan": "12-20 let ve volné přírodě",
+      "habitat": "Jihoamerické savany a lesy. Preferují oblasti s mravenci.",
+      "funFact": "Bizon americký dokážou žít až 25 let."
+    },
+    "25": {
+      "commonName": "Pásovec devítipásý",
+      "scientificName": "Ursus maritimus",
+      "size": "Délka: 75-100 cm, Hmotnost: 4-8 kg",
+      "lifespan": "12-20 let ve volné přírodě",
+      "habitat": "Jihoamerické hory a lesy. Preferují vlhké oblasti.",
+      "funFact": "Pásovec devítipásý dokážou žít v horách až do výšky 1500 m."
+    },
+    "26": {
+      "commonName": "Netopýr velký",
+      "scientificName": "Ursus arctos",
+      "size": "Výška: 120-200 cm, Hmotnost: 130-200 kg",
+      "lifespan": "20-30 let ve volné přírodě",
+      "habitat": "Jihoamerické Andy a stepi. Preferují vysokohorské oblasti.",
+      "funFact": "Netopýr velký dokážou žít až 12 let."
+    },
+    "27": {
+      "commonName": "Ježek západní",
+      "scientificName": "Rangifer tarandus",
+      "size": "Výška: 80-100 cm, Hmotnost: 55-85 kg",
+      "lifespan": "4-7 let ve volné přírodě",
+      "habitat": "Jihoamerické Andy a stepi. Preferují chladné oblasti.",
+      "funFact": "Ježek západní dokážou žít v horách až do výšky 1000 m."
+    },
+    "28": {
+      "commonName": "Krtek evropský",
+      "scientificName": "Oreamnos americanus",
+      "size": "Délka: 200-350 cm, Hmotnost: 400-1000 kg",
+      "lifespan": "2-3 roky ve volné přírodě",
+      "habitat": "Severoamerické prérie a stepi. Žijí ve stádech.",
+      "funFact": "Krtek evropský dokážou skočit až 30 cm vysoko."
+    },
+    "29": {
+      "commonName": "Rejsek malý",
+      "scientificName": "Antilocapra americana",
+      "size": "Výška: 120-150 cm, Hmotnost: 160-240 kg",
+      "lifespan": "1-2 roky ve volné přírodě",
+      "habitat": "Evropské a asijské lesy. Preferují smíšené lesy.",
+      "funFact": "Rejsek malý dokážou žít až 8 let."
+    }
+  }
+}

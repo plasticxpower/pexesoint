@@ -1,0 +1,56 @@
+{
+  "category": "mammals",
+  "totalPhotos": 5,
+  "photos": [
+    {
+      "fileName": "mammals1.jpg",
+      "commonName": "American Black Bear",
+      "scientificName": "Ursus americanus",
+      "size": "1.2-1.9 m (4-6 stop) dlouhý, 90-140 kg",
+      "lifespan": "20-25 let in wild",
+      "habitat": "Large forested areas napříč Severní Amerika. Obývají listnaté and smíšené lesy, močály, and mountainous regions.",
+      "funFact": "American black bears mohou sprintovat až 55 km/h (35 mph) and jsou vynikající plavci. Navzdory tomu, že jsou klasifikováni jako masožravci, they získávají 90% své stravy z rostlin, což z nich činí vysoce přizpůsobivé všežravci.",
+      "localPath": "/images/mammals/mammals1.jpg"
+    },
+    {
+      "fileName": "mammals2.jpg",
+      "commonName": "White-tailed Deer",
+      "scientificName": "Odocoileus virginianus",
+      "size": "1.5-2.1 m (5-7 stop) dlouhý, 30-136 kg",
+      "lifespan": "6-14 let in wild",
+      "habitat": "lesy, travnaté oblasti, and předměstské areas napříč the Americas. Preferují okrajové biotopy kde lesy se setkávají otevřené areas.",
+      "funFact": "White-tailed deer mohou skočit až 3 metrů high and 9 metrů in length. They mají vynikající night zrak and mohou detekovat pohyb až 600 stop daleko.",
+      "localPath": "/images/mammals/mammals2.jpg"
+    },
+    {
+      "fileName": "mammals3.jpg",
+      "commonName": "Eastern Gray Squirrel",
+      "scientificName": "Sciurus carolinensis",
+      "size": "23-30 cm (9-12 palců) plus 19-25 cm ocas",
+      "lifespan": "6 let in wild, až 20 v zajetí",
+      "habitat": "listnaté and smíšené lesy in eastern Severní Amerika. They are highly adaptable and thrive in urban parks and předměstské areas.",
+      "funFact": "Gray squirrels mohou remember the locations of thousands of buried nuts and mají been observed using deceptive tactics to protect their food caches from other squirrels.",
+      "localPath": "/images/mammals/mammals3.jpg"
+    },
+    {
+      "fileName": "mammals4.jpg",
+      "commonName": "Raccoon",
+      "scientificName": "Procyon lotor",
+      "size": "40-70 cm (16-28 palců), 5-26 kg",
+      "lifespan": "2-3 let in wild, může žít over 20 let v zajetí",
+      "habitat": "listnaté and smíšené lesy, mokřady, and městské oblasti napříč Severní Amerika. Preferují areas blízko vodní zdroje.",
+      "funFact": "Raccoons mají extremely sensitive front paws with over 100,000 nerve endings. They often 'wash' their food in water to enhance their sense of touch and better examine their meal.",
+      "localPath": "/images/mammals/mammals4.jpg"
+    },
+    {
+      "fileName": "mammals5.jpg",
+      "commonName": "Red Fox",
+      "scientificName": "Vulpes vulpes",
+      "size": "45-90 cm (18-35 palců) plus 30-56 cm ocas",
+      "lifespan": "2-5 let in wild",
+      "habitat": "Diverse environments napříč the northern hemisphere, including lesy, travnaté oblasti, hory, and městské oblasti.",
+      "funFact": "Red foxes mají vynikající sluch and mohou detekovat low-frequency sounds and rodents digging underground. They use Earth's magnetic field to hunt, což z nich činí one of the few animals with this ability.",
+      "localPath": "/images/mammals/mammals5.jpg"
+    }
+  ]
+}

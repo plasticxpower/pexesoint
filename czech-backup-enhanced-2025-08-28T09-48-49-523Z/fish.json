@@ -1,0 +1,244 @@
+{
+  "photos": {
+    "0": {
+      "commonName": "Žralok bílý",
+      "scientificName": "Micropterus salmoides",
+      "size": "Délka: 400-600 cm, Hmotnost: 1500-2500 kg",
+      "lifespan": "70-100 let ve volné přírodě",
+      "habitat": "Teplé oceánské vody po celém světě. Preferují pobřežní oblasti.",
+      "funFact": "Žralok bílý jsou známí svou silou a dokážou skočit až 3 metry vysoko."
+    },
+    "1": {
+      "commonName": "Tuňák obecný",
+      "scientificName": "Oncorhynchus mykiss",
+      "size": "Délka: 200-250 cm, Hmotnost: 200-400 kg",
+      "lifespan": "40-50 let ve volné přírodě",
+      "habitat": "Teplé oceánské vody. Migrují na dlouhé vzdálenosti.",
+      "funFact": "Tuňák obecný mají výjimečný zrak a dokážou vidět na vzdálenost až 6 km."
+    },
+    "2": {
+      "commonName": "Losos atlantský",
+      "scientificName": "Esox lucius",
+      "size": "Délka: 70-150 cm, Hmotnost: 3-30 kg",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Severní Atlantik a Pacifik. Migrují mezi sladkou a slanou vodou.",
+      "funFact": "Losos atlantský mají nejdelší chobot ze všech zvířat a dokážou jím zvednout až 350 kg."
+    },
+    "3": {
+      "commonName": "Treska obecná",
+      "scientificName": "Lepomis macrochirus",
+      "size": "Délka: 60-200 cm, Hmotnost: 5-96 kg",
+      "lifespan": "25-30 let ve volné přírodě",
+      "habitat": "Chladné severní oceány. Preferují hluboké vody.",
+      "funFact": "Treska obecná mají nejdelší krk ze všech savců a jejich srdce váží až 11 kg."
+    },
+    "4": {
+      "commonName": "Halibut obecný",
+      "scientificName": "Ictalurus punctatus",
+      "size": "Délka: 200-470 cm, Hmotnost: 130-315 kg",
+      "lifespan": "50-55 let ve volné přírodě",
+      "habitat": "Chladné severní oceány. Preferují písčité dno.",
+      "funFact": "Halibut obecný mají nejsilnější kůži ze všech zvířat, tlustou až 5 cm."
+    },
+    "5": {
+      "commonName": "Mečoun obecný",
+      "scientificName": "Salmo salar",
+      "size": "Délka: 300-450 cm, Hmotnost: 400-650 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Teplé oceánské vody. Preferují otevřené oceány.",
+      "funFact": "Mečoun obecný dokážou lézt po stromech a jsou velmi obratní."
+    },
+    "6": {
+      "commonName": "Marlín modrý",
+      "scientificName": "Sander vitreus",
+      "size": "Délka: 300-500 cm, Hmotnost: 180-820 kg",
+      "lifespan": "20-25 let ve volné přírodě",
+      "habitat": "Teplé oceánské vody. Preferují hluboké vody.",
+      "funFact": "Marlín modrý dokážou žít až 15 let."
+    },
+    "7": {
+      "commonName": "Manta obrovská",
+      "scientificName": "Morone saxatilis",
+      "size": "Šířka: 600-900 cm, Hmotnost: 1350-2000 kg",
+      "lifespan": "20-25 let ve volné přírodě",
+      "habitat": "Teplé oceánské vody. Preferují otevřené oceány.",
+      "funFact": "Manta obrovská dokážou žít v horách až do výšky 2000 m."
+    },
+    "8": {
+      "commonName": "Žralok velrybí",
+      "scientificName": "Perca flavescens",
+      "size": "Délka: 500-1200 cm, Hmotnost: 15000-34000 kg",
+      "lifespan": "70-100 let ve volné přírodě",
+      "habitat": "Teplé oceánské vody po celém světě. Preferují plankton.",
+      "funFact": "Žralok velrybí dokážou skočit až 50 cm vysoko."
+    },
+    "9": {
+      "commonName": "Úhoř říční",
+      "scientificName": "Esox masquinongy",
+      "size": "Délka: 60-150 cm, Hmotnost: 0.5-6 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Evropské a severoamerické řeky. Migrují do oceánu.",
+      "funFact": "Úhoř říční dokážou žít až 25 let."
+    },
+    "10": {
+      "commonName": "Štika obecná",
+      "scientificName": "Salvelinus fontinalis",
+      "size": "Délka: 40-150 cm, Hmotnost: 1-25 kg",
+      "lifespan": "10-30 let ve volné přírodě",
+      "habitat": "Evropské a severoamerické řeky a jezera. Preferují vegetaci.",
+      "funFact": "Štika obecná dokážou žít v horách až do výšky 1500 m."
+    },
+    "11": {
+      "commonName": "Pstruh duhový",
+      "scientificName": "Micropterus dolomieu",
+      "size": "Délka: 30-120 cm, Hmotnost: 0.5-25 kg",
+      "lifespan": "6-8 let ve volné přírodě",
+      "habitat": "Chladné řeky a jezera. Preferují čisté vody.",
+      "funFact": "Pstruh duhový dokážou žít až 12 let."
+    },
+    "12": {
+      "commonName": "Sumec velký",
+      "scientificName": "Salvelinus namaycush",
+      "size": "Délka: 100-500 cm, Hmotnost: 10-400 kg",
+      "lifespan": "60-100 let ve volné přírodě",
+      "habitat": "Evropské a severoamerické řeky. Preferují hluboké vody.",
+      "funFact": "Sumec velký dokážou žít v horách až do výšky 1000 m."
+    },
+    "13": {
+      "commonName": "Kapr obecný",
+      "scientificName": "Morone chrysops",
+      "size": "Délka: 40-120 cm, Hmotnost: 2-40 kg",
+      "lifespan": "20-40 let ve volné přírodě",
+      "habitat": "Evropské a asijské řeky a jezera. Preferují teplé vody.",
+      "funFact": "Kapr obecný dokážou skočit až 30 cm vysoko."
+    },
+    "14": {
+      "commonName": "Okoun říční",
+      "scientificName": "Esox masquinongy",
+      "size": "Délka: 25-60 cm, Hmotnost: 0.5-9 kg",
+      "lifespan": "15-22 let ve volné přírodě",
+      "habitat": "Evropské a severoamerické řeky a jezera. Preferují čisté vody.",
+      "funFact": "Okoun říční dokážou žít až 8 let."
+    },
+    "15": {
+      "commonName": "Candát obecný",
+      "scientificName": "Oncorhynchus kisutch",
+      "size": "Délka: 40-130 cm, Hmotnost: 1-15 kg",
+      "lifespan": "10-14 let ve volné přírodě",
+      "habitat": "Evropské řeky a jezera. Preferují hluboké vody.",
+      "funFact": "Candát obecný jsou známí svou silou a dokážou skočit až 3 metry vysoko."
+    },
+    "16": {
+      "commonName": "Plotice obecná",
+      "scientificName": "Pomoxis nigromaculatus",
+      "size": "Délka: 15-45 cm, Hmotnost: 0.1-2 kg",
+      "lifespan": "8-15 let ve volné přírodě",
+      "habitat": "Evropské řeky a jezera. Preferují mělké vody.",
+      "funFact": "Plotice obecná mají výjimečný zrak a dokážou vidět na vzdálenost až 6 km."
+    },
+    "17": {
+      "commonName": "Cejn velký",
+      "scientificName": "Lepomis gibbosus",
+      "size": "Délka: 30-80 cm, Hmotnost: 1-6 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Evropské řeky a jezera. Preferují teplé vody.",
+      "funFact": "Cejn velký mají nejdelší chobot ze všech zvířat a dokážou jím zvednout až 350 kg."
+    },
+    "18": {
+      "commonName": "Lín obecný",
+      "scientificName": "Oncorhynchus tshawytscha",
+      "size": "Délka: 20-70 cm, Hmotnost: 0.5-7 kg",
+      "lifespan": "10-14 let ve volné přírodě",
+      "habitat": "Evropské rybníky a jezera. Preferují bahnitý substrát.",
+      "funFact": "Lín obecný mají nejdelší krk ze všech savců a jejich srdce váží až 11 kg."
+    },
+    "19": {
+      "commonName": "Amur bílý",
+      "scientificName": "Oncorhynchus mykiss",
+      "size": "Délka: 60-120 cm, Hmotnost: 16-40 kg",
+      "lifespan": "9-20 let ve volné přírodě",
+      "habitat": "Asijské řeky a jezera. Preferují vegetaci.",
+      "funFact": "Amur bílý mají nejsilnější kůži ze všech zvířat, tlustou až 5 cm."
+    },
+    "20": {
+      "commonName": "Pstruh obecný",
+      "scientificName": "Pylodictis olivaris",
+      "size": "Délka: 25-86 cm, Hmotnost: 0.4-15 kg",
+      "lifespan": "6-8 let ve volné přírodě",
+      "habitat": "Evropské a severoamerické horské potoky. Preferují chladné vody.",
+      "funFact": "Pstruh obecný dokážou lézt po stromech a jsou velmi obratní."
+    },
+    "21": {
+      "commonName": "Lipan podhorní",
+      "scientificName": "Sander canadensis",
+      "size": "Délka: 30-60 cm, Hmotnost: 0.5-5 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Evropské horské řeky. Preferují rychle tekoucí vody.",
+      "funFact": "Lipan podhorní dokážou žít až 15 let."
+    },
+    "22": {
+      "commonName": "Ostroretka stěhovavá",
+      "scientificName": "Lota lota",
+      "size": "Délka: 40-120 cm, Hmotnost: 1-15 kg",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Evropské řeky. Migrují za rozmnožováním.",
+      "funFact": "Ostroretka stěhovavá dokážou žít v horách až do výšky 2000 m."
+    },
+    "23": {
+      "commonName": "Hlavatka obecná",
+      "scientificName": "Lepisosteus osseus",
+      "size": "Délka: 8-22 cm, Hmotnost: 0.01-0.2 kg",
+      "lifespan": "3-5 let ve volné přírodě",
+      "habitat": "Evropské potoky a řeky. Preferují kamenité dno.",
+      "funFact": "Hlavatka obecná dokážou skočit až 50 cm vysoko."
+    },
+    "24": {
+      "commonName": "Jelec tloušť",
+      "scientificName": "Polyodon spathula",
+      "size": "Délka: 12-20 cm, Hmotnost: 0.02-0.1 kg",
+      "lifespan": "6-8 let ve volné přírodě",
+      "habitat": "Evropské řeky. Preferují rychle tekoucí vody.",
+      "funFact": "Jelec tloušť dokážou žít až 25 let."
+    },
+    "25": {
+      "commonName": "Parma obecná",
+      "scientificName": "Amia calva",
+      "size": "Délka: 30-70 cm, Hmotnost: 0.5-4 kg",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Evropské řeky a potoky. Preferují čisté vody.",
+      "funFact": "Parma obecná dokážou žít v horách až do výšky 1500 m."
+    },
+    "26": {
+      "commonName": "Bolení dravé",
+      "scientificName": "Aplodinotus grunniens",
+      "size": "Délka: 15-50 cm, Hmotnost: 0.1-2 kg",
+      "lifespan": "8-12 let ve volné přírodě",
+      "habitat": "Evropské řeky. Preferují rychle tekoucí vody.",
+      "funFact": "Bolení dravé dokážou žít až 12 let."
+    },
+    "27": {
+      "commonName": "Proudník jednovousý",
+      "scientificName": "Moxostoma macrolepidotum",
+      "size": "Délka: 8-15 cm, Hmotnost: 0.01-0.05 kg",
+      "lifespan": "3-5 let ve volné přírodě",
+      "habitat": "Evropské potoky. Preferují kamenité dno.",
+      "funFact": "Proudník jednovousý dokážou žít v horách až do výšky 1000 m."
+    },
+    "28": {
+      "commonName": "Mřenka mramorovaná",
+      "scientificName": "Hiodon tergisus",
+      "size": "Délka: 15-25 cm, Hmotnost: 0.05-0.2 kg",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Evropské řeky a potoky. Preferují čisté vody.",
+      "funFact": "Mřenka mramorovaná dokážou skočit až 30 cm vysoko."
+    },
+    "29": {
+      "commonName": "Perlín ostrobřichý",
+      "scientificName": "Catostomus commersonii",
+      "size": "Délka: 8-12 cm, Hmotnost: 0.01-0.03 kg",
+      "lifespan": "3-4 roky ve volné přírodě",
+      "habitat": "Evropské řeky. Preferují rychle tekoucí vody.",
+      "funFact": "Perlín ostrobřichý dokážou žít až 8 let."
+    }
+  }
+}

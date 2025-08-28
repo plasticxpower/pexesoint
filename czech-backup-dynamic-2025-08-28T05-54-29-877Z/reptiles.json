@@ -1,0 +1,306 @@
+{
+  "category": "Plazi",
+  "totalPhotos": 30,
+  "photos": [
+    {
+      "fileName": "reptiles1.jpg",
+      "commonName": "Aligátor americký",
+      "scientificName": "Terrapene carolina",
+      "size": "2,6-4,3 m délka, 91-230 kg",
+      "lifespan": "35-50 let ve volné přírodě",
+      "habitat": "Sladkovodní bažiny, močály a řeky jihovýchodní Severní Ameriky. Preferují pomalé nebo stojaté vody.",
+      "funFact": "Aligátoři američtí dokážou zůstat pod vodou až 24 hodin a mají nejsilnější skus ze všech zvířat - až 1360 kg síly na čtvereční centimetr.",
+      "localPath": "/images/reptiles/reptiles1.jpg"
+    },
+    {
+      "fileName": "reptiles2.jpg",
+      "commonName": "Želva zelená",
+      "scientificName": "Thamnophis sirtalis",
+      "size": "80-150 cm délka krunýře, 68-190 kg",
+      "lifespan": "60-70 let",
+      "habitat": "Tropické a subtropické oceány po celém světě. Hnízdi na písečných plážích.",
+      "funFact": "Želvy zelené dokážou zadržet dech až 5 hodin pod vodou a navigovat pomocí magnetického pole Země. Samice se vrací hnízdit na pláž, kde se narodily.",
+      "localPath": "/images/reptiles/reptiles2.jpg"
+    },
+    {
+      "fileName": "reptiles3.jpg",
+      "commonName": "Anakonda velká",
+      "scientificName": "Plestiodon fasciatus",
+      "size": "4-8,8 m délka, 30-250 kg",
+      "lifespan": "10-30 let",
+      "habitat": "Tropické deštné lesy a mokřady Jižní Ameriky. Tráví většinu času ve vodě nebo blízko ní.",
+      "funFact": "Anakondy velké jsou nejtěžší hadi na světě a dokážou spolknout kořist až 4krát větší než je jejich hlava. Dokážou zůstat pod vodou až 10 minut.",
+      "localPath": "/images/reptiles/reptiles3.jpg"
+    },
+    {
+      "fileName": "reptiles4.jpg",
+      "commonName": "Komodský varan",
+      "scientificName": "Chrysemys picta",
+      "size": "2-3 m délka, 70-90 kg",
+      "lifespan": "30-50 let",
+      "habitat": "Ostrovy Komodo, Rinca, Flores a Gili Motang v Indonésii. Preferují savany a suché lesy.",
+      "funFact": "Komodští varani jsou největší ještěři na světě a dokážou běžet rychlostí až 20 km/h. Jejich sliny obsahují více než 50 druhů bakterií, které pomáhají zabíjet kořist.",
+      "localPath": "/images/reptiles/reptiles4.jpg"
+    },
+    {
+      "fileName": "reptiles5.jpg",
+      "commonName": "Galapážská želva",
+      "scientificName": "Anolis carolinensis",
+      "size": "100-150 cm délka krunýře, 180-400 kg",
+      "lifespan": "100-150 let",
+      "habitat": "Galapážské ostrovy u pobřeží Ekvádoru. Různé druhy obývají různé ostrovy.",
+      "funFact": "Galapážské želvy jsou největší suchozemské želvy na světě a dokážou přežít rok bez jídla a vody. Inspirovaly Darwinovu teorii evoluce.",
+      "localPath": "/images/reptiles/reptiles5.jpg"
+    },
+    {
+      "fileName": "reptiles6.jpg",
+      "commonName": "Chřestýš diamantový",
+      "scientificName": "Trachemys scripta elegans",
+      "size": "0,9-2,4 m délka, 1,5-6,8 kg",
+      "lifespan": "15-25 let",
+      "habitat": "Pouště a suché oblasti jihozápadní Severní Ameriky. Preferují skalnaté oblasti s dostatkem úkrytů.",
+      "funFact": "Chřestýši diamantoví dokážou detekovat teplo kořisti pomocí speciálních orgánů a jejich chřestítko může vibrovat až 60krát za sekundu.",
+      "localPath": "/images/reptiles/reptiles6.jpg"
+    },
+    {
+      "fileName": "reptiles7.jpg",
+      "commonName": "Leguán zelený",
+      "scientificName": "Alligator mississippiensis",
+      "size": "1,2-2 m délka, 4-17 kg",
+      "lifespan": "12-20 let",
+      "habitat": "Tropické deštné lesy Střední a Jižní Ameriky. Tráví většinu času na stromech.",
+      "funFact": "Leguáni zelení mají třetí oko na vrcholu hlavy, které detekuje stíny predátorů. Dokážou plavat a skákat z výšky až 15 metrů.",
+      "localPath": "/images/reptiles/reptiles7.jpg"
+    },
+    {
+      "fileName": "reptiles8.jpg",
+      "commonName": "Chameleon jemenský",
+      "scientificName": "Pantherophis guttatus",
+      "size": "35-61 cm délka, 85-170 g",
+      "lifespan": "5-8 let",
+      "habitat": "Horské oblasti Jemenu a Saúdské Arábie. Preferují oblasti s dostatkem vegetace.",
+      "funFact": "Chameleoni jemenští dokážou otáčet očima nezávisle na sobě a jejich jazyk může být dlouhý až 1,5násobek délky těla. Mění barvu podle nálady a teploty.",
+      "localPath": "/images/reptiles/reptiles8.jpg"
+    },
+    {
+      "fileName": "reptiles9.jpg",
+      "commonName": "Gekon tokaj",
+      "scientificName": "Chelydra serpentina",
+      "size": "24-40 cm délka, 150-400 g",
+      "lifespan": "7-10 let",
+      "habitat": "Tropické lesy jihovýchodní Asie. Aktivní v noci, skrývá se ve štěrbinách během dne.",
+      "funFact": "Gekoni tokaj dokážou běhat po stropě díky milionům drobných chloupků na tlapkách. Jejich volání 'to-kay' je slyšet až na 100 metrů.",
+      "localPath": "/images/reptiles/reptiles9.jpg"
+    },
+    {
+      "fileName": "reptiles10.jpg",
+      "commonName": "Korytnačka červenouchá",
+      "scientificName": "Pogona vitticeps",
+      "size": "15-30 cm délka krunýře, 0,5-3 kg",
+      "lifespan": "20-40 let",
+      "habitat": "Sladkovodní jezera, rybníky a pomalé řeky jihovýchodní Severní Ameriky. Preferují vody s vegetací.",
+      "funFact": "Korytnačky červenouché dokážou zadržet dech až 5 hodin pod vodou a hibernovat na dně rybníků. Jsou jedny z nejpopulárnějších domácích plazů.",
+      "localPath": "/images/reptiles/reptiles10.jpg"
+    },
+    {
+      "fileName": "reptiles11.jpg",
+      "commonName": "Krajta královská",
+      "scientificName": "Iguana iguana",
+      "size": "0,9-1,5 m délka, 0,7-2 kg",
+      "lifespan": "20-30 let",
+      "habitat": "Suché oblasti západní a střední Afriky. Preferují skalnaté oblasti a savany.",
+      "funFact": "Krajty královské se při ohrožení stočí do koule s hlavou ukrytou uvnitř, odtud jejich anglické jméno 'ball python'. Dokážou přežít měsíce bez jídla.",
+      "localPath": "/images/reptiles/reptiles11.jpg"
+    },
+    {
+      "fileName": "reptiles12.jpg",
+      "commonName": "Boa dusivá",
+      "scientificName": "Hemidactylus turcicus",
+      "size": "1,8-4 m délka, 10-45 kg",
+      "lifespan": "20-30 let",
+      "habitat": "Tropické deštné lesy Střední a Jižní Ameriky. Tráví čas jak na stromech, tak na zemi.",
+      "funFact": "Boa dusivé rodí živá mláďata místo kladení vajec a dokážou detekovat teplo kořisti pomocí speciálních receptorů. Dokážou spolknout kořist až 6krát větší než je jejich hlava.",
+      "localPath": "/images/reptiles/reptiles12.jpg"
+    },
+    {
+      "fileName": "reptiles13.jpg",
+      "commonName": "Monitor nilský",
+      "scientificName": "Chamaeleo calyptratus",
+      "size": "1,2-2,1 m délka, 5-20 kg",
+      "lifespan": "10-20 let",
+      "habitat": "Řeky, jezera a mokřady subsaharské Afriky. Výborní plavci a šplhači.",
+      "funFact": "Monitory nilské dokážou zůstat pod vodou až 1 hodinu a mají bifurkovaný jazyk pro lepší čich. Jsou jedni z nejinteligentnějších plazů.",
+      "localPath": "/images/reptiles/reptiles13.jpg"
+    },
+    {
+      "fileName": "reptiles14.jpg",
+      "commonName": "Želva zelenavá",
+      "scientificName": "Python regius",
+      "size": "60-120 cm délka krunýře, 30-75 kg",
+      "lifespan": "50-80 let",
+      "habitat": "Tropické a subtropické oceány po celém světě. Preferují pobřežní vody s korály.",
+      "funFact": "Želvy zelenavé dokážou plavat rychlostí až 35 km/h a jejich krunýř má hydrodynamický tvar. Samice kladou vejce každé 2-3 roky.",
+      "localPath": "/images/reptiles/reptiles14.jpg"
+    },
+    {
+      "fileName": "reptiles15.jpg",
+      "commonName": "Skink modrý",
+      "scientificName": "Varanus salvator",
+      "size": "45-60 cm délka, 0,3-0,6 kg",
+      "lifespan": "15-20 let",
+      "habitat": "Lesy a křovinaté oblasti východní Austrálie. Preferují oblasti s dostatkem úkrytů.",
+      "funFact": "Skinky modré mají modrý jazyk, který používají k odstrašení predátorů. Dokážou shodit ocas, který pak znovu naroste.",
+      "localPath": "/images/reptiles/reptiles15.jpg"
+    },
+    {
+      "fileName": "reptiles16.jpg",
+      "commonName": "Agama vousatá",
+      "scientificName": "Crotalus atrox",
+      "size": "40-60 cm délka, 0,3-0,5 kg",
+      "lifespan": "10-15 let",
+      "habitat": "Pouště a suché oblasti Austrálie. Preferují skalnaté oblasti s dostatkem slunce.",
+      "funFact": "Agamy vousaté dokážou změnit barvu podle teploty a nálady. Jejich 'vousy' jsou ve skutečnosti ostnaté šupiny, které vztyčují při ohrožení.",
+      "localPath": "/images/reptiles/reptiles16.jpg"
+    },
+    {
+      "fileName": "reptiles17.jpg",
+      "commonName": "Anolis zelený",
+      "scientificName": "Chelonia mydas",
+      "size": "12-20 cm délka, 3-7 g",
+      "lifespan": "4-8 let",
+      "habitat": "Subtropické lesy jihovýchodní Severní Ameriky. Tráví většinu času na stromech a keřích.",
+      "funFact": "Anolisové zelení dokážou změnit barvu z jasně zelené na tmavě hnědou během sekund. Samci mají barevný lalok pod krkem pro komunikaci.",
+      "localPath": "/images/reptiles/reptiles17.jpg"
+    },
+    {
+      "fileName": "reptiles18.jpg",
+      "commonName": "Želva pouštní",
+      "scientificName": "Lampropeltis getula",
+      "size": "25-37 cm délka krunýře, 4-7 kg",
+      "lifespan": "50-80 let",
+      "habitat": "Pouště jihozápadní Severní Ameriky. Preferují oblasti s měkkým pískem pro kopání nor.",
+      "funFact": "Želvy pouštní dokážou přežít rok bez vody a ukládat až 40% své tělesné hmotnosti v močovém měchýři. Hibernují v norách až 9 měsíců.",
+      "localPath": "/images/reptiles/reptiles18.jpg"
+    },
+    {
+      "fileName": "reptiles19.jpg",
+      "commonName": "Had mléčný",
+      "scientificName": "Gopherus polyphemus",
+      "size": "51-152 cm délka, 0,1-1,4 kg",
+      "lifespan": "12-21 let",
+      "habitat": "Rozmanité biotopy Severní Ameriky od lesů po prérie. Preferují oblasti s dostatkem úkrytů.",
+      "funFact": "Hadi mléční napodobují zbarvení jedovatých korálových hadů pro ochranu. Jsou nejedovatí a živí se hlodavci a jinými hady.",
+      "localPath": "/images/reptiles/reptiles19.jpg"
+    },
+    {
+      "fileName": "reptiles20.jpg",
+      "commonName": "Ještěrka obecná",
+      "scientificName": "Agkistrodon contortrix",
+      "size": "15-25 cm délka, 5-15 g",
+      "lifespan": "5-8 let",
+      "habitat": "Rozmanité biotopy Evropy od lesů po zahrady. Preferují slunná místa s dostatkem úkrytů.",
+      "funFact": "Ještěrky obecné dokážou shodit ocas při ohrožení a ten pak několik minut pokračuje v pohybu. Dokážou regenerovat ztracený ocas během několika měsíců.",
+      "localPath": "/images/reptiles/reptiles20.jpg"
+    },
+    {
+      "fileName": "reptiles21.jpg",
+      "commonName": "Milk Snake",
+      "scientificName": "Lampropeltis triangulum",
+      "size": "50-150 cm (20-60 inches)",
+      "lifespan": "12-20 years in wild",
+      "habitat": "Diverse habitats including forests, fields, and rocky areas across North America.",
+      "funFact": "Milk snakes are harmless constrictors that mimic the coloration of venomous coral snakes. They are excellent rodent controllers and are often found in barns.",
+      "localPath": "/images/reptiles/reptiles21.jpg"
+    },
+    {
+      "fileName": "reptiles22.jpg",
+      "commonName": "Fence Lizard",
+      "scientificName": "Sceloporus undulatus",
+      "size": "10-18 cm (4-7 inches)",
+      "lifespan": "4-7 years in wild",
+      "habitat": "Rocky areas, fences, and open woodlands across North America.",
+      "funFact": "Fence lizards are excellent climbers and can run on their hind legs when escaping predators. Males have bright blue patches on their throat and belly during breeding season.",
+      "localPath": "/images/reptiles/reptiles22.jpg"
+    },
+    {
+      "fileName": "reptiles23.jpg",
+      "commonName": "Diamondback Terrapin",
+      "scientificName": "Malaclemys terrapin",
+      "size": "10-23 cm (4-9 inches) shell length",
+      "lifespan": "25-40 years in wild",
+      "habitat": "Salt marshes and brackish waters along the Atlantic and Gulf coasts.",
+      "funFact": "Diamondback terrapins are the only turtle species that lives exclusively in brackish water. They can drink both fresh and salt water through specialized glands.",
+      "localPath": "/images/reptiles/reptiles23.jpg"
+    },
+    {
+      "fileName": "reptiles24.jpg",
+      "commonName": "Hognose Snake",
+      "scientificName": "Heterodon platirhinos",
+      "size": "35-60 cm (14-24 inches)",
+      "lifespan": "15-18 years in wild",
+      "habitat": "Sandy soils in forests, fields, and coastal areas across eastern North America.",
+      "funFact": "Hognose snakes are master actors that play dead when threatened, complete with rolling over and letting their tongue hang out. They have upturned snouts for digging.",
+      "localPath": "/images/reptiles/reptiles24.jpg"
+    },
+    {
+      "fileName": "reptiles25.jpg",
+      "commonName": "Glass Lizard",
+      "scientificName": "Ophisaurus ventralis",
+      "size": "45-60 cm (18-24 inches)",
+      "lifespan": "10-30 years in wild",
+      "habitat": "Grasslands, open woodlands, and scrub areas in southeastern United States.",
+      "funFact": "Glass lizards are legless lizards often mistaken for snakes. They can detach their tail when threatened, and the tail continues to move to distract predators.",
+      "localPath": "/images/reptiles/reptiles25.jpg"
+    },
+    {
+      "fileName": "reptiles26.jpg",
+      "commonName": "Wood Turtle",
+      "scientificName": "Glyptemys insculpta",
+      "size": "14-20 cm (5.5-8 inches) shell length",
+      "lifespan": "40-58 years in wild",
+      "habitat": "Streams, rivers, and adjacent forests in northeastern North America.",
+      "funFact": "Wood turtles are highly intelligent and can be trained to navigate mazes. They have distinctive sculptured shells and are excellent both on land and in water.",
+      "localPath": "/images/reptiles/reptiles26.jpg"
+    },
+    {
+      "fileName": "reptiles27.jpg",
+      "commonName": "Coachwhip Snake",
+      "scientificName": "Masticophis flagellum",
+      "size": "90-180 cm (36-72 inches)",
+      "lifespan": "13-20 years in wild",
+      "habitat": "Open areas including deserts, grasslands, and scrublands across southern United States.",
+      "funFact": "Coachwhip snakes are among the fastest snakes in North America, capable of speeds up to 4 mph. They are excellent climbers and often hunt in trees and bushes.",
+      "localPath": "/images/reptiles/reptiles27.jpg"
+    },
+    {
+      "fileName": "reptiles28.jpg",
+      "commonName": "Spotted Turtle",
+      "scientificName": "Clemmys guttata",
+      "size": "8-12 cm (3-5 inches) shell length",
+      "lifespan": "25-50 years in wild",
+      "habitat": "Shallow wetlands, bogs, and slow streams in eastern North America.",
+      "funFact": "Spotted turtles are semi-aquatic and hibernate in mud at the bottom of ponds. Each turtle has a unique pattern of yellow spots that can be used for individual identification.",
+      "localPath": "/images/reptiles/reptiles28.jpg"
+    },
+    {
+      "fileName": "reptiles29.jpg",
+      "commonName": "Ring-necked Snake",
+      "scientificName": "Diadophis punctatus",
+      "size": "25-38 cm (10-15 inches)",
+      "lifespan": "6-10 years in wild",
+      "habitat": "Forests, woodlands, and rocky areas with abundant cover across North America.",
+      "funFact": "Ring-necked snakes are secretive and rarely seen during the day. When threatened, they curl their tail in a corkscrew shape and display their bright orange or red belly.",
+      "localPath": "/images/reptiles/reptiles29.jpg"
+    },
+    {
+      "fileName": "reptiles30.jpg",
+      "commonName": "Musk Turtle",
+      "scientificName": "Sternotherus odoratus",
+      "size": "7-12 cm (3-5 inches) shell length",
+      "lifespan": "30-50 years in wild",
+      "habitat": "Shallow, slow-moving waters with muddy bottoms across eastern North America.",
+      "funFact": "Musk turtles are also called 'stinkpots' because they release a musky odor when threatened. They are excellent climbers and can often be found basking on low branches over water.",
+      "localPath": "/images/reptiles/reptiles30.jpg"
+    }
+  ]
+}

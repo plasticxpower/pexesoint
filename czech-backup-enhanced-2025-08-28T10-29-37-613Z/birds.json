@@ -1,0 +1,244 @@
+{
+  "photos": {
+    "0": {
+      "commonName": "Orel skalní",
+      "scientificName": "Turdus migratorius",
+      "size": "Rozpětí: 185-230 cm, Hmotnost: 3-6 kg",
+      "lifespan": "20-30 let ve volné přírodě",
+      "habitat": "Woodlands, parky, gardens, and lawns napříč Severní Amerika. they preferují oblasti with trees for nesting and open ground for foraging.",
+      "funFact": "American robins are among the first birds to sing at dawn and the last to sing at dusk. They can see ultraviolet light, which helps them spot ripe berries and insects."
+    },
+    "1": {
+      "commonName": "Kondor kalifornský",
+      "scientificName": "Corvus brachyrhynchos",
+      "size": "Rozpětí: 270-310 cm, Hmotnost: 7-14 kg",
+      "lifespan": "50-60 let ve volné přírodě",
+      "habitat": "Open woodlands, fields, parky, and městské oblasti napříč Severní Amerika. they are highly adaptable to human environments.",
+      "funFact": "Crows are among the most intelligent birds, capable of using tools, solving complex puzzles, and recognizing human faces. They can hold grudges and pass this information to their offspring."
+    },
+    "2": {
+      "commonName": "Pelikán hnědý",
+      "scientificName": "Poecile atricapillus",
+      "size": "Rozpětí: 200-230 cm, Hmotnost: 2-5 kg",
+      "lifespan": "25-30 let ve volné přírodě",
+      "habitat": "Smíšené and listnaté lesy, parky, and wooded subměstské oblasti napříč northern Severní Amerika.",
+      "funFact": "Chickadees can pamatovat si tisíce of hiding places where they store food. Their brain actually grows larger in fall to accommodate increased memory needs for winter survival."
+    },
+    "3": {
+      "commonName": "Volavka modrá",
+      "scientificName": "Sialia sialis",
+      "size": "Rozpětí: 165-195 cm, Hmotnost: 2-3 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Open woodlands, farmlands, and parky with scattered trees napříč eastern Severní Amerika.",
+      "funFact": "Eastern bluebirds are cavity nesters and have benefited greatly from nest box programs. Males are more brightly colored than females and perform elaborate courtship displays."
+    },
+    "4": {
+      "commonName": "Ibis bílý",
+      "scientificName": "Spinus tristis",
+      "size": "Rozpětí: 90-105 cm, Hmotnost: 1-2 kg",
+      "lifespan": "20-25 let ve volné přírodě",
+      "habitat": "Open country, roadsides, orchards, and subměstské oblasti napříč Severní Amerika. they preferují oblasti with thistle and other seed-producing plants.",
+      "funFact": "American goldfinches are strict vegetarians and one of the latest nesting birds, waiting until late summer when seeds are abundant. Males molt twice a year, changing from bright yellow to olive-brown."
+    },
+    "5": {
+      "commonName": "Rybák belohlavý",
+      "scientificName": "Cardinalis cardinalis",
+      "size": "Rozpětí: 180-240 cm, Hmotnost: 3-6 kg",
+      "lifespan": "25-30 let ve volné přírodě",
+      "habitat": "Woodlands, gardens, shrublands, and mokřady napříč eastern and central Severní Amerika. they preferují oblasti with dense shrubs and trees.",
+      "funFact": "Male cardinals are bright red year-round, while females are brown with red tinges. They mate for life and the male feeds the female during courtship and nesting."
+    },
+    "6": {
+      "commonName": "Jeřáb kanadský",
+      "scientificName": "Cyanocitta cristata",
+      "size": "Rozpětí: 200-230 cm, Hmotnost: 4-7 kg",
+      "lifespan": "20-25 let ve volné přírodě",
+      "habitat": "Oak and pine lesy, parky, and subměstské oblasti napříč eastern Severní Amerika. they preferují oblasti with oak trees for acorns.",
+      "funFact": "Blue jays are highly intelligent and can mimic the calls of hawks to scare jiné birds daleko from food sources. They play a crucial role in forest regeneration by burying acorns."
+    },
+    "7": {
+      "commonName": "Labuť zpěvná",
+      "scientificName": "Passer domesticus",
+      "size": "Rozpětí: 200-240 cm, Hmotnost: 7-14 kg",
+      "lifespan": "20-30 let ve volné přírodě",
+      "habitat": "Urban and subměstské oblasti worldwide, closely associated with human habitation. they preferují oblasti with buildings for nesting and open ground for feeding.",
+      "funFact": "House sparrows are one of the most widespread birds in the world and have adapted to live alongside humans for tisíce of let. They take dust baths to maintain their feathers."
+    },
+    "8": {
+      "commonName": "Kachna divoká",
+      "scientificName": "Agelaius phoeniceus",
+      "size": "Rozpětí: 80-95 cm, Hmotnost: 1-2 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Mokřady, marshes, and fields napříč Severní Amerika. they preferují oblasti blízko vody with tall grasses and cattails for nesting.",
+      "funFact": "Male red-winged blackbirds are highly territorial and will aggressively defend their nesting areas. They can have multiple mates and help raise several broods each season."
+    },
+    "9": {
+      "commonName": "Potápka malá",
+      "scientificName": "Haliaeetus leucocephalus",
+      "size": "Rozpětí: 55-65 cm, Hmotnost: 0.3-0.6 kg",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Near large bodies of water napříč Severní Amerika, including lakes, rivers, and coastal oblasti. they preferují oblasti with tall trees for nesting.",
+      "funFact": "Bald eagles can dive at speeds až 100 mph when loviting fish. They don't develop their distinctive white head feathers until they're 4-5 let old."
+    },
+    "10": {
+      "commonName": "Sup krkavcovitý",
+      "scientificName": "Ardea herodias",
+      "size": "Rozpětí: 160-180 cm, Hmotnost: 1-2 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Mokřady, marshes, lakes, and rivers napříč Severní Amerika. they preferují shallow water oblasti for hunting fish and amphibians.",
+      "funFact": "Great blue herons can stand motionless for hours waiting for prey. Their neck has a special kink that allows them to strike like a spear with lightning speed."
+    },
+    "11": {
+      "commonName": "Jestřáb ostrokřídlý",
+      "scientificName": "Buteo jamaicensis",
+      "size": "Rozpětí: 95-120 cm, Hmotnost: 0.7-1.5 kg",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Diverse habitats including lesy, deserts, fields, and městské oblasti napříč Severní Amerika. they preferují oblasti with open hunting grounds and tall perches.",
+      "funFact": "Red-tailed hawks have vynikající eyesight that is 8 times sharper than humans. They can spot a mouse from 100 stop daleko while soaring."
+    },
+    "12": {
+      "commonName": "Sokol stěhovavý",
+      "scientificName": "Anas platyrhynchos",
+      "size": "Rozpětí: 95-115 cm, Hmotnost: 0.6-1.5 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Mokřady, ponds, lakes, and rivers napříč Severní Amerika and europe. they preferují shallow water oblasti with abundant vegetation.",
+      "funFact": "Mallards are the ancestors of most domestic ducks. They can sleep with one eye open to watch for predators while the jiné half of their brain rests."
+    },
+    "13": {
+      "commonName": "Puštík virginský",
+      "scientificName": "Bubo virginianus",
+      "size": "Rozpětí: 95-115 cm, Hmotnost: 0.4-0.8 kg",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Diverse habitats including lesy, bažiny, deserts, and městské oblasti napříč the americas. they preferují oblasti with large trees for roosting.",
+      "funFact": "Great horned owls have asymmetrical ear openings that help them pinpoint prey in complete darkness. They can rotate their heads 270 degrees."
+    },
+    "14": {
+      "commonName": "Sýček králičí",
+      "scientificName": "Archilochus colubris",
+      "size": "Rozpětí: 50-60 cm, Hmotnost: 0.1-0.2 kg",
+      "lifespan": "7-10 let ve volné přírodě",
+      "habitat": "Gardens, parky, and les edges napříč eastern Severní Amerika. they preferují oblasti with flowering plants and feeders.",
+      "funFact": "Ruby-throated hummingbirds beat their wings 53 times per second and can fly backwards, upside down, and hover in place. They migrate 500 miles non-stop across the Gulf of Mexico."
+    },
+    "15": {
+      "commonName": "Kolibřík rubínohrdlý",
+      "scientificName": "Zenaida macroura",
+      "size": "Rozpětí: 8-11 cm, Hmotnost: 2-6 g",
+      "lifespan": "3-5 let ve volné přírodě",
+      "habitat": "Open woodlands, fields, parky, and subměstské oblasti napříč Severní Amerika. they preferují oblasti with scattered trees and open ground.",
+      "funFact": "Mourning doves produce 'crop milk' to feed their young, similar to mammals. They can drink water by suction, unlike most birds that must tilt their heads back."
+    },
+    "16": {
+      "commonName": "Datel pileated",
+      "scientificName": "Picoides pubescens",
+      "size": "Rozpětí: 65-75 cm, Hmotnost: 0.2-0.5 kg",
+      "lifespan": "8-12 let ve volné přírodě",
+      "habitat": "Listnaté and smíšené lesy, parky, and subměstské oblasti napříč Severní Amerika. they preferují oblasti with dead or dying trees.",
+      "funFact": "Woodpeckers have special shock-absorbing tissue between their bill and skull to prevent brain damage from constant pecking. They can peck 20 times per second."
+    },
+    "17": {
+      "commonName": "Vlaštovka obecná",
+      "scientificName": "Branta canadensis",
+      "size": "Rozpětí: 30-35 cm, Hmotnost: 15-25 g",
+      "lifespan": "4-8 let ve volné přírodě",
+      "habitat": "Lakes, ponds, rivers, and parky napříč Severní Amerika. they preferují oblasti with open water and nearby travnaté oblasti for feeding.",
+      "funFact": "Canada geese mate for life and can live over 20 let. They fly in V-formation to conserve energy, with each bird flying slightly above the bird in front."
+    },
+    "18": {
+      "commonName": "Drozd stěhovavý",
+      "scientificName": "Tyto alba",
+      "size": "Rozpětí: 20-25 cm, Hmotnost: 75-85 g",
+      "lifespan": "8-12 let ve volné přírodě",
+      "habitat": "Open habitats including farmland, travnaté oblasti, and les edges worldwide. they preferují oblasti with old buildings or tree cavities for nesting.",
+      "funFact": "Barn owls have heart-shaped facial discs that funnel sound to their ears. They can lovit in complete darkness using only their sluch."
+    },
+    "19": {
+      "commonName": "Kardinál červený",
+      "scientificName": "Pandion haliaetus",
+      "size": "Rozpětí: 25-30 cm, Hmotnost: 35-65 g",
+      "lifespan": "8-10 let ve volné přírodě",
+      "habitat": "Blízko vody bodies including lakes, rivers, and coastal oblasti worldwide. they preferují oblasti with fish populations and tall structures for nesting.",
+      "funFact": "Ospreys are fish specialists with reversible outer toes and spiny pads on their stop for gripping slippery fish. They can dive stop-first into water from 130 stop high."
+    },
+    "20": {
+      "commonName": "Sojka modrá",
+      "scientificName": "Falco peregrinus",
+      "size": "Rozpětí: 35-40 cm, Hmotnost: 75-100 g",
+      "lifespan": "7-10 let ve volné přírodě",
+      "habitat": "Cliffs, tall buildings, and bridges in urban and wild oblasti worldwide. they preferují high perches with good visibility for hunting.",
+      "funFact": "Peregrine falcons are the fastest animals on Earth, reaching speeds over 240 mph during loviting dives. They have special baffles in their nostrils to breathe at high speeds."
+    },
+    "21": {
+      "commonName": "Krocan divoký",
+      "scientificName": "Meleagris gallopavo",
+      "size": "Rozpětí: 125-145 cm, Hmotnost: 5-11 kg",
+      "lifespan": "3-5 let ve volné přírodě",
+      "habitat": "Lesy and woodland edges napříč Severní Amerika. they preferují oblasti with oak and hickory trees for food and roosting.",
+      "funFact": "Wild turkeys can fly at speeds až 55 mph and run až 25 mph. Males can change the color of their head and neck from red to blue to white."
+    },
+    "22": {
+      "commonName": "Ledňáček říční",
+      "scientificName": "Megaceryle alcyon",
+      "size": "Rozpětí: 25-30 cm, Hmotnost: 40-60 g",
+      "lifespan": "6-10 let ve volné přírodě",
+      "habitat": "Blízko vody bodies including streams, rivers, ponds, and lakes napříč Severní Amerika. they preferují oblasti with clear water for fishing.",
+      "funFact": "Belted kingfishers excavate tunnels až 8 stop long in riverbanks for nesting. Females are more colorful than males, which is unusual among birds."
+    },
+    "23": {
+      "commonName": "Jeřáb písečný",
+      "scientificName": "Antigone canadensis",
+      "size": "Rozpětí: 65-75 cm, Hmotnost: 0.4-0.7 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Mokřady, travnaté oblasti, and agricultural fields napříč Severní Amerika. they preferují shallow mokřady for roosting and open fields for feeding.",
+      "funFact": "Sandhill cranes perform elaborate dancing displays during courtship, including jumping, bowing, and calling. They can live over 40 let and mate for life."
+    },
+    "24": {
+      "commonName": "Datel černý",
+      "scientificName": "Dryocopus pileatus",
+      "size": "Rozpětí: 35-40 cm, Hmotnost: 55-90 g",
+      "lifespan": "8-12 let ve volné přírodě",
+      "habitat": "Mature lesy napříč eastern Severní Amerika. they preferují oblasti with large dead trees and fallen logs.",
+      "funFact": "Pileated woodpeckers create rectangular holes that can be over a foot long. Their powerful pecking can be heard from half a mile daleko."
+    },
+    "25": {
+      "commonName": "Pěnice žlutá",
+      "scientificName": "Setophaga petechia",
+      "size": "Rozpětí: 12-15 cm, Hmotnost: 8-12 g",
+      "lifespan": "6-8 let ve volné přírodě",
+      "habitat": "Mokřady, gardens, and les edges napříč Severní Amerika. they preferují oblasti with dense shrubs and small trees blízko vody.",
+      "funFact": "Yellow warblers can recognize cowbird eggs in their nests and will build a new nest floor over them. They migrate až 5,000 miles to Central and South America."
+    },
+    "26": {
+      "commonName": "Brhlík bělokrký",
+      "scientificName": "Sitta carolinensis",
+      "size": "Rozpětí: 20-25 cm, Hmotnost: 20-25 g",
+      "lifespan": "6-8 let ve volné přírodě",
+      "habitat": "Mature lesy and wooded parky napříč Severní Amerika. they preferují oblasti with large listnaté trees, especially oak and hickory.",
+      "funFact": "Nuthatches can walk headfirst down tree trunks, a unique schopnost among North American birds. They wedge ořechy into bark crevices and hammer them open."
+    },
+    "27": {
+      "commonName": "Brkoslav cedrový",
+      "scientificName": "Bombycilla cedrorum",
+      "size": "Rozpětí: 25-30 cm, Hmotnost: 12-18 g",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Open woodlands, orchards, and subměstské oblasti napříč Severní Amerika. they preferují oblasti with fruit-bearing trees and shrubs.",
+      "funFact": "Cedar waxwings are highly social and often pass berries down a line of birds until one decides to eat it. Their wing tips look like they're dipped in red sealing wax."
+    },
+    "28": {
+      "commonName": "Ovesnice modrá",
+      "scientificName": "Passerina cyanea",
+      "size": "Rozpětí: 30-35 cm, Hmotnost: 25-35 g",
+      "lifespan": "6-8 let ve volné přírodě",
+      "habitat": "Les edges, fields, and subměstské oblasti napříč eastern Severní Amerika. they preferují oblasti with scattered trees and open spaces.",
+      "funFact": "Male indigo buntings appear blue but actually have no blue pigment. Their feathers reflect blue light due to microscopic structures. They navigate by stars during migration."
+    },
+    "29": {
+      "commonName": "Dlask růžovoprsý",
+      "scientificName": "Pheucticus ludovicianus",
+      "size": "Rozpětí: 30-35 cm, Hmotnost: 30-40 g",
+      "lifespan": "8-10 let ve volné přírodě",
+      "habitat": "Listnaté and smíšené lesy napříč eastern Severní Amerika. they preferují oblasti with dense canopy and understory vegetation.",
+      "funFact": "Rose-breasted grosbeaks have powerful bills that can crack cherry pits. Males and females take turns incubating eggs, with males often singing while on the nest."
+    }
+  }
+}

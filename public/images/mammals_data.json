@@ -1,8 +1,8 @@
 {
   "category": "mammals",
-  "totalPhotos": 5,
+  "totalPhotos": 30,
   "source": "Clean English Data - Generated",
-  "downloadedAt": "2025-08-26T20:33:09.465Z",
+  "downloadedAt": "2025-08-27T20:18:14.617Z",
   "photos": [
     {
       "fileName": "mammals1.jpg",
@@ -40,7 +40,7 @@
       "wikipediaTitle": "American Black Bear",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/American_Black Bear",
       "wikipediaExtract": "The American Black Bear (Ursus americanus) is a species found in Large forested areas across North America. They inhabit deciduous and mixed forests, swamps, and mountainous regions.",
-      "updatedAt": "2025-08-26T20:33:09.465Z",
+      "updatedAt": "2025-08-27T20:18:14.617Z",
       "imageSource": "placeholder_image_source_mammals_1",
       "imageMethod": "Generated Data"
     },
@@ -80,7 +80,7 @@
       "wikipediaTitle": "White-tailed Deer",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/White-tailed_Deer",
       "wikipediaExtract": "The White-tailed Deer (Odocoileus virginianus) is a species found in Forests, grasslands, and suburban areas across the Americas. They prefer edge habitats where forests meet open areas.",
-      "updatedAt": "2025-08-26T20:33:09.466Z",
+      "updatedAt": "2025-08-27T20:18:14.617Z",
       "imageSource": "placeholder_image_source_mammals_2",
       "imageMethod": "Generated Data"
     },
@@ -120,7 +120,7 @@
       "wikipediaTitle": "Eastern Gray Squirrel",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Eastern_Gray Squirrel",
       "wikipediaExtract": "The Eastern Gray Squirrel (Sciurus carolinensis) is a species found in Deciduous and mixed forests in eastern North America. They are highly adaptable and thrive in urban parks and suburban areas.",
-      "updatedAt": "2025-08-26T20:33:09.466Z",
+      "updatedAt": "2025-08-27T20:18:14.617Z",
       "imageSource": "placeholder_image_source_mammals_3",
       "imageMethod": "Generated Data"
     },
@@ -160,7 +160,7 @@
       "wikipediaTitle": "Raccoon",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Raccoon",
       "wikipediaExtract": "The Raccoon (Procyon lotor) is a species found in Deciduous and mixed forests, wetlands, and urban areas across North America. They prefer areas near water sources.",
-      "updatedAt": "2025-08-26T20:33:09.466Z",
+      "updatedAt": "2025-08-27T20:18:14.617Z",
       "imageSource": "placeholder_image_source_mammals_4",
       "imageMethod": "Generated Data"
     },
@@ -200,14 +200,1014 @@
       "wikipediaTitle": "Red Fox",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Red_Fox",
       "wikipediaExtract": "The Red Fox (Vulpes vulpes) is a species found in Diverse environments across the northern hemisphere, including forests, grasslands, mountains, and urban areas.",
-      "updatedAt": "2025-08-26T20:33:09.466Z",
+      "updatedAt": "2025-08-27T20:18:14.617Z",
       "imageSource": "placeholder_image_source_mammals_5",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "mammals6.jpg",
+      "filePath": "public\\images\\mammals\\mammals6.jpg",
+      "photoData": {
+        "id": "generated_mammals_6",
+        "description": "Gray Wolf (Canis lupus)",
+        "alt_description": "Canis lupus",
+        "urls": {
+          "regular": "placeholder_url_mammals_6"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "mammals",
+        "taxon": "Canis lupus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Canis lupus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Gray Wolf",
+      "scientificName": "Canis lupus",
+      "size": "1.0-1.6 m (3.3-5.2 feet) long, 20-80 kg",
+      "lifespan": "6-8 years in wild, up to 13 years",
+      "habitat": "Forests, tundra, deserts, plains, and mountains across northern regions. They prefer areas with abundant prey and minimal human disturbance.",
+      "funFact": "Wolves have an incredible sense of smell that is 100 times stronger than humans. They can detect a scent from over 1.5 miles away and track prey for hours.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Canis_lupus",
+        "https://animaldiversity.org/accounts/Canis_lupus/"
+      ],
+      "taxon": "Canis lupus",
+      "license": "CC-BY-SA",
+      "localPath": "/images/mammals/mammals6.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Gray Wolf",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gray_Wolf",
+      "wikipediaExtract": "The Gray Wolf (Canis lupus) is a species found in Forests, tundra, deserts, plains, and mountains across northern regions. They prefer areas with abundant prey and minimal human disturbance.",
+      "updatedAt": "2025-08-27T20:18:14.617Z",
+      "imageSource": "placeholder_image_source_mammals_6",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "mammals7.jpg",
+      "filePath": "public\\images\\mammals\\mammals7.jpg",
+      "photoData": {
+        "id": "generated_mammals_7",
+        "description": "Mountain Lion (Puma concolor)",
+        "alt_description": "Puma concolor",
+        "urls": {
+          "regular": "placeholder_url_mammals_7"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "mammals",
+        "taxon": "Puma concolor",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Puma concolor",
+        "source": "generated_english_data"
+      },
+      "commonName": "Mountain Lion",
+      "scientificName": "Puma concolor",
+      "size": "1.0-1.8 m (3.3-5.9 feet) long, 29-90 kg",
+      "lifespan": "8-13 years in wild",
+      "habitat": "Diverse habitats from tropical rainforests to deserts and mountains across the Americas. They prefer areas with dense vegetation for stalking prey.",
+      "funFact": "Mountain lions can leap 15 feet vertically and 40 feet horizontally. They are excellent climbers and swimmers, making them one of the most adaptable big cats.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Puma_concolor",
+        "https://animaldiversity.org/accounts/Puma_concolor/"
+      ],
+      "taxon": "Puma concolor",
+      "license": "CC-BY-SA",
+      "localPath": "/images/mammals/mammals7.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Mountain Lion",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mountain_Lion",
+      "wikipediaExtract": "The Mountain Lion (Puma concolor) is a species found in Diverse habitats from tropical rainforests to deserts and mountains across the Americas. They prefer areas with dense vegetation for stalking prey.",
+      "updatedAt": "2025-08-27T20:18:14.617Z",
+      "imageSource": "placeholder_image_source_mammals_7",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "mammals8.jpg",
+      "filePath": "public\\images\\mammals\\mammals8.jpg",
+      "photoData": {
+        "id": "generated_mammals_8",
+        "description": "Moose (Alces alces)",
+        "alt_description": "Alces alces",
+        "urls": {
+          "regular": "placeholder_url_mammals_8"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "mammals",
+        "taxon": "Alces alces",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Alces alces",
+        "source": "generated_english_data"
+      },
+      "commonName": "Moose",
+      "scientificName": "Alces alces",
+      "size": "2.4-3.1 m (8-10 feet) long, 270-720 kg",
+      "lifespan": "15-25 years in wild",
+      "habitat": "Boreal and mixed deciduous forests near lakes, wetlands, and swamps across northern regions. They prefer areas with abundant aquatic vegetation.",
+      "funFact": "Moose are excellent swimmers and can dive up to 20 feet deep to feed on aquatic plants. Despite their size, they can run up to 35 mph and are surprisingly agile.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Alces_alces",
+        "https://animaldiversity.org/accounts/Alces_alces/"
+      ],
+      "taxon": "Alces alces",
+      "license": "CC-BY-SA",
+      "localPath": "/images/mammals/mammals8.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Moose",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Moose",
+      "wikipediaExtract": "The Moose (Alces alces) is a species found in Boreal and mixed deciduous forests near lakes, wetlands, and swamps across northern regions. They prefer areas with abundant aquatic vegetation.",
+      "updatedAt": "2025-08-27T20:18:14.617Z",
+      "imageSource": "placeholder_image_source_mammals_8",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "mammals9.jpg",
+      "filePath": "public\\images\\mammals\\mammals9.jpg",
+      "photoData": {
+        "id": "generated_mammals_9",
+        "description": "Beaver (Castor canadensis)",
+        "alt_description": "Castor canadensis",
+        "urls": {
+          "regular": "placeholder_url_mammals_9"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "mammals",
+        "taxon": "Castor canadensis",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Castor canadensis",
+        "source": "generated_english_data"
+      },
+      "commonName": "Beaver",
+      "scientificName": "Castor canadensis",
+      "size": "74-90 cm (29-35 inches) plus 25-50 cm tail, 11-30 kg",
+      "lifespan": "10-12 years in wild",
+      "habitat": "Freshwater environments including rivers, streams, ponds, and wetlands across North America. They prefer areas with deciduous trees near water.",
+      "funFact": "Beavers are ecosystem engineers whose dams create wetland habitats for hundreds of other species. Their teeth never stop growing and are self-sharpening from constant gnawing.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Castor_canadensis",
+        "https://animaldiversity.org/accounts/Castor_canadensis/"
+      ],
+      "taxon": "Castor canadensis",
+      "license": "CC-BY-SA",
+      "localPath": "/images/mammals/mammals9.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Beaver",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Beaver",
+      "wikipediaExtract": "The Beaver (Castor canadensis) is a species found in Freshwater environments including rivers, streams, ponds, and wetlands across North America. They prefer areas with deciduous trees near water.",
+      "updatedAt": "2025-08-27T20:18:14.617Z",
+      "imageSource": "placeholder_image_source_mammals_9",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "mammals10.jpg",
+      "filePath": "public\\images\\mammals\\mammals10.jpg",
+      "photoData": {
+        "id": "generated_mammals_10",
+        "description": "Bobcat (Lynx rufus)",
+        "alt_description": "Lynx rufus",
+        "urls": {
+          "regular": "placeholder_url_mammals_10"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "mammals",
+        "taxon": "Lynx rufus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Lynx rufus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Bobcat",
+      "scientificName": "Lynx rufus",
+      "size": "65-105 cm (26-41 inches) long, 4-18 kg",
+      "lifespan": "7-10 years in wild",
+      "habitat": "Diverse habitats including forests, swamps, deserts, and suburban areas across North America. They prefer areas with dense cover for hunting.",
+      "funFact": "Bobcats are incredibly stealthy hunters with retractable claws and can leap up to 12 feet to catch prey. They have excellent night vision and hearing.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lynx_rufus",
+        "https://animaldiversity.org/accounts/Lynx_rufus/"
+      ],
+      "taxon": "Lynx rufus",
+      "license": "CC-BY-SA",
+      "localPath": "/images/mammals/mammals10.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Bobcat",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bobcat",
+      "wikipediaExtract": "The Bobcat (Lynx rufus) is a species found in Diverse habitats including forests, swamps, deserts, and suburban areas across North America. They prefer areas with dense cover for hunting.",
+      "updatedAt": "2025-08-27T20:18:14.617Z",
+      "imageSource": "placeholder_image_source_mammals_10",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "mammals11.jpg",
+      "filePath": "public\\images\\mammals\\mammals11.jpg",
+      "photoData": {
+        "id": "generated_mammals_11",
+        "description": "Elk (Cervus canadensis)",
+        "alt_description": "Cervus canadensis",
+        "urls": {
+          "regular": "placeholder_url_mammals_11"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "mammals",
+        "taxon": "Cervus canadensis",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Cervus canadensis",
+        "source": "generated_english_data"
+      },
+      "commonName": "Elk",
+      "scientificName": "Cervus canadensis",
+      "size": "2.0-2.7 m (6.6-8.9 feet) long, 147-499 kg",
+      "lifespan": "10-13 years in wild",
+      "habitat": "Forest edges, meadows, and grasslands across western North America. They migrate seasonally between summer and winter ranges.",
+      "funFact": "Male elk grow antlers that can weigh up to 40 pounds and span 4 feet across. They shed and regrow these antlers annually, making them one of the fastest-growing tissues in the animal kingdom.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cervus_canadensis",
+        "https://animaldiversity.org/accounts/Cervus_canadensis/"
+      ],
+      "taxon": "Cervus canadensis",
+      "license": "CC-BY-SA",
+      "localPath": "/images/mammals/mammals11.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Elk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Elk",
+      "wikipediaExtract": "The Elk (Cervus canadensis) is a species found in Forest edges, meadows, and grasslands across western North America. They migrate seasonally between summer and winter ranges.",
+      "updatedAt": "2025-08-27T20:18:14.617Z",
+      "imageSource": "placeholder_image_source_mammals_11",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "mammals12.jpg",
+      "filePath": "public\\images\\mammals\\mammals12.jpg",
+      "photoData": {
+        "id": "generated_mammals_12",
+        "description": "Porcupine (Erethizon dorsatum)",
+        "alt_description": "Erethizon dorsatum",
+        "urls": {
+          "regular": "placeholder_url_mammals_12"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "mammals",
+        "taxon": "Erethizon dorsatum",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Erethizon dorsatum",
+        "source": "generated_english_data"
+      },
+      "commonName": "Porcupine",
+      "scientificName": "Erethizon dorsatum",
+      "size": "60-90 cm (24-35 inches) long, 5-14 kg",
+      "lifespan": "5-7 years in wild",
+      "habitat": "Coniferous and mixed forests across North America. They prefer areas with abundant trees for feeding and denning.",
+      "funFact": "Porcupines have about 30,000 quills that are actually modified hairs with barbed tips. Contrary to popular belief, they cannot shoot their quills but release them when touched.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Erethizon_dorsatum",
+        "https://animaldiversity.org/accounts/Erethizon_dorsatum/"
+      ],
+      "taxon": "Erethizon dorsatum",
+      "license": "CC-BY-SA",
+      "localPath": "/images/mammals/mammals12.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Porcupine",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Porcupine",
+      "wikipediaExtract": "The Porcupine (Erethizon dorsatum) is a species found in Coniferous and mixed forests across North America. They prefer areas with abundant trees for feeding and denning.",
+      "updatedAt": "2025-08-27T20:18:14.617Z",
+      "imageSource": "placeholder_image_source_mammals_12",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "mammals13.jpg",
+      "filePath": "public\\images\\mammals\\mammals13.jpg",
+      "photoData": {
+        "id": "generated_mammals_13",
+        "description": "Skunk (Mephitis mephitis)",
+        "alt_description": "Mephitis mephitis",
+        "urls": {
+          "regular": "placeholder_url_mammals_13"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "mammals",
+        "taxon": "Mephitis mephitis",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Mephitis mephitis",
+        "source": "generated_english_data"
+      },
+      "commonName": "Skunk",
+      "scientificName": "Mephitis mephitis",
+      "size": "40-68 cm (16-27 inches) long, 1.2-5.3 kg",
+      "lifespan": "2-3 years in wild",
+      "habitat": "Diverse habitats including forests, grasslands, and suburban areas across North America. They prefer areas with mixed cover and abundant food sources.",
+      "funFact": "Skunks can spray their defensive musk up to 10 feet with remarkable accuracy. They give several warning signs before spraying, including stamping feet and raising their tail.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mephitis_mephitis",
+        "https://animaldiversity.org/accounts/Mephitis_mephitis/"
+      ],
+      "taxon": "Mephitis mephitis",
+      "license": "CC-BY-SA",
+      "localPath": "/images/mammals/mammals13.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Skunk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Skunk",
+      "wikipediaExtract": "The Skunk (Mephitis mephitis) is a species found in Diverse habitats including forests, grasslands, and suburban areas across North America. They prefer areas with mixed cover and abundant food sources.",
+      "updatedAt": "2025-08-27T20:18:14.617Z",
+      "imageSource": "placeholder_image_source_mammals_13",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "mammals14.jpg",
+      "filePath": "public\\images\\mammals\\mammals14.jpg",
+      "photoData": {
+        "id": "generated_mammals_14",
+        "description": "Opossum (Didelphis virginiana)",
+        "alt_description": "Didelphis virginiana",
+        "urls": {
+          "regular": "placeholder_url_mammals_14"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "mammals",
+        "taxon": "Didelphis virginiana",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Didelphis virginiana",
+        "source": "generated_english_data"
+      },
+      "commonName": "Opossum",
+      "scientificName": "Didelphis virginiana",
+      "size": "35-55 cm (14-22 inches) long, 0.5-6 kg",
+      "lifespan": "1-2 years in wild",
+      "habitat": "Diverse habitats including forests, farmlands, and urban areas across North America. They are highly adaptable to human-modified environments.",
+      "funFact": "Opossums are North America's only native marsupial and are immune to most snake venoms. They 'play dead' when threatened, entering a catatonic state that can last hours.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Didelphis_virginiana",
+        "https://animaldiversity.org/accounts/Didelphis_virginiana/"
+      ],
+      "taxon": "Didelphis virginiana",
+      "license": "CC-BY-SA",
+      "localPath": "/images/mammals/mammals14.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Opossum",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Opossum",
+      "wikipediaExtract": "The Opossum (Didelphis virginiana) is a species found in Diverse habitats including forests, farmlands, and urban areas across North America. They are highly adaptable to human-modified environments.",
+      "updatedAt": "2025-08-27T20:18:14.617Z",
+      "imageSource": "placeholder_image_source_mammals_14",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "mammals15.jpg",
+      "filePath": "public\\images\\mammals\\mammals15.jpg",
+      "photoData": {
+        "id": "generated_mammals_15",
+        "description": "Chipmunk (Tamias striatus)",
+        "alt_description": "Tamias striatus",
+        "urls": {
+          "regular": "placeholder_url_mammals_15"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "mammals",
+        "taxon": "Tamias striatus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Tamias striatus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Chipmunk",
+      "scientificName": "Tamias striatus",
+      "size": "14-19 cm (5.5-7.5 inches) plus 8-11 cm tail",
+      "lifespan": "2-3 years in wild",
+      "habitat": "Deciduous forests and woodland edges across eastern North America. They prefer areas with abundant nuts and seeds.",
+      "funFact": "Chipmunks can stuff their cheek pouches with up to 32 beechnuts at once. They create elaborate burrow systems with multiple chambers for sleeping, food storage, and waste.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tamias_striatus",
+        "https://animaldiversity.org/accounts/Tamias_striatus/"
+      ],
+      "taxon": "Tamias striatus",
+      "license": "CC-BY-SA",
+      "localPath": "/images/mammals/mammals15.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Chipmunk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chipmunk",
+      "wikipediaExtract": "The Chipmunk (Tamias striatus) is a species found in Deciduous forests and woodland edges across eastern North America. They prefer areas with abundant nuts and seeds.",
+      "updatedAt": "2025-08-27T20:18:14.617Z",
+      "imageSource": "placeholder_image_source_mammals_15",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "mammals16.jpg",
+      "filePath": "public\\images\\mammals\\mammals16.jpg",
+      "photoData": {
+        "id": "generated_mammals_16",
+        "description": "Muskrat (Ondatra zibethicus)",
+        "alt_description": "Ondatra zibethicus",
+        "urls": {
+          "regular": "placeholder_url_mammals_16"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "mammals",
+        "taxon": "Ondatra zibethicus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Ondatra zibethicus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Muskrat",
+      "scientificName": "Ondatra zibethicus",
+      "size": "40-70 cm (16-28 inches) long, 0.7-1.8 kg",
+      "lifespan": "1-3 years in wild",
+      "habitat": "Wetlands, marshes, ponds, and slow-moving streams across North America. They prefer areas with emergent vegetation.",
+      "funFact": "Muskrats can stay underwater for up to 17 minutes and swim backwards as easily as forwards. They build dome-shaped lodges from vegetation, similar to beavers.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ondatra_zibethicus",
+        "https://animaldiversity.org/accounts/Ondatra_zibethicus/"
+      ],
+      "taxon": "Ondatra zibethicus",
+      "license": "CC-BY-SA",
+      "localPath": "/images/mammals/mammals16.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Muskrat",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Muskrat",
+      "wikipediaExtract": "The Muskrat (Ondatra zibethicus) is a species found in Wetlands, marshes, ponds, and slow-moving streams across North America. They prefer areas with emergent vegetation.",
+      "updatedAt": "2025-08-27T20:18:14.617Z",
+      "imageSource": "placeholder_image_source_mammals_16",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "mammals17.jpg",
+      "filePath": "public\\images\\mammals\\mammals17.jpg",
+      "photoData": {
+        "id": "generated_mammals_17",
+        "description": "River Otter (Lontra canadensis)",
+        "alt_description": "Lontra canadensis",
+        "urls": {
+          "regular": "placeholder_url_mammals_17"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "mammals",
+        "taxon": "Lontra canadensis",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Lontra canadensis",
+        "source": "generated_english_data"
+      },
+      "commonName": "River Otter",
+      "scientificName": "Lontra canadensis",
+      "size": "66-107 cm (26-42 inches) long, 5-14 kg",
+      "lifespan": "8-9 years in wild",
+      "habitat": "Freshwater and coastal marine environments across North America. They prefer areas with clean water and abundant fish populations.",
+      "funFact": "River otters can hold their breath for up to 8 minutes and dive to depths of 60 feet. They slide down muddy or snowy banks for fun, not just transportation.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lontra_canadensis",
+        "https://animaldiversity.org/accounts/Lontra_canadensis/"
+      ],
+      "taxon": "Lontra canadensis",
+      "license": "CC-BY-SA",
+      "localPath": "/images/mammals/mammals17.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "River Otter",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/River_Otter",
+      "wikipediaExtract": "The River Otter (Lontra canadensis) is a species found in Freshwater and coastal marine environments across North America. They prefer areas with clean water and abundant fish populations.",
+      "updatedAt": "2025-08-27T20:18:14.617Z",
+      "imageSource": "placeholder_image_source_mammals_17",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "mammals18.jpg",
+      "filePath": "public\\images\\mammals\\mammals18.jpg",
+      "photoData": {
+        "id": "generated_mammals_18",
+        "description": "Coyote (Canis latrans)",
+        "alt_description": "Canis latrans",
+        "urls": {
+          "regular": "placeholder_url_mammals_18"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "mammals",
+        "taxon": "Canis latrans",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Canis latrans",
+        "source": "generated_english_data"
+      },
+      "commonName": "Coyote",
+      "scientificName": "Canis latrans",
+      "size": "75-87 cm (30-34 inches) long, 7-21 kg",
+      "lifespan": "6-8 years in wild",
+      "habitat": "Extremely diverse habitats from deserts to forests to urban areas across North America. They are highly adaptable to human environments.",
+      "funFact": "Coyotes can run up to 43 mph and jump 14 feet horizontally. They have expanded their range dramatically and now live in every US state except Hawaii.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Canis_latrans",
+        "https://animaldiversity.org/accounts/Canis_latrans/"
+      ],
+      "taxon": "Canis latrans",
+      "license": "CC-BY-SA",
+      "localPath": "/images/mammals/mammals18.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Coyote",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Coyote",
+      "wikipediaExtract": "The Coyote (Canis latrans) is a species found in Extremely diverse habitats from deserts to forests to urban areas across North America. They are highly adaptable to human environments.",
+      "updatedAt": "2025-08-27T20:18:14.617Z",
+      "imageSource": "placeholder_image_source_mammals_18",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "mammals19.jpg",
+      "filePath": "public\\images\\mammals\\mammals19.jpg",
+      "photoData": {
+        "id": "generated_mammals_19",
+        "description": "Bighorn Sheep (Ovis canadensis)",
+        "alt_description": "Ovis canadensis",
+        "urls": {
+          "regular": "placeholder_url_mammals_19"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "mammals",
+        "taxon": "Ovis canadensis",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Ovis canadensis",
+        "source": "generated_english_data"
+      },
+      "commonName": "Bighorn Sheep",
+      "scientificName": "Ovis canadensis",
+      "size": "1.2-1.9 m (4-6 feet) long, 53-158 kg",
+      "lifespan": "9-14 years in wild",
+      "habitat": "Rocky mountainous areas, cliffs, and alpine meadows across western North America. They prefer steep terrain that provides escape routes from predators.",
+      "funFact": "Bighorn sheep can climb slopes of 60 degrees and leap 20 feet between ledges. Their hooves have a hard outer edge and soft inner pad for incredible grip on rocks.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ovis_canadensis",
+        "https://animaldiversity.org/accounts/Ovis_canadensis/"
+      ],
+      "taxon": "Ovis canadensis",
+      "license": "CC-BY-SA",
+      "localPath": "/images/mammals/mammals19.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Bighorn Sheep",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bighorn_Sheep",
+      "wikipediaExtract": "The Bighorn Sheep (Ovis canadensis) is a species found in Rocky mountainous areas, cliffs, and alpine meadows across western North America. They prefer steep terrain that provides escape routes from predators.",
+      "updatedAt": "2025-08-27T20:18:14.617Z",
+      "imageSource": "placeholder_image_source_mammals_19",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "mammals20.jpg",
+      "filePath": "public\\images\\mammals\\mammals20.jpg",
+      "photoData": {
+        "id": "generated_mammals_20",
+        "description": "Mule Deer (Odocoileus hemionus)",
+        "alt_description": "Odocoileus hemionus",
+        "urls": {
+          "regular": "placeholder_url_mammals_20"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "mammals",
+        "taxon": "Odocoileus hemionus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Odocoileus hemionus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Mule Deer",
+      "scientificName": "Odocoileus hemionus",
+      "size": "1.2-2.1 m (4-7 feet) long, 31-103 kg",
+      "lifespan": "9-11 years in wild",
+      "habitat": "Diverse habitats from deserts to mountains across western North America. They prefer areas with mixed vegetation and escape cover.",
+      "funFact": "Mule deer get their name from their large ears that resemble a mule's. They have a unique bounding gait called 'stotting' where all four feet hit the ground simultaneously.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Odocoileus_hemionus",
+        "https://animaldiversity.org/accounts/Odocoileus_hemionus/"
+      ],
+      "taxon": "Odocoileus hemionus",
+      "license": "CC-BY-SA",
+      "localPath": "/images/mammals/mammals20.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Mule Deer",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mule_Deer",
+      "wikipediaExtract": "The Mule Deer (Odocoileus hemionus) is a species found in Diverse habitats from deserts to mountains across western North America. They prefer areas with mixed vegetation and escape cover.",
+      "updatedAt": "2025-08-27T20:18:14.617Z",
+      "imageSource": "placeholder_image_source_mammals_20",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "mammals21.jpg",
+      "filePath": "public\\images\\mammals\\mammals21.jpg",
+      "photoData": {
+        "id": "generated_mammals_21",
+        "description": "Wolverine (Gulo gulo)",
+        "alt_description": "Gulo gulo",
+        "urls": {
+          "regular": "placeholder_url_mammals_21"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "mammals",
+        "taxon": "Gulo gulo",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Gulo gulo",
+        "source": "generated_english_data"
+      },
+      "commonName": "Wolverine",
+      "scientificName": "Gulo gulo",
+      "size": "65-87 cm (26-34 inches) long, 9-25 kg",
+      "lifespan": "5-13 years in wild",
+      "habitat": "Remote wilderness areas including boreal forests, tundra, and alpine regions across northern regions. They require large territories with minimal human disturbance.",
+      "funFact": "Wolverines are incredibly strong for their size and can take down prey much larger than themselves. They have been known to drive bears and wolves away from kills.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gulo_gulo",
+        "https://animaldiversity.org/accounts/Gulo_gulo/"
+      ],
+      "taxon": "Gulo gulo",
+      "license": "CC-BY-SA",
+      "localPath": "/images/mammals/mammals21.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Wolverine",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wolverine",
+      "wikipediaExtract": "The Wolverine (Gulo gulo) is a species found in Remote wilderness areas including boreal forests, tundra, and alpine regions across northern regions. They require large territories with minimal human disturbance.",
+      "updatedAt": "2025-08-27T20:18:14.617Z",
+      "imageSource": "placeholder_image_source_mammals_21",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "mammals22.jpg",
+      "filePath": "public\\images\\mammals\\mammals22.jpg",
+      "photoData": {
+        "id": "generated_mammals_22",
+        "description": "Prairie Dog (Cynomys ludovicianus)",
+        "alt_description": "Cynomys ludovicianus",
+        "urls": {
+          "regular": "placeholder_url_mammals_22"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "mammals",
+        "taxon": "Cynomys ludovicianus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Cynomys ludovicianus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Prairie Dog",
+      "scientificName": "Cynomys ludovicianus",
+      "size": "28-35 cm (11-14 inches) long, 0.5-1.7 kg",
+      "lifespan": "3-5 years in wild",
+      "habitat": "Short and mixed-grass prairies across central North America. They prefer areas with low vegetation that allows for good visibility.",
+      "funFact": "Prairie dogs have a sophisticated communication system with different calls for different types of predators. They live in complex underground 'towns' that can span hundreds of acres.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cynomys_ludovicianus",
+        "https://animaldiversity.org/accounts/Cynomys_ludovicianus/"
+      ],
+      "taxon": "Cynomys ludovicianus",
+      "license": "CC-BY-SA",
+      "localPath": "/images/mammals/mammals22.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Prairie Dog",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Prairie_Dog",
+      "wikipediaExtract": "The Prairie Dog (Cynomys ludovicianus) is a species found in Short and mixed-grass prairies across central North America. They prefer areas with low vegetation that allows for good visibility.",
+      "updatedAt": "2025-08-27T20:18:14.617Z",
+      "imageSource": "placeholder_image_source_mammals_22",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "mammals23.jpg",
+      "filePath": "public\\images\\mammals\\mammals23.jpg",
+      "photoData": {
+        "id": "generated_mammals_23",
+        "description": "Groundhog (Marmota monax)",
+        "alt_description": "Marmota monax",
+        "urls": {
+          "regular": "placeholder_url_mammals_23"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "mammals",
+        "taxon": "Marmota monax",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Marmota monax",
+        "source": "generated_english_data"
+      },
+      "commonName": "Groundhog",
+      "scientificName": "Marmota monax",
+      "size": "41-68 cm (16-27 inches) long, 2-6.3 kg",
+      "lifespan": "4-6 years in wild",
+      "habitat": "Open fields, meadows, and forest edges across eastern North America. They prefer areas with well-drained soil for burrowing.",
+      "funFact": "Groundhogs are excellent diggers and can move 700 pounds of soil to create a burrow. They hibernate for up to 5 months, during which their heart rate drops from 80 to 5 beats per minute.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Marmota_monax",
+        "https://animaldiversity.org/accounts/Marmota_monax/"
+      ],
+      "taxon": "Marmota monax",
+      "license": "CC-BY-SA",
+      "localPath": "/images/mammals/mammals23.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Groundhog",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Groundhog",
+      "wikipediaExtract": "The Groundhog (Marmota monax) is a species found in Open fields, meadows, and forest edges across eastern North America. They prefer areas with well-drained soil for burrowing.",
+      "updatedAt": "2025-08-27T20:18:14.617Z",
+      "imageSource": "placeholder_image_source_mammals_23",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "mammals24.jpg",
+      "filePath": "public\\images\\mammals\\mammals24.jpg",
+      "photoData": {
+        "id": "generated_mammals_24",
+        "description": "Lynx (Lynx canadensis)",
+        "alt_description": "Lynx canadensis",
+        "urls": {
+          "regular": "placeholder_url_mammals_24"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "mammals",
+        "taxon": "Lynx canadensis",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Lynx canadensis",
+        "source": "generated_english_data"
+      },
+      "commonName": "Lynx",
+      "scientificName": "Lynx canadensis",
+      "size": "67-107 cm (26-42 inches) long, 5-17 kg",
+      "lifespan": "7-10 years in wild",
+      "habitat": "Boreal forests and mountainous areas across northern North America. They prefer areas with deep snow and abundant snowshoe hare populations.",
+      "funFact": "Lynx have oversized paws that act like snowshoes, allowing them to hunt effectively in deep snow. Their population cycles closely follow those of snowshoe hares.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lynx_canadensis",
+        "https://animaldiversity.org/accounts/Lynx_canadensis/"
+      ],
+      "taxon": "Lynx canadensis",
+      "license": "CC-BY-SA",
+      "localPath": "/images/mammals/mammals24.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Lynx",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lynx",
+      "wikipediaExtract": "The Lynx (Lynx canadensis) is a species found in Boreal forests and mountainous areas across northern North America. They prefer areas with deep snow and abundant snowshoe hare populations.",
+      "updatedAt": "2025-08-27T20:18:14.617Z",
+      "imageSource": "placeholder_image_source_mammals_24",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "mammals25.jpg",
+      "filePath": "public\\images\\mammals\\mammals25.jpg",
+      "photoData": {
+        "id": "generated_mammals_25",
+        "description": "Bison (Bison bison)",
+        "alt_description": "Bison bison",
+        "urls": {
+          "regular": "placeholder_url_mammals_25"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "mammals",
+        "taxon": "Bison bison",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Bison bison",
+        "source": "generated_english_data"
+      },
+      "commonName": "Bison",
+      "scientificName": "Bison bison",
+      "size": "2.1-3.5 m (7-11.5 feet) long, 318-1000 kg",
+      "lifespan": "12-20 years in wild",
+      "habitat": "Grasslands and prairies across central North America. They prefer open areas with abundant grasses and access to water.",
+      "funFact": "Bison can run up to 35 mph despite weighing up to 2,000 pounds. They nearly went extinct but have recovered from fewer than 1,000 individuals to over 500,000 today.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bison_bison",
+        "https://animaldiversity.org/accounts/Bison_bison/"
+      ],
+      "taxon": "Bison bison",
+      "license": "CC-BY-SA",
+      "localPath": "/images/mammals/mammals25.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Bison",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bison",
+      "wikipediaExtract": "The Bison (Bison bison) is a species found in Grasslands and prairies across central North America. They prefer open areas with abundant grasses and access to water.",
+      "updatedAt": "2025-08-27T20:18:14.617Z",
+      "imageSource": "placeholder_image_source_mammals_25",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "mammals26.jpg",
+      "filePath": "public\\images\\mammals\\mammals26.jpg",
+      "photoData": {
+        "id": "generated_mammals_26",
+        "description": "Polar Bear (Ursus maritimus)",
+        "alt_description": "Ursus maritimus",
+        "urls": {
+          "regular": "placeholder_url_mammals_26"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "mammals",
+        "taxon": "Ursus maritimus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Ursus maritimus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Polar Bear",
+      "scientificName": "Ursus maritimus",
+      "size": "1.8-2.4 m (6-8 feet) long, 150-680 kg",
+      "lifespan": "15-18 years in wild",
+      "habitat": "Arctic sea ice and coastal areas across the Arctic Circle. They depend on sea ice for hunting seals.",
+      "funFact": "Polar bears have black skin under their white fur to absorb heat from the sun. They are excellent swimmers and can swim for hours covering distances over 60 miles.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ursus_maritimus",
+        "https://animaldiversity.org/accounts/Ursus_maritimus/"
+      ],
+      "taxon": "Ursus maritimus",
+      "license": "CC-BY-SA",
+      "localPath": "/images/mammals/mammals26.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Polar Bear",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Polar_Bear",
+      "wikipediaExtract": "The Polar Bear (Ursus maritimus) is a species found in Arctic sea ice and coastal areas across the Arctic Circle. They depend on sea ice for hunting seals.",
+      "updatedAt": "2025-08-27T20:18:14.617Z",
+      "imageSource": "placeholder_image_source_mammals_26",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "mammals27.jpg",
+      "filePath": "public\\images\\mammals\\mammals27.jpg",
+      "photoData": {
+        "id": "generated_mammals_27",
+        "description": "Grizzly Bear (Ursus arctos)",
+        "alt_description": "Ursus arctos",
+        "urls": {
+          "regular": "placeholder_url_mammals_27"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "mammals",
+        "taxon": "Ursus arctos",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Ursus arctos",
+        "source": "generated_english_data"
+      },
+      "commonName": "Grizzly Bear",
+      "scientificName": "Ursus arctos",
+      "size": "1.4-2.8 m (4.6-9.2 feet) long, 80-600 kg",
+      "lifespan": "20-25 years in wild",
+      "habitat": "Forests, alpine meadows, and tundra across western North America and Alaska. They prefer areas with abundant food sources and minimal human disturbance.",
+      "funFact": "Grizzly bears have an incredible sense of smell that is 7 times better than a bloodhound's. They can detect food from over 18 miles away.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ursus_arctos",
+        "https://animaldiversity.org/accounts/Ursus_arctos/"
+      ],
+      "taxon": "Ursus arctos",
+      "license": "CC-BY-SA",
+      "localPath": "/images/mammals/mammals27.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Grizzly Bear",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Grizzly_Bear",
+      "wikipediaExtract": "The Grizzly Bear (Ursus arctos) is a species found in Forests, alpine meadows, and tundra across western North America and Alaska. They prefer areas with abundant food sources and minimal human disturbance.",
+      "updatedAt": "2025-08-27T20:18:14.617Z",
+      "imageSource": "placeholder_image_source_mammals_27",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "mammals28.jpg",
+      "filePath": "public\\images\\mammals\\mammals28.jpg",
+      "photoData": {
+        "id": "generated_mammals_28",
+        "description": "Caribou (Rangifer tarandus)",
+        "alt_description": "Rangifer tarandus",
+        "urls": {
+          "regular": "placeholder_url_mammals_28"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "mammals",
+        "taxon": "Rangifer tarandus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Rangifer tarandus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Caribou",
+      "scientificName": "Rangifer tarandus",
+      "size": "1.2-2.2 m (4-7 feet) long, 60-318 kg",
+      "lifespan": "4.5 years in wild",
+      "habitat": "Arctic tundra and boreal forests across northern regions. They migrate vast distances following seasonal food sources.",
+      "funFact": "Caribou undertake one of the longest migrations of any land animal, traveling up to 3,000 miles annually. Both males and females grow antlers, unique among deer species.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rangifer_tarandus",
+        "https://animaldiversity.org/accounts/Rangifer_tarandus/"
+      ],
+      "taxon": "Rangifer tarandus",
+      "license": "CC-BY-SA",
+      "localPath": "/images/mammals/mammals28.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Caribou",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Caribou",
+      "wikipediaExtract": "The Caribou (Rangifer tarandus) is a species found in Arctic tundra and boreal forests across northern regions. They migrate vast distances following seasonal food sources.",
+      "updatedAt": "2025-08-27T20:18:14.617Z",
+      "imageSource": "placeholder_image_source_mammals_28",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "mammals29.jpg",
+      "filePath": "public\\images\\mammals\\mammals29.jpg",
+      "photoData": {
+        "id": "generated_mammals_29",
+        "description": "Mountain Goat (Oreamnos americanus)",
+        "alt_description": "Oreamnos americanus",
+        "urls": {
+          "regular": "placeholder_url_mammals_29"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "mammals",
+        "taxon": "Oreamnos americanus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Oreamnos americanus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Mountain Goat",
+      "scientificName": "Oreamnos americanus",
+      "size": "1.2-1.8 m (4-6 feet) long, 45-140 kg",
+      "lifespan": "9-12 years in wild",
+      "habitat": "Steep rocky cliffs and alpine areas in mountainous regions of western North America. They prefer areas above the tree line.",
+      "funFact": "Mountain goats can climb nearly vertical cliff faces and have specialized hooves with hard outer rims and soft inner pads for grip. They can jump 12 feet in a single bound.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Oreamnos_americanus",
+        "https://animaldiversity.org/accounts/Oreamnos_americanus/"
+      ],
+      "taxon": "Oreamnos americanus",
+      "license": "CC-BY-SA",
+      "localPath": "/images/mammals/mammals29.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Mountain Goat",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mountain_Goat",
+      "wikipediaExtract": "The Mountain Goat (Oreamnos americanus) is a species found in Steep rocky cliffs and alpine areas in mountainous regions of western North America. They prefer areas above the tree line.",
+      "updatedAt": "2025-08-27T20:18:14.617Z",
+      "imageSource": "placeholder_image_source_mammals_29",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "mammals30.jpg",
+      "filePath": "public\\images\\mammals\\mammals30.jpg",
+      "photoData": {
+        "id": "generated_mammals_30",
+        "description": "Pronghorn (Antilocapra americana)",
+        "alt_description": "Antilocapra americana",
+        "urls": {
+          "regular": "placeholder_url_mammals_30"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "mammals",
+        "taxon": "Antilocapra americana",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Antilocapra americana",
+        "source": "generated_english_data"
+      },
+      "commonName": "Pronghorn",
+      "scientificName": "Antilocapra americana",
+      "size": "1.0-1.5 m (3.3-4.9 feet) long, 34-70 kg",
+      "lifespan": "7-10 years in wild",
+      "habitat": "Open grasslands, prairies, and desert areas across western North America. They prefer areas with good visibility and escape routes.",
+      "funFact": "Pronghorns are the fastest land animal in North America, capable of running 70 mph for short distances and maintaining 45 mph for extended periods. They have the largest eyes relative to body size of any North American mammal.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Antilocapra_americana",
+        "https://animaldiversity.org/accounts/Antilocapra_americana/"
+      ],
+      "taxon": "Antilocapra americana",
+      "license": "CC-BY-SA",
+      "localPath": "/images/mammals/mammals30.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Pronghorn",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pronghorn",
+      "wikipediaExtract": "The Pronghorn (Antilocapra americana) is a species found in Open grasslands, prairies, and desert areas across western North America. They prefer areas with good visibility and escape routes.",
+      "updatedAt": "2025-08-27T20:18:14.617Z",
+      "imageSource": "placeholder_image_source_mammals_30",
       "imageMethod": "Generated Data"
     }
   ],
   "cleanupSummary": {
-    "originalCount": 5,
-    "finalCount": 5,
+    "originalCount": 30,
+    "finalCount": 30,
     "duplicatesResolved": 0,
     "commonsUrlsRemoved": true
   }

@@ -1,0 +1,306 @@
+{
+  "category": "reptiles",
+  "totalPhotos": 30,
+  "photos": [
+    {
+      "fileName": "reptiles1.jpg",
+      "commonName": "Eastern Box Turtle",
+      "scientificName": "Terrapene carolina",
+      "size": "10-15 cm délka krunýře",
+      "lifespan": "50-100+ let ve volné přírodě",
+      "habitat": "Listnaté lesy, pole a okraje lesů po východní Severní Americe.",
+      "funFact": "Želvy krabičkovité dokážou úplně zavřít svůj krunýř pro ochranu.",
+      "localPath": "/images/reptiles/reptiles1.jpg"
+    },
+    {
+      "fileName": "reptiles2.jpg",
+      "commonName": "Garter Snake",
+      "scientificName": "Thamnophis sirtalis",
+      "size": "45-65 cm",
+      "lifespan": "4-5 let ve volné přírodě",
+      "habitat": "Různorodá prostředí včetně lesů, polí a mokřadů po Severní Americe.",
+      "funFact": "Užovky podvazkovité patří mezi nejodolnější hady vůči chladu.",
+      "localPath": "/images/reptiles/reptiles2.jpg"
+    },
+    {
+      "fileName": "reptiles3.jpg",
+      "commonName": "Five-lined Skink",
+      "scientificName": "Plestiodon fasciatus",
+      "size": "12-20 cm",
+      "lifespan": "6-10 let ve volné přírodě",
+      "habitat": "Zalesněné oblasti s hojným krytem po východní Severní Americe.",
+      "funFact": "Mladí scinkové pětipruhý mají jasně modré ocasy, které mohou odhodit.",
+      "localPath": "/images/reptiles/reptiles3.jpg"
+    },
+    {
+      "fileName": "reptiles4.jpg",
+      "commonName": "Painted Turtle",
+      "scientificName": "Chrysemys picta",
+      "size": "10-18 cm délka krunýře",
+      "lifespan": "20-40 let ve volné přírodě",
+      "habitat": "Pomalu tekoucí vody s bahnitým dnem po Severní Americe.",
+      "funFact": "Želvy malované dokážou přežít zimu pod vodou v bahně.",
+      "localPath": "/images/reptiles/reptiles4.jpg"
+    },
+    {
+      "fileName": "reptiles5.jpg",
+      "commonName": "Green Anole",
+      "scientificName": "Anolis carolinensis",
+      "size": "12-20 cm",
+      "lifespan": "2-8 let ve volné přírodě",
+      "habitat": "Stromy a keře v teplých, vlhkých oblastech jihovýchodní USA.",
+      "funFact": "Anolisové zelení dokážou měnit barvu od jasně zelené po hnědou.",
+      "localPath": "/images/reptiles/reptiles5.jpg"
+    },
+    {
+      "fileName": "reptiles6.jpg",
+      "commonName": "Red-eared Slider",
+      "scientificName": "Trachemys scripta elegans",
+      "size": "15-30 cm délka krunýře",
+      "lifespan": "20-40 let ve volné přírodě",
+      "habitat": "Rybníky, jezera a pomalé potoky po Severní Americe.",
+      "funFact": "Želvy červenouchá dokážou zadržet dech až 30 minut.",
+      "localPath": "/images/reptiles/reptiles6.jpg"
+    },
+    {
+      "fileName": "reptiles7.jpg",
+      "commonName": "American Alligator",
+      "scientificName": "Alligator mississippiensis",
+      "size": "2-4 metry, 90-230 kg",
+      "lifespan": "35-50 let ve volné přírodě",
+      "habitat": "Sladkovodní bažiny a řeky v jihovýchodní USA.",
+      "funFact": "Aligátoři američtí jsou vrcholoví predátoři a vynikající matky.",
+      "localPath": "/images/reptiles/reptiles7.jpg"
+    },
+    {
+      "fileName": "reptiles8.jpg",
+      "commonName": "Corn Snake",
+      "scientificName": "Pantherophis guttatus",
+      "size": "60-120 cm",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Lesy, pole a zemědělské oblasti v jihovýchodní USA.",
+      "funFact": "Užovky kukuřičné jsou vynikající lezci a škrtiči.",
+      "localPath": "/images/reptiles/reptiles8.jpg"
+    },
+    {
+      "fileName": "reptiles9.jpg",
+      "commonName": "Snapping Turtle",
+      "scientificName": "Chelydra serpentina",
+      "size": "20-35 cm délka krunýře",
+      "lifespan": "30-47 let ve volné přírodě",
+      "habitat": "Sladkovodní prostředí po Severní Americe.",
+      "funFact": "Želvy kajmanní mají neuvěřitelně silné čelisti.",
+      "localPath": "/images/reptiles/reptiles9.jpg"
+    },
+    {
+      "fileName": "reptiles10.jpg",
+      "commonName": "Bearded Dragon",
+      "scientificName": "Pogona vitticeps",
+      "size": "40-60 cm",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Suché lesy a pouště po Austrálii.",
+      "funFact": "Agamy bradaté dokážou měnit barvu pro regulaci teploty.",
+      "localPath": "/images/reptiles/reptiles10.jpg"
+    },
+    {
+      "fileName": "reptiles11.jpg",
+      "commonName": "Iguana",
+      "scientificName": "Iguana iguana",
+      "size": "120-180 cm",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Tropické deštné lesy ve Střední a Jižní Americe.",
+      "funFact": "Leguáni jsou vynikající plavci a mají třetí oko na hlavě.",
+      "localPath": "/images/reptiles/reptiles11.jpg"
+    },
+    {
+      "fileName": "reptiles12.jpg",
+      "commonName": "Gecko",
+      "scientificName": "Hemidactylus turcicus",
+      "size": "7-15 cm",
+      "lifespan": "5-10 let ve volné přírodě",
+      "habitat": "Skalnaté oblasti a budovy v teplém klimatu po celém světě.",
+      "funFact": "Gekonové dokážou chodit po jakémkoli povrchu včetně skla.",
+      "localPath": "/images/reptiles/reptiles12.jpg"
+    },
+    {
+      "fileName": "reptiles13.jpg",
+      "commonName": "Chameleon",
+      "scientificName": "Chamaeleo calyptratus",
+      "size": "35-60 cm",
+      "lifespan": "5-8 let ve volné přírodě",
+      "habitat": "Stromy a keře v horských oblastech Jemenu a Saúdské Arábie.",
+      "funFact": "Chameleoni dokážou pohybovat očima nezávisle na sobě.",
+      "localPath": "/images/reptiles/reptiles13.jpg"
+    },
+    {
+      "fileName": "reptiles14.jpg",
+      "commonName": "Ball Python",
+      "scientificName": "Python regius",
+      "size": "90-150 cm",
+      "lifespan": "20-30 let ve volné přírodě",
+      "habitat": "Traviny a otevřené lesy v západní a střední Africe.",
+      "funFact": "Krajty královské se sbalí do těsné koule, když jsou ohroženi.",
+      "localPath": "/images/reptiles/reptiles14.jpg"
+    },
+    {
+      "fileName": "reptiles15.jpg",
+      "commonName": "Monitor Lizard",
+      "scientificName": "Varanus salvator",
+      "size": "150-250 cm",
+      "lifespan": "15-25 let ve volné přírodě",
+      "habitat": "Tropické lesy a mokřady v jihovýchodní Asii.",
+      "funFact": "Vrani jsou vysoce inteligentní plazi s vynikajícími schopnostmi řešit problémy.",
+      "localPath": "/images/reptiles/reptiles15.jpg"
+    },
+    {
+      "fileName": "reptiles16.jpg",
+      "commonName": "Rattlesnake",
+      "scientificName": "Crotalus atrox",
+      "size": "90-150 cm",
+      "lifespan": "15-25 let ve volné přírodě",
+      "habitat": "Pouště a traviny v jihozápadní USA a Mexiku.",
+      "funFact": "Chřestýši přidávají nový segment ke svému chřestítku při každém svlékání.",
+      "localPath": "/images/reptiles/reptiles16.jpg"
+    },
+    {
+      "fileName": "reptiles17.jpg",
+      "commonName": "Sea Turtle",
+      "scientificName": "Chelonia mydas",
+      "size": "80-120 cm délka krunýře",
+      "lifespan": "60-80 let ve volné přírodě",
+      "habitat": "Tropické a subtropické oceány po celém světě.",
+      "funFact": "Želvy mořské navigují pomocí magnetického pole Země.",
+      "localPath": "/images/reptiles/reptiles17.jpg"
+    },
+    {
+      "fileName": "reptiles18.jpg",
+      "commonName": "Kingsnake",
+      "scientificName": "Lampropeltis getula",
+      "size": "90-150 cm",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Různorodá prostředí po Severní Americe.",
+      "funFact": "Užovky královské jsou imunní vůči jedu jiných hadů.",
+      "localPath": "/images/reptiles/reptiles18.jpg"
+    },
+    {
+      "fileName": "reptiles19.jpg",
+      "commonName": "Tortoise",
+      "scientificName": "Gopherus polyphemus",
+      "size": "20-35 cm délka krunýře",
+      "lifespan": "40-80 let ve volné přírodě",
+      "habitat": "Písčité půdy v borových lesích jihovýchodní USA.",
+      "funFact": "Želvy suchozemské jsou ekosystémoví inženýři, kteří kopou nory.",
+      "localPath": "/images/reptiles/reptiles19.jpg"
+    },
+    {
+      "fileName": "reptiles20.jpg",
+      "commonName": "Copperhead",
+      "scientificName": "Agkistrodon contortrix",
+      "size": "60-90 cm",
+      "lifespan": "18-25 let ve volné přírodě",
+      "habitat": "Lesy a skalnaté oblasti ve východní USA.",
+      "funFact": "Zmije měděnky mají termoreceptory pro detekci tepla.",
+      "localPath": "/images/reptiles/reptiles20.jpg"
+    },
+    {
+      "fileName": "reptiles21.jpg",
+      "commonName": "Milk Snake",
+      "scientificName": "Lampropeltis triangulum",
+      "size": "100-200 cm",
+      "lifespan": "12-20 let ve volné přírodě",
+      "habitat": "Pouště a suché oblasti jihozápadu USA.",
+      "funFact": "Chřestýši diamantoví jsou největší jedovatí hadi v Severní Americe.",
+      "localPath": "/images/reptiles/reptiles21.jpg"
+    },
+    {
+      "fileName": "reptiles22.jpg",
+      "commonName": "Fence Lizard",
+      "scientificName": "Sceloporus undulatus",
+      "size": "60-120 cm",
+      "lifespan": "8-15 let ve volné přírodě",
+      "habitat": "Mokřady a bažiny v jihovýchodní USA.",
+      "funFact": "Mokasíny jsou poloaquatické jedovaté hady.",
+      "localPath": "/images/reptiles/reptiles22.jpg"
+    },
+    {
+      "fileName": "reptiles23.jpg",
+      "commonName": "Diamondback Terrapin",
+      "scientificName": "Malaclemys terrapin",
+      "size": "40-80 cm",
+      "lifespan": "6-12 let ve volné přírodě",
+      "habitat": "Skalnaté oblasti a lesy po východní USA.",
+      "funFact": "Užovky mléčné napodobují jedovaté korálové hady.",
+      "localPath": "/images/reptiles/reptiles23.jpg"
+    },
+    {
+      "fileName": "reptiles24.jpg",
+      "commonName": "Hognose Snake",
+      "scientificName": "Heterodon platirhinos",
+      "size": "30-60 cm",
+      "lifespan": "8-15 let ve volné přírodě",
+      "habitat": "Pouště a suché oblasti jihozápadu USA.",
+      "funFact": "Ještěrky límcové mají působivý obranný displej.",
+      "localPath": "/images/reptiles/reptiles24.jpg"
+    },
+    {
+      "fileName": "reptiles25.jpg",
+      "commonName": "Glass Lizard",
+      "scientificName": "Ophisaurus ventralis",
+      "size": "15-25 cm",
+      "lifespan": "4-8 let ve volné přírodě",
+      "habitat": "Pouště jihozápadu USA a severozápadu Mexika.",
+      "funFact": "Ještěrky rohaté dokážou stříkat krev z očí.",
+      "localPath": "/images/reptiles/reptiles25.jpg"
+    },
+    {
+      "fileName": "reptiles26.jpg",
+      "commonName": "Wood Turtle",
+      "scientificName": "Glyptemys insculpta",
+      "size": "20-40 cm",
+      "lifespan": "5-10 let ve volné přírodě",
+      "habitat": "Skalnaté pouště jihozápadu USA.",
+      "funFact": "Ještěrky chuckwally se nafukují v skalních štěrbinách.",
+      "localPath": "/images/reptiles/reptiles26.jpg"
+    },
+    {
+      "fileName": "reptiles27.jpg",
+      "commonName": "Coachwhip Snake",
+      "scientificName": "Masticophis flagellum",
+      "size": "25-45 cm",
+      "lifespan": "6-12 let ve volné přírodě",
+      "habitat": "Pouště a suché oblasti jihozápadu USA.",
+      "funFact": "Ještěrky leopardí jsou noční a mají pohyblivé víčka.",
+      "localPath": "/images/reptiles/reptiles27.jpg"
+    },
+    {
+      "fileName": "reptiles28.jpg",
+      "commonName": "Spotted Turtle",
+      "scientificName": "Clemmys guttata",
+      "size": "180-400 cm",
+      "lifespan": "20-30 let ve volné přírodě",
+      "habitat": "Bažiny a mokřady v jihovýchodní USA.",
+      "funFact": "Užovky indigo jsou největší nejedovaté hady v USA.",
+      "localPath": "/images/reptiles/reptiles28.jpg"
+    },
+    {
+      "fileName": "reptiles29.jpg",
+      "commonName": "Ring-necked Snake",
+      "scientificName": "Diadophis punctatus",
+      "size": "120-250 cm",
+      "lifespan": "15-25 let ve volné přírodě",
+      "habitat": "Lesy a traviny po východní USA.",
+      "funFact": "Užovky krysí jsou vynikající lezci a škrtiči.",
+      "localPath": "/images/reptiles/reptiles29.jpg"
+    },
+    {
+      "fileName": "reptiles30.jpg",
+      "commonName": "Musk Turtle",
+      "scientificName": "Sternotherus odoratus",
+      "size": "60-120 cm",
+      "lifespan": "10-18 let ve volné přírodě",
+      "habitat": "Mokřady a vodní prostředí v jihovýchodní USA.",
+      "funFact": "Užovky vodní jsou poloaquatické a vynikající plavci.",
+      "localPath": "/images/reptiles/reptiles30.jpg"
+    }
+  ]
+}

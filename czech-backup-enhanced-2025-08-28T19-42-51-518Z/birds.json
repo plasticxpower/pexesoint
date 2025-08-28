@@ -1,0 +1,306 @@
+{
+  "category": "birds",
+  "totalPhotos": 30,
+  "photos": [
+    {
+      "fileName": "birds1.jpg",
+      "commonName": "Drozd stěhovavý",
+      "scientificName": "Turdus migratorius",
+      "size": "Rozpětí: 185-230 cm, Hmotnost: 3-6 kg",
+      "lifespan": "20-30 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/birds/birds1.jpg"
+    },
+    {
+      "fileName": "birds2.jpg",
+      "commonName": "Vrána americká",
+      "scientificName": "Corvus brachyrhynchos",
+      "size": "Rozpětí: 270-310 cm, Hmotnost: 7-14 kg",
+      "lifespan": "50-60 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/birds/birds2.jpg"
+    },
+    {
+      "fileName": "birds3.jpg",
+      "commonName": "Poecile",
+      "scientificName": "Poecile atricapillus",
+      "size": "Rozpětí: 200-230 cm, Hmotnost: 2-5 kg",
+      "lifespan": "25-30 let ve volné přírodě",
+      "habitat": "Lesy napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/birds/birds3.jpg"
+    },
+    {
+      "fileName": "birds4.jpg",
+      "commonName": "Neznámý ptáci 4",
+      "scientificName": "Sialia sialis",
+      "size": "Rozpětí: 165-195 cm, Hmotnost: 2-3 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/birds/birds4.jpg"
+    },
+    {
+      "fileName": "birds5.jpg",
+      "commonName": "Čížek žlutý",
+      "scientificName": "Spinus tristis",
+      "size": "Rozpětí: 90-105 cm, Hmotnost: 1-2 kg",
+      "lifespan": "20-25 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/birds/birds5.jpg"
+    },
+    {
+      "fileName": "birds6.jpg",
+      "commonName": "Kardinál červený",
+      "scientificName": "Cardinalis cardinalis",
+      "size": "Rozpětí: 180-240 cm, Hmotnost: 3-6 kg",
+      "lifespan": "25-30 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/birds/birds6.jpg"
+    },
+    {
+      "fileName": "birds7.jpg",
+      "commonName": "Sojka chocholatá",
+      "scientificName": "Cyanocitta cristata",
+      "size": "Rozpětí: 200-230 cm, Hmotnost: 4-7 kg",
+      "lifespan": "20-25 let ve volné přírodě",
+      "habitat": "Lesy napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/birds/birds7.jpg"
+    },
+    {
+      "fileName": "birds8.jpg",
+      "commonName": "Vrabec domácí",
+      "scientificName": "Passer domesticus",
+      "size": "Rozpětí: 200-240 cm, Hmotnost: 7-14 kg",
+      "lifespan": "20-30 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/birds/birds8.jpg"
+    },
+    {
+      "fileName": "birds9.jpg",
+      "commonName": "Vlhovec červenokřídlý",
+      "scientificName": "Agelaius phoeniceus",
+      "size": "Rozpětí: 80-95 cm, Hmotnost: 1-2 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Mokřady, bažiny a rašeliniště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/birds/birds9.jpg"
+    },
+    {
+      "fileName": "birds10.jpg",
+      "commonName": "Orel bělohlavý",
+      "scientificName": "Haliaeetus leucocephalus",
+      "size": "Rozpětí: 55-65 cm, Hmotnost: 0.3-0.6 kg",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/birds/birds10.jpg"
+    },
+    {
+      "fileName": "birds11.jpg",
+      "commonName": "Volavka velká",
+      "scientificName": "Ardea herodias",
+      "size": "Rozpětí: 160-180 cm, Hmotnost: 1-2 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Mokřady, bažiny a rašeliniště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/birds/birds11.jpg"
+    },
+    {
+      "fileName": "birds12.jpg",
+      "commonName": "Káně rudoocasá",
+      "scientificName": "Buteo jamaicensis",
+      "size": "Rozpětí: 95-120 cm, Hmotnost: 0.7-1.5 kg",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Lesy napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/birds/birds12.jpg"
+    },
+    {
+      "fileName": "birds13.jpg",
+      "commonName": "Kachna divoká",
+      "scientificName": "Anas platyrhynchos",
+      "size": "Rozpětí: 95-115 cm, Hmotnost: 0.6-1.5 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/birds/birds13.jpg"
+    },
+    {
+      "fileName": "birds14.jpg",
+      "commonName": "Výr virginský",
+      "scientificName": "Bubo virginianus",
+      "size": "Rozpětí: 95-115 cm, Hmotnost: 0.4-0.8 kg",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/birds/birds14.jpg"
+    },
+    {
+      "fileName": "birds15.jpg",
+      "commonName": "Kolibřík rubínohrdlý",
+      "scientificName": "Archilochus colubris",
+      "size": "Rozpětí: 50-60 cm, Hmotnost: 0.1-0.2 kg",
+      "lifespan": "7-10 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/birds/birds15.jpg"
+    },
+    {
+      "fileName": "birds16.jpg",
+      "commonName": "Hrdlička karolinská",
+      "scientificName": "Zenaida macroura",
+      "size": "Rozpětí: 8-11 cm, Hmotnost: 2-6 g",
+      "lifespan": "3-5 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/birds/birds16.jpg"
+    },
+    {
+      "fileName": "birds17.jpg",
+      "commonName": "Strakapoud osikový",
+      "scientificName": "Picoides pubescens",
+      "size": "Rozpětí: 65-75 cm, Hmotnost: 0.2-0.5 kg",
+      "lifespan": "8-12 let ve volné přírodě",
+      "habitat": "Lesy napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/birds/birds17.jpg"
+    },
+    {
+      "fileName": "birds18.jpg",
+      "commonName": "Berneška velká",
+      "scientificName": "Branta canadensis",
+      "size": "Rozpětí: 30-35 cm, Hmotnost: 15-25 g",
+      "lifespan": "4-8 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/birds/birds18.jpg"
+    },
+    {
+      "fileName": "birds19.jpg",
+      "commonName": "Sova pálená",
+      "scientificName": "Tyto alba",
+      "size": "Rozpětí: 20-25 cm, Hmotnost: 75-85 g",
+      "lifespan": "8-12 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/birds/birds19.jpg"
+    },
+    {
+      "fileName": "birds20.jpg",
+      "commonName": "Orlovec říční",
+      "scientificName": "Pandion haliaetus",
+      "size": "Rozpětí: 25-30 cm, Hmotnost: 35-65 g",
+      "lifespan": "8-10 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/birds/birds20.jpg"
+    },
+    {
+      "fileName": "birds21.jpg",
+      "commonName": "Sokol stěhovavý",
+      "scientificName": "Falco peregrinus",
+      "size": "Rozpětí: 35-40 cm, Hmotnost: 75-100 g",
+      "lifespan": "7-10 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/birds/birds21.jpg"
+    },
+    {
+      "fileName": "birds22.jpg",
+      "commonName": "Krocan divoký",
+      "scientificName": "Meleagris gallopavo",
+      "size": "Rozpětí: 125-145 cm, Hmotnost: 5-11 kg",
+      "lifespan": "3-5 let ve volné přírodě",
+      "habitat": "Lesy napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/birds/birds22.jpg"
+    },
+    {
+      "fileName": "birds23.jpg",
+      "commonName": "Ledňáčkovití",
+      "scientificName": "Megaceryle alcyon",
+      "size": "Rozpětí: 25-30 cm, Hmotnost: 40-60 g",
+      "lifespan": "6-10 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/birds/birds23.jpg"
+    },
+    {
+      "fileName": "birds24.jpg",
+      "commonName": "Jeřáb kanadský",
+      "scientificName": "Antigone canadensis",
+      "size": "Rozpětí: 65-75 cm, Hmotnost: 0.4-0.7 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/birds/birds24.jpg"
+    },
+    {
+      "fileName": "birds25.jpg",
+      "commonName": "Jedle nádherná",
+      "scientificName": "Dryocopus pileatus",
+      "size": "Rozpětí: 35-40 cm, Hmotnost: 55-90 g",
+      "lifespan": "8-12 let ve volné přírodě",
+      "habitat": "Lesy napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/birds/birds25.jpg"
+    },
+    {
+      "fileName": "birds26.jpg",
+      "commonName": "Lesňáček žlutý",
+      "scientificName": "Setophaga petechia",
+      "size": "Rozpětí: 12-15 cm, Hmotnost: 8-12 g",
+      "lifespan": "6-8 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/birds/birds26.jpg"
+    },
+    {
+      "fileName": "birds27.jpg",
+      "commonName": "Brhlíkovití",
+      "scientificName": "Sitta carolinensis",
+      "size": "Rozpětí: 20-25 cm, Hmotnost: 20-25 g",
+      "lifespan": "6-8 let ve volné přírodě",
+      "habitat": "Lesy napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/birds/birds27.jpg"
+    },
+    {
+      "fileName": "birds28.jpg",
+      "commonName": "Brkoslav",
+      "scientificName": "Bombycilla cedrorum",
+      "size": "Rozpětí: 25-30 cm, Hmotnost: 12-18 g",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/birds/birds28.jpg"
+    },
+    {
+      "fileName": "birds29.jpg",
+      "commonName": "Papežík indigový",
+      "scientificName": "Passerina cyanea",
+      "size": "Rozpětí: 30-35 cm, Hmotnost: 25-35 g",
+      "lifespan": "6-8 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/birds/birds29.jpg"
+    },
+    {
+      "fileName": "birds30.jpg",
+      "commonName": "Dlaskovec",
+      "scientificName": "Pheucticus ludovicianus",
+      "size": "Rozpětí: 30-35 cm, Hmotnost: 30-40 g",
+      "lifespan": "8-10 let ve volné přírodě",
+      "habitat": "Lesy napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/birds/birds30.jpg"
+    }
+  ]
+}

@@ -7,7 +7,7 @@ import './LanguageSwitcher.css';
  * @returns {JSX.Element} LanguageSwitcher component
  */
 function LanguageSwitcher() {
-  const { i18n, t } = useTranslation();
+  const { i18n, t } = useTranslation('common');
 
   const changeLanguage = (lng) => {
     i18n.changeLanguage(lng);

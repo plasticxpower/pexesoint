@@ -1,0 +1,1214 @@
+{
+  "category": "reptiles",
+  "totalPhotos": 30,
+  "source": "Clean English Data - Generated",
+  "downloadedAt": "2025-08-27T19:53:54.438Z",
+  "photos": [
+    {
+      "fileName": "reptiles1.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles1.jpg",
+      "photoData": {
+        "id": "generated_reptiles_1",
+        "description": "Eastern Box Turtle (Terrapene carolina)",
+        "alt_description": "Terrapene carolina",
+        "urls": {
+          "regular": "placeholder_url_reptiles_1"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Terrapene carolina",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Terrapene carolina",
+        "source": "generated_english_data"
+      },
+      "commonName": "Eastern Box Turtle",
+      "scientificName": "Terrapene carolina",
+      "size": "10-15 cm (4-6 inches) shell length",
+      "lifespan": "50-100+ years in wild",
+      "habitat": "Deciduous forests, fields, and woodland edges across eastern North America.",
+      "funFact": "Box turtles can completely close their shell for protection and have been known to live over 100 years. They have excellent homing abilities and rarely travel far from their birthplace.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Terrapene_carolina",
+        "https://animaldiversity.org/accounts/Terrapene_carolina/"
+      ],
+      "taxon": "Terrapene carolina",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles1.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Eastern Box Turtle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eastern_Box Turtle",
+      "wikipediaExtract": "The Eastern Box Turtle (Terrapene carolina) is a species found in Deciduous forests, fields, and woodland edges across eastern North America.",
+      "updatedAt": "2025-08-27T19:53:54.438Z",
+      "imageSource": "placeholder_image_source_reptiles_1",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "reptiles2.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles2.jpg",
+      "photoData": {
+        "id": "generated_reptiles_2",
+        "description": "Garter Snake (Thamnophis sirtalis)",
+        "alt_description": "Thamnophis sirtalis",
+        "urls": {
+          "regular": "placeholder_url_reptiles_2"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Thamnophis sirtalis",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Thamnophis sirtalis",
+        "source": "generated_english_data"
+      },
+      "commonName": "Garter Snake",
+      "scientificName": "Thamnophis sirtalis",
+      "size": "45-65 cm (18-26 inches)",
+      "lifespan": "4-5 years in wild",
+      "habitat": "Diverse habitats including forests, fields, wetlands, and suburban areas across North America.",
+      "funFact": "Garter snakes are among the most cold-tolerant snakes and can be active at temperatures as low as 1°C. They hibernate in large groups called hibernacula.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Thamnophis_sirtalis",
+        "https://animaldiversity.org/accounts/Thamnophis_sirtalis/"
+      ],
+      "taxon": "Thamnophis sirtalis",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles2.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Garter Snake",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Garter_Snake",
+      "wikipediaExtract": "The Garter Snake (Thamnophis sirtalis) is a species found in Diverse habitats including forests, fields, wetlands, and suburban areas across North America.",
+      "updatedAt": "2025-08-27T19:53:54.438Z",
+      "imageSource": "placeholder_image_source_reptiles_2",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "reptiles3.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles3.jpg",
+      "photoData": {
+        "id": "generated_reptiles_3",
+        "description": "Five-lined Skink (Plestiodon fasciatus)",
+        "alt_description": "Plestiodon fasciatus",
+        "urls": {
+          "regular": "placeholder_url_reptiles_3"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Plestiodon fasciatus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Plestiodon fasciatus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Five-lined Skink",
+      "scientificName": "Plestiodon fasciatus",
+      "size": "12-20 cm (5-8 inches)",
+      "lifespan": "6-10 years in wild",
+      "habitat": "Wooded areas with abundant cover such as logs, rocks, and leaf litter across eastern North America.",
+      "funFact": "Young five-lined skinks have bright blue tails that they can detach if grabbed by a predator. The tail continues to wiggle, distracting the predator while the skink escapes.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Plestiodon_fasciatus",
+        "https://animaldiversity.org/accounts/Plestiodon_fasciatus/"
+      ],
+      "taxon": "Plestiodon fasciatus",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles3.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Five-lined Skink",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Five-lined_Skink",
+      "wikipediaExtract": "The Five-lined Skink (Plestiodon fasciatus) is a species found in Wooded areas with abundant cover such as logs, rocks, and leaf litter across eastern North America.",
+      "updatedAt": "2025-08-27T19:53:54.438Z",
+      "imageSource": "placeholder_image_source_reptiles_3",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "reptiles4.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles4.jpg",
+      "photoData": {
+        "id": "generated_reptiles_4",
+        "description": "Painted Turtle (Chrysemys picta)",
+        "alt_description": "Chrysemys picta",
+        "urls": {
+          "regular": "placeholder_url_reptiles_4"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Chrysemys picta",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Chrysemys picta",
+        "source": "generated_english_data"
+      },
+      "commonName": "Painted Turtle",
+      "scientificName": "Chrysemys picta",
+      "size": "10-18 cm (4-7 inches) shell length",
+      "lifespan": "20-40 years in wild",
+      "habitat": "Slow-moving waters with muddy bottoms and aquatic vegetation across North America.",
+      "funFact": "Painted turtles can survive winter by slowing their metabolism and absorbing oxygen through their skin while buried in mud underwater. They are excellent swimmers and baskers.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chrysemys_picta",
+        "https://animaldiversity.org/accounts/Chrysemys_picta/"
+      ],
+      "taxon": "Chrysemys picta",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles4.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Painted Turtle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Painted_Turtle",
+      "wikipediaExtract": "The Painted Turtle (Chrysemys picta) is a species found in Slow-moving waters with muddy bottoms and aquatic vegetation across North America.",
+      "updatedAt": "2025-08-27T19:53:54.438Z",
+      "imageSource": "placeholder_image_source_reptiles_4",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "reptiles5.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles5.jpg",
+      "photoData": {
+        "id": "generated_reptiles_5",
+        "description": "Green Anole (Anolis carolinensis)",
+        "alt_description": "Anolis carolinensis",
+        "urls": {
+          "regular": "placeholder_url_reptiles_5"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Anolis carolinensis",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Anolis carolinensis",
+        "source": "generated_english_data"
+      },
+      "commonName": "Green Anole",
+      "scientificName": "Anolis carolinensis",
+      "size": "12-20 cm (5-8 inches)",
+      "lifespan": "2-8 years in wild",
+      "habitat": "Trees, shrubs, and vegetation in warm, humid areas across southeastern United States.",
+      "funFact": "Green anoles can change color from bright green to brown depending on temperature, mood, and social signals. Males have a colorful throat fan called a dewlap used for communication.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Anolis_carolinensis",
+        "https://animaldiversity.org/accounts/Anolis_carolinensis/"
+      ],
+      "taxon": "Anolis carolinensis",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles5.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Green Anole",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Green_Anole",
+      "wikipediaExtract": "The Green Anole (Anolis carolinensis) is a species found in Trees, shrubs, and vegetation in warm, humid areas across southeastern United States.",
+      "updatedAt": "2025-08-27T19:53:54.438Z",
+      "imageSource": "placeholder_image_source_reptiles_5",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "reptiles6.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles6.jpg",
+      "photoData": {
+        "id": "generated_reptiles_6",
+        "description": "Red-eared Slider (Trachemys scripta elegans)",
+        "alt_description": "Trachemys scripta elegans",
+        "urls": {
+          "regular": "placeholder_url_reptiles_6"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Trachemys scripta elegans",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Trachemys scripta elegans",
+        "source": "generated_english_data"
+      },
+      "commonName": "Red-eared Slider",
+      "scientificName": "Trachemys scripta elegans",
+      "size": "15-30 cm (6-12 inches) shell length",
+      "lifespan": "20-40 years in wild",
+      "habitat": "Ponds, lakes, marshes, and slow-moving streams across North America.",
+      "funFact": "Red-eared sliders are excellent swimmers and can hold their breath for up to 30 minutes. They are named for the distinctive red stripe behind their eyes.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Trachemys_scripta elegans",
+        "https://animaldiversity.org/accounts/Trachemys_scripta elegans/"
+      ],
+      "taxon": "Trachemys scripta elegans",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles6.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Red-eared Slider",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Red-eared_Slider",
+      "wikipediaExtract": "The Red-eared Slider (Trachemys scripta elegans) is a species found in Ponds, lakes, marshes, and slow-moving streams across North America.",
+      "updatedAt": "2025-08-27T19:53:54.438Z",
+      "imageSource": "placeholder_image_source_reptiles_6",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "reptiles7.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles7.jpg",
+      "photoData": {
+        "id": "generated_reptiles_7",
+        "description": "American Alligator (Alligator mississippiensis)",
+        "alt_description": "Alligator mississippiensis",
+        "urls": {
+          "regular": "placeholder_url_reptiles_7"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Alligator mississippiensis",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Alligator mississippiensis",
+        "source": "generated_english_data"
+      },
+      "commonName": "American Alligator",
+      "scientificName": "Alligator mississippiensis",
+      "size": "2-4 meters (6-14 feet), 90-230 kg",
+      "lifespan": "35-50 years in wild",
+      "habitat": "Freshwater swamps, marshes, rivers, and lakes in southeastern United States.",
+      "funFact": "American alligators are apex predators that can remain motionless for hours. They are excellent mothers, carrying their babies to water in their mouths after hatching.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Alligator_mississippiensis",
+        "https://animaldiversity.org/accounts/Alligator_mississippiensis/"
+      ],
+      "taxon": "Alligator mississippiensis",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles7.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "American Alligator",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/American_Alligator",
+      "wikipediaExtract": "The American Alligator (Alligator mississippiensis) is a species found in Freshwater swamps, marshes, rivers, and lakes in southeastern United States.",
+      "updatedAt": "2025-08-27T19:53:54.438Z",
+      "imageSource": "placeholder_image_source_reptiles_7",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "reptiles8.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles8.jpg",
+      "photoData": {
+        "id": "generated_reptiles_8",
+        "description": "Corn Snake (Pantherophis guttatus)",
+        "alt_description": "Pantherophis guttatus",
+        "urls": {
+          "regular": "placeholder_url_reptiles_8"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Pantherophis guttatus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Pantherophis guttatus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Corn Snake",
+      "scientificName": "Pantherophis guttatus",
+      "size": "60-120 cm (24-48 inches)",
+      "lifespan": "15-20 years in wild",
+      "habitat": "Forests, fields, and agricultural areas across southeastern United States.",
+      "funFact": "Corn snakes are excellent climbers and constrictors. They get their name from the corn-like pattern on their belly scales, not from eating corn.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pantherophis_guttatus",
+        "https://animaldiversity.org/accounts/Pantherophis_guttatus/"
+      ],
+      "taxon": "Pantherophis guttatus",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles8.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Corn Snake",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Corn_Snake",
+      "wikipediaExtract": "The Corn Snake (Pantherophis guttatus) is a species found in Forests, fields, and agricultural areas across southeastern United States.",
+      "updatedAt": "2025-08-27T19:53:54.438Z",
+      "imageSource": "placeholder_image_source_reptiles_8",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "reptiles9.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles9.jpg",
+      "photoData": {
+        "id": "generated_reptiles_9",
+        "description": "Snapping Turtle (Chelydra serpentina)",
+        "alt_description": "Chelydra serpentina",
+        "urls": {
+          "regular": "placeholder_url_reptiles_9"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Chelydra serpentina",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Chelydra serpentina",
+        "source": "generated_english_data"
+      },
+      "commonName": "Snapping Turtle",
+      "scientificName": "Chelydra serpentina",
+      "size": "20-35 cm (8-14 inches) shell length",
+      "lifespan": "30-47 years in wild",
+      "habitat": "Freshwater environments including ponds, lakes, rivers, and marshes across North America.",
+      "funFact": "Snapping turtles have incredibly powerful jaws and can snap with the force of 208 pounds per square inch. They are surprisingly fast swimmers despite their bulky appearance.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chelydra_serpentina",
+        "https://animaldiversity.org/accounts/Chelydra_serpentina/"
+      ],
+      "taxon": "Chelydra serpentina",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles9.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Snapping Turtle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Snapping_Turtle",
+      "wikipediaExtract": "The Snapping Turtle (Chelydra serpentina) is a species found in Freshwater environments including ponds, lakes, rivers, and marshes across North America.",
+      "updatedAt": "2025-08-27T19:53:54.438Z",
+      "imageSource": "placeholder_image_source_reptiles_9",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "reptiles10.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles10.jpg",
+      "photoData": {
+        "id": "generated_reptiles_10",
+        "description": "Bearded Dragon (Pogona vitticeps)",
+        "alt_description": "Pogona vitticeps",
+        "urls": {
+          "regular": "placeholder_url_reptiles_10"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Pogona vitticeps",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Pogona vitticeps",
+        "source": "generated_english_data"
+      },
+      "commonName": "Bearded Dragon",
+      "scientificName": "Pogona vitticeps",
+      "size": "40-60 cm (16-24 inches)",
+      "lifespan": "10-15 years in wild",
+      "habitat": "Arid woodlands, deserts, and scrublands across Australia.",
+      "funFact": "Bearded dragons can change color to regulate body temperature and communicate. When threatened, they puff out their throat to appear larger and more intimidating.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pogona_vitticeps",
+        "https://animaldiversity.org/accounts/Pogona_vitticeps/"
+      ],
+      "taxon": "Pogona vitticeps",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles10.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Bearded Dragon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bearded_Dragon",
+      "wikipediaExtract": "The Bearded Dragon (Pogona vitticeps) is a species found in Arid woodlands, deserts, and scrublands across Australia.",
+      "updatedAt": "2025-08-27T19:53:54.439Z",
+      "imageSource": "placeholder_image_source_reptiles_10",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "reptiles11.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles11.jpg",
+      "photoData": {
+        "id": "generated_reptiles_11",
+        "description": "Iguana (Iguana iguana)",
+        "alt_description": "Iguana iguana",
+        "urls": {
+          "regular": "placeholder_url_reptiles_11"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Iguana iguana",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Iguana iguana",
+        "source": "generated_english_data"
+      },
+      "commonName": "Iguana",
+      "scientificName": "Iguana iguana",
+      "size": "120-180 cm (48-72 inches)",
+      "lifespan": "15-20 years in wild",
+      "habitat": "Tropical rainforests, mangroves, and coastal areas in Central and South America.",
+      "funFact": "Iguanas are excellent swimmers and can hold their breath for up to 30 minutes. They have a third eye on top of their head that detects shadows and changes in light.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Iguana_iguana",
+        "https://animaldiversity.org/accounts/Iguana_iguana/"
+      ],
+      "taxon": "Iguana iguana",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles11.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Iguana",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Iguana",
+      "wikipediaExtract": "The Iguana (Iguana iguana) is a species found in Tropical rainforests, mangroves, and coastal areas in Central and South America.",
+      "updatedAt": "2025-08-27T19:53:54.439Z",
+      "imageSource": "placeholder_image_source_reptiles_11",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "reptiles12.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles12.jpg",
+      "photoData": {
+        "id": "generated_reptiles_12",
+        "description": "Gecko (Hemidactylus turcicus)",
+        "alt_description": "Hemidactylus turcicus",
+        "urls": {
+          "regular": "placeholder_url_reptiles_12"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Hemidactylus turcicus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Hemidactylus turcicus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Gecko",
+      "scientificName": "Hemidactylus turcicus",
+      "size": "7-15 cm (3-6 inches)",
+      "lifespan": "5-10 years in wild",
+      "habitat": "Rocky areas, buildings, and urban environments in warm climates worldwide.",
+      "funFact": "Geckos can walk on any surface, including glass, due to millions of tiny hairs on their feet called setae. They are also one of the few lizards that can vocalize.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hemidactylus_turcicus",
+        "https://animaldiversity.org/accounts/Hemidactylus_turcicus/"
+      ],
+      "taxon": "Hemidactylus turcicus",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles12.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Gecko",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gecko",
+      "wikipediaExtract": "The Gecko (Hemidactylus turcicus) is a species found in Rocky areas, buildings, and urban environments in warm climates worldwide.",
+      "updatedAt": "2025-08-27T19:53:54.439Z",
+      "imageSource": "placeholder_image_source_reptiles_12",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "reptiles13.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles13.jpg",
+      "photoData": {
+        "id": "generated_reptiles_13",
+        "description": "Chameleon (Chamaeleo calyptratus)",
+        "alt_description": "Chamaeleo calyptratus",
+        "urls": {
+          "regular": "placeholder_url_reptiles_13"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Chamaeleo calyptratus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Chamaeleo calyptratus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Chameleon",
+      "scientificName": "Chamaeleo calyptratus",
+      "size": "35-60 cm (14-24 inches)",
+      "lifespan": "5-8 years in wild",
+      "habitat": "Trees and shrubs in mountainous regions of Yemen and Saudi Arabia.",
+      "funFact": "Chameleons can move their eyes independently and have tongues that can extend twice their body length. They change color based on mood, temperature, and communication.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chamaeleo_calyptratus",
+        "https://animaldiversity.org/accounts/Chamaeleo_calyptratus/"
+      ],
+      "taxon": "Chamaeleo calyptratus",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles13.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Chameleon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chameleon",
+      "wikipediaExtract": "The Chameleon (Chamaeleo calyptratus) is a species found in Trees and shrubs in mountainous regions of Yemen and Saudi Arabia.",
+      "updatedAt": "2025-08-27T19:53:54.439Z",
+      "imageSource": "placeholder_image_source_reptiles_13",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "reptiles14.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles14.jpg",
+      "photoData": {
+        "id": "generated_reptiles_14",
+        "description": "Ball Python (Python regius)",
+        "alt_description": "Python regius",
+        "urls": {
+          "regular": "placeholder_url_reptiles_14"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Python regius",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Python regius",
+        "source": "generated_english_data"
+      },
+      "commonName": "Ball Python",
+      "scientificName": "Python regius",
+      "size": "90-150 cm (36-60 inches)",
+      "lifespan": "20-30 years in wild",
+      "habitat": "Grasslands, shrublands, and open forests in West and Central Africa.",
+      "funFact": "Ball pythons get their name from their defensive behavior of curling into a tight ball. They are non-venomous constrictors that can go months without eating.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Python_regius",
+        "https://animaldiversity.org/accounts/Python_regius/"
+      ],
+      "taxon": "Python regius",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles14.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Ball Python",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ball_Python",
+      "wikipediaExtract": "The Ball Python (Python regius) is a species found in Grasslands, shrublands, and open forests in West and Central Africa.",
+      "updatedAt": "2025-08-27T19:53:54.439Z",
+      "imageSource": "placeholder_image_source_reptiles_14",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "reptiles15.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles15.jpg",
+      "photoData": {
+        "id": "generated_reptiles_15",
+        "description": "Monitor Lizard (Varanus salvator)",
+        "alt_description": "Varanus salvator",
+        "urls": {
+          "regular": "placeholder_url_reptiles_15"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Varanus salvator",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Varanus salvator",
+        "source": "generated_english_data"
+      },
+      "commonName": "Monitor Lizard",
+      "scientificName": "Varanus salvator",
+      "size": "150-250 cm (60-100 inches)",
+      "lifespan": "15-25 years in wild",
+      "habitat": "Tropical forests, mangroves, and wetlands in Southeast Asia.",
+      "funFact": "Monitor lizards are highly intelligent reptiles with excellent problem-solving abilities. They are semi-aquatic and excellent swimmers, often diving to escape predators.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Varanus_salvator",
+        "https://animaldiversity.org/accounts/Varanus_salvator/"
+      ],
+      "taxon": "Varanus salvator",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles15.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Monitor Lizard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Monitor_Lizard",
+      "wikipediaExtract": "The Monitor Lizard (Varanus salvator) is a species found in Tropical forests, mangroves, and wetlands in Southeast Asia.",
+      "updatedAt": "2025-08-27T19:53:54.439Z",
+      "imageSource": "placeholder_image_source_reptiles_15",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "reptiles16.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles16.jpg",
+      "photoData": {
+        "id": "generated_reptiles_16",
+        "description": "Rattlesnake (Crotalus atrox)",
+        "alt_description": "Crotalus atrox",
+        "urls": {
+          "regular": "placeholder_url_reptiles_16"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Crotalus atrox",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Crotalus atrox",
+        "source": "generated_english_data"
+      },
+      "commonName": "Rattlesnake",
+      "scientificName": "Crotalus atrox",
+      "size": "90-150 cm (36-60 inches)",
+      "lifespan": "15-25 years in wild",
+      "habitat": "Deserts, grasslands, and scrub forests across southwestern United States and Mexico.",
+      "funFact": "Rattlesnakes add a new segment to their rattle each time they shed their skin. They can sense heat through special organs and strike with incredible speed and accuracy.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Crotalus_atrox",
+        "https://animaldiversity.org/accounts/Crotalus_atrox/"
+      ],
+      "taxon": "Crotalus atrox",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles16.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Rattlesnake",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rattlesnake",
+      "wikipediaExtract": "The Rattlesnake (Crotalus atrox) is a species found in Deserts, grasslands, and scrub forests across southwestern United States and Mexico.",
+      "updatedAt": "2025-08-27T19:53:54.439Z",
+      "imageSource": "placeholder_image_source_reptiles_16",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "reptiles17.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles17.jpg",
+      "photoData": {
+        "id": "generated_reptiles_17",
+        "description": "Sea Turtle (Chelonia mydas)",
+        "alt_description": "Chelonia mydas",
+        "urls": {
+          "regular": "placeholder_url_reptiles_17"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Chelonia mydas",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Chelonia mydas",
+        "source": "generated_english_data"
+      },
+      "commonName": "Sea Turtle",
+      "scientificName": "Chelonia mydas",
+      "size": "80-120 cm (32-48 inches) shell length",
+      "lifespan": "60-80 years in wild",
+      "habitat": "Tropical and subtropical oceans worldwide, nesting on sandy beaches.",
+      "funFact": "Sea turtles navigate using Earth's magnetic field and return to the same beach where they were born to lay eggs. They can hold their breath for up to 5 hours.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chelonia_mydas",
+        "https://animaldiversity.org/accounts/Chelonia_mydas/"
+      ],
+      "taxon": "Chelonia mydas",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles17.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Sea Turtle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sea_Turtle",
+      "wikipediaExtract": "The Sea Turtle (Chelonia mydas) is a species found in Tropical and subtropical oceans worldwide, nesting on sandy beaches.",
+      "updatedAt": "2025-08-27T19:53:54.439Z",
+      "imageSource": "placeholder_image_source_reptiles_17",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "reptiles18.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles18.jpg",
+      "photoData": {
+        "id": "generated_reptiles_18",
+        "description": "Kingsnake (Lampropeltis getula)",
+        "alt_description": "Lampropeltis getula",
+        "urls": {
+          "regular": "placeholder_url_reptiles_18"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Lampropeltis getula",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Lampropeltis getula",
+        "source": "generated_english_data"
+      },
+      "commonName": "Kingsnake",
+      "scientificName": "Lampropeltis getula",
+      "size": "90-150 cm (36-60 inches)",
+      "lifespan": "10-15 years in wild",
+      "habitat": "Diverse habitats including forests, deserts, and grasslands across North America.",
+      "funFact": "Kingsnakes are immune to the venom of other snakes and regularly eat venomous species. They are powerful constrictors and excellent climbers.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lampropeltis_getula",
+        "https://animaldiversity.org/accounts/Lampropeltis_getula/"
+      ],
+      "taxon": "Lampropeltis getula",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles18.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Kingsnake",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kingsnake",
+      "wikipediaExtract": "The Kingsnake (Lampropeltis getula) is a species found in Diverse habitats including forests, deserts, and grasslands across North America.",
+      "updatedAt": "2025-08-27T19:53:54.439Z",
+      "imageSource": "placeholder_image_source_reptiles_18",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "reptiles19.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles19.jpg",
+      "photoData": {
+        "id": "generated_reptiles_19",
+        "description": "Tortoise (Gopherus polyphemus)",
+        "alt_description": "Gopherus polyphemus",
+        "urls": {
+          "regular": "placeholder_url_reptiles_19"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Gopherus polyphemus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Gopherus polyphemus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Tortoise",
+      "scientificName": "Gopherus polyphemus",
+      "size": "20-35 cm (8-14 inches) shell length",
+      "lifespan": "40-80 years in wild",
+      "habitat": "Sandy soils in longleaf pine forests and scrub habitats in southeastern United States.",
+      "funFact": "Gopher tortoises are ecosystem engineers that dig burrows up to 40 feet long, providing shelter for over 350 other species. They are herbivores that help disperse seeds.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gopherus_polyphemus",
+        "https://animaldiversity.org/accounts/Gopherus_polyphemus/"
+      ],
+      "taxon": "Gopherus polyphemus",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles19.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Tortoise",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tortoise",
+      "wikipediaExtract": "The Tortoise (Gopherus polyphemus) is a species found in Sandy soils in longleaf pine forests and scrub habitats in southeastern United States.",
+      "updatedAt": "2025-08-27T19:53:54.439Z",
+      "imageSource": "placeholder_image_source_reptiles_19",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "reptiles20.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles20.jpg",
+      "photoData": {
+        "id": "generated_reptiles_20",
+        "description": "Copperhead (Agkistrodon contortrix)",
+        "alt_description": "Agkistrodon contortrix",
+        "urls": {
+          "regular": "placeholder_url_reptiles_20"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Agkistrodon contortrix",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Agkistrodon contortrix",
+        "source": "generated_english_data"
+      },
+      "commonName": "Copperhead",
+      "scientificName": "Agkistrodon contortrix",
+      "size": "60-90 cm (24-36 inches)",
+      "lifespan": "18-25 years in wild",
+      "habitat": "Forests, rocky areas, and swamps across eastern United States.",
+      "funFact": "Copperheads are venomous pit vipers that can sense heat through special organs. They give birth to live young and are known for their distinctive hourglass-shaped markings.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Agkistrodon_contortrix",
+        "https://animaldiversity.org/accounts/Agkistrodon_contortrix/"
+      ],
+      "taxon": "Agkistrodon contortrix",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles20.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Copperhead",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Copperhead",
+      "wikipediaExtract": "The Copperhead (Agkistrodon contortrix) is a species found in Forests, rocky areas, and swamps across eastern United States.",
+      "updatedAt": "2025-08-27T19:53:54.439Z",
+      "imageSource": "placeholder_image_source_reptiles_20",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "reptiles21.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles21.jpg",
+      "photoData": {
+        "id": "generated_reptiles_21",
+        "description": "Milk Snake (Lampropeltis triangulum)",
+        "alt_description": "Lampropeltis triangulum",
+        "urls": {
+          "regular": "placeholder_url_reptiles_21"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Lampropeltis triangulum",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Lampropeltis triangulum",
+        "source": "generated_english_data"
+      },
+      "commonName": "Milk Snake",
+      "scientificName": "Lampropeltis triangulum",
+      "size": "50-150 cm (20-60 inches)",
+      "lifespan": "12-20 years in wild",
+      "habitat": "Diverse habitats including forests, fields, and rocky areas across North America.",
+      "funFact": "Milk snakes are harmless constrictors that mimic the coloration of venomous coral snakes. They are excellent rodent controllers and are often found in barns.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lampropeltis_triangulum",
+        "https://animaldiversity.org/accounts/Lampropeltis_triangulum/"
+      ],
+      "taxon": "Lampropeltis triangulum",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles21.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Milk Snake",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Milk_Snake",
+      "wikipediaExtract": "The Milk Snake (Lampropeltis triangulum) is a species found in Diverse habitats including forests, fields, and rocky areas across North America.",
+      "updatedAt": "2025-08-27T19:53:54.439Z",
+      "imageSource": "placeholder_image_source_reptiles_21",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "reptiles22.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles22.jpg",
+      "photoData": {
+        "id": "generated_reptiles_22",
+        "description": "Fence Lizard (Sceloporus undulatus)",
+        "alt_description": "Sceloporus undulatus",
+        "urls": {
+          "regular": "placeholder_url_reptiles_22"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Sceloporus undulatus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Sceloporus undulatus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Fence Lizard",
+      "scientificName": "Sceloporus undulatus",
+      "size": "10-18 cm (4-7 inches)",
+      "lifespan": "4-7 years in wild",
+      "habitat": "Rocky areas, fences, and open woodlands across North America.",
+      "funFact": "Fence lizards are excellent climbers and can run on their hind legs when escaping predators. Males have bright blue patches on their throat and belly during breeding season.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sceloporus_undulatus",
+        "https://animaldiversity.org/accounts/Sceloporus_undulatus/"
+      ],
+      "taxon": "Sceloporus undulatus",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles22.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Fence Lizard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fence_Lizard",
+      "wikipediaExtract": "The Fence Lizard (Sceloporus undulatus) is a species found in Rocky areas, fences, and open woodlands across North America.",
+      "updatedAt": "2025-08-27T19:53:54.439Z",
+      "imageSource": "placeholder_image_source_reptiles_22",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "reptiles23.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles23.jpg",
+      "photoData": {
+        "id": "generated_reptiles_23",
+        "description": "Diamondback Terrapin (Malaclemys terrapin)",
+        "alt_description": "Malaclemys terrapin",
+        "urls": {
+          "regular": "placeholder_url_reptiles_23"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Malaclemys terrapin",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Malaclemys terrapin",
+        "source": "generated_english_data"
+      },
+      "commonName": "Diamondback Terrapin",
+      "scientificName": "Malaclemys terrapin",
+      "size": "10-23 cm (4-9 inches) shell length",
+      "lifespan": "25-40 years in wild",
+      "habitat": "Salt marshes and brackish waters along the Atlantic and Gulf coasts.",
+      "funFact": "Diamondback terrapins are the only turtle species that lives exclusively in brackish water. They can drink both fresh and salt water through specialized glands.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Malaclemys_terrapin",
+        "https://animaldiversity.org/accounts/Malaclemys_terrapin/"
+      ],
+      "taxon": "Malaclemys terrapin",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles23.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Diamondback Terrapin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Diamondback_Terrapin",
+      "wikipediaExtract": "The Diamondback Terrapin (Malaclemys terrapin) is a species found in Salt marshes and brackish waters along the Atlantic and Gulf coasts.",
+      "updatedAt": "2025-08-27T19:53:54.439Z",
+      "imageSource": "placeholder_image_source_reptiles_23",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "reptiles24.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles24.jpg",
+      "photoData": {
+        "id": "generated_reptiles_24",
+        "description": "Hognose Snake (Heterodon platirhinos)",
+        "alt_description": "Heterodon platirhinos",
+        "urls": {
+          "regular": "placeholder_url_reptiles_24"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Heterodon platirhinos",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Heterodon platirhinos",
+        "source": "generated_english_data"
+      },
+      "commonName": "Hognose Snake",
+      "scientificName": "Heterodon platirhinos",
+      "size": "35-60 cm (14-24 inches)",
+      "lifespan": "15-18 years in wild",
+      "habitat": "Sandy soils in forests, fields, and coastal areas across eastern North America.",
+      "funFact": "Hognose snakes are master actors that play dead when threatened, complete with rolling over and letting their tongue hang out. They have upturned snouts for digging.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Heterodon_platirhinos",
+        "https://animaldiversity.org/accounts/Heterodon_platirhinos/"
+      ],
+      "taxon": "Heterodon platirhinos",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles24.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Hognose Snake",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hognose_Snake",
+      "wikipediaExtract": "The Hognose Snake (Heterodon platirhinos) is a species found in Sandy soils in forests, fields, and coastal areas across eastern North America.",
+      "updatedAt": "2025-08-27T19:53:54.439Z",
+      "imageSource": "placeholder_image_source_reptiles_24",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "reptiles25.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles25.jpg",
+      "photoData": {
+        "id": "generated_reptiles_25",
+        "description": "Glass Lizard (Ophisaurus ventralis)",
+        "alt_description": "Ophisaurus ventralis",
+        "urls": {
+          "regular": "placeholder_url_reptiles_25"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Ophisaurus ventralis",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Ophisaurus ventralis",
+        "source": "generated_english_data"
+      },
+      "commonName": "Glass Lizard",
+      "scientificName": "Ophisaurus ventralis",
+      "size": "45-60 cm (18-24 inches)",
+      "lifespan": "10-30 years in wild",
+      "habitat": "Grasslands, open woodlands, and scrub areas in southeastern United States.",
+      "funFact": "Glass lizards are legless lizards often mistaken for snakes. They can detach their tail when threatened, and the tail continues to move to distract predators.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ophisaurus_ventralis",
+        "https://animaldiversity.org/accounts/Ophisaurus_ventralis/"
+      ],
+      "taxon": "Ophisaurus ventralis",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles25.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Glass Lizard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Glass_Lizard",
+      "wikipediaExtract": "The Glass Lizard (Ophisaurus ventralis) is a species found in Grasslands, open woodlands, and scrub areas in southeastern United States.",
+      "updatedAt": "2025-08-27T19:53:54.439Z",
+      "imageSource": "placeholder_image_source_reptiles_25",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "reptiles26.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles26.jpg",
+      "photoData": {
+        "id": "generated_reptiles_26",
+        "description": "Wood Turtle (Glyptemys insculpta)",
+        "alt_description": "Glyptemys insculpta",
+        "urls": {
+          "regular": "placeholder_url_reptiles_26"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Glyptemys insculpta",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Glyptemys insculpta",
+        "source": "generated_english_data"
+      },
+      "commonName": "Wood Turtle",
+      "scientificName": "Glyptemys insculpta",
+      "size": "14-20 cm (5.5-8 inches) shell length",
+      "lifespan": "40-58 years in wild",
+      "habitat": "Streams, rivers, and adjacent forests in northeastern North America.",
+      "funFact": "Wood turtles are highly intelligent and can be trained to navigate mazes. They have distinctive sculptured shells and are excellent both on land and in water.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Glyptemys_insculpta",
+        "https://animaldiversity.org/accounts/Glyptemys_insculpta/"
+      ],
+      "taxon": "Glyptemys insculpta",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles26.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Wood Turtle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wood_Turtle",
+      "wikipediaExtract": "The Wood Turtle (Glyptemys insculpta) is a species found in Streams, rivers, and adjacent forests in northeastern North America.",
+      "updatedAt": "2025-08-27T19:53:54.439Z",
+      "imageSource": "placeholder_image_source_reptiles_26",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "reptiles27.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles27.jpg",
+      "photoData": {
+        "id": "generated_reptiles_27",
+        "description": "Coachwhip Snake (Masticophis flagellum)",
+        "alt_description": "Masticophis flagellum",
+        "urls": {
+          "regular": "placeholder_url_reptiles_27"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Masticophis flagellum",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Masticophis flagellum",
+        "source": "generated_english_data"
+      },
+      "commonName": "Coachwhip Snake",
+      "scientificName": "Masticophis flagellum",
+      "size": "90-180 cm (36-72 inches)",
+      "lifespan": "13-20 years in wild",
+      "habitat": "Open areas including deserts, grasslands, and scrublands across southern United States.",
+      "funFact": "Coachwhip snakes are among the fastest snakes in North America, capable of speeds up to 4 mph. They are excellent climbers and often hunt in trees and bushes.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Masticophis_flagellum",
+        "https://animaldiversity.org/accounts/Masticophis_flagellum/"
+      ],
+      "taxon": "Masticophis flagellum",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles27.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Coachwhip Snake",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Coachwhip_Snake",
+      "wikipediaExtract": "The Coachwhip Snake (Masticophis flagellum) is a species found in Open areas including deserts, grasslands, and scrublands across southern United States.",
+      "updatedAt": "2025-08-27T19:53:54.439Z",
+      "imageSource": "placeholder_image_source_reptiles_27",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "reptiles28.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles28.jpg",
+      "photoData": {
+        "id": "generated_reptiles_28",
+        "description": "Spotted Turtle (Clemmys guttata)",
+        "alt_description": "Clemmys guttata",
+        "urls": {
+          "regular": "placeholder_url_reptiles_28"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Clemmys guttata",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Clemmys guttata",
+        "source": "generated_english_data"
+      },
+      "commonName": "Spotted Turtle",
+      "scientificName": "Clemmys guttata",
+      "size": "8-12 cm (3-5 inches) shell length",
+      "lifespan": "25-50 years in wild",
+      "habitat": "Shallow wetlands, bogs, and slow streams in eastern North America.",
+      "funFact": "Spotted turtles are semi-aquatic and hibernate in mud at the bottom of ponds. Each turtle has a unique pattern of yellow spots that can be used for individual identification.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Clemmys_guttata",
+        "https://animaldiversity.org/accounts/Clemmys_guttata/"
+      ],
+      "taxon": "Clemmys guttata",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles28.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Spotted Turtle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Spotted_Turtle",
+      "wikipediaExtract": "The Spotted Turtle (Clemmys guttata) is a species found in Shallow wetlands, bogs, and slow streams in eastern North America.",
+      "updatedAt": "2025-08-27T19:53:54.439Z",
+      "imageSource": "placeholder_image_source_reptiles_28",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "reptiles29.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles29.jpg",
+      "photoData": {
+        "id": "generated_reptiles_29",
+        "description": "Ring-necked Snake (Diadophis punctatus)",
+        "alt_description": "Diadophis punctatus",
+        "urls": {
+          "regular": "placeholder_url_reptiles_29"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Diadophis punctatus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Diadophis punctatus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Ring-necked Snake",
+      "scientificName": "Diadophis punctatus",
+      "size": "25-38 cm (10-15 inches)",
+      "lifespan": "6-10 years in wild",
+      "habitat": "Forests, woodlands, and rocky areas with abundant cover across North America.",
+      "funFact": "Ring-necked snakes are secretive and rarely seen during the day. When threatened, they curl their tail in a corkscrew shape and display their bright orange or red belly.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Diadophis_punctatus",
+        "https://animaldiversity.org/accounts/Diadophis_punctatus/"
+      ],
+      "taxon": "Diadophis punctatus",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles29.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Ring-necked Snake",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ring-necked_Snake",
+      "wikipediaExtract": "The Ring-necked Snake (Diadophis punctatus) is a species found in Forests, woodlands, and rocky areas with abundant cover across North America.",
+      "updatedAt": "2025-08-27T19:53:54.439Z",
+      "imageSource": "placeholder_image_source_reptiles_29",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "reptiles30.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles30.jpg",
+      "photoData": {
+        "id": "generated_reptiles_30",
+        "description": "Musk Turtle (Sternotherus odoratus)",
+        "alt_description": "Sternotherus odoratus",
+        "urls": {
+          "regular": "placeholder_url_reptiles_30"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Sternotherus odoratus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Sternotherus odoratus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Musk Turtle",
+      "scientificName": "Sternotherus odoratus",
+      "size": "7-12 cm (3-5 inches) shell length",
+      "lifespan": "30-50 years in wild",
+      "habitat": "Shallow, slow-moving waters with muddy bottoms across eastern North America.",
+      "funFact": "Musk turtles are also called 'stinkpots' because they release a musky odor when threatened. They are excellent climbers and can often be found basking on low branches over water.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sternotherus_odoratus",
+        "https://animaldiversity.org/accounts/Sternotherus_odoratus/"
+      ],
+      "taxon": "Sternotherus odoratus",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles30.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Musk Turtle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Musk_Turtle",
+      "wikipediaExtract": "The Musk Turtle (Sternotherus odoratus) is a species found in Shallow, slow-moving waters with muddy bottoms across eastern North America.",
+      "updatedAt": "2025-08-27T19:53:54.439Z",
+      "imageSource": "placeholder_image_source_reptiles_30",
+      "imageMethod": "Generated Data"
+    }
+  ],
+  "cleanupSummary": {
+    "originalCount": 30,
+    "finalCount": 30,
+    "duplicatesResolved": 0,
+    "commonsUrlsRemoved": true
+  }
+}

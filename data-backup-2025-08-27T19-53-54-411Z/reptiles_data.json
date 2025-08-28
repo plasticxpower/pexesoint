@@ -1,0 +1,214 @@
+{
+  "category": "reptiles",
+  "totalPhotos": 5,
+  "source": "Clean English Data - Generated",
+  "downloadedAt": "2025-08-26T20:33:09.468Z",
+  "photos": [
+    {
+      "fileName": "reptiles1.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles1.jpg",
+      "photoData": {
+        "id": "generated_reptiles_1",
+        "description": "Eastern Box Turtle (Terrapene carolina)",
+        "alt_description": "Terrapene carolina",
+        "urls": {
+          "regular": "placeholder_url_reptiles_1"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Terrapene carolina",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Terrapene carolina",
+        "source": "generated_english_data"
+      },
+      "commonName": "Eastern Box Turtle",
+      "scientificName": "Terrapene carolina",
+      "size": "10-15 cm (4-6 inches) shell length",
+      "lifespan": "50-100+ years in wild",
+      "habitat": "Deciduous forests, fields, and woodland edges across eastern North America.",
+      "funFact": "Box turtles can completely close their shell for protection and have been known to live over 100 years. They have excellent homing abilities and rarely travel far from their birthplace.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Terrapene_carolina",
+        "https://animaldiversity.org/accounts/Terrapene_carolina/"
+      ],
+      "taxon": "Terrapene carolina",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles1.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Eastern Box Turtle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eastern_Box Turtle",
+      "wikipediaExtract": "The Eastern Box Turtle (Terrapene carolina) is a species found in Deciduous forests, fields, and woodland edges across eastern North America.",
+      "updatedAt": "2025-08-26T20:33:09.468Z",
+      "imageSource": "placeholder_image_source_reptiles_1",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "reptiles2.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles2.jpg",
+      "photoData": {
+        "id": "generated_reptiles_2",
+        "description": "Garter Snake (Thamnophis sirtalis)",
+        "alt_description": "Thamnophis sirtalis",
+        "urls": {
+          "regular": "placeholder_url_reptiles_2"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Thamnophis sirtalis",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Thamnophis sirtalis",
+        "source": "generated_english_data"
+      },
+      "commonName": "Garter Snake",
+      "scientificName": "Thamnophis sirtalis",
+      "size": "45-65 cm (18-26 inches)",
+      "lifespan": "4-5 years in wild",
+      "habitat": "Diverse habitats including forests, fields, wetlands, and suburban areas across North America.",
+      "funFact": "Garter snakes are among the most cold-tolerant snakes and can be active at temperatures as low as 1°C. They hibernate in large groups called hibernacula.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Thamnophis_sirtalis",
+        "https://animaldiversity.org/accounts/Thamnophis_sirtalis/"
+      ],
+      "taxon": "Thamnophis sirtalis",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles2.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Garter Snake",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Garter_Snake",
+      "wikipediaExtract": "The Garter Snake (Thamnophis sirtalis) is a species found in Diverse habitats including forests, fields, wetlands, and suburban areas across North America.",
+      "updatedAt": "2025-08-26T20:33:09.468Z",
+      "imageSource": "placeholder_image_source_reptiles_2",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "reptiles3.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles3.jpg",
+      "photoData": {
+        "id": "generated_reptiles_3",
+        "description": "Five-lined Skink (Plestiodon fasciatus)",
+        "alt_description": "Plestiodon fasciatus",
+        "urls": {
+          "regular": "placeholder_url_reptiles_3"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Plestiodon fasciatus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Plestiodon fasciatus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Five-lined Skink",
+      "scientificName": "Plestiodon fasciatus",
+      "size": "12-20 cm (5-8 inches)",
+      "lifespan": "6-10 years in wild",
+      "habitat": "Wooded areas with abundant cover such as logs, rocks, and leaf litter across eastern North America.",
+      "funFact": "Young five-lined skinks have bright blue tails that they can detach if grabbed by a predator. The tail continues to wiggle, distracting the predator while the skink escapes.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Plestiodon_fasciatus",
+        "https://animaldiversity.org/accounts/Plestiodon_fasciatus/"
+      ],
+      "taxon": "Plestiodon fasciatus",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles3.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Five-lined Skink",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Five-lined_Skink",
+      "wikipediaExtract": "The Five-lined Skink (Plestiodon fasciatus) is a species found in Wooded areas with abundant cover such as logs, rocks, and leaf litter across eastern North America.",
+      "updatedAt": "2025-08-26T20:33:09.468Z",
+      "imageSource": "placeholder_image_source_reptiles_3",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "reptiles4.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles4.jpg",
+      "photoData": {
+        "id": "generated_reptiles_4",
+        "description": "Painted Turtle (Chrysemys picta)",
+        "alt_description": "Chrysemys picta",
+        "urls": {
+          "regular": "placeholder_url_reptiles_4"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Chrysemys picta",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Chrysemys picta",
+        "source": "generated_english_data"
+      },
+      "commonName": "Painted Turtle",
+      "scientificName": "Chrysemys picta",
+      "size": "10-18 cm (4-7 inches) shell length",
+      "lifespan": "20-40 years in wild",
+      "habitat": "Slow-moving waters with muddy bottoms and aquatic vegetation across North America.",
+      "funFact": "Painted turtles can survive winter by slowing their metabolism and absorbing oxygen through their skin while buried in mud underwater. They are excellent swimmers and baskers.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chrysemys_picta",
+        "https://animaldiversity.org/accounts/Chrysemys_picta/"
+      ],
+      "taxon": "Chrysemys picta",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles4.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Painted Turtle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Painted_Turtle",
+      "wikipediaExtract": "The Painted Turtle (Chrysemys picta) is a species found in Slow-moving waters with muddy bottoms and aquatic vegetation across North America.",
+      "updatedAt": "2025-08-26T20:33:09.468Z",
+      "imageSource": "placeholder_image_source_reptiles_4",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "reptiles5.jpg",
+      "filePath": "public\\images\\reptiles\\reptiles5.jpg",
+      "photoData": {
+        "id": "generated_reptiles_5",
+        "description": "Green Anole (Anolis carolinensis)",
+        "alt_description": "Anolis carolinensis",
+        "urls": {
+          "regular": "placeholder_url_reptiles_5"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "reptiles",
+        "taxon": "Anolis carolinensis",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Anolis carolinensis",
+        "source": "generated_english_data"
+      },
+      "commonName": "Green Anole",
+      "scientificName": "Anolis carolinensis",
+      "size": "12-20 cm (5-8 inches)",
+      "lifespan": "2-8 years in wild",
+      "habitat": "Trees, shrubs, and vegetation in warm, humid areas across southeastern United States.",
+      "funFact": "Green anoles can change color from bright green to brown depending on temperature, mood, and social signals. Males have a colorful throat fan called a dewlap used for communication.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Anolis_carolinensis",
+        "https://animaldiversity.org/accounts/Anolis_carolinensis/"
+      ],
+      "taxon": "Anolis carolinensis",
+      "license": "CC-BY-SA",
+      "localPath": "/images/reptiles/reptiles5.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Green Anole",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Green_Anole",
+      "wikipediaExtract": "The Green Anole (Anolis carolinensis) is a species found in Trees, shrubs, and vegetation in warm, humid areas across southeastern United States.",
+      "updatedAt": "2025-08-26T20:33:09.468Z",
+      "imageSource": "placeholder_image_source_reptiles_5",
+      "imageMethod": "Generated Data"
+    }
+  ],
+  "cleanupSummary": {
+    "originalCount": 5,
+    "finalCount": 5,
+    "duplicatesResolved": 0,
+    "commonsUrlsRemoved": true
+  }
+}

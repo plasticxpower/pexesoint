@@ -1,0 +1,306 @@
+{
+  "category": "reptiles",
+  "totalPhotos": 30,
+  "photos": [
+    {
+      "fileName": "reptiles1.jpg",
+      "commonName": "Želva karolínská",
+      "scientificName": "Terrapene carolina",
+      "size": "Délka: 280-460 cm, Hmotnost: 230-450 kg",
+      "lifespan": "35-50 let ve volné přírodě",
+      "habitat": "Lesy napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/reptiles/reptiles1.jpg"
+    },
+    {
+      "fileName": "reptiles2.jpg",
+      "commonName": "Užovka proužkovaná",
+      "scientificName": "Thamnophis sirtalis",
+      "size": "Délka: 80-150 cm, Hmotnost: 65-230 kg",
+      "lifespan": "80-100 let ve volné přírodě",
+      "habitat": "Lesy napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/reptiles/reptiles2.jpg"
+    },
+    {
+      "fileName": "reptiles3.jpg",
+      "commonName": "Neznámý plazi 3",
+      "scientificName": "Plestiodon fasciatus",
+      "size": "Délka: 400-900 cm, Hmotnost: 30-250 kg",
+      "lifespan": "10-20 let ve volné přírodě",
+      "habitat": "Wooded areas with abundant cover such as logs, rocks, and leaf litter napříč eastern Severní Amerika.",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/reptiles/reptiles3.jpg"
+    },
+    {
+      "fileName": "reptiles4.jpg",
+      "commonName": "Želva ozdobná",
+      "scientificName": "Chrysemys picta",
+      "size": "Délka: 200-300 cm, Hmotnost: 70-90 kg",
+      "lifespan": "30-50 let ve volné přírodě",
+      "habitat": "Slow-moving waters with muddy bottoms and aquatic vegetation napříč Severní Amerika.",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/reptiles/reptiles4.jpg"
+    },
+    {
+      "fileName": "reptiles5.jpg",
+      "commonName": "Anolis rudokrký",
+      "scientificName": "Anolis carolinensis",
+      "size": "Délka: 100-130 cm, Hmotnost: 180-400 kg",
+      "lifespan": "100-150 let ve volné přírodě",
+      "habitat": "Trees, shrubs, and vegetation in warm, humid areas napříč southeastern United States.",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/reptiles/reptiles5.jpg"
+    },
+    {
+      "fileName": "reptiles6.jpg",
+      "commonName": "Želva nádherná",
+      "scientificName": "Trachemys scripta elegans",
+      "size": "Délka: 90-150 cm, Hmotnost: 1-7 kg",
+      "lifespan": "15-25 let ve volné přírodě",
+      "habitat": "Ponds, lakes, marshes, and slow-moving streams napříč Severní Amerika.",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/reptiles/reptiles6.jpg"
+    },
+    {
+      "fileName": "reptiles7.jpg",
+      "commonName": "Aligátor severoamerický",
+      "scientificName": "Alligator mississippiensis",
+      "size": "Délka: 120-200 cm, Hmotnost: 4-17 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Freshwater bažiny, marshes, rivers, and lakes in southeastern United States.",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/reptiles/reptiles7.jpg"
+    },
+    {
+      "fileName": "reptiles8.jpg",
+      "commonName": "Užovka červená",
+      "scientificName": "Pantherophis guttatus",
+      "size": "Délka: 35-60 cm, Hmotnost: 0.1-0.3 kg",
+      "lifespan": "5-8 let ve volné přírodě",
+      "habitat": "lesy, fields, and agricultural areas napříč southeastern United States.",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/reptiles/reptiles8.jpg"
+    },
+    {
+      "fileName": "reptiles9.jpg",
+      "commonName": "Kajmanka dravá",
+      "scientificName": "Chelydra serpentina",
+      "size": "Délka: 20-40 cm, Hmotnost: 0.15-0.4 kg",
+      "lifespan": "7-10 let ve volné přírodě",
+      "habitat": "Freshwater environments including ponds, lakes, rivers, and marshes napříč Severní Amerika.",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/reptiles/reptiles9.jpg"
+    },
+    {
+      "fileName": "reptiles10.jpg",
+      "commonName": "Agama australská",
+      "scientificName": "Pogona vitticeps",
+      "size": "Délka: 15-30 cm, Hmotnost: 0.1-2 kg",
+      "lifespan": "20-40 let ve volné přírodě",
+      "habitat": "Arid woodlands, deserts, and scrublands napříč Australia.",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/reptiles/reptiles10.jpg"
+    },
+    {
+      "fileName": "reptiles11.jpg",
+      "commonName": "Leguán zelený",
+      "scientificName": "Iguana iguana",
+      "size": "Délka: 90-180 cm, Hmotnost: 1-9 kg",
+      "lifespan": "20-30 let ve volné přírodě",
+      "habitat": "Tropical rainlesy, mangroves, and coastal areas in Central and South America.",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/reptiles/reptiles11.jpg"
+    },
+    {
+      "fileName": "reptiles12.jpg",
+      "commonName": "Gekon turecký",
+      "scientificName": "Hemidactylus turcicus",
+      "size": "Délka: 180-400 cm, Hmotnost: 10-45 kg",
+      "lifespan": "20-30 let ve volné přírodě",
+      "habitat": "Rocky areas, buildings, and urban environments in warm climates worldwide.",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/reptiles/reptiles12.jpg"
+    },
+    {
+      "fileName": "reptiles13.jpg",
+      "commonName": "Chameleon jemenský",
+      "scientificName": "Chamaeleo calyptratus",
+      "size": "Délka: 120-200 cm, Hmotnost: 15-20 kg",
+      "lifespan": "10-20 let ve volné přírodě",
+      "habitat": "Trees and shrubs in hornaté regiony of Yemen and Saudi Arabia.",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/reptiles/reptiles13.jpg"
+    },
+    {
+      "fileName": "reptiles14.jpg",
+      "commonName": "Krajta královská",
+      "scientificName": "Python regius",
+      "size": "Délka: 60-120 cm, Hmotnost: 35-200 kg",
+      "lifespan": "50-80 let ve volné přírodě",
+      "habitat": "travnaté oblasti, shrublands, and open lesy in West and Central Africa.",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/reptiles/reptiles14.jpg"
+    },
+    {
+      "fileName": "reptiles15.jpg",
+      "commonName": "Varan skvrnitý",
+      "scientificName": "Varanus salvator",
+      "size": "Délka: 35-60 cm, Hmotnost: 0.1-0.5 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Tropical lesy, mangroves, and mokřady in Southeast Asia.",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/reptiles/reptiles15.jpg"
+    },
+    {
+      "fileName": "reptiles16.jpg",
+      "commonName": "Chřestýš západní",
+      "scientificName": "Crotalus atrox",
+      "size": "Délka: 60-120 cm, Hmotnost: 0.5-5 kg",
+      "lifespan": "7-10 let ve volné přírodě",
+      "habitat": "Deserts, travnaté oblasti, and scrub lesy napříč southwestern United States and Mexico.",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/reptiles/reptiles16.jpg"
+    },
+    {
+      "fileName": "reptiles17.jpg",
+      "commonName": "Kareta obrovská",
+      "scientificName": "Chelonia mydas",
+      "size": "Délka: 25-35 cm, Hmotnost: 0.2-0.7 kg",
+      "lifespan": "50-80 let ve volné přírodě",
+      "habitat": "Tropical and subtropical oceans worldwide, nesting on sandy beaches.",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/reptiles/reptiles17.jpg"
+    },
+    {
+      "fileName": "reptiles18.jpg",
+      "commonName": "Korálovka pruhovaná",
+      "scientificName": "Lampropeltis getula",
+      "size": "Délka: 60-180 cm, Hmotnost: 2-25 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Lesy napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/reptiles/reptiles18.jpg"
+    },
+    {
+      "fileName": "reptiles19.jpg",
+      "commonName": "Želva myší",
+      "scientificName": "Gopherus polyphemus",
+      "size": "Délka: 15-20 cm, Hmotnost: 0.003-0.007 kg",
+      "lifespan": "4-8 let ve volné přírodě",
+      "habitat": "Sandy soils in longleaf pine lesy and scrub habitats in southeastern United States.",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/reptiles/reptiles19.jpg"
+    },
+    {
+      "fileName": "reptiles20.jpg",
+      "commonName": "Neznámý plazi 20",
+      "scientificName": "Agkistrodon contortrix",
+      "size": "Délka: 7-15 cm, Hmotnost: 0.002-0.01 kg",
+      "lifespan": "5-10 let ve volné přírodě",
+      "habitat": "lesy, rocky areas, and bažiny napříč eastern United States.",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/reptiles/reptiles20.jpg"
+    },
+    {
+      "fileName": "reptiles21.jpg",
+      "commonName": "Korálovka sedlatá",
+      "scientificName": "Lampropeltis triangulum",
+      "size": "Délka: 50-90 cm, Hmotnost: 0.05-0.2 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Lesy napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/reptiles/reptiles21.jpg"
+    },
+    {
+      "fileName": "reptiles22.jpg",
+      "commonName": "Neznámý plazi 22",
+      "scientificName": "Sceloporus undulatus",
+      "size": "Délka: 80-200 cm, Hmotnost: 0.1-2 kg",
+      "lifespan": "15-25 let ve volné přírodě",
+      "habitat": "Rocky areas, fences, and open woodlands napříč Severní Amerika.",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/reptiles/reptiles22.jpg"
+    },
+    {
+      "fileName": "reptiles23.jpg",
+      "commonName": "Želva diamantová",
+      "scientificName": "Malaclemys terrapin",
+      "size": "Délka: 15-25 cm, Hmotnost: 0.005-0.02 kg",
+      "lifespan": "5-10 let ve volné přírodě",
+      "habitat": "Salt marshes and brackish waters along the Atlantic and Gulf coasts.",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/reptiles/reptiles23.jpg"
+    },
+    {
+      "fileName": "reptiles24.jpg",
+      "commonName": "Neznámý plazi 24",
+      "scientificName": "Heterodon platirhinos",
+      "size": "Délka: 30-50 cm, Hmotnost: 0.1-0.2 kg",
+      "lifespan": "30-54 let ve volné přírodě",
+      "habitat": "Lesy napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/reptiles/reptiles24.jpg"
+    },
+    {
+      "fileName": "reptiles25.jpg",
+      "commonName": "Neznámý plazi 25",
+      "scientificName": "Ophisaurus ventralis",
+      "size": "Délka: 12-25 cm, Hmotnost: 0.1-0.5 kg",
+      "lifespan": "40-75 let ve volné přírodě",
+      "habitat": "travnaté oblasti, open woodlands, and scrub areas in southeastern United States.",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/reptiles/reptiles25.jpg"
+    },
+    {
+      "fileName": "reptiles26.jpg",
+      "commonName": "Neznámý plazi 26",
+      "scientificName": "Glyptemys insculpta",
+      "size": "Délka: 15-25 cm, Hmotnost: 0.01-0.05 kg",
+      "lifespan": "4-8 let ve volné přírodě",
+      "habitat": "Lesy napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/reptiles/reptiles26.jpg"
+    },
+    {
+      "fileName": "reptiles27.jpg",
+      "commonName": "Neznámý plazi 27",
+      "scientificName": "Masticophis flagellum",
+      "size": "Délka: 120-180 cm, Hmotnost: 13-18 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Open areas including deserts, travnaté oblasti, and scrublands napříč southern United States.",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/reptiles/reptiles27.jpg"
+    },
+    {
+      "fileName": "reptiles28.jpg",
+      "commonName": "Želva tečkovaná",
+      "scientificName": "Clemmys guttata",
+      "size": "Délka: 60-180 cm, Hmotnost: 0.2-8 kg",
+      "lifespan": "10-20 let ve volné přírodě",
+      "habitat": "Shallow mokřady, bogs, and slow streams in eastern Severní Amerika.",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/reptiles/reptiles28.jpg"
+    },
+    {
+      "fileName": "reptiles29.jpg",
+      "commonName": "Užovka tečkovaná",
+      "scientificName": "Diadophis punctatus",
+      "size": "Délka: 20-35 cm, Hmotnost: 0.1-0.4 kg",
+      "lifespan": "50-80 let ve volné přírodě",
+      "habitat": "Lesy napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/reptiles/reptiles29.jpg"
+    },
+    {
+      "fileName": "reptiles30.jpg",
+      "commonName": "Klapavka obecná",
+      "scientificName": "Sternotherus odoratus",
+      "size": "Délka: 150-220 cm, Hmotnost: 15-20 kg",
+      "lifespan": "10-20 let ve volné přírodě",
+      "habitat": "Shallow, slow-moving waters with muddy bottoms napříč eastern Severní Amerika.",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images/reptiles/reptiles30.jpg"
+    }
+  ]
+}

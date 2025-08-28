@@ -1,0 +1,306 @@
+{
+  "category": "mammals",
+  "totalPhotos": 30,
+  "photos": [
+    {
+      "fileName": "mammals1.jpg",
+      "commonName": "American Black Bear",
+      "scientificName": "Ursus americanus",
+      "size": "45-75 cm, 14-23 kg",
+      "lifespan": "8-12 let ve volné přírodě",
+      "habitat": "Lesy, parky a předměstské oblasti po celé Severní Americe. Preferují oblasti s hustými stromy pro úkryt.",
+      "funFact": "Mývalové mají velmi obratné přední tlapky, které dokážou otevírat složité zámky a kontejnery.",
+      "localPath": "/images/mammals/mammals1.jpg"
+    },
+    {
+      "fileName": "mammals2.jpg",
+      "commonName": "White-tailed Deer",
+      "scientificName": "Odocoileus virginianus",
+      "size": "120-180 cm, 180-320 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Lesy a horské oblasti po celé Severní Americe. Preferují hustě zalesněné oblasti s bohatými zdroji potravy.",
+      "funFact": "Medvědi černí jsou vynikající lezci a plavci. Dokážou běžet rychlostí až 50 km/h.",
+      "localPath": "/images/mammals/mammals2.jpg"
+    },
+    {
+      "fileName": "mammals3.jpg",
+      "commonName": "Eastern Gray Squirrel",
+      "scientificName": "Sciurus carolinensis",
+      "size": "150-300 cm, 90-680 kg",
+      "lifespan": "15-25 let ve volné přírodě",
+      "habitat": "Lesy, louky a horské oblasti po celé Severní Americe. Migrují podle ročních období.",
+      "funFact": "Jeleni wapiti mají jeden z nejhlasitějších volání mezi savci. Jejich řev lze slyšet na vzdálenost až 3 km.",
+      "localPath": "/images/mammals/mammals3.jpg"
+    },
+    {
+      "fileName": "mammals4.jpg",
+      "commonName": "Raccoon",
+      "scientificName": "Procyon lotor",
+      "size": "75-100 cm, 30-60 kg",
+      "lifespan": "10-13 let ve volné přírodě",
+      "habitat": "Lesy po celé Severní Americe. Preferují oblasti s hustým podrostem pro úkryt.",
+      "funFact": "Jeleni běloocasí dokážou skákat do výšky 3 metry a běžet rychlostí až 48 km/h.",
+      "localPath": "/images/mammals/mammals4.jpg"
+    },
+    {
+      "fileName": "mammals5.jpg",
+      "commonName": "Red Fox",
+      "scientificName": "Vulpes vulpes",
+      "size": "60-90 cm, 5-14 kg",
+      "lifespan": "2-3 roky ve volné přírodě",
+      "habitat": "Lesy, pole a předměstské oblasti po celé Severní Americe. Velmi přizpůsobiví různým prostředím.",
+      "funFact": "Lišky červené mají vynikající sluch a dokážou slyšet hlodavce pod sněhem z vzdálenosti 40 metrů.",
+      "localPath": "/images/mammals/mammals5.jpg"
+    },
+    {
+      "fileName": "mammals6.jpg",
+      "commonName": "Gray Wolf",
+      "scientificName": "Canis lupus",
+      "size": "40-70 cm, 4-18 kg",
+      "lifespan": "2-3 roky ve volné přírodě",
+      "habitat": "Lesy po celé Severní Americe. Preferují oblasti s dutými stromy pro úkryt.",
+      "funFact": "Opossumi jsou jediní vačnatci v Severní Americe. Dokážou předstírat smrt, když jsou ohroženi.",
+      "localPath": "/images/mammals/mammals6.jpg"
+    },
+    {
+      "fileName": "mammals7.jpg",
+      "commonName": "Mountain Lion",
+      "scientificName": "Puma concolor",
+      "size": "20-40 cm, 300-1500 g",
+      "lifespan": "6-8 let ve volné přírodě",
+      "habitat": "Lesy po celé Severní Americe. Žijí převážně na stromech a staví si hnízda z větví.",
+      "funFact": "Veverky šedé si dokážou zapamatovat tisíce míst, kde si schovávají ořechy na zimu.",
+      "localPath": "/images/mammals/mammals7.jpg"
+    },
+    {
+      "fileName": "mammals8.jpg",
+      "commonName": "Moose",
+      "scientificName": "Alces alces",
+      "size": "13-27 cm, 40-70 g",
+      "lifespan": "2-8 let ve volné přírodě",
+      "habitat": "Podzemní tunely v travnatých oblastech po celé Severní Americe.",
+      "funFact": "Křečci dokážou nosit potravu v lícních váčcích, které se mohou roztáhnout až k ramenům.",
+      "localPath": "/images/mammals/mammals8.jpg"
+    },
+    {
+      "fileName": "mammals9.jpg",
+      "commonName": "Beaver",
+      "scientificName": "Castor canadensis",
+      "size": "7-14 cm, 15-30 g",
+      "lifespan": "1-3 roky ve volné přírodě",
+      "habitat": "Lesy, pole a zahrady po celé Severní Americe. Aktivní především v noci.",
+      "funFact": "Myši dokážou protáhnout tělo otvorem velkým jako tužka. Jejich srdce bije až 600krát za minutu.",
+      "localPath": "/images/mammals/mammals9.jpg"
+    },
+    {
+      "fileName": "mammals10.jpg",
+      "commonName": "Bobcat",
+      "scientificName": "Lynx rufus",
+      "size": "23-34 cm, 230-680 g",
+      "lifespan": "7-13 let ve volné přírodě",
+      "habitat": "Blízko vodních zdrojů po celé Severní Americe. Staví si složité hráze a boudy.",
+      "funFact": "Bobři jsou přírodní inženýři, kteří dokážou změnit celé ekosystémy svými hrázemi.",
+      "localPath": "/images/mammals/mammals10.jpg"
+    },
+    {
+      "fileName": "mammals11.jpg",
+      "commonName": "Elk",
+      "scientificName": "Cervus canadensis",
+      "size": "40-65 cm, 5-25 kg",
+      "lifespan": "5-6 let ve volné přírodě",
+      "habitat": "Lesy po celé Severní Americe. Preferují oblasti s bohatými zdroji potravy.",
+      "funFact": "Rosomáci jsou neuvěřitelně silní a dokážou zahnát i medvědy od jejich kořisti.",
+      "localPath": "/images/mammals/mammals11.jpg"
+    },
+    {
+      "fileName": "mammals12.jpg",
+      "commonName": "Porcupine",
+      "scientificName": "Erethizon dorsatum",
+      "size": "51-87 cm, 2-14 kg",
+      "lifespan": "10-12 let ve volné přírodě",
+      "habitat": "Lesy a horské oblasti po celé Severní Americe. Vynikající lezci.",
+      "funFact": "Rysi dokážou slyšet myš z vzdálenosti 75 metrů a vidět zajíce z 300 metrů.",
+      "localPath": "/images/mammals/mammals12.jpg"
+    },
+    {
+      "fileName": "mammals13.jpg",
+      "commonName": "Skunk",
+      "scientificName": "Mephitis mephitis",
+      "size": "76-86 cm, 27-45 kg",
+      "lifespan": "8-10 let ve volné přírodě",
+      "habitat": "Otevřené prérie a travnaté oblasti po celé Severní Americe.",
+      "funFact": "Kojoti dokážou běžet rychlostí až 65 km/h a skákat do výšky 4 metry.",
+      "localPath": "/images/mammals/mammals13.jpg"
+    },
+    {
+      "fileName": "mammals14.jpg",
+      "commonName": "Opossum",
+      "scientificName": "Didelphis virginiana",
+      "size": "95-160 cm, 14-65 kg",
+      "lifespan": "8-13 let ve volné přírodě",
+      "habitat": "Lesy po celé Severní Americe. Žijí ve smečkách s komplexní sociální strukturou.",
+      "funFact": "Vlci mají jeden z nejsilnějších kousnutí mezi savci - až 1500 psi.",
+      "localPath": "/images/mammals/mammals14.jpg"
+    },
+    {
+      "fileName": "mammals15.jpg",
+      "commonName": "Chipmunk",
+      "scientificName": "Tamias striatus",
+      "size": "60-90 cm, 18-46 kg",
+      "lifespan": "12-16 let ve volné přírodě",
+      "habitat": "Blízko vodních zdrojů po celé Severní Americe. Vynikající plavci.",
+      "funFact": "Vydry dokážou zadržet dech až 8 minut a plavat rychlostí až 11 km/h.",
+      "localPath": "/images/mammals/mammals15.jpg"
+    },
+    {
+      "fileName": "mammals16.jpg",
+      "commonName": "Muskrat",
+      "scientificName": "Ondatra zibethicus",
+      "size": "60-107 cm, 3-9 kg",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Skalnaté oblasti a lesy po celé Severní Americe. Vynikající lezci.",
+      "funFact": "Tchoři dokážou lézt po svislých skalách a otáčet kotníky o 180 stupňů.",
+      "localPath": "/images/mammals/mammals16.jpg"
+    },
+    {
+      "fileName": "mammals17.jpg",
+      "commonName": "River Otter",
+      "scientificName": "Lontra canadensis",
+      "size": "35-60 cm, 2-9 kg",
+      "lifespan": "4-5 let ve volné přírodě",
+      "habitat": "Lesy po celé Severní Americe. Preferují oblasti s dutými stromy.",
+      "funFact": "Skunky dokážou stříkat svou páchnoucí tekutinu na vzdálenost až 3 metry s přesností.",
+      "localPath": "/images/mammals/mammals17.jpg"
+    },
+    {
+      "fileName": "mammals18.jpg",
+      "commonName": "Coyote",
+      "scientificName": "Canis latrans",
+      "size": "40-70 cm, 3-12 kg",
+      "lifespan": "6-10 let ve volné přírodě",
+      "habitat": "Lesy po celé Severní Americe. Vynikající lezci a velmi inteligentní.",
+      "funFact": "Medvídci dokážou otevírat složité zámky a mají paměť lepší než šimpanzi.",
+      "localPath": "/images/mammals/mammals18.jpg"
+    },
+    {
+      "fileName": "mammals19.jpg",
+      "commonName": "Bighorn Sheep",
+      "scientificName": "Ovis canadensis",
+      "size": "35-60 cm, 4-23 kg",
+      "lifespan": "2-3 roky ve volné přírodě",
+      "habitat": "Travnaté oblasti a prérie po celé Severní Americe. Žijí v rozsáhlých koloniích.",
+      "funFact": "Svišti žijí ve složitých podzemních městech s různými komorami pro různé účely.",
+      "localPath": "/images/mammals/mammals19.jpg"
+    },
+    {
+      "fileName": "mammals20.jpg",
+      "commonName": "Mule Deer",
+      "scientificName": "Odocoileus hemionus",
+      "size": "13-18 cm, 5-14 g",
+      "lifespan": "5-10 let ve volné přírodě",
+      "habitat": "Jeskyně, půdy a budovy po celé Severní Americe. Jediní létající savci.",
+      "funFact": "Netopýři dokážou echolokací najít drát tenký jako lidský vlas v naprosté tmě.",
+      "localPath": "/images/mammals/mammals20.jpg"
+    },
+    {
+      "fileName": "mammals21.jpg",
+      "commonName": "Wolverine",
+      "scientificName": "Gulo gulo",
+      "size": "150-300 cm, 400-1000 kg",
+      "lifespan": "50-70 let ve volné přírodě",
+      "habitat": "Arktické vody kolem Severního pólu. Migrují podle pohybu ledu.",
+      "funFact": "Lední medvědi mají černou kůži pod bílou srstí a dokážou plavat stovky kilometrů.",
+      "localPath": "/images/mammals/mammals21.jpg"
+    },
+    {
+      "fileName": "mammals22.jpg",
+      "commonName": "Prairie Dog",
+      "scientificName": "Cynomys ludovicianus",
+      "size": "120-200 cm, 85-320 kg",
+      "lifespan": "20-30 let ve volné přírodě",
+      "habitat": "Horské oblasti západní Severní Ameriky. Preferují alpínské louky.",
+      "funFact": "Medvědi grizzly dokážou běžet rychlostí až 55 km/h a mají paměť na místa s potravou po desetiletí.",
+      "localPath": "/images/mammals/mammals22.jpg"
+    },
+    {
+      "fileName": "mammals23.jpg",
+      "commonName": "Groundhog",
+      "scientificName": "Marmota monax",
+      "size": "200-350 cm, 400-1000 kg",
+      "lifespan": "60-90 let ve volné přírodě",
+      "habitat": "Arktické a subarktické vody. Migrují tisíce kilometrů ročně.",
+      "funFact": "Velryby grónské mají nejdelší životnost ze všech savců a dokážou se dožít přes 200 let.",
+      "localPath": "/images/mammals/mammals23.jpg"
+    },
+    {
+      "fileName": "mammals24.jpg",
+      "commonName": "Lynx",
+      "scientificName": "Lynx canadensis",
+      "size": "400-600 cm, 25000-40000 kg",
+      "lifespan": "80-90 let ve volné přírodě",
+      "habitat": "Oceány po celém světě. Migrují mezi krmními a rozmnožovacími oblastmi.",
+      "funFact": "Velryby keporkakové zpívají složité písně, které se mohou učit a předávat mezi populacemi.",
+      "localPath": "/images/mammals/mammals24.jpg"
+    },
+    {
+      "fileName": "mammals25.jpg",
+      "commonName": "Bison",
+      "scientificName": "Bison bison",
+      "size": "1200-1600 cm, 100000-200000 kg",
+      "lifespan": "80-90 let ve volné přírodě",
+      "habitat": "Oceány po celém světě. Největší zvíře, které kdy žilo na Zemi.",
+      "funFact": "Velryby modré mají srdce velké jako malé auto a jejich jazyk váží tolik co slon.",
+      "localPath": "/images/mammals/mammals25.jpg"
+    },
+    {
+      "fileName": "mammals26.jpg",
+      "commonName": "Polar Bear",
+      "scientificName": "Ursus maritimus",
+      "size": "180-250 cm, 200-600 kg",
+      "lifespan": "45-50 let ve volné přírodě",
+      "habitat": "Arktické vody. Tráví většinu času pod ledem.",
+      "funFact": "Narvalové mají dlouhý kel, který je ve skutečnosti zub a může dorůst až 3 metry.",
+      "localPath": "/images/mammals/mammals26.jpg"
+    },
+    {
+      "fileName": "mammals27.jpg",
+      "commonName": "Grizzly Bear",
+      "scientificName": "Ursus arctos",
+      "size": "150-250 cm, 150-300 kg",
+      "lifespan": "15-25 let ve volné přírodě",
+      "habitat": "Pobřežní vody Arktidy. Velmi sociální zvířata.",
+      "funFact": "Běluhy dokážou napodobovat lidské hlasy a mají velmi expresivní tváře.",
+      "localPath": "/images/mammals/mammals27.jpg"
+    },
+    {
+      "fileName": "mammals28.jpg",
+      "commonName": "Caribou",
+      "scientificName": "Rangifer tarandus",
+      "size": "200-400 cm, 300-1600 kg",
+      "lifespan": "20-30 let ve volné přírodě",
+      "habitat": "Pobřežní vody severního Pacifiku. Žijí ve složitých rodinných skupinách.",
+      "funFact": "Kosatky mají unikátní dialekty a každá rodina má svůj vlastní 'jazyk'.",
+      "localPath": "/images/mammals/mammals28.jpg"
+    },
+    {
+      "fileName": "mammals29.jpg",
+      "commonName": "Mountain Goat",
+      "scientificName": "Oreamnos americanus",
+      "size": "120-190 cm, 55-120 kg",
+      "lifespan": "12-20 let ve volné přírodě",
+      "habitat": "Pobřežní vody po celém světě. Velmi inteligentní a sociální.",
+      "funFact": "Delfíni si dávají jména pomocí unikátních hvizdu a dokážou se rozpoznat v zrcadle.",
+      "localPath": "/images/mammals/mammals29.jpg"
+    },
+    {
+      "fileName": "mammals30.jpg",
+      "commonName": "Pronghorn",
+      "scientificName": "Antilocapra americana",
+      "size": "300-600 cm, 150-1000 kg",
+      "lifespan": "20-60 let ve volné přírodě",
+      "habitat": "Teplé oceány po celém světě. Migrují za potravou.",
+      "funFact": "Žraloci bílí jsou vrcholoví predátoři s dokonalými smysly a dokážou cítit krev z kilometrové vzdálenosti.",
+      "localPath": "/images/mammals/mammals30.jpg"
+    }
+  ]
+}

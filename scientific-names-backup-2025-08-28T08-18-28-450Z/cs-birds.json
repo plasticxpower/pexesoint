@@ -1,0 +1,306 @@
+{
+  "category": "Ptáci",
+  "totalPhotos": 30,
+  "photos": [
+    {
+      "fileName": "birds1.jpg",
+      "commonName": "drozd stěhovavý",
+      "scientificName": "Turdus migratorius",
+      "size": "20-28 cm (8-11 inches), 77 g",
+      "lifespan": "2 let ve volné přírodě, až 13 let",
+      "habitat": "Pobřežní oblasti, jezera a řeky. Preferují oblasti s dostatkem ryb.",
+      "funFact": "Orel skalní dokážou létat rychlostí až 60 km/h a mají výjimečný zrak.",
+      "localPath": "/images/birds/birds1.jpg"
+    },
+    {
+      "fileName": "birds2.jpg",
+      "commonName": "Kondor kalifornský",
+      "scientificName": "Corvus brachyrhynchos",
+      "size": "40-50 cm (16-20 inches), 315-620 g",
+      "lifespan": "7-8 let ve volné přírodě, až 20 let",
+      "habitat": "Horské oblasti a útesy. Preferují vysoké útvary pro hnízda a dobrý výhled.",
+      "funFact": "Kondor kalifornský mají jedinečné volání a dokážou se učit nové písně.",
+      "localPath": "/images/birds/birds2.jpg"
+    },
+    {
+      "fileName": "birds3.jpg",
+      "commonName": "Pelikán hnědý",
+      "scientificName": "Poecile atricapillus",
+      "size": "12-15 cm (5-6 inches), 9-14 g",
+      "lifespan": "2-3 let ve volné přírodě",
+      "habitat": "Lesy a lesní okraje po celé Severní Americe. Preferují oblasti s dostatkem stromů pro hnízda.",
+      "funFact": "Pelikán hnědý dokážou žít až 20 let a mají složité sociální chování.",
+      "localPath": "/images/birds/birds3.jpg"
+    },
+    {
+      "fileName": "birds4.jpg",
+      "commonName": "Volavka modrá",
+      "scientificName": "Sialia sialis",
+      "size": "16-21 cm (6-8 inches), 27-34 g",
+      "lifespan": "6-10 let ve volné přírodě",
+      "habitat": "Lesy a lesní okraje po celé Severní Americe. Preferují oblasti s dostatkem stromů pro hnízda.",
+      "funFact": "Volavka modrá dokážou létat rychlostí až 60 km/h a mají výjimečný zrak.",
+      "localPath": "/images/birds/birds4.jpg"
+    },
+    {
+      "fileName": "birds5.jpg",
+      "commonName": "Ibis bílý",
+      "scientificName": "Spinus tristis",
+      "size": "11-14 cm (4-5 inches), 11-20 g",
+      "lifespan": "3-6 let ve volné přírodě",
+      "habitat": "Otevřené krajiny, prérie a zemědělské oblasti. Preferují oblasti s dostatkem potravy.",
+      "funFact": "Ibis bílý migrují na tisíce kilometrů a najdou cestu pomocí hvězd.",
+      "localPath": "/images/birds/birds5.jpg"
+    },
+    {
+      "fileName": "birds6.jpg",
+      "commonName": "Rybák belohlavý",
+      "scientificName": "Cardinalis cardinalis",
+      "size": "21-23 cm (8.5-9 inches), 45 g",
+      "lifespan": "3-4 let ve volné přírodě",
+      "habitat": "Otevřené krajiny, prérie a zemědělské oblasti. Preferují oblasti s dostatkem potravy.",
+      "funFact": "Rybák belohlavý dokážou žít až 20 let a mají složité sociální chování.",
+      "localPath": "/images/birds/birds6.jpg"
+    },
+    {
+      "fileName": "birds7.jpg",
+      "commonName": "Jeřáb kanadský",
+      "scientificName": "Cyanocitta cristata",
+      "size": "28-30 cm (11-12 inches), 70-100 g",
+      "lifespan": "7-9 let ve volné přírodě",
+      "habitat": "Horské oblasti a útesy. Preferují vysoké útvary pro hnízda a dobrý výhled.",
+      "funFact": "Jeřáb kanadský staví složitá hnízda a pečují o svá mláďata několik měsíců.",
+      "localPath": "/images/birds/birds7.jpg"
+    },
+    {
+      "fileName": "birds8.jpg",
+      "commonName": "Labuť zpěvná",
+      "scientificName": "Passer domesticus",
+      "size": "14-18 cm (5.5-7 inches), 24-39 g",
+      "lifespan": "4-5 let ve volné přírodě",
+      "habitat": "Lesy a lesní okraje po celé Severní Americe. Preferují oblasti s dostatkem stromů pro hnízda.",
+      "funFact": "Labuť zpěvná dokážou žít až 20 let a mají složité sociální chování.",
+      "localPath": "/images/birds/birds8.jpg"
+    },
+    {
+      "fileName": "birds9.jpg",
+      "commonName": "Kachna divoká",
+      "scientificName": "Agelaius phoeniceus",
+      "size": "17-22 cm (6.7-8.7 inches), 32-77 g",
+      "lifespan": "2-3 let ve volné přírodě",
+      "habitat": "Lesy a lesní okraje po celé Severní Americe. Preferují oblasti s dostatkem stromů pro hnízda.",
+      "funFact": "Kachna divoká dokážou žít až 20 let a mají složité sociální chování.",
+      "localPath": "/images/birds/birds9.jpg"
+    },
+    {
+      "fileName": "birds10.jpg",
+      "commonName": "Potápka malá",
+      "scientificName": "Haliaeetus leucocephalus",
+      "size": "70-102 cm (28-40 cm), 3-6.3 kg",
+      "lifespan": "20-30 let ve volné přírodě",
+      "habitat": "Lesy a lesní okraje po celé Severní Americe. Preferují oblasti s dostatkem stromů pro hnízda.",
+      "funFact": "Potápka malá staví složitá hnízda a pečují o svá mláďata několik měsíců.",
+      "localPath": "/images/birds/birds10.jpg"
+    },
+    {
+      "fileName": "birds11.jpg",
+      "commonName": "Sup krkavcovitý",
+      "scientificName": "Ardea herodias",
+      "size": "91-137 cm (36-54 cm), 1.02-2.5 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Lesy a lesní okraje po celé Severní Americe. Preferují oblasti s dostatkem stromů pro hnízda.",
+      "funFact": "Sup krkavcovitý migrují na tisíce kilometrů a najdou cestu pomocí hvězd.",
+      "localPath": "/images/birds/birds11.jpg"
+    },
+    {
+      "fileName": "birds12.jpg",
+      "commonName": "Jestřáb ostrokřídlý",
+      "scientificName": "Buteo jamaicensis",
+      "size": "45-65 cm (18-26 cm), 0.69-1.67 kg",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Lesy a lesní okraje po celé Severní Americe. Preferují oblasti s dostatkem stromů pro hnízda.",
+      "funFact": "Jestřáb ostrokřídlý mají jedinečné volání a dokážou se učit nové písně.",
+      "localPath": "/images/birds/birds12.jpg"
+    },
+    {
+      "fileName": "birds13.jpg",
+      "commonName": "Sokol stěhovavý",
+      "scientificName": "Anas platyrhynchos",
+      "size": "50-65 cm (20-26 cm), 0.72-1.58 kg",
+      "lifespan": "5-10 let ve volné přírodě",
+      "habitat": "Pobřežní oblasti, jezera a řeky. Preferují oblasti s dostatkem ryb.",
+      "funFact": "Sokol stěhovavý mají jedinečné volání a dokážou se učit nové písně.",
+      "localPath": "/images/birds/birds13.jpg"
+    },
+    {
+      "fileName": "birds14.jpg",
+      "commonName": "Puštík virginský",
+      "scientificName": "Bubo virginianus",
+      "size": "43-64 cm (17-25 cm), 0.91-2.5 kg",
+      "lifespan": "5-15 let ve volné přírodě",
+      "habitat": "Pobřežní oblasti, jezera a řeky. Preferují oblasti s dostatkem ryb.",
+      "funFact": "Puštík virginský migrují na tisíce kilometrů a najdou cestu pomocí hvězd.",
+      "localPath": "/images/birds/birds14.jpg"
+    },
+    {
+      "fileName": "birds15.jpg",
+      "commonName": "Sýček králičí",
+      "scientificName": "Archilochus colubris",
+      "size": "7-9 cm (3-3.5 inches), 2-6 g",
+      "lifespan": "3-5 let ve volné přírodě",
+      "habitat": "Lesy a lesní okraje po celé Severní Americe. Preferují oblasti s dostatkem stromů pro hnízda.",
+      "funFact": "Sýček králičí dokážou žít až 20 let a mají složité sociální chování.",
+      "localPath": "/images/birds/birds15.jpg"
+    },
+    {
+      "fileName": "birds16.jpg",
+      "commonName": "Kolibřík rubínohrdlý",
+      "scientificName": "Zenaida macroura",
+      "size": "23-34 cm (9-13 inches), 96-170 g",
+      "lifespan": "1.5 let ve volné přírodě",
+      "habitat": "Mokřady, bažiny a jezera. Preferují mělké vody s bohatou faunou.",
+      "funFact": "Kolibřík rubínohrdlý dokážou létat rychlostí až 60 km/h a mají výjimečný zrak.",
+      "localPath": "/images/birds/birds16.jpg"
+    },
+    {
+      "fileName": "birds17.jpg",
+      "commonName": "Datel pileated",
+      "scientificName": "Picoides pubescens",
+      "size": "14-18 cm (5.5-7 inches), 20-33 g",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Horské oblasti a útesy. Preferují vysoké útvary pro hnízda a dobrý výhled.",
+      "funFact": "Datel pileated staví složitá hnízda a pečují o svá mláďata několik měsíců.",
+      "localPath": "/images/birds/birds17.jpg"
+    },
+    {
+      "fileName": "birds18.jpg",
+      "commonName": "Vlaštovka obecná",
+      "scientificName": "Branta canadensis",
+      "size": "75-110 cm (30-43 cm), 3.2-6.5 kg",
+      "lifespan": "10-24 let ve volné přírodě",
+      "habitat": "Pobřežní oblasti, jezera a řeky. Preferují oblasti s dostatkem ryb.",
+      "funFact": "Vlaštovka obecná staví složitá hnízda a pečují o svá mláďata několik měsíců.",
+      "localPath": "/images/birds/birds18.jpg"
+    },
+    {
+      "fileName": "birds19.jpg",
+      "commonName": "Drozd stěhovavý",
+      "scientificName": "Tyto alba",
+      "size": "25-45 cm (10-18 inches), 224-710 g",
+      "lifespan": "4 let ve volné přírodě",
+      "habitat": "Otevřené krajiny, prérie a zemědělské oblasti. Preferují oblasti s dostatkem potravy.",
+      "funFact": "Drozd stěhovavý dokážou žít až 20 let a mají složité sociální chování.",
+      "localPath": "/images/birds/birds19.jpg"
+    },
+    {
+      "fileName": "birds20.jpg",
+      "commonName": "Kardinál červený",
+      "scientificName": "Pandion haliaetus",
+      "size": "54-58 cm (21-23 cm), 1.2-2.0 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Otevřené krajiny, prérie a zemědělské oblasti. Preferují oblasti s dostatkem potravy.",
+      "funFact": "Kardinál červený migrují na tisíce kilometrů a najdou cestu pomocí hvězd.",
+      "localPath": "/images/birds/birds20.jpg"
+    },
+    {
+      "fileName": "birds21.jpg",
+      "commonName": "Sokol stěhovavý",
+      "scientificName": "Falco peregrinus",
+      "size": "34-58 cm (13-23 cm), 0.33-1.5 kg",
+      "lifespan": "8-15 let ve volné přírodě",
+      "habitat": "Pobřežní oblasti, jezera a řeky. Preferují oblasti s dostatkem ryb.",
+      "funFact": "Sokol stěhovavý migrují na tisíce kilometrů a najdou cestu pomocí hvězd.",
+      "localPath": "/images/birds/birds21.jpg"
+    },
+    {
+      "fileName": "birds22.jpg",
+      "commonName": "Krocan divoký",
+      "scientificName": "Meleagris gallopavo",
+      "size": "100-125 cm (39-49 cm), 2.5-11 kg",
+      "lifespan": "3-5 let ve volné přírodě",
+      "habitat": "Pobřežní oblasti, jezera a řeky. Preferují oblasti s dostatkem ryb.",
+      "funFact": "Krocan divoký dokážou létat rychlostí až 60 km/h a mají výjimečný zrak.",
+      "localPath": "/images/birds/birds22.jpg"
+    },
+    {
+      "fileName": "birds23.jpg",
+      "commonName": "Ledňáček říční",
+      "scientificName": "Megaceryle alcyon",
+      "size": "27-35 cm (11-14 inches), 113-178 g",
+      "lifespan": "6-10 let ve volné přírodě",
+      "habitat": "Lesy a lesní okraje po celé Severní Americe. Preferují oblasti s dostatkem stromů pro hnízda.",
+      "funFact": "Ledňáček říční mají jedinečné volání a dokážou se učit nové písně.",
+      "localPath": "/images/birds/birds23.jpg"
+    },
+    {
+      "fileName": "birds24.jpg",
+      "commonName": "Jeřáb písečný",
+      "scientificName": "Antigone canadensis",
+      "size": "80-136 cm (31-54 cm), 3.0-6.4 kg",
+      "lifespan": "20-40 let ve volné přírodě",
+      "habitat": "Mokřady, bažiny a jezera. Preferují mělké vody s bohatou faunou.",
+      "funFact": "Jeřáb písečný mají jedinečné volání a dokážou se učit nové písně.",
+      "localPath": "/images/birds/birds24.jpg"
+    },
+    {
+      "fileName": "birds25.jpg",
+      "commonName": "Datel černý",
+      "scientificName": "Dryocopus pileatus",
+      "size": "40-49 cm (16-19 inches), 250-400 g",
+      "lifespan": "9-12 let ve volné přírodě",
+      "habitat": "Otevřené krajiny, prérie a zemědělské oblasti. Preferují oblasti s dostatkem potravy.",
+      "funFact": "Datel černý migrují na tisíce kilometrů a najdou cestu pomocí hvězd.",
+      "localPath": "/images/birds/birds25.jpg"
+    },
+    {
+      "fileName": "birds26.jpg",
+      "commonName": "Pěnice žlutá",
+      "scientificName": "Setophaga petechia",
+      "size": "10-18 cm (4-7 inches), 9-11 g",
+      "lifespan": "6-10 let ve volné přírodě",
+      "habitat": "Lesy a lesní okraje po celé Severní Americe. Preferují oblasti s dostatkem stromů pro hnízda.",
+      "funFact": "Pěnice žlutá dokážou létat rychlostí až 60 km/h a mají výjimečný zrak.",
+      "localPath": "/images/birds/birds26.jpg"
+    },
+    {
+      "fileName": "birds27.jpg",
+      "commonName": "Brhlík bělokrký",
+      "scientificName": "Sitta carolinensis",
+      "size": "13-14 cm (5-5.5 inches), 18-30 g",
+      "lifespan": "2-3 let ve volné přírodě",
+      "habitat": "Horské oblasti a útesy. Preferují vysoké útvary pro hnízda a dobrý výhled.",
+      "funFact": "Brhlík bělokrký dokážou žít až 20 let a mají složité sociální chování.",
+      "localPath": "/images/birds/birds27.jpg"
+    },
+    {
+      "fileName": "birds28.jpg",
+      "commonName": "Brkoslav cedrový",
+      "scientificName": "Bombycilla cedrorum",
+      "size": "14-18 cm (5.5-7 inches), 30-40 g",
+      "lifespan": "4-5 let ve volné přírodě",
+      "habitat": "Mokřady, bažiny a jezera. Preferují mělké vody s bohatou faunou.",
+      "funFact": "Brkoslav cedrový staví složitá hnízda a pečují o svá mláďata několik měsíců.",
+      "localPath": "/images/birds/birds28.jpg"
+    },
+    {
+      "fileName": "birds29.jpg",
+      "commonName": "Ovesnice modrá",
+      "scientificName": "Passerina cyanea",
+      "size": "11.5-15 cm (4.5-6 inches), 12-18 g",
+      "lifespan": "4-5 let ve volné přírodě",
+      "habitat": "Horské oblasti a útesy. Preferují vysoké útvary pro hnízda a dobrý výhled.",
+      "funFact": "Ovesnice modrá migrují na tisíce kilometrů a najdou cestu pomocí hvězd.",
+      "localPath": "/images/birds/birds29.jpg"
+    },
+    {
+      "fileName": "birds30.jpg",
+      "commonName": "Dlask růžovoprsý",
+      "scientificName": "Pheucticus ludovicianus",
+      "size": "18-22 cm (7-8.5 inches), 35-65 g",
+      "lifespan": "5-13 let ve volné přírodě",
+      "habitat": "Lesy a lesní okraje po celé Severní Americe. Preferují oblasti s dostatkem stromů pro hnízda.",
+      "funFact": "Dlask růžovoprsý staví složitá hnízda a pečují o svá mláďata několik měsíců.",
+      "localPath": "/images/birds/birds30.jpg"
+    }
+  ]
+}

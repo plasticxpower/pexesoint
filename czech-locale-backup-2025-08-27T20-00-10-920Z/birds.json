@@ -1,0 +1,56 @@
+{
+  "category": "birds",
+  "totalPhotos": 5,
+  "photos": [
+    {
+      "fileName": "birds1.jpg",
+      "commonName": "Americký drozd stěhovavý",
+      "scientificName": "Turdus migratorius",
+      "size": "20-28 cm, 77 g",
+      "lifespan": "2 roky ve volné přírodě, až 13 let",
+      "habitat": "Lesy, parky, zahrady a trávníky napříč Severní Amerikou. Preferují oblasti se stromy pro hnízdění a otevřené plochy pro hledání potravy.",
+      "funFact": "Američtí drozdi stěhovaví patří mezi první ptáky, kteří zpívají za úsvitu, a poslední, kteří zpívají za soumraku. Dokážou vidět ultrafialové světlo, což jim pomáhá najít zralé bobule a hmyz.",
+      "localPath": "/images/birds/birds1.jpg"
+    },
+    {
+      "fileName": "birds2.jpg",
+      "commonName": "Americká vrána",
+      "scientificName": "Corvus brachyrhynchos",
+      "size": "40-50 cm, 315-620 g",
+      "lifespan": "7-8 let ve volné přírodě, až 20 let",
+      "habitat": "Otevřené lesy, pole, parky a městské oblasti napříč Severní Amerikou. Jsou vysoce přizpůsobivé lidskému prostředí.",
+      "funFact": "Vrány patří mezi nejinteligentnější ptáky, dokážou používat nástroje, řešit složité hádanky a rozpoznávat lidské tváře. Dokážou si pamatovat křivdy a předávat tyto informace svému potomstvu.",
+      "localPath": "/images/birds/birds2.jpg"
+    },
+    {
+      "fileName": "birds3.jpg",
+      "commonName": "Sýkora černohlavá",
+      "scientificName": "Poecile atricapillus",
+      "size": "12-15 cm, 9-14 g",
+      "lifespan": "2-3 roky ve volné přírodě",
+      "habitat": "Smíšené a listnaté lesy, parky a zalesněné předměstské oblasti napříč severní Severní Amerikou.",
+      "funFact": "Sýkory si dokážou zapamatovat tisíce úkrytů, kde si ukládají potravu. Jejich mozek se na podzim skutečně zvětšuje, aby pojal zvýšené paměťové nároky pro přežití zimy.",
+      "localPath": "/images/birds/birds3.jpg"
+    },
+    {
+      "fileName": "birds4.jpg",
+      "commonName": "Východní modráček",
+      "scientificName": "Sialia sialis",
+      "size": "16-21 cm, 27-34 g",
+      "lifespan": "6-10 let ve volné přírodě",
+      "habitat": "Otevřené lesy, zemědělské oblasti a parky s rozptýlenými stromy napříč východní Severní Amerikou.",
+      "funFact": "Východní modráčci hnízdí v dutinách a značně těží z programů budek pro ptáky. Samci jsou jasněji zbarvení než samice a předvádějí složité námluvy.",
+      "localPath": "/images/birds/birds4.jpg"
+    },
+    {
+      "fileName": "birds5.jpg",
+      "commonName": "Americký stehlík",
+      "scientificName": "Spinus tristis",
+      "size": "11-14 cm, 11-20 g",
+      "lifespan": "3-6 let ve volné přírodě",
+      "habitat": "Otevřená krajina, okraje silnic, sady a předměstské oblasti napříč Severní Amerikou. Preferují oblasti s bodláky a jinými rostlinami produkujícími semena.",
+      "funFact": "Američtí stehlíci jsou přísní vegetariáni a jedni z nejpozději hnízdících ptáků, čekají až do pozdního léta, kdy jsou semena hojná. Samci se pelichají dvakrát ročně, mění se ze zářivě žluté na olivově hnědou.",
+      "localPath": "/images/birds/birds5.jpg"
+    }
+  ]
+}

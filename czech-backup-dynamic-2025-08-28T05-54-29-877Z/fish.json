@@ -1,0 +1,306 @@
+{
+  "category": "Ryby",
+  "totalPhotos": 30,
+  "photos": [
+    {
+      "fileName": "fish1.jpg",
+      "commonName": "Žralok bílý",
+      "scientificName": "Micropterus salmoides",
+      "size": "3,4-6,1 m délka, 522-2268 kg",
+      "lifespan": "30-70 let",
+      "habitat": "Pobřežní a otevřené oceánské vody mírných a subtropických oblastí po celém světě. Preferují oblasti s bohatou populací tuleňů.",
+      "funFact": "Žraloci bílí dokážou vyskočit až 3 metry nad hladinu při lovu. Mají až 300 zubů uspořádaných v několika řadách a vyměňují je po celý život.",
+      "localPath": "/images/fish/fish1.jpg"
+    },
+    {
+      "fileName": "fish2.jpg",
+      "commonName": "Tuňák obecný",
+      "scientificName": "Oncorhynchus mykiss",
+      "size": "2-4 m délka, 136-680 kg",
+      "lifespan": "15-30 let",
+      "habitat": "Otevřené oceánské vody Atlantiku a Středozemního moře. Migrují na tisíce kilometrů za potravou.",
+      "funFact": "Tuňáci obecní dokážou plavat rychlostí až 70 km/h a udržet tělesnou teplotu vyšší než okolní voda. Jsou to jedny z nejcennějších ryb na světě.",
+      "localPath": "/images/fish/fish2.jpg"
+    },
+    {
+      "fileName": "fish3.jpg",
+      "commonName": "Losos atlantský",
+      "scientificName": "Esox lucius",
+      "size": "71-76 cm délka, 2,3-5,4 kg",
+      "lifespan": "4-6 let",
+      "habitat": "Severní Atlantik a řeky, které do něj ústí. Tráví část života v moři a část ve sladké vodě.",
+      "funFact": "Lososi atlantští dokážou skákat až 3,7 metru vysoko při překonávání překážek na cestě k trdlištím. Najdou cestu zpět do řeky, kde se narodili, pomocí čichu.",
+      "localPath": "/images/fish/fish3.jpg"
+    },
+    {
+      "fileName": "fish4.jpg",
+      "commonName": "Treska obecná",
+      "scientificName": "Lepomis macrochirus",
+      "size": "61-120 cm délka, 2-40 kg",
+      "lifespan": "13-25 let",
+      "habitat": "Chladné vody severního Atlantiku a Pacifiku. Preferují hloubky 150-200 metrů.",
+      "funFact": "Tresky obecné dokážou produkovat zvuky pomocí svalů kolem plynového měchýře. Byly historicky tak důležité, že ovlivnily objevování Ameriky.",
+      "localPath": "/images/fish/fish4.jpg"
+    },
+    {
+      "fileName": "fish5.jpg",
+      "commonName": "Halibut obecný",
+      "scientificName": "Ictalurus punctatus",
+      "size": "1,2-4,7 m délka, 27-333 kg",
+      "lifespan": "42-55 let",
+      "habitat": "Dno chladných vod severního Atlantiku a Pacifiku. Preferují hloubky 50-2000 metrů.",
+      "funFact": "Halibuti obecní se rodí s očima na obou stranách hlavy, ale během růstu se jedno oko přesune na druhou stranu. Dokážou změnit barvu podle dna.",
+      "localPath": "/images/fish/fish5.jpg"
+    },
+    {
+      "fileName": "fish6.jpg",
+      "commonName": "Mečoun obecný",
+      "scientificName": "Salmo salar",
+      "size": "3-4,55 m délka, 90-650 kg",
+      "lifespan": "9-15 let",
+      "habitat": "Teplé oceánské vody po celém světě. Preferují hloubky 200-600 metrů během dne.",
+      "funFact": "Mečouni obecní dokážou plavat rychlostí až 97 km/h a jejich 'meč' může být dlouhý až třetinu celkové délky těla. Dokážou ohřívat své oči a mozek.",
+      "localPath": "/images/fish/fish6.jpg"
+    },
+    {
+      "fileName": "fish7.jpg",
+      "commonName": "Marlín modrý",
+      "scientificName": "Sander vitreus",
+      "size": "3-5 m délka, 200-820 kg",
+      "lifespan": "18-27 let",
+      "habitat": "Tropické a subtropické oceánské vody po celém světě. Preferují otevřené oceány.",
+      "funFact": "Marlíni modří jsou jedny z nejrychlejších ryb na světě, dosahují rychlosti až 129 km/h. Samice jsou výrazně větší než samci.",
+      "localPath": "/images/fish/fish7.jpg"
+    },
+    {
+      "fileName": "fish8.jpg",
+      "commonName": "Manta obrovská",
+      "scientificName": "Morone saxatilis",
+      "size": "4,5-9 m rozpětí, 1350-2000 kg",
+      "lifespan": "40-50 let",
+      "habitat": "Tropické a subtropické oceánské vody po celém světě. Často se vyskytují blízko povrchu.",
+      "funFact": "Manty obrovské mají největší mozek ze všech ryb a dokážou rozpoznat sebe sama v zrcadle. Filtrují až 600 kubických metrů vody za hodinu.",
+      "localPath": "/images/fish/fish8.jpg"
+    },
+    {
+      "fileName": "fish9.jpg",
+      "commonName": "Žralok velrybí",
+      "scientificName": "Perca flavescens",
+      "size": "5,5-10 m délka, 9-21 tun",
+      "lifespan": "70-100 let",
+      "habitat": "Teplé oceánské vody po celém světě. Migrují na dlouhé vzdálenosti za potravou.",
+      "funFact": "Žraloci velrybí jsou největší ryby na světě, ale živí se pouze planktonem a malými rybami. Dokážou otevřít ústa do šířky 1,5 metru.",
+      "localPath": "/images/fish/fish9.jpg"
+    },
+    {
+      "fileName": "fish10.jpg",
+      "commonName": "Úhoř říční",
+      "scientificName": "Esox masquinongy",
+      "size": "60-150 cm délka, 0,5-6 kg",
+      "lifespan": "15-20 let",
+      "habitat": "Řeky a jezera Evropy a východní Severní Ameriky. Migrují do Sargasového moře na tření.",
+      "funFact": "Úhoři říční podnikají neuvěřitelnou migraci až 6000 km do Sargasového moře, kde se tříí a umírají. Dokážou přežít mimo vodu několik hodin.",
+      "localPath": "/images/fish/fish10.jpg"
+    },
+    {
+      "fileName": "fish11.jpg",
+      "commonName": "Štika obecná",
+      "scientificName": "Salvelinus fontinalis",
+      "size": "40-150 cm délka, 0,5-35 kg",
+      "lifespan": "10-30 let",
+      "habitat": "Sladkovodní jezera, rybníky a pomalé řeky Severní Ameriky a Eurasie. Preferují vegetací bohaté vody.",
+      "funFact": "Štiky obecné dokážou zrychlit z 0 na 48 km/h za méně než sekundu při útoku na kořist. Mají až 700 ostrých zubů.",
+      "localPath": "/images/fish/fish11.jpg"
+    },
+    {
+      "fileName": "fish12.jpg",
+      "commonName": "Pstruh duhový",
+      "scientificName": "Micropterus dolomieu",
+      "size": "30-76 cm délka, 0,9-7,7 kg",
+      "lifespan": "4-6 let",
+      "habitat": "Chladné sladkovodní toky a jezera Severní Ameriky. Introdukován do mnoha zemí světa.",
+      "funFact": "Pstruzi duhoví dokážou skákat až 2,1 metru vysoko při překonávání překážek. Jejich duhové zbarvení se mění podle prostředí a nálady.",
+      "localPath": "/images/fish/fish12.jpg"
+    },
+    {
+      "fileName": "fish13.jpg",
+      "commonName": "Sumec velký",
+      "scientificName": "Salvelinus namaycush",
+      "size": "1-5 m délka, 10-400 kg",
+      "lifespan": "60-80 let",
+      "habitat": "Velké řeky a jezera Evropy. Preferují hluboké vody s bahnitým dnem.",
+      "funFact": "Sumci velcí dokážou žít přes 100 let a jsou největší sladkovodní ryby Evropy. Dokážou detekovat kořist pomocí elektrických polí.",
+      "localPath": "/images/fish/fish13.jpg"
+    },
+    {
+      "fileName": "fish14.jpg",
+      "commonName": "Kapr obecný",
+      "scientificName": "Morone chrysops",
+      "size": "40-80 cm délka, 2-14 kg",
+      "lifespan": "20-47 let",
+      "habitat": "Sladkovodní jezera, rybníky a pomalé řeky Evropy a Asie. Velmi přizpůsobivé různým podmínkám.",
+      "funFact": "Kapři obecní dokážou přežít v téměř bezkyslíkaté vodě a vydržet zmrazení v ledu. Mají vynikající paměť a dokážou se učit.",
+      "localPath": "/images/fish/fish14.jpg"
+    },
+    {
+      "fileName": "fish15.jpg",
+      "commonName": "Okoun říční",
+      "scientificName": "Esox masquinongy",
+      "size": "15-50 cm délka, 0,1-4,8 kg",
+      "lifespan": "9-22 let",
+      "habitat": "Sladkovodní jezera, rybníky a řeky Evropy a Severní Ameriky. Preferují čisté vody s vegetací.",
+      "funFact": "Okouny říční mají výborný zrak a dokážou lovit i v kalné vodě. Jejich hřbetní ploutev má ostré trny pro obranu.",
+      "localPath": "/images/fish/fish15.jpg"
+    },
+    {
+      "fileName": "fish16.jpg",
+      "commonName": "Candát obecný",
+      "scientificName": "Oncorhynchus kisutch",
+      "size": "40-130 cm délka, 0,5-20 kg",
+      "lifespan": "10-14 let",
+      "habitat": "Velké řeky a jezera Evropy a západní Asie. Preferují čisté vody s tvrdým dnem.",
+      "funFact": "Candáti obecní mají výjimečný noční zrak díky speciální vrstvě v očích. Jsou jedny z nejcennějších sladkovodních ryb.",
+      "localPath": "/images/fish/fish16.jpg"
+    },
+    {
+      "fileName": "fish17.jpg",
+      "commonName": "Plotice obecná",
+      "scientificName": "Pomoxis nigromaculatus",
+      "size": "15-45 cm délka, 0,05-2 kg",
+      "lifespan": "8-15 let",
+      "habitat": "Sladkovodní toky, jezera a rybníky Evropy. Velmi přizpůsobivé různým podmínkám.",
+      "funFact": "Plotice obecné dokážou přežít v široké škále teplot a kvality vody. Tvoří velká hejna pro ochranu před predátory.",
+      "localPath": "/images/fish/fish17.jpg"
+    },
+    {
+      "fileName": "fish18.jpg",
+      "commonName": "Cejn velký",
+      "scientificName": "Lepomis gibbosus",
+      "size": "30-60 cm délka, 1-6 kg",
+      "lifespan": "15-20 let",
+      "habitat": "Velké řeky a jezera střední a východní Evropy. Preferují teplé vody s bahnitým dnem.",
+      "funFact": "Cejni velcí dokážou filtrovat až 40 litrů vody za hodinu při hledání potravy. Jsou důležité pro čištění vodních ekosystémů.",
+      "localPath": "/images/fish/fish18.jpg"
+    },
+    {
+      "fileName": "fish19.jpg",
+      "commonName": "Lín obecný",
+      "scientificName": "Oncorhynchus tshawytscha",
+      "size": "20-70 cm délka, 0,5-7,5 kg",
+      "lifespan": "15-20 let",
+      "habitat": "Sladkovodní jezera, rybníky a pomalé řeky Evropy a Asie. Preferují vegetací bohaté vody.",
+      "funFact": "Líni obecní dokážou přežít v téměř bezkyslíkaté vodě a zahrabávat se do bahna v zimě. Mají léčivé slizové vlastnosti.",
+      "localPath": "/images/fish/fish19.jpg"
+    },
+    {
+      "fileName": "fish20.jpg",
+      "commonName": "Amur bílý",
+      "scientificName": "Oncorhynchus mykiss",
+      "size": "60-120 cm délka, 5-40 kg",
+      "lifespan": "15-20 let",
+      "habitat": "Velké řeky východní Asie, introdukován do Evropy a Severní Ameriky. Preferuje teplé vody.",
+      "funFact": "Amuři bílí dokážou sníst až 40% své tělesné hmotnosti vodních rostlin denně. Jsou používáni pro biologické čištění rybníků.",
+      "localPath": "/images/fish/fish20.jpg"
+    },
+    {
+      "fileName": "fish21.jpg",
+      "commonName": "Flathead Catfish",
+      "scientificName": "Pylodictis olivaris",
+      "size": "60-100 cm (24-40 inches), 5-20 kg",
+      "lifespan": "15-25 years in wild",
+      "habitat": "Large rivers and reservoirs with deep pools across central North America.",
+      "funFact": "Flathead catfish are solitary predators that prefer live prey. They can grow to enormous sizes, with some specimens exceeding 100 pounds.",
+      "localPath": "/images/fish/fish21.jpg"
+    },
+    {
+      "fileName": "fish22.jpg",
+      "commonName": "Sauger",
+      "scientificName": "Sander canadensis",
+      "size": "25-35 cm (10-14 inches), 300-800 g",
+      "lifespan": "8-12 years in wild",
+      "habitat": "Large rivers and lakes across northern North America.",
+      "funFact": "Saugers are closely related to walleyes but prefer flowing water. They have excellent low-light vision and are most active during twilight hours.",
+      "localPath": "/images/fish/fish22.jpg"
+    },
+    {
+      "fileName": "fish23.jpg",
+      "commonName": "Burbot",
+      "scientificName": "Lota lota",
+      "size": "40-60 cm (16-24 inches), 1-3 kg",
+      "lifespan": "15-20 years in wild",
+      "habitat": "Deep, cold lakes and rivers across northern regions.",
+      "funFact": "Burbot are the only freshwater member of the cod family. They spawn under ice in winter and are most active in cold water temperatures.",
+      "localPath": "/images/fish/fish23.jpg"
+    },
+    {
+      "fileName": "fish24.jpg",
+      "commonName": "Gar",
+      "scientificName": "Lepisosteus osseus",
+      "size": "60-120 cm (24-48 inches), 2-10 kg",
+      "lifespan": "18-26 years in wild",
+      "habitat": "Slow-moving rivers, lakes, and backwaters across eastern North America.",
+      "funFact": "Gar are living fossils that have remained virtually unchanged for 100 million years. They can breathe air and survive in low-oxygen water.",
+      "localPath": "/images/fish/fish24.jpg"
+    },
+    {
+      "fileName": "fish25.jpg",
+      "commonName": "Paddlefish",
+      "scientificName": "Polyodon spathula",
+      "size": "120-180 cm (48-72 inches), 20-60 kg",
+      "lifespan": "30-55 years in wild",
+      "habitat": "Large rivers and reservoirs in the Mississippi River basin.",
+      "funFact": "Paddlefish are filter feeders with a distinctive paddle-shaped snout. They are one of the largest freshwater fish in North America and can live over 50 years.",
+      "localPath": "/images/fish/fish25.jpg"
+    },
+    {
+      "fileName": "fish26.jpg",
+      "commonName": "Bowfin",
+      "scientificName": "Amia calva",
+      "size": "45-75 cm (18-30 inches), 2-5 kg",
+      "lifespan": "12-30 years in wild",
+      "habitat": "Shallow, vegetated waters of lakes and slow rivers in eastern North America.",
+      "funFact": "Bowfin are primitive fish that can breathe air and survive in low-oxygen water. Males guard their young in a nest and will aggressively defend them.",
+      "localPath": "/images/fish/fish26.jpg"
+    },
+    {
+      "fileName": "fish27.jpg",
+      "commonName": "Freshwater Drum",
+      "scientificName": "Aplodinotus grunniens",
+      "size": "30-50 cm (12-20 inches), 1-4 kg",
+      "lifespan": "8-15 years in wild",
+      "habitat": "Large rivers and lakes across central and eastern North America.",
+      "funFact": "Freshwater drum get their name from the drumming sound males make during spawning season. They are the only freshwater member of the drum family.",
+      "localPath": "/images/fish/fish27.jpg"
+    },
+    {
+      "fileName": "fish28.jpg",
+      "commonName": "Redhorse Sucker",
+      "scientificName": "Moxostoma macrolepidotum",
+      "size": "30-50 cm (12-20 inches), 1-3 kg",
+      "lifespan": "10-15 years in wild",
+      "habitat": "Clear streams and rivers with rocky or sandy bottoms across North America.",
+      "funFact": "Redhorse suckers are bottom feeders that use their sucker-like mouths to feed on algae and small invertebrates. They play an important role in aquatic ecosystem health.",
+      "localPath": "/images/fish/fish28.jpg"
+    },
+    {
+      "fileName": "fish29.jpg",
+      "commonName": "Mooneye",
+      "scientificName": "Hiodon tergisus",
+      "size": "20-35 cm (8-14 inches), 200-600 g",
+      "lifespan": "6-10 years in wild",
+      "habitat": "Large rivers and lakes across central North America.",
+      "funFact": "Mooneyes have large, silvery eyes that reflect light, giving them their name. They are excellent jumpers and can leap several feet out of the water.",
+      "localPath": "/images/fish/fish29.jpg"
+    },
+    {
+      "fileName": "fish30.jpg",
+      "commonName": "White Sucker",
+      "scientificName": "Catostomus commersonii",
+      "size": "30-50 cm (12-20 inches), 1-3 kg",
+      "lifespan": "10-17 years in wild",
+      "habitat": "Streams, rivers, and lakes across northern North America.",
+      "funFact": "White suckers are important forage fish for many predator species. They can tolerate a wide range of water conditions and are often the first fish to recolonize disturbed habitats.",
+      "localPath": "/images/fish/fish30.jpg"
+    }
+  ]
+}

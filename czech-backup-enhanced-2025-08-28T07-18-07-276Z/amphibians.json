@@ -1,0 +1,306 @@
+{
+  "category": "Obojživelníci",
+  "totalPhotos": 30,
+  "photos": [
+    {
+      "fileName": "amphibians1.jpg",
+      "commonName": "Žába skokavá",
+      "scientificName": "Lithobates catesbeianus",
+      "size": "15-20 cm (6-8 inches), 500-600 g",
+      "lifespan": "7-9 let ve volné přírodě",
+      "habitat": "Jezera a rybníky. Preferují stojaté vody s vegetací.",
+      "funFact": "Žába skokavá dokážou dýchat jak žábrami, tak plícemi.",
+      "localPath": "/images/amphibians/amphibians1.jpg"
+    },
+    {
+      "fileName": "amphibians2.jpg",
+      "commonName": "Ropucha obecná",
+      "scientificName": "Ambystoma maculatum",
+      "size": "15-25 cm (6-10 inches)",
+      "lifespan": "20+ let ve volné přírodě",
+      "habitat": "Lesy a lesní okraje. Preferují vlhké oblasti s dostatkem úkrytů.",
+      "funFact": "Ropucha obecná mají jedinečné volání pro přilákání partnerů.",
+      "localPath": "/images/amphibians/amphibians2.jpg"
+    },
+    {
+      "fileName": "amphibians3.jpg",
+      "commonName": "Čolek obecný",
+      "scientificName": "Pseudacris crucifer",
+      "size": "2-3.5 cm (1-1.4 inches)",
+      "lifespan": "3-4 let ve volné přírodě",
+      "habitat": "Lesy a lesní okraje. Preferují vlhké oblasti s dostatkem úkrytů.",
+      "funFact": "Čolek obecný procházejí složitou metamorfózou od pulce k dospělci.",
+      "localPath": "/images/amphibians/amphibians3.jpg"
+    },
+    {
+      "fileName": "amphibians4.jpg",
+      "commonName": "Salamandr skvrnitý",
+      "scientificName": "Plethodon cinereus",
+      "size": "5.7-10 cm (2.25-4 inches)",
+      "lifespan": "25+ let ve volné přírodě",
+      "habitat": "Jezera a rybníky. Preferují stojaté vody s vegetací.",
+      "funFact": "Salamandr skvrnitý mají jedinečné volání pro přilákání partnerů.",
+      "localPath": "/images/amphibians/amphibians4.jpg"
+    },
+    {
+      "fileName": "amphibians5.jpg",
+      "commonName": "Rosnička zelená",
+      "scientificName": "Lithobates sylvaticus",
+      "size": "3.5-7 cm (1.4-2.8 inches)",
+      "lifespan": "3-5 let ve volné přírodě",
+      "habitat": "Jezera a rybníky. Preferují stojaté vody s vegetací.",
+      "funFact": "Rosnička zelená dokážou hibernovat na dně rybníků v zimě.",
+      "localPath": "/images/amphibians/amphibians5.jpg"
+    },
+    {
+      "fileName": "amphibians6.jpg",
+      "commonName": "Mlok velký",
+      "scientificName": "Agalychnis callidryas",
+      "size": "4-7 cm (1.5-3 inches)",
+      "lifespan": "5 let ve volné přírodě",
+      "habitat": "Jezera a rybníky. Preferují stojaté vody s vegetací.",
+      "funFact": "Mlok velký dokážou dýchat jak žábrami, tak plícemi.",
+      "localPath": "/images/amphibians/amphibians6.jpg"
+    },
+    {
+      "fileName": "amphibians7.jpg",
+      "commonName": "Žába zelená",
+      "scientificName": "Notophthalmus viridescens",
+      "size": "7-10 cm (3-4 inches)",
+      "lifespan": "12-15 let ve volné přírodě",
+      "habitat": "Jezera a rybníky. Preferují stojaté vody s vegetací.",
+      "funFact": "Žába zelená procházejí složitou metamorfózou od pulce k dospělci.",
+      "localPath": "/images/amphibians/amphibians7.jpg"
+    },
+    {
+      "fileName": "amphibians8.jpg",
+      "commonName": "Ropucha zelená",
+      "scientificName": "Phyllobates terribilis",
+      "size": "2-5 cm (0.8-2 inches)",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Lesy a lesní okraje. Preferují vlhké oblasti s dostatkem úkrytů.",
+      "funFact": "Ropucha zelená dokážou hibernovat na dně rybníků v zimě.",
+      "localPath": "/images/amphibians/amphibians8.jpg"
+    },
+    {
+      "fileName": "amphibians9.jpg",
+      "commonName": "Čolek horský",
+      "scientificName": "Ambystoma mexicanum",
+      "size": "15-45 cm (6-18 inches)",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Lesy a lesní okraje. Preferují vlhké oblasti s dostatkem úkrytů.",
+      "funFact": "Čolek horský dokážou hibernovat na dně rybníků v zimě.",
+      "localPath": "/images/amphibians/amphibians9.jpg"
+    },
+    {
+      "fileName": "amphibians10.jpg",
+      "commonName": "Žába štíhlá",
+      "scientificName": "Ambystoma tigrinum",
+      "size": "15-35 cm (6-14 inches)",
+      "lifespan": "10-16 let ve volné přírodě",
+      "habitat": "Lesy a lesní okraje. Preferují vlhké oblasti s dostatkem úkrytů.",
+      "funFact": "Žába štíhlá dokážou dýchat jak žábrami, tak plícemi.",
+      "localPath": "/images/amphibians/amphibians10.jpg"
+    },
+    {
+      "fileName": "amphibians11.jpg",
+      "commonName": "Salamandr alpský",
+      "scientificName": "Hyla cinerea",
+      "size": "3-6 cm (1.2-2.4 inches)",
+      "lifespan": "2-5 let ve volné přírodě",
+      "habitat": "Stepi a louky. Preferují otevřené krajiny s přístupem k vodě.",
+      "funFact": "Salamandr alpský dokážou hibernovat na dně rybníků v zimě.",
+      "localPath": "/images/amphibians/amphibians11.jpg"
+    },
+    {
+      "fileName": "amphibians12.jpg",
+      "commonName": "Rosnička stromová",
+      "scientificName": "Cryptobranchus alleganiensis",
+      "size": "30-74 cm (12-29 inches)",
+      "lifespan": "25-30 let ve volné přírodě",
+      "habitat": "Mokřady a bažiny. Preferují mělké vody s bohatou vegetací.",
+      "funFact": "Rosnička stromová mají propustnou kůži a dokážou absorbovat vodu.",
+      "localPath": "/images/amphibians/amphibians12.jpg"
+    },
+    {
+      "fileName": "amphibians13.jpg",
+      "commonName": "Ropucha krásná",
+      "scientificName": "Rhinella marina",
+      "size": "10-24 cm (4-9.5 inches)",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Jezera a rybníky. Preferují stojaté vody s vegetací.",
+      "funFact": "Ropucha krásná procházejí složitou metamorfózou od pulce k dospělci.",
+      "localPath": "/images/amphibians/amphibians13.jpg"
+    },
+    {
+      "fileName": "amphibians14.jpg",
+      "commonName": "Čolek dunajský",
+      "scientificName": "Salamandra salamandra",
+      "size": "15-25 cm (6-10 inches)",
+      "lifespan": "14-20 let ve volné přírodě",
+      "habitat": "Stepi a louky. Preferují otevřené krajiny s přístupem k vodě.",
+      "funFact": "Čolek dunajský mají jedinečné volání pro přilákání partnerů.",
+      "localPath": "/images/amphibians/amphibians14.jpg"
+    },
+    {
+      "fileName": "amphibians15.jpg",
+      "commonName": "Žába ostronosá",
+      "scientificName": "Necturus maculosus",
+      "size": "20-33 cm (8-13 inches)",
+      "lifespan": "20-30 let ve volné přírodě",
+      "habitat": "Horské oblasti a potoky. Preferují chladné a čisté vody.",
+      "funFact": "Žába ostronosá mají jedinečné volání pro přilákání partnerů.",
+      "localPath": "/images/amphibians/amphibians15.jpg"
+    },
+    {
+      "fileName": "amphibians16.jpg",
+      "commonName": "Mlok karpatský",
+      "scientificName": "Centrolenella fleischmanni",
+      "size": "2-3 cm (0.8-1.2 inches)",
+      "lifespan": "7-14 let ve volné přírodě",
+      "habitat": "Lesy a lesní okraje. Preferují vlhké oblasti s dostatkem úkrytů.",
+      "funFact": "Mlok karpatský dokážou hibernovat na dně rybníků v zimě.",
+      "localPath": "/images/amphibians/amphibians16.jpg"
+    },
+    {
+      "fileName": "amphibians17.jpg",
+      "commonName": "Ropucha obecná velká",
+      "scientificName": "Gymnopis multiplicata",
+      "size": "30-60 cm (12-24 inches)",
+      "lifespan": "4-5 let ve volné přírodě",
+      "habitat": "Horské oblasti a potoky. Preferují chladné a čisté vody.",
+      "funFact": "Ropucha obecná velká dokážou dýchat jak žábrami, tak plícemi.",
+      "localPath": "/images/amphibians/amphibians17.jpg"
+    },
+    {
+      "fileName": "amphibians18.jpg",
+      "commonName": "Čolek malý",
+      "scientificName": "Pseudacris triseriata",
+      "size": "2-4 cm (0.8-1.6 inches)",
+      "lifespan": "2-3 let ve volné přírodě",
+      "habitat": "Lesy a lesní okraje. Preferují vlhké oblasti s dostatkem úkrytů.",
+      "funFact": "Čolek malý procházejí složitou metamorfózou od pulce k dospělci.",
+      "localPath": "/images/amphibians/amphibians18.jpg"
+    },
+    {
+      "fileName": "amphibians19.jpg",
+      "commonName": "Žába hnědá",
+      "scientificName": "Ambystoma opacum",
+      "size": "8-12 cm (3-5 inches)",
+      "lifespan": "8-10 let ve volné přírodě",
+      "habitat": "Stepi a louky. Preferují otevřené krajiny s přístupem k vodě.",
+      "funFact": "Žába hnědá procházejí složitou metamorfózou od pulce k dospělci.",
+      "localPath": "/images/amphibians/amphibians19.jpg"
+    },
+    {
+      "fileName": "amphibians20.jpg",
+      "commonName": "Salamandr černý",
+      "scientificName": "Lithobates palustris",
+      "size": "4-7 cm (1.6-2.8 inches)",
+      "lifespan": "4-5 let ve volné přírodě",
+      "habitat": "Lesy a lesní okraje. Preferují vlhké oblasti s dostatkem úkrytů.",
+      "funFact": "Salamandr černý mají jedinečné volání pro přilákání partnerů.",
+      "localPath": "/images/amphibians/amphibians20.jpg"
+    },
+    {
+      "fileName": "amphibians21.jpg",
+      "commonName": "Rosnička obecná",
+      "scientificName": "Hemidactylium scutatum",
+      "size": "6-10 cm (2.4-4 inches)",
+      "lifespan": "5-7 let ve volné přírodě",
+      "habitat": "Horské oblasti a potoky. Preferují chladné a čisté vody.",
+      "funFact": "Rosnička obecná dokážou dýchat jak žábrami, tak plícemi.",
+      "localPath": "/images/amphibians/amphibians21.jpg"
+    },
+    {
+      "fileName": "amphibians22.jpg",
+      "commonName": "Ropucha krásná malá",
+      "scientificName": "Hyla versicolor",
+      "size": "3-6 cm (1.2-2.4 inches)",
+      "lifespan": "7-9 let ve volné přírodě",
+      "habitat": "Mokřady a bažiny. Preferují mělké vody s bohatou vegetací.",
+      "funFact": "Ropucha krásná malá mají jedinečné volání pro přilákání partnerů.",
+      "localPath": "/images/amphibians/amphibians22.jpg"
+    },
+    {
+      "fileName": "amphibians23.jpg",
+      "commonName": "Čolek alpský",
+      "scientificName": "Pseudotriton ruber",
+      "size": "8-18 cm (3-7 inches)",
+      "lifespan": "20+ let ve volné přírodě",
+      "habitat": "Lesy a lesní okraje. Preferují vlhké oblasti s dostatkem úkrytů.",
+      "funFact": "Čolek alpský mají propustnou kůži a dokážou absorbovat vodu.",
+      "localPath": "/images/amphibians/amphibians23.jpg"
+    },
+    {
+      "fileName": "amphibians24.jpg",
+      "commonName": "Žába travní",
+      "scientificName": "Hyla chrysoscelis",
+      "size": "3-5 cm (1.2-2 inches)",
+      "lifespan": "7-9 let ve volné přírodě",
+      "habitat": "Jezera a rybníky. Preferují stojaté vody s vegetací.",
+      "funFact": "Žába travní procházejí složitou metamorfózou od pulce k dospělci.",
+      "localPath": "/images/amphibians/amphibians24.jpg"
+    },
+    {
+      "fileName": "amphibians25.jpg",
+      "commonName": "Mlok horský",
+      "scientificName": "Eurycea bislineata",
+      "size": "6-12 cm (2.4-4.7 inches)",
+      "lifespan": "5-10 let ve volné přírodě",
+      "habitat": "Mokřady a bažiny. Preferují mělké vody s bohatou vegetací.",
+      "funFact": "Mlok horský mají jedinečné volání pro přilákání partnerů.",
+      "localPath": "/images/amphibians/amphibians25.jpg"
+    },
+    {
+      "fileName": "amphibians26.jpg",
+      "commonName": "Salamandr ohnivý",
+      "scientificName": "Anaxyrus fowleri",
+      "size": "5-9 cm (2-3.5 inches)",
+      "lifespan": "5-10 let ve volné přírodě",
+      "habitat": "Lesy a lesní okraje. Preferují vlhké oblasti s dostatkem úkrytů.",
+      "funFact": "Salamandr ohnivý dokážou dýchat jak žábrami, tak plícemi.",
+      "localPath": "/images/amphibians/amphibians26.jpg"
+    },
+    {
+      "fileName": "amphibians27.jpg",
+      "commonName": "Rosnička skvělá",
+      "scientificName": "Plethodon glutinosus",
+      "size": "11-20 cm (4.3-7.9 inches)",
+      "lifespan": "5-20 let ve volné přírodě",
+      "habitat": "Horské oblasti a potoky. Preferují chladné a čisté vody.",
+      "funFact": "Rosnička skvělá procházejí složitou metamorfózou od pulce k dospělci.",
+      "localPath": "/images/amphibians/amphibians27.jpg"
+    },
+    {
+      "fileName": "amphibians28.jpg",
+      "commonName": "Ropucha zelená velká",
+      "scientificName": "Lithobates pipiens",
+      "size": "5-11 cm (2-4.3 inches)",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Jezera a rybníky. Preferují stojaté vody s vegetací.",
+      "funFact": "Ropucha zelená velká dokážou hibernovat na dně rybníků v zimě.",
+      "localPath": "/images/amphibians/amphibians28.jpg"
+    },
+    {
+      "fileName": "amphibians29.jpg",
+      "commonName": "Čolek severní",
+      "scientificName": "Eurycea longicauda",
+      "size": "8-19 cm (3-7.5 inches)",
+      "lifespan": "10+ let ve volné přírodě",
+      "habitat": "Stepi a louky. Preferují otevřené krajiny s přístupem k vodě.",
+      "funFact": "Čolek severní dokážou hibernovat na dně rybníků v zimě.",
+      "localPath": "/images/amphibians/amphibians29.jpg"
+    },
+    {
+      "fileName": "amphibians30.jpg",
+      "commonName": "Žába lesní",
+      "scientificName": "Lithobates clamitans",
+      "size": "5-10 cm (2-4 inches)",
+      "lifespan": "6-10 let ve volné přírodě",
+      "habitat": "Lesy a lesní okraje. Preferují vlhké oblasti s dostatkem úkrytů.",
+      "funFact": "Žába lesní mají propustnou kůži a dokážou absorbovat vodu.",
+      "localPath": "/images/amphibians/amphibians30.jpg"
+    }
+  ]
+}

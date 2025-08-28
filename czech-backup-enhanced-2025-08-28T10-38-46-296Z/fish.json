@@ -1,0 +1,306 @@
+{
+  "category": "fish",
+  "totalPhotos": 30,
+  "photos": [
+    {
+      "fileName": "fish1.jpg",
+      "commonName": "Žralok bílý",
+      "scientificName": "Micropterus salmoides",
+      "size": "Délka: 400-600 cm, Hmotnost: 1500-2500 kg",
+      "lifespan": "70-100 let ve volné přírodě",
+      "habitat": "Freshwater lakes, ponds, and slow-moving rivers with vegetation napříč Severní Amerika.",
+      "funFact": "Largemouth bass are ambush predators with vynikající vision and can see in color. They can open their mouths wide enough to create a powerful suction that helps them capture prey.",
+      "localPath": "/images/fish/fish1.jpg"
+    },
+    {
+      "fileName": "fish2.jpg",
+      "commonName": "Tuňák obecný",
+      "scientificName": "Oncorhynchus mykiss",
+      "size": "Délka: 200-250 cm, Hmotnost: 200-400 kg",
+      "lifespan": "40-50 let ve volné přírodě",
+      "habitat": "Cold, clear streams and lakes napříč Severní Amerika and introduced worldwide.",
+      "funFact": "Rainbow trout can see ultraviolet light and have vynikající color vision. They are known for their spectacular jumping ability when hooked or avoiding predators.",
+      "localPath": "/images/fish/fish2.jpg"
+    },
+    {
+      "fileName": "fish3.jpg",
+      "commonName": "Losos atlantský",
+      "scientificName": "Esox lucius",
+      "size": "Délka: 70-150 cm, Hmotnost: 3-30 kg",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Shallow, vegetated areas of lakes and slow rivers napříč northern regions.",
+      "funFact": "Northern pike are apex predators with razor-sharp teeth and can accelerate from 0 to 25 mph in seconds. They have been known to attack prey až half their own size.",
+      "localPath": "/images/fish/fish3.jpg"
+    },
+    {
+      "fileName": "fish4.jpg",
+      "commonName": "Treska obecná",
+      "scientificName": "Lepomis macrochirus",
+      "size": "Délka: 60-200 cm, Hmotnost: 5-96 kg",
+      "lifespan": "25-30 let ve volné přírodě",
+      "habitat": "Shallow waters of lakes, ponds, and slow streams with vegetation napříč Severní Amerika.",
+      "funFact": "Male bluegills create circular nests in shallow water and aggressively defend them during breeding season. They can change color rapidly to communicate with other fish.",
+      "localPath": "/images/fish/fish4.jpg"
+    },
+    {
+      "fileName": "fish5.jpg",
+      "commonName": "Halibut obecný",
+      "scientificName": "Ictalurus punctatus",
+      "size": "Délka: 200-470 cm, Hmotnost: 130-315 kg",
+      "lifespan": "50-55 let ve volné přírodě",
+      "habitat": "Rivers, lakes, and ponds with muddy or sandy bottoms napříč Severní Amerika.",
+      "funFact": "Channel catfish have over 100,000 taste buds covering their entire body, což z nich činí incredibly sensitive to chemical cues in the water. They can taste food before it enters their mouth.",
+      "localPath": "/images/fish/fish5.jpg"
+    },
+    {
+      "fileName": "fish6.jpg",
+      "commonName": "Mečoun obecný",
+      "scientificName": "Salmo salar",
+      "size": "Délka: 300-450 cm, Hmotnost: 400-650 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "North Atlantic Ocean and rivers that flow into it for spawning.",
+      "funFact": "Atlantic salmon dokážou skočit až 12 stop high to overcome waterfalls during their spawning migration. They return to the exact stream where they were born using their sense of smell.",
+      "localPath": "/images/fish/fish6.jpg"
+    },
+    {
+      "fileName": "fish7.jpg",
+      "commonName": "Marlín modrý",
+      "scientificName": "Sander vitreus",
+      "size": "Délka: 300-500 cm, Hmotnost: 180-820 kg",
+      "lifespan": "20-25 let ve volné přírodě",
+      "habitat": "Cool lakes and rivers napříč northern Severní Amerika.",
+      "funFact": "Walleyes have vynikající noční vidění due to a reflective layer in their eyes called the tapetum lucidum. They are most active during dawn and dusk.",
+      "localPath": "/images/fish/fish7.jpg"
+    },
+    {
+      "fileName": "fish8.jpg",
+      "commonName": "Manta obrovská",
+      "scientificName": "Morone saxatilis",
+      "size": "Šířka: 600-900 cm, Hmotnost: 1350-2000 kg",
+      "lifespan": "20-25 let ve volné přírodě",
+      "habitat": "Atlantic coast and connected rivers from Canada to Florida.",
+      "funFact": "Striped bass are anadromous, meaning they live in saltwater but spawn in freshwater. They can travel hundreds of miles during their seasonal migrations.",
+      "localPath": "/images/fish/fish8.jpg"
+    },
+    {
+      "fileName": "fish9.jpg",
+      "commonName": "Žralok velrybí",
+      "scientificName": "Perca flavescens",
+      "size": "Délka: 500-1200 cm, Hmotnost: 15000-34000 kg",
+      "lifespan": "70-100 let ve volné přírodě",
+      "habitat": "Lakes, ponds, and slow rivers napříč northern Severní Amerika.",
+      "funFact": "Yellow perch have vynikající schooling behavior and can form groups of hundreds of individuals. Their distinctive yellow color with dark vertical bars makes them easy to identify.",
+      "localPath": "/images/fish/fish9.jpg"
+    },
+    {
+      "fileName": "fish10.jpg",
+      "commonName": "Úhoř říční",
+      "scientificName": "Esox masquinongy",
+      "size": "Délka: 60-150 cm, Hmotnost: 0.5-6 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Large lakes and rivers in the Great Lakes region and eastern Severní Amerika.",
+      "funFact": "Muskellunge are known as the 'fish of 10,000 casts' due to their elusive nature. They are the largest member of the pike family and can live over 30 years.",
+      "localPath": "/images/fish/fish10.jpg"
+    },
+    {
+      "fileName": "fish11.jpg",
+      "commonName": "Štika obecná",
+      "scientificName": "Salvelinus fontinalis",
+      "size": "Délka: 40-150 cm, Hmotnost: 1-25 kg",
+      "lifespan": "10-30 let ve volné přírodě",
+      "habitat": "Cold, clear streams and lakes in eastern Severní Amerika.",
+      "funFact": "Brook trout are actually a type of char, not a true trout. They require very clean, cold water and are considered an indicator species for water quality.",
+      "localPath": "/images/fish/fish11.jpg"
+    },
+    {
+      "fileName": "fish12.jpg",
+      "commonName": "Pstruh duhový",
+      "scientificName": "Micropterus dolomieu",
+      "size": "Délka: 30-120 cm, Hmotnost: 0.5-25 kg",
+      "lifespan": "6-8 let ve volné přírodě",
+      "habitat": "Rocky areas of lakes and rivers napříč Severní Amerika.",
+      "funFact": "Smallmouth bass are known for their fighting ability and acrobatic jumps when hooked. They prefer cooler, clearer water than their largemouth cousins.",
+      "localPath": "/images/fish/fish12.jpg"
+    },
+    {
+      "fileName": "fish13.jpg",
+      "commonName": "Sumec velký",
+      "scientificName": "Salvelinus namaycush",
+      "size": "Délka: 100-500 cm, Hmotnost: 10-400 kg",
+      "lifespan": "60-100 let ve volné přírodě",
+      "habitat": "Deep, cold lakes napříč northern Severní Amerika.",
+      "funFact": "Lake trout can live over 40 years and grow to enormous sizes. They prefer deep, cold water and are often found at depths of 60-200 stop.",
+      "localPath": "/images/fish/fish13.jpg"
+    },
+    {
+      "fileName": "fish14.jpg",
+      "commonName": "Kapr obecný",
+      "scientificName": "Morone chrysops",
+      "size": "Délka: 40-120 cm, Hmotnost: 2-40 kg",
+      "lifespan": "20-40 let ve volné přírodě",
+      "habitat": "Large lakes and rivers napříč central and eastern Severní Amerika.",
+      "funFact": "White bass are highly social fish that travel in large schools. During spawning runs, thousands of fish can be seen moving up rivers together.",
+      "localPath": "/images/fish/fish14.jpg"
+    },
+    {
+      "fileName": "fish15.jpg",
+      "commonName": "Okoun říční",
+      "scientificName": "Esox masquinongy",
+      "size": "Délka: 25-60 cm, Hmotnost: 0.5-9 kg",
+      "lifespan": "15-22 let ve volné přírodě",
+      "habitat": "Large, clear lakes with rocky or weedy areas in northern regions.",
+      "funFact": "Northern muskellunge are apex predators that can grow to massive sizes. They have been known to attack prey až one-third their own body length.",
+      "localPath": "/images/fish/fish15.jpg"
+    },
+    {
+      "fileName": "fish16.jpg",
+      "commonName": "Candát obecný",
+      "scientificName": "Oncorhynchus kisutch",
+      "size": "Délka: 40-130 cm, Hmotnost: 1-15 kg",
+      "lifespan": "10-14 let ve volné přírodě",
+      "habitat": "Pacific Ocean and tributaries from Alaska to California.",
+      "funFact": "Coho salmon undergo dramatic physical changes during spawning, with males developing hooked jaws and bright red coloration. They die after spawning, providing nutrients to forest ecosystems.",
+      "localPath": "/images/fish/fish16.jpg"
+    },
+    {
+      "fileName": "fish17.jpg",
+      "commonName": "Plotice obecná",
+      "scientificName": "Pomoxis nigromaculatus",
+      "size": "Délka: 15-45 cm, Hmotnost: 0.1-2 kg",
+      "lifespan": "8-15 let ve volné přírodě",
+      "habitat": "Quiet waters of lakes, ponds, and slow rivers napříč Severní Amerika.",
+      "funFact": "Crappies are vynikající parents, with males building and guarding nests in shallow water. They can change color rapidly to blend with their surroundings.",
+      "localPath": "/images/fish/fish17.jpg"
+    },
+    {
+      "fileName": "fish18.jpg",
+      "commonName": "Cejn velký",
+      "scientificName": "Lepomis gibbosus",
+      "size": "Délka: 30-80 cm, Hmotnost: 1-6 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Shallow, weedy areas of lakes and ponds napříč Severní Amerika.",
+      "funFact": "Sunfish are known for their bright colors and circular nests. Males become very territorial during breeding season and will attack anything that comes near their nest.",
+      "localPath": "/images/fish/fish18.jpg"
+    },
+    {
+      "fileName": "fish19.jpg",
+      "commonName": "Lín obecný",
+      "scientificName": "Oncorhynchus tshawytscha",
+      "size": "Délka: 20-70 cm, Hmotnost: 0.5-7 kg",
+      "lifespan": "10-14 let ve volné přírodě",
+      "habitat": "Pacific Ocean from Alaska to California and their spawning rivers.",
+      "funFact": "Chinook salmon are the largest Pacific salmon species and can weigh over 100 pounds. They can travel over 2,000 miles from the ocean to their spawning grounds.",
+      "localPath": "/images/fish/fish19.jpg"
+    },
+    {
+      "fileName": "fish20.jpg",
+      "commonName": "Amur bílý",
+      "scientificName": "Oncorhynchus mykiss",
+      "size": "Délka: 60-120 cm, Hmotnost: 16-40 kg",
+      "lifespan": "9-20 let ve volné přírodě",
+      "habitat": "Pacific Ocean and coastal rivers from Alaska to California.",
+      "funFact": "Steelhead are actually rainbow trout that migrate to the ocean. Unlike salmon, they can survive spawning and return to the ocean multiple times.",
+      "localPath": "/images/fish/fish20.jpg"
+    },
+    {
+      "fileName": "fish21.jpg",
+      "commonName": "Pstruh obecný",
+      "scientificName": "Pylodictis olivaris",
+      "size": "Délka: 25-86 cm, Hmotnost: 0.4-15 kg",
+      "lifespan": "6-8 let ve volné přírodě",
+      "habitat": "Large rivers and reservoirs with deep pools napříč central Severní Amerika.",
+      "funFact": "Flathead catfish are solitary predators that prefer live prey. They can grow to enormous sizes, with some specimens exceeding 100 pounds.",
+      "localPath": "/images/fish/fish21.jpg"
+    },
+    {
+      "fileName": "fish22.jpg",
+      "commonName": "Lipan podhorní",
+      "scientificName": "Sander canadensis",
+      "size": "Délka: 30-60 cm, Hmotnost: 0.5-5 kg",
+      "lifespan": "15-20 let ve volné přírodě",
+      "habitat": "Large rivers and lakes napříč northern Severní Amerika.",
+      "funFact": "Saugers are closely related to walleyes but prefer flowing water. They have vynikající low-light vision and are most active during twilight hours.",
+      "localPath": "/images/fish/fish22.jpg"
+    },
+    {
+      "fileName": "fish23.jpg",
+      "commonName": "Ostroretka stěhovavá",
+      "scientificName": "Lota lota",
+      "size": "Délka: 40-120 cm, Hmotnost: 1-15 kg",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Deep, cold lakes and rivers napříč northern regions.",
+      "funFact": "Burbot are the only freshwater member of the cod family. They spawn under ice in winter and are most active in cold water temperatures.",
+      "localPath": "/images/fish/fish23.jpg"
+    },
+    {
+      "fileName": "fish24.jpg",
+      "commonName": "Hlavatka obecná",
+      "scientificName": "Lepisosteus osseus",
+      "size": "Délka: 8-22 cm, Hmotnost: 0.01-0.2 kg",
+      "lifespan": "3-5 let ve volné přírodě",
+      "habitat": "Slow-moving rivers, lakes, and backwaters napříč eastern Severní Amerika.",
+      "funFact": "Gar are living fossils that have remained virtually unchanged for 100 million years. They can breathe air and survive in low-oxygen water.",
+      "localPath": "/images/fish/fish24.jpg"
+    },
+    {
+      "fileName": "fish25.jpg",
+      "commonName": "Jelec tloušť",
+      "scientificName": "Polyodon spathula",
+      "size": "Délka: 12-20 cm, Hmotnost: 0.02-0.1 kg",
+      "lifespan": "6-8 let ve volné přírodě",
+      "habitat": "Large rivers and reservoirs in the Mississippi River basin.",
+      "funFact": "Paddlefish are filter feeders with a distinctive paddle-shaped snout. They are one of the largest freshwater fish in North America and can live over 50 years.",
+      "localPath": "/images/fish/fish25.jpg"
+    },
+    {
+      "fileName": "fish26.jpg",
+      "commonName": "Parma obecná",
+      "scientificName": "Amia calva",
+      "size": "Délka: 30-70 cm, Hmotnost: 0.5-4 kg",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Shallow, vegetated waters of lakes and slow rivers in eastern Severní Amerika.",
+      "funFact": "Bowfin are primitive fish that can breathe air and survive in low-oxygen water. Males guard their young in a nest and will aggressively defend them.",
+      "localPath": "/images/fish/fish26.jpg"
+    },
+    {
+      "fileName": "fish27.jpg",
+      "commonName": "Bolení dravé",
+      "scientificName": "Aplodinotus grunniens",
+      "size": "Délka: 15-50 cm, Hmotnost: 0.1-2 kg",
+      "lifespan": "8-12 let ve volné přírodě",
+      "habitat": "Large rivers and lakes napříč central and eastern Severní Amerika.",
+      "funFact": "Freshwater drum get their name from the drumming sound males make during spawning season. They are the only freshwater member of the drum family.",
+      "localPath": "/images/fish/fish27.jpg"
+    },
+    {
+      "fileName": "fish28.jpg",
+      "commonName": "Proudník jednovousý",
+      "scientificName": "Moxostoma macrolepidotum",
+      "size": "Délka: 8-15 cm, Hmotnost: 0.01-0.05 kg",
+      "lifespan": "3-5 let ve volné přírodě",
+      "habitat": "Clear streams and rivers with rocky or sandy bottoms napříč Severní Amerika.",
+      "funFact": "Redhorse suckers are bottom feeders that use their sucker-like mouths to feed on algae and small invertebrates. They play an important role in aquatic ecosystem health.",
+      "localPath": "/images/fish/fish28.jpg"
+    },
+    {
+      "fileName": "fish29.jpg",
+      "commonName": "Mřenka mramorovaná",
+      "scientificName": "Hiodon tergisus",
+      "size": "Délka: 15-25 cm, Hmotnost: 0.05-0.2 kg",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Large rivers and lakes napříč central Severní Amerika.",
+      "funFact": "Mooneyes have large, silvery eyes that reflect light, giving them their name. They are vynikající jumpers and dokážou skočit several stop out of the water.",
+      "localPath": "/images/fish/fish29.jpg"
+    },
+    {
+      "fileName": "fish30.jpg",
+      "commonName": "Perlín ostrobřichý",
+      "scientificName": "Catostomus commersonii",
+      "size": "Délka: 8-12 cm, Hmotnost: 0.01-0.03 kg",
+      "lifespan": "3-4 roky ve volné přírodě",
+      "habitat": "Streams, rivers, and lakes napříč northern Severní Amerika.",
+      "funFact": "White suckers are important forage fish for many predator species. They can tolerate a wide range of water conditions and are often the first fish to recolonize disturbed habitats.",
+      "localPath": "/images/fish/fish30.jpg"
+    }
+  ]
+}

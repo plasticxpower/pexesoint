@@ -2,6 +2,7 @@
   "name": "pexeso",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://dwg.github.io/pexesoint",
   "dependencies": {
     "@tensorflow/tfjs": "^4.22.0",
     "@tensorflow/tfjs-converter": "^4.22.0",
@@ -25,10 +26,15 @@
     "sharp": "^0.34.3",
     "web-vitals": "^5.1.0"
   },
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "fetch:animals": "node download_inat_animals.js",
     "cache:animals": "node cache_animals_locally.js",
     "enrich:animals": "node enrich_animals_eol.js",

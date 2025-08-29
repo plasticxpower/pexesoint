@@ -214,7 +214,7 @@ export function useGameState() {
       console.log('Language changed to:', i18n.language, 'reloading localized data for category:', category);
       
       // Fetch new localized data
-      fetch(`/locales/${i18n.language}/${category}.json`)
+      fetch(`${process.env.PUBLIC_URL}/locales/${i18n.language}/${category}.json`)
         .then((response) => {
           if (!response.ok) {
             throw new Error(`Failed to fetch localized data: ${response.status}`);

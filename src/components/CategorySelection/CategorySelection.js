@@ -29,7 +29,7 @@ function CategorySelection({ numPlayers, startGame }) {
           >
             <div className="category-content">
               <img 
-                src={`${process.env.PUBLIC_URL}/card-backs/${cat.key}.svg`} 
+                src={`${process.env.PUBLIC_URL}/card-backs/${cat.key}.png`} 
                 alt={t(`categories.${cat.key}`)} 
                 className="category-icon"
               />

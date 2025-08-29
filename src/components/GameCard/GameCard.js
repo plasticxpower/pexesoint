@@ -39,11 +39,11 @@ function GameCard({ card, index, category, onClick }) {
       };
     }
     
-    const svgUrl = `/card-backs/${category}.svg`;
-    console.log('SVG URL for FRONT:', svgUrl);
+    const pngUrl = `${process.env.PUBLIC_URL}/card-backs/${category}.png`;
+    console.log('PNG URL for FRONT:', pngUrl);
     
     const style = {
-      backgroundImage: `url(${svgUrl})`,
+      backgroundImage: `url(${pngUrl})`,
       backgroundSize: 'cover',
       backgroundPosition: 'center',
       backgroundRepeat: 'no-repeat',

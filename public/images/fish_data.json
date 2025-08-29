@@ -12,7 +12,7 @@
         "description": "Largemouth Bass (Micropterus salmoides)",
         "alt_description": "Micropterus salmoides",
         "urls": {
-          "regular": "placeholder_url_fish_1"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/2/29/Largemouth.JPG"
         },
         "user": {
           "name": "Generated Data"
@@ -35,14 +35,14 @@
       ],
       "taxon": "Micropterus salmoides",
       "license": "CC-BY-SA",
-      "localPath": "/images/fish/fish1.jpg",
+      "localPath": "/images-cropped/fish/fish1.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Largemouth Bass",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Largemouth_Bass",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Micropterus%20salmoides",
       "wikipediaExtract": "The Largemouth Bass (Micropterus salmoides) is a species found in Freshwater lakes, ponds, and slow-moving rivers with vegetation across North America.",
-      "updatedAt": "2025-08-27T20:18:14.622Z",
-      "imageSource": "placeholder_image_source_fish_1",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:17:51.946Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/2/29/Largemouth.JPG",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "fish2.jpg",
@@ -52,7 +52,7 @@
         "description": "Rainbow Trout (Oncorhynchus mykiss)",
         "alt_description": "Oncorhynchus mykiss",
         "urls": {
-          "regular": "placeholder_url_fish_2"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Close_up_of_rainbow_trout_fish_underwater_oncorhynchus_mykiss.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -75,14 +75,14 @@
       ],
       "taxon": "Oncorhynchus mykiss",
       "license": "CC-BY-SA",
-      "localPath": "/images/fish/fish2.jpg",
+      "localPath": "/images-cropped/fish/fish2.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Rainbow Trout",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rainbow_Trout",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oncorhynchus%20mykiss",
       "wikipediaExtract": "The Rainbow Trout (Oncorhynchus mykiss) is a species found in Cold, clear streams and lakes across North America and introduced worldwide.",
-      "updatedAt": "2025-08-27T20:18:14.622Z",
-      "imageSource": "placeholder_image_source_fish_2",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:17:54.366Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Close_up_of_rainbow_trout_fish_underwater_oncorhynchus_mykiss.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "fish3.jpg",
@@ -92,7 +92,7 @@
         "description": "Northern Pike (Esox lucius)",
         "alt_description": "Esox lucius",
         "urls": {
-          "regular": "placeholder_url_fish_3"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/9/93/Esox_lucius_ZOO_1.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -115,14 +115,14 @@
       ],
       "taxon": "Esox lucius",
       "license": "CC-BY-SA",
-      "localPath": "/images/fish/fish3.jpg",
+      "localPath": "/images-cropped/fish/fish3.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Northern Pike",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Northern_Pike",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Esox%20lucius",
       "wikipediaExtract": "The Northern Pike (Esox lucius) is a species found in Shallow, vegetated areas of lakes and slow rivers across northern regions.",
-      "updatedAt": "2025-08-27T20:18:14.622Z",
-      "imageSource": "placeholder_image_source_fish_3",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:17:58.236Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/9/93/Esox_lucius_ZOO_1.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "fish4.jpg",
@@ -132,7 +132,7 @@
         "description": "Bluegill (Lepomis macrochirus)",
         "alt_description": "Lepomis macrochirus",
         "urls": {
-          "regular": "placeholder_url_fish_4"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Bluegill_%28cropped%29.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -155,14 +155,14 @@
       ],
       "taxon": "Lepomis macrochirus",
       "license": "CC-BY-SA",
-      "localPath": "/images/fish/fish4.jpg",
+      "localPath": "/images-cropped/fish/fish4.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Bluegill",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bluegill",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lepomis%20macrochirus",
       "wikipediaExtract": "The Bluegill (Lepomis macrochirus) is a species found in Shallow waters of lakes, ponds, and slow streams with vegetation across North America.",
-      "updatedAt": "2025-08-27T20:18:14.622Z",
-      "imageSource": "placeholder_image_source_fish_4",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:18:00.270Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Bluegill_%28cropped%29.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "fish5.jpg",
@@ -172,7 +172,7 @@
         "description": "Channel Catfish (Ictalurus punctatus)",
         "alt_description": "Ictalurus punctatus",
         "urls": {
-          "regular": "placeholder_url_fish_5"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/3/38/Channel_Catfish_%28Ictalurus_punctatus%29_white_background.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -195,14 +195,14 @@
       ],
       "taxon": "Ictalurus punctatus",
       "license": "CC-BY-SA",
-      "localPath": "/images/fish/fish5.jpg",
+      "localPath": "/images-cropped/fish/fish5.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Channel Catfish",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Channel_Catfish",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ictalurus%20punctatus",
       "wikipediaExtract": "The Channel Catfish (Ictalurus punctatus) is a species found in Rivers, lakes, and ponds with muddy or sandy bottoms across North America.",
-      "updatedAt": "2025-08-27T20:18:14.622Z",
-      "imageSource": "placeholder_image_source_fish_5",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:18:03.218Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/3/38/Channel_Catfish_%28Ictalurus_punctatus%29_white_background.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "fish6.jpg",
@@ -212,7 +212,7 @@
         "description": "Atlantic Salmon (Salmo salar)",
         "alt_description": "Salmo salar",
         "urls": {
-          "regular": "placeholder_url_fish_6"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/3/39/Salmo_salar.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -235,14 +235,14 @@
       ],
       "taxon": "Salmo salar",
       "license": "CC-BY-SA",
-      "localPath": "/images/fish/fish6.jpg",
+      "localPath": "/images-cropped/fish/fish6.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Atlantic Salmon",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Atlantic_Salmon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Salmo%20salar",
       "wikipediaExtract": "The Atlantic Salmon (Salmo salar) is a species found in North Atlantic Ocean and rivers that flow into it for spawning.",
-      "updatedAt": "2025-08-27T20:18:14.622Z",
-      "imageSource": "placeholder_image_source_fish_6",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:18:05.636Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/3/39/Salmo_salar.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "fish7.jpg",
@@ -252,7 +252,7 @@
         "description": "Walleye (Sander vitreus)",
         "alt_description": "Sander vitreus",
         "urls": {
-          "regular": "placeholder_url_fish_7"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/4/41/Walleye_%28Sander_vitreus%29_%281%29.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -275,14 +275,14 @@
       ],
       "taxon": "Sander vitreus",
       "license": "CC-BY-SA",
-      "localPath": "/images/fish/fish7.jpg",
+      "localPath": "/images-cropped/fish/fish7.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Walleye",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Walleye",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sander%20vitreus",
       "wikipediaExtract": "The Walleye (Sander vitreus) is a species found in Cool lakes and rivers across northern North America.",
-      "updatedAt": "2025-08-27T20:18:14.622Z",
-      "imageSource": "placeholder_image_source_fish_7",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:18:08.236Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/4/41/Walleye_%28Sander_vitreus%29_%281%29.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "fish8.jpg",
@@ -292,7 +292,7 @@
         "description": "Striped Bass (Morone saxatilis)",
         "alt_description": "Morone saxatilis",
         "urls": {
-          "regular": "placeholder_url_fish_8"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/7/74/Morone_saxatilis_SI2.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -315,14 +315,14 @@
       ],
       "taxon": "Morone saxatilis",
       "license": "CC-BY-SA",
-      "localPath": "/images/fish/fish8.jpg",
+      "localPath": "/images-cropped/fish/fish8.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Striped Bass",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Striped_Bass",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Morone%20saxatilis",
       "wikipediaExtract": "The Striped Bass (Morone saxatilis) is a species found in Atlantic coast and connected rivers from Canada to Florida.",
-      "updatedAt": "2025-08-27T20:18:14.622Z",
-      "imageSource": "placeholder_image_source_fish_8",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:18:10.010Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/7/74/Morone_saxatilis_SI2.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "fish9.jpg",
@@ -332,7 +332,7 @@
         "description": "Yellow Perch (Perca flavescens)",
         "alt_description": "Perca flavescens",
         "urls": {
-          "regular": "placeholder_url_fish_9"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/7/7f/YellowPerch.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -355,14 +355,14 @@
       ],
       "taxon": "Perca flavescens",
       "license": "CC-BY-SA",
-      "localPath": "/images/fish/fish9.jpg",
+      "localPath": "/images-cropped/fish/fish9.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Yellow Perch",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yellow_Perch",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Perca%20flavescens",
       "wikipediaExtract": "The Yellow Perch (Perca flavescens) is a species found in Lakes, ponds, and slow rivers across northern North America.",
-      "updatedAt": "2025-08-27T20:18:14.622Z",
-      "imageSource": "placeholder_image_source_fish_9",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:18:11.807Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/7/7f/YellowPerch.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "fish10.jpg",
@@ -372,7 +372,7 @@
         "description": "Muskellunge (Esox masquinongy)",
         "alt_description": "Esox masquinongy",
         "urls": {
-          "regular": "placeholder_url_fish_10"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Esox_masquinongyeditcrop.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -395,14 +395,14 @@
       ],
       "taxon": "Esox masquinongy",
       "license": "CC-BY-SA",
-      "localPath": "/images/fish/fish10.jpg",
+      "localPath": "/images-cropped/fish/fish10.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Muskellunge",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Muskellunge",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Esox%20masquinongy",
       "wikipediaExtract": "The Muskellunge (Esox masquinongy) is a species found in Large lakes and rivers in the Great Lakes region and eastern North America.",
-      "updatedAt": "2025-08-27T20:18:14.622Z",
-      "imageSource": "placeholder_image_source_fish_10",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:18:13.848Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Esox_masquinongyeditcrop.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "fish11.jpg",
@@ -412,7 +412,7 @@
         "description": "Brook Trout (Salvelinus fontinalis)",
         "alt_description": "Salvelinus fontinalis",
         "urls": {
-          "regular": "placeholder_url_fish_11"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Brook_trout_in_water.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -435,14 +435,14 @@
       ],
       "taxon": "Salvelinus fontinalis",
       "license": "CC-BY-SA",
-      "localPath": "/images/fish/fish11.jpg",
+      "localPath": "/images-cropped/fish/fish11.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Brook Trout",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Brook_Trout",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Salvelinus%20fontinalis",
       "wikipediaExtract": "The Brook Trout (Salvelinus fontinalis) is a species found in Cold, clear streams and lakes in eastern North America.",
-      "updatedAt": "2025-08-27T20:18:14.622Z",
-      "imageSource": "placeholder_image_source_fish_11",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:18:16.036Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Brook_trout_in_water.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "fish12.jpg",
@@ -452,7 +452,7 @@
         "description": "Smallmouth Bass (Micropterus dolomieu)",
         "alt_description": "Micropterus dolomieu",
         "urls": {
-          "regular": "placeholder_url_fish_12"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Smallmouth_bass.png"
         },
         "user": {
           "name": "Generated Data"
@@ -475,14 +475,14 @@
       ],
       "taxon": "Micropterus dolomieu",
       "license": "CC-BY-SA",
-      "localPath": "/images/fish/fish12.jpg",
+      "localPath": "/images-cropped/fish/fish12.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Smallmouth Bass",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Smallmouth_Bass",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Micropterus%20dolomieu",
       "wikipediaExtract": "The Smallmouth Bass (Micropterus dolomieu) is a species found in Rocky areas of lakes and rivers across North America.",
-      "updatedAt": "2025-08-27T20:18:14.622Z",
-      "imageSource": "placeholder_image_source_fish_12",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:18:18.642Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Smallmouth_bass.png",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "fish13.jpg",
@@ -492,7 +492,7 @@
         "description": "Lake Trout (Salvelinus namaycush)",
         "alt_description": "Salvelinus namaycush",
         "urls": {
-          "regular": "placeholder_url_fish_13"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Lake_trout_fishes_salvelinus_namaycush.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -515,14 +515,14 @@
       ],
       "taxon": "Salvelinus namaycush",
       "license": "CC-BY-SA",
-      "localPath": "/images/fish/fish13.jpg",
+      "localPath": "/images-cropped/fish/fish13.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Lake Trout",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lake_Trout",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Salvelinus%20namaycush",
       "wikipediaExtract": "The Lake Trout (Salvelinus namaycush) is a species found in Deep, cold lakes across northern North America.",
-      "updatedAt": "2025-08-27T20:18:14.622Z",
-      "imageSource": "placeholder_image_source_fish_13",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:18:20.761Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Lake_trout_fishes_salvelinus_namaycush.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "fish14.jpg",
@@ -532,7 +532,7 @@
         "description": "White Bass (Morone chrysops)",
         "alt_description": "Morone chrysops",
         "urls": {
-          "regular": "placeholder_url_fish_14"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/b/b1/White_Bass_%28Morone_chrysops%29.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -555,14 +555,14 @@
       ],
       "taxon": "Morone chrysops",
       "license": "CC-BY-SA",
-      "localPath": "/images/fish/fish14.jpg",
+      "localPath": "/images-cropped/fish/fish14.jpg",
       "aiValidated": true,
       "wikipediaTitle": "White Bass",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/White_Bass",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Morone%20chrysops",
       "wikipediaExtract": "The White Bass (Morone chrysops) is a species found in Large lakes and rivers across central and eastern North America.",
-      "updatedAt": "2025-08-27T20:18:14.622Z",
-      "imageSource": "placeholder_image_source_fish_14",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:18:23.715Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/b/b1/White_Bass_%28Morone_chrysops%29.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "fish15.jpg",
@@ -572,7 +572,7 @@
         "description": "Northern Muskellunge (Esox masquinongy)",
         "alt_description": "Esox masquinongy",
         "urls": {
-          "regular": "placeholder_url_fish_15"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Esox_masquinongyeditcrop.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -595,14 +595,14 @@
       ],
       "taxon": "Esox masquinongy",
       "license": "CC-BY-SA",
-      "localPath": "/images/fish/fish15.jpg",
+      "localPath": "/images-cropped/fish/fish15.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Northern Muskellunge",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Northern_Muskellunge",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Esox%20masquinongy",
       "wikipediaExtract": "The Northern Muskellunge (Esox masquinongy) is a species found in Large, clear lakes with rocky or weedy areas in northern regions.",
-      "updatedAt": "2025-08-27T20:18:14.622Z",
-      "imageSource": "placeholder_image_source_fish_15",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:18:25.316Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Esox_masquinongyeditcrop.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "fish16.jpg",
@@ -612,7 +612,7 @@
         "description": "Coho Salmon (Oncorhynchus kisutch)",
         "alt_description": "Oncorhynchus kisutch",
         "urls": {
-          "regular": "placeholder_url_fish_16"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/9/91/Oncorhynchus_keta.jpeg"
         },
         "user": {
           "name": "Generated Data"
@@ -635,14 +635,14 @@
       ],
       "taxon": "Oncorhynchus kisutch",
       "license": "CC-BY-SA",
-      "localPath": "/images/fish/fish16.jpg",
+      "localPath": "/images-cropped/fish/fish16.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Coho Salmon",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Coho_Salmon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oncorhynchus%20kisutch",
       "wikipediaExtract": "The Coho Salmon (Oncorhynchus kisutch) is a species found in Pacific Ocean and tributaries from Alaska to California.",
-      "updatedAt": "2025-08-27T20:18:14.622Z",
-      "imageSource": "placeholder_image_source_fish_16",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:18:27.517Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/9/91/Oncorhynchus_keta.jpeg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "fish17.jpg",
@@ -652,7 +652,7 @@
         "description": "Crappie (Pomoxis nigromaculatus)",
         "alt_description": "Pomoxis nigromaculatus",
         "urls": {
-          "regular": "placeholder_url_fish_17"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Black_Crappie_%28Pomoxis_nigromaculatus%29.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -675,14 +675,14 @@
       ],
       "taxon": "Pomoxis nigromaculatus",
       "license": "CC-BY-SA",
-      "localPath": "/images/fish/fish17.jpg",
+      "localPath": "/images-cropped/fish/fish17.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Crappie",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Crappie",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pomoxis%20nigromaculatus",
       "wikipediaExtract": "The Crappie (Pomoxis nigromaculatus) is a species found in Quiet waters of lakes, ponds, and slow rivers across North America.",
-      "updatedAt": "2025-08-27T20:18:14.622Z",
-      "imageSource": "placeholder_image_source_fish_17",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:18:29.924Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Black_Crappie_%28Pomoxis_nigromaculatus%29.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "fish18.jpg",
@@ -692,7 +692,7 @@
         "description": "Sunfish (Lepomis gibbosus)",
         "alt_description": "Lepomis gibbosus",
         "urls": {
-          "regular": "placeholder_url_fish_18"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Lepomis_gibbosus_PAQ.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -715,14 +715,14 @@
       ],
       "taxon": "Lepomis gibbosus",
       "license": "CC-BY-SA",
-      "localPath": "/images/fish/fish18.jpg",
+      "localPath": "/images-cropped/fish/fish18.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Sunfish",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sunfish",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lepomis%20gibbosus",
       "wikipediaExtract": "The Sunfish (Lepomis gibbosus) is a species found in Shallow, weedy areas of lakes and ponds across North America.",
-      "updatedAt": "2025-08-27T20:18:14.622Z",
-      "imageSource": "placeholder_image_source_fish_18",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:18:32.570Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Lepomis_gibbosus_PAQ.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "fish19.jpg",
@@ -732,7 +732,7 @@
         "description": "Chinook Salmon (Oncorhynchus tshawytscha)",
         "alt_description": "Oncorhynchus tshawytscha",
         "urls": {
-          "regular": "placeholder_url_fish_19"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Chinook_Salmon_Adult_Male.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -755,14 +755,14 @@
       ],
       "taxon": "Oncorhynchus tshawytscha",
       "license": "CC-BY-SA",
-      "localPath": "/images/fish/fish19.jpg",
+      "localPath": "/images-cropped/fish/fish19.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Chinook Salmon",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chinook_Salmon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oncorhynchus%20tshawytscha",
       "wikipediaExtract": "The Chinook Salmon (Oncorhynchus tshawytscha) is a species found in Pacific Ocean from Alaska to California and their spawning rivers.",
-      "updatedAt": "2025-08-27T20:18:14.622Z",
-      "imageSource": "placeholder_image_source_fish_19",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:18:35.018Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Chinook_Salmon_Adult_Male.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "fish20.jpg",
@@ -772,7 +772,7 @@
         "description": "Steelhead Trout (Oncorhynchus mykiss)",
         "alt_description": "Oncorhynchus mykiss",
         "urls": {
-          "regular": "placeholder_url_fish_20"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Close_up_of_rainbow_trout_fish_underwater_oncorhynchus_mykiss.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -795,14 +795,14 @@
       ],
       "taxon": "Oncorhynchus mykiss",
       "license": "CC-BY-SA",
-      "localPath": "/images/fish/fish20.jpg",
+      "localPath": "/images-cropped/fish/fish20.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Steelhead Trout",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Steelhead_Trout",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oncorhynchus%20mykiss",
       "wikipediaExtract": "The Steelhead Trout (Oncorhynchus mykiss) is a species found in Pacific Ocean and coastal rivers from Alaska to California.",
-      "updatedAt": "2025-08-27T20:18:14.622Z",
-      "imageSource": "placeholder_image_source_fish_20",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:18:36.576Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Close_up_of_rainbow_trout_fish_underwater_oncorhynchus_mykiss.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "fish21.jpg",
@@ -812,7 +812,7 @@
         "description": "Flathead Catfish (Pylodictis olivaris)",
         "alt_description": "Pylodictis olivaris",
         "urls": {
-          "regular": "placeholder_url_fish_21"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/8/84/Pylodictis_olivaris.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -835,14 +835,14 @@
       ],
       "taxon": "Pylodictis olivaris",
       "license": "CC-BY-SA",
-      "localPath": "/images/fish/fish21.jpg",
+      "localPath": "/images-cropped/fish/fish21.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Flathead Catfish",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Flathead_Catfish",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pylodictis%20olivaris",
       "wikipediaExtract": "The Flathead Catfish (Pylodictis olivaris) is a species found in Large rivers and reservoirs with deep pools across central North America.",
-      "updatedAt": "2025-08-27T20:18:14.622Z",
-      "imageSource": "placeholder_image_source_fish_21",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:18:39.222Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/8/84/Pylodictis_olivaris.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "fish22.jpg",
@@ -852,7 +852,7 @@
         "description": "Sauger (Sander canadensis)",
         "alt_description": "Sander canadensis",
         "urls": {
-          "regular": "placeholder_url_fish_22"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Saugernctc.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -875,14 +875,14 @@
       ],
       "taxon": "Sander canadensis",
       "license": "CC-BY-SA",
-      "localPath": "/images/fish/fish22.jpg",
+      "localPath": "/images-cropped/fish/fish22.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Sauger",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sauger",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sander%20canadensis",
       "wikipediaExtract": "The Sauger (Sander canadensis) is a species found in Large rivers and lakes across northern North America.",
-      "updatedAt": "2025-08-27T20:18:14.622Z",
-      "imageSource": "placeholder_image_source_fish_22",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:18:41.252Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Saugernctc.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "fish23.jpg",
@@ -892,7 +892,7 @@
         "description": "Burbot (Lota lota)",
         "alt_description": "Lota lota",
         "urls": {
-          "regular": "placeholder_url_fish_23"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/1/14/Tr%C3%BCsche_Walchensee.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -915,14 +915,14 @@
       ],
       "taxon": "Lota lota",
       "license": "CC-BY-SA",
-      "localPath": "/images/fish/fish23.jpg",
+      "localPath": "/images-cropped/fish/fish23.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Burbot",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Burbot",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lota%20lota",
       "wikipediaExtract": "The Burbot (Lota lota) is a species found in Deep, cold lakes and rivers across northern regions.",
-      "updatedAt": "2025-08-27T20:18:14.622Z",
-      "imageSource": "placeholder_image_source_fish_23",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:18:43.524Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/1/14/Tr%C3%BCsche_Walchensee.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "fish24.jpg",
@@ -932,7 +932,7 @@
         "description": "Gar (Lepisosteus osseus)",
         "alt_description": "Lepisosteus osseus",
         "urls": {
-          "regular": "placeholder_url_fish_24"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Longnose_gar%2C_Boston_Aquarium.JPG"
         },
         "user": {
           "name": "Generated Data"
@@ -955,14 +955,14 @@
       ],
       "taxon": "Lepisosteus osseus",
       "license": "CC-BY-SA",
-      "localPath": "/images/fish/fish24.jpg",
+      "localPath": "/images-cropped/fish/fish24.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Gar",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lepisosteus%20osseus",
       "wikipediaExtract": "The Gar (Lepisosteus osseus) is a species found in Slow-moving rivers, lakes, and backwaters across eastern North America.",
-      "updatedAt": "2025-08-27T20:18:14.622Z",
-      "imageSource": "placeholder_image_source_fish_24",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:18:45.520Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Longnose_gar%2C_Boston_Aquarium.JPG",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "fish25.jpg",
@@ -972,7 +972,7 @@
         "description": "Paddlefish (Polyodon spathula)",
         "alt_description": "Polyodon spathula",
         "urls": {
-          "regular": "placeholder_url_fish_25"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/6/67/Paddlefish-USFWS-Fish-and-Aquatic-Conservation-2160x1440.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -995,14 +995,14 @@
       ],
       "taxon": "Polyodon spathula",
       "license": "CC-BY-SA",
-      "localPath": "/images/fish/fish25.jpg",
+      "localPath": "/images-cropped/fish/fish25.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Paddlefish",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paddlefish",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Polyodon%20spathula",
       "wikipediaExtract": "The Paddlefish (Polyodon spathula) is a species found in Large rivers and reservoirs in the Mississippi River basin.",
-      "updatedAt": "2025-08-27T20:18:14.622Z",
-      "imageSource": "placeholder_image_source_fish_25",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:18:47.802Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/6/67/Paddlefish-USFWS-Fish-and-Aquatic-Conservation-2160x1440.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "fish26.jpg",
@@ -1012,7 +1012,7 @@
         "description": "Bowfin (Amia calva)",
         "alt_description": "Amia calva",
         "urls": {
-          "regular": "placeholder_url_fish_26"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Amia_calva_4.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -1035,14 +1035,14 @@
       ],
       "taxon": "Amia calva",
       "license": "CC-BY-SA",
-      "localPath": "/images/fish/fish26.jpg",
+      "localPath": "/images-cropped/fish/fish26.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Bowfin",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bowfin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amia%20calva",
       "wikipediaExtract": "The Bowfin (Amia calva) is a species found in Shallow, vegetated waters of lakes and slow rivers in eastern North America.",
-      "updatedAt": "2025-08-27T20:18:14.622Z",
-      "imageSource": "placeholder_image_source_fish_26",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:18:49.920Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Amia_calva_4.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "fish27.jpg",
@@ -1052,7 +1052,7 @@
         "description": "Freshwater Drum (Aplodinotus grunniens)",
         "alt_description": "Aplodinotus grunniens",
         "urls": {
-          "regular": "placeholder_url_fish_27"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Freshwaterdrum.png"
         },
         "user": {
           "name": "Generated Data"
@@ -1075,14 +1075,14 @@
       ],
       "taxon": "Aplodinotus grunniens",
       "license": "CC-BY-SA",
-      "localPath": "/images/fish/fish27.jpg",
+      "localPath": "/images-cropped/fish/fish27.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Freshwater Drum",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Freshwater_Drum",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aplodinotus%20grunniens",
       "wikipediaExtract": "The Freshwater Drum (Aplodinotus grunniens) is a species found in Large rivers and lakes across central and eastern North America.",
-      "updatedAt": "2025-08-27T20:18:14.622Z",
-      "imageSource": "placeholder_image_source_fish_27",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:18:52.624Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Freshwaterdrum.png",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "fish28.jpg",
@@ -1092,7 +1092,7 @@
         "description": "Redhorse Sucker (Moxostoma macrolepidotum)",
         "alt_description": "Moxostoma macrolepidotum",
         "urls": {
-          "regular": "placeholder_url_fish_28"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/9/97/Moxostoma_macrolepidotum.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -1115,14 +1115,14 @@
       ],
       "taxon": "Moxostoma macrolepidotum",
       "license": "CC-BY-SA",
-      "localPath": "/images/fish/fish28.jpg",
+      "localPath": "/images-cropped/fish/fish28.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Redhorse Sucker",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Redhorse_Sucker",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Moxostoma%20macrolepidotum",
       "wikipediaExtract": "The Redhorse Sucker (Moxostoma macrolepidotum) is a species found in Clear streams and rivers with rocky or sandy bottoms across North America.",
-      "updatedAt": "2025-08-27T20:18:14.622Z",
-      "imageSource": "placeholder_image_source_fish_28",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:18:55.373Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/9/97/Moxostoma_macrolepidotum.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "fish29.jpg",
@@ -1132,7 +1132,7 @@
         "description": "Mooneye (Hiodon tergisus)",
         "alt_description": "Hiodon tergisus",
         "urls": {
-          "regular": "placeholder_url_fish_29"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Hiodon_tergisus_NOAA.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -1155,14 +1155,14 @@
       ],
       "taxon": "Hiodon tergisus",
       "license": "CC-BY-SA",
-      "localPath": "/images/fish/fish29.jpg",
+      "localPath": "/images-cropped/fish/fish29.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Mooneye",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mooneye",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hiodon%20tergisus",
       "wikipediaExtract": "The Mooneye (Hiodon tergisus) is a species found in Large rivers and lakes across central North America.",
-      "updatedAt": "2025-08-27T20:18:14.622Z",
-      "imageSource": "placeholder_image_source_fish_29",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:18:57.812Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Hiodon_tergisus_NOAA.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "fish30.jpg",
@@ -1172,7 +1172,7 @@
         "description": "White Sucker (Catostomus commersonii)",
         "alt_description": "Catostomus commersonii",
         "urls": {
-          "regular": "placeholder_url_fish_30"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/e/e7/White_Sucker%2C_Catostomus_commersonii.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -1195,14 +1195,14 @@
       ],
       "taxon": "Catostomus commersonii",
       "license": "CC-BY-SA",
-      "localPath": "/images/fish/fish30.jpg",
+      "localPath": "/images-cropped/fish/fish30.jpg",
       "aiValidated": true,
       "wikipediaTitle": "White Sucker",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/White_Sucker",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Catostomus%20commersonii",
       "wikipediaExtract": "The White Sucker (Catostomus commersonii) is a species found in Streams, rivers, and lakes across northern North America.",
-      "updatedAt": "2025-08-27T20:18:14.622Z",
-      "imageSource": "placeholder_image_source_fish_30",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:19:00.848Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/e/e7/White_Sucker%2C_Catostomus_commersonii.jpg",
+      "imageMethod": "Wikipedia main image download"
     }
   ],
   "cleanupSummary": {
@@ -1210,5 +1210,11 @@
     "finalCount": 30,
     "duplicatesResolved": 0,
     "commonsUrlsRemoved": true
+  },
+  "updatedAt": "2025-08-28T22:19:01.848Z",
+  "imageDownloadInfo": {
+    "downloadedAt": "2025-08-28T22:19:01.849Z",
+    "method": "Wikipedia main image",
+    "source": "wikipedia.org"
   }
 }

@@ -21,13 +21,15 @@ function MatchModal({ matchModal, onConfirm }) {
           <img src={matchModal.src} alt={matchModal.label} />
         </div>
         <div className="modal-body">
-            <h3>{matchModal.scientificName || matchModal.label}</h3>
-          <ul className="modal-facts">
-            <li><strong>{t('modal.size')}:</strong> {matchModal.facts.size}</li>
-            <li><strong>{t('modal.lifespan')}:</strong> {matchModal.facts.lifespan}</li>
-            <li><strong>{t('modal.habitat')}:</strong> {matchModal.facts.habitat}</li>
-            <li><strong>{t('modal.funFact')}:</strong> {matchModal.facts.fun}</li>
-          </ul>
+          <div className="modal-content-wrapper">
+              <h3>{matchModal.scientificName || matchModal.label}</h3>
+            <ul className="modal-facts">
+              <li><strong>{t('modal.size')}:</strong> {matchModal.facts.size}</li>
+              <li><strong>{t('modal.lifespan')}:</strong> {matchModal.facts.lifespan}</li>
+              <li><strong>{t('modal.habitat')}:</strong> {matchModal.facts.habitat}</li>
+              <li><strong>{t('modal.funFact')}:</strong> {matchModal.facts.fun}</li>
+            </ul>
+          </div>
           <div className="modal-actions">
             <button onClick={onConfirm} className="confirm-button">
               {t('modal.close')}

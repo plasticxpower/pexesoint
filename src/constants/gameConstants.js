@@ -1,5 +1,5 @@
 // Game configuration constants
-export const GRID_COLUMNS = 6;
+export const GRID_COLUMNS = 4;
 export const GRID_ROWS = 3;
 export const TOTAL_CARDS = GRID_COLUMNS * GRID_ROWS;
 export const PAIRS = Math.floor(TOTAL_CARDS / 2);

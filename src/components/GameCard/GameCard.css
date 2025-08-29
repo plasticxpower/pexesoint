@@ -112,6 +112,30 @@
   opacity: 0.2;
 }
 
+/* Card name styling - positioned on card back (with image) */
+.card-back .card-name {
+  position: absolute;
+  bottom: 8px;
+  left: 4px;
+  right: 4px;
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  font-size: 10px;
+  font-weight: 600;
+  text-align: center;
+  padding: 2px 4px;
+  border-radius: 4px;
+  line-height: 1.2;
+  word-wrap: break-word;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  z-index: 10;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
+}
+
 /* Card back - shows when flipped (the animal image) */
 .card-back {
   background: linear-gradient(135deg, var(--white) 0%, var(--gray-100) 100%);
@@ -125,7 +149,7 @@
 .card-back img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
   border-radius: var(--radius-lg);
   transition: all var(--transition-normal);
 }
@@ -287,6 +311,14 @@
   .game-card:focus {
     outline-offset: 2px;
   }
+  
+  .card-back .card-name {
+    font-size: 9px;
+    bottom: 6px;
+    left: 3px;
+    right: 3px;
+    padding: 1px 3px;
+  }
 }
 
 @media (max-width: 480px) {
@@ -300,6 +332,14 @@
     height: 18px;
     margin: -9px 0 0 -9px;
   }
+  
+  .card-back .card-name {
+    font-size: 8px;
+    bottom: 4px;
+    left: 2px;
+    right: 2px;
+    padding: 1px 2px;
+  }
 }
 
 @media (max-width: 360px) {
@@ -312,6 +352,14 @@
     width: 16px;
     height: 16px;
     margin: -8px 0 0 -8px;
+  }
+  
+  .card-back .card-name {
+    font-size: 7px;
+    bottom: 3px;
+    left: 2px;
+    right: 2px;
+    padding: 1px 2px;
   }
 }
 

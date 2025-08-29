@@ -82,6 +82,9 @@ function AppContent() {
     return (
       <div className="App">
         <LanguageSwitcher />
+        <header className="app-header">
+          <h1><span className="brand-name">PEXEDU</span> <span className="subtitle">educational pexeso game - play and learn about animal kingdom</span></h1>
+        </header>
         <div>
           <PlayerSelection 
             numPlayers={numPlayers}
@@ -109,6 +112,9 @@ function AppContent() {
   return (
     <div className="App">
       <LanguageSwitcher />
+      <header className="app-header">
+        <h1><span className="brand-name">PEXEDU</span> <span className="subtitle">educational pexeso game - play and learn about animal kingdom</span></h1>
+      </header>
       <GameBoard
         category={category}
         players={players}

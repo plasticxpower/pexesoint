@@ -38,7 +38,6 @@ function GameBoard({
   return (
     <div className="game-board">
       <div className="game-header">
-        <h1>{tGame('gameInterface.title', { category: categoryLabel })}</h1>
         <button 
           onClick={resetGame} 
           className="back-button"

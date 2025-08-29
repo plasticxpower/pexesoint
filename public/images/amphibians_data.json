@@ -12,7 +12,7 @@
         "description": "American Bullfrog (Lithobates catesbeianus)",
         "alt_description": "Lithobates catesbeianus",
         "urls": {
-          "regular": "placeholder_url_amphibians_1"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/a/aa/North-American-bullfrog1.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -35,14 +35,14 @@
       ],
       "taxon": "Lithobates catesbeianus",
       "license": "CC-BY-SA",
-      "localPath": "/images/amphibians/amphibians1.jpg",
+      "localPath": "/images-cropped/amphibians/amphibians1.jpg",
       "aiValidated": true,
       "wikipediaTitle": "American Bullfrog",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/American_Bullfrog",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lithobates%20catesbeianus",
       "wikipediaExtract": "The American Bullfrog (Lithobates catesbeianus) is a species found in Large permanent water bodies such as ponds, lakes, and slow-moving streams across eastern North America.",
-      "updatedAt": "2025-08-27T20:18:14.620Z",
-      "imageSource": "placeholder_image_source_amphibians_1",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:20:20.947Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/a/aa/North-American-bullfrog1.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "amphibians2.jpg",
@@ -52,7 +52,7 @@
         "description": "Spotted Salamander (Ambystoma maculatum)",
         "alt_description": "Ambystoma maculatum",
         "urls": {
-          "regular": "placeholder_url_amphibians_2"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/8/84/Spotted_Salamander%2C_Cantley%2C_Quebec.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -75,14 +75,14 @@
       ],
       "taxon": "Ambystoma maculatum",
       "license": "CC-BY-SA",
-      "localPath": "/images/amphibians/amphibians2.jpg",
+      "localPath": "/images-cropped/amphibians/amphibians2.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Spotted Salamander",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Spotted_Salamander",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ambystoma%20maculatum",
       "wikipediaExtract": "The Spotted Salamander (Ambystoma maculatum) is a species found in Deciduous and mixed forests near ponds and streams in eastern North America. They spend most of their time underground.",
-      "updatedAt": "2025-08-27T20:18:14.620Z",
-      "imageSource": "placeholder_image_source_amphibians_2",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:20:23.531Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/8/84/Spotted_Salamander%2C_Cantley%2C_Quebec.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "amphibians3.jpg",
@@ -92,7 +92,7 @@
         "description": "Spring Peeper (Pseudacris crucifer)",
         "alt_description": "Pseudacris crucifer",
         "urls": {
-          "regular": "placeholder_url_amphibians_3"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/a/ad/H_crucifer_USGS.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -115,14 +115,14 @@
       ],
       "taxon": "Pseudacris crucifer",
       "license": "CC-BY-SA",
-      "localPath": "/images/amphibians/amphibians3.jpg",
+      "localPath": "/images-cropped/amphibians/amphibians3.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Spring Peeper",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Spring_Peeper",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pseudacris%20crucifer",
       "wikipediaExtract": "The Spring Peeper (Pseudacris crucifer) is a species found in Wooded areas near ponds, swamps, and marshes across eastern North America.",
-      "updatedAt": "2025-08-27T20:18:14.620Z",
-      "imageSource": "placeholder_image_source_amphibians_3",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:20:25.999Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/a/ad/H_crucifer_USGS.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "amphibians4.jpg",
@@ -132,7 +132,7 @@
         "description": "Red-backed Salamander (Plethodon cinereus)",
         "alt_description": "Plethodon cinereus",
         "urls": {
-          "regular": "placeholder_url_amphibians_4"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/5/52/Adult_Female_Plethodon_cinereus.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -155,14 +155,14 @@
       ],
       "taxon": "Plethodon cinereus",
       "license": "CC-BY-SA",
-      "localPath": "/images/amphibians/amphibians4.jpg",
+      "localPath": "/images-cropped/amphibians/amphibians4.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Red-backed Salamander",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Red-backed_Salamander",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Plethodon%20cinereus",
       "wikipediaExtract": "The Red-backed Salamander (Plethodon cinereus) is a species found in Forest floors under logs, rocks, and leaf litter in eastern North America.",
-      "updatedAt": "2025-08-27T20:18:14.620Z",
-      "imageSource": "placeholder_image_source_amphibians_4",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:20:28.395Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/5/52/Adult_Female_Plethodon_cinereus.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "amphibians5.jpg",
@@ -172,7 +172,7 @@
         "description": "Wood Frog (Lithobates sylvaticus)",
         "alt_description": "Lithobates sylvaticus",
         "urls": {
-          "regular": "placeholder_url_amphibians_5"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/7/76/Lithobates_sylvaticus_%28Woodfrog%29.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -195,14 +195,14 @@
       ],
       "taxon": "Lithobates sylvaticus",
       "license": "CC-BY-SA",
-      "localPath": "/images/amphibians/amphibians5.jpg",
+      "localPath": "/images-cropped/amphibians/amphibians5.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Wood Frog",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wood_Frog",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lithobates%20sylvaticus",
       "wikipediaExtract": "The Wood Frog (Lithobates sylvaticus) is a species found in Forests and woodlands near temporary pools across northern North America.",
-      "updatedAt": "2025-08-27T20:18:14.620Z",
-      "imageSource": "placeholder_image_source_amphibians_5",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:20:30.796Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/7/76/Lithobates_sylvaticus_%28Woodfrog%29.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "amphibians6.jpg",
@@ -212,7 +212,7 @@
         "description": "Red-eyed Tree Frog (Agalychnis callidryas)",
         "alt_description": "Agalychnis callidryas",
         "urls": {
-          "regular": "placeholder_url_amphibians_6"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Red-eyed_Tree_Frog_%28Agalychnis_callidryas%29_1.png"
         },
         "user": {
           "name": "Generated Data"
@@ -235,14 +235,14 @@
       ],
       "taxon": "Agalychnis callidryas",
       "license": "CC-BY-SA",
-      "localPath": "/images/amphibians/amphibians6.jpg",
+      "localPath": "/images-cropped/amphibians/amphibians6.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Red-eyed Tree Frog",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Red-eyed_Tree Frog",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Agalychnis%20callidryas",
       "wikipediaExtract": "The Red-eyed Tree Frog (Agalychnis callidryas) is a species found in Tropical rainforests near water sources in Central America.",
-      "updatedAt": "2025-08-27T20:18:14.620Z",
-      "imageSource": "placeholder_image_source_amphibians_6",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:20:32.736Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Red-eyed_Tree_Frog_%28Agalychnis_callidryas%29_1.png",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "amphibians7.jpg",
@@ -252,7 +252,7 @@
         "description": "Eastern Newt (Notophthalmus viridescens)",
         "alt_description": "Notophthalmus viridescens",
         "urls": {
-          "regular": "placeholder_url_amphibians_7"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/0/02/Redspotted_newt.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -275,14 +275,14 @@
       ],
       "taxon": "Notophthalmus viridescens",
       "license": "CC-BY-SA",
-      "localPath": "/images/amphibians/amphibians7.jpg",
+      "localPath": "/images-cropped/amphibians/amphibians7.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Eastern Newt",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eastern_Newt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Notophthalmus%20viridescens",
       "wikipediaExtract": "The Eastern Newt (Notophthalmus viridescens) is a species found in Ponds, lakes, and slow streams with aquatic vegetation across eastern North America.",
-      "updatedAt": "2025-08-27T20:18:14.620Z",
-      "imageSource": "placeholder_image_source_amphibians_7",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:20:35.261Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/0/02/Redspotted_newt.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "amphibians8.jpg",
@@ -292,7 +292,7 @@
         "description": "Poison Dart Frog (Phyllobates terribilis)",
         "alt_description": "Phyllobates terribilis",
         "urls": {
-          "regular": "placeholder_url_amphibians_8"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Schrecklicherpfeilgiftfrosch-01.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -315,14 +315,14 @@
       ],
       "taxon": "Phyllobates terribilis",
       "license": "CC-BY-SA",
-      "localPath": "/images/amphibians/amphibians8.jpg",
+      "localPath": "/images-cropped/amphibians/amphibians8.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Poison Dart Frog",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Poison_Dart Frog",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Phyllobates%20terribilis",
       "wikipediaExtract": "The Poison Dart Frog (Phyllobates terribilis) is a species found in Tropical rainforests of Colombia and Ecuador.",
-      "updatedAt": "2025-08-27T20:18:14.620Z",
-      "imageSource": "placeholder_image_source_amphibians_8",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:20:37.039Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Schrecklicherpfeilgiftfrosch-01.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "amphibians9.jpg",
@@ -332,7 +332,7 @@
         "description": "Axolotl (Ambystoma mexicanum)",
         "alt_description": "Ambystoma mexicanum",
         "urls": {
-          "regular": "placeholder_url_amphibians_9"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/0/00/Axolotl_ganz.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -355,14 +355,14 @@
       ],
       "taxon": "Ambystoma mexicanum",
       "license": "CC-BY-SA",
-      "localPath": "/images/amphibians/amphibians9.jpg",
+      "localPath": "/images-cropped/amphibians/amphibians9.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Axolotl",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Axolotl",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ambystoma%20mexicanum",
       "wikipediaExtract": "The Axolotl (Ambystoma mexicanum) is a species found in Lake Xochimilco and surrounding canals in Mexico City.",
-      "updatedAt": "2025-08-27T20:18:14.620Z",
-      "imageSource": "placeholder_image_source_amphibians_9",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:20:39.489Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/0/00/Axolotl_ganz.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "amphibians10.jpg",
@@ -372,7 +372,7 @@
         "description": "Tiger Salamander (Ambystoma tigrinum)",
         "alt_description": "Ambystoma tigrinum",
         "urls": {
-          "regular": "placeholder_url_amphibians_10"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Salamandra_Tigre.png"
         },
         "user": {
           "name": "Generated Data"
@@ -395,14 +395,14 @@
       ],
       "taxon": "Ambystoma tigrinum",
       "license": "CC-BY-SA",
-      "localPath": "/images/amphibians/amphibians10.jpg",
+      "localPath": "/images-cropped/amphibians/amphibians10.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Tiger Salamander",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tiger_Salamander",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ambystoma%20tigrinum",
       "wikipediaExtract": "The Tiger Salamander (Ambystoma tigrinum) is a species found in Diverse habitats from forests to grasslands near ponds across North America.",
-      "updatedAt": "2025-08-27T20:18:14.620Z",
-      "imageSource": "placeholder_image_source_amphibians_10",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:20:41.773Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Salamandra_Tigre.png",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "amphibians11.jpg",
@@ -412,7 +412,7 @@
         "description": "Green Tree Frog (Hyla cinerea)",
         "alt_description": "Hyla cinerea",
         "urls": {
-          "regular": "placeholder_url_amphibians_11"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/4/49/Green_treefrog.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -435,14 +435,14 @@
       ],
       "taxon": "Hyla cinerea",
       "license": "CC-BY-SA",
-      "localPath": "/images/amphibians/amphibians11.jpg",
+      "localPath": "/images-cropped/amphibians/amphibians11.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Green Tree Frog",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Green_Tree Frog",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyla%20cinerea",
       "wikipediaExtract": "The Green Tree Frog (Hyla cinerea) is a species found in Trees and shrubs near water in southeastern United States.",
-      "updatedAt": "2025-08-27T20:18:14.620Z",
-      "imageSource": "placeholder_image_source_amphibians_11",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:20:44.204Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/4/49/Green_treefrog.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "amphibians12.jpg",
@@ -452,7 +452,7 @@
         "description": "Hellbender (Cryptobranchus alleganiensis)",
         "alt_description": "Cryptobranchus alleganiensis",
         "urls": {
-          "regular": "placeholder_url_amphibians_12"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/8/87/Hellbender.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -475,14 +475,14 @@
       ],
       "taxon": "Cryptobranchus alleganiensis",
       "license": "CC-BY-SA",
-      "localPath": "/images/amphibians/amphibians12.jpg",
+      "localPath": "/images-cropped/amphibians/amphibians12.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Hellbender",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hellbender",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cryptobranchus%20alleganiensis",
       "wikipediaExtract": "The Hellbender (Cryptobranchus alleganiensis) is a species found in Fast-flowing, rocky streams in eastern United States.",
-      "updatedAt": "2025-08-27T20:18:14.620Z",
-      "imageSource": "placeholder_image_source_amphibians_12",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:20:46.825Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/8/87/Hellbender.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "amphibians13.jpg",
@@ -492,7 +492,7 @@
         "description": "Cane Toad (Rhinella marina)",
         "alt_description": "Rhinella marina",
         "urls": {
-          "regular": "placeholder_url_amphibians_13"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/9/99/Canetoadmale.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -515,14 +515,14 @@
       ],
       "taxon": "Rhinella marina",
       "license": "CC-BY-SA",
-      "localPath": "/images/amphibians/amphibians13.jpg",
+      "localPath": "/images-cropped/amphibians/amphibians13.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Cane Toad",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cane_Toad",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rhinella%20marina",
       "wikipediaExtract": "The Cane Toad (Rhinella marina) is a species found in Diverse habitats from rainforests to urban areas, native to Central and South America.",
-      "updatedAt": "2025-08-27T20:18:14.620Z",
-      "imageSource": "placeholder_image_source_amphibians_13",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:20:49.281Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/9/99/Canetoadmale.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "amphibians14.jpg",
@@ -532,7 +532,7 @@
         "description": "Fire Salamander (Salamandra salamandra)",
         "alt_description": "Salamandra salamandra",
         "urls": {
-          "regular": "placeholder_url_amphibians_14"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Salamandra_salamandra_MHNT_1.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -555,14 +555,14 @@
       ],
       "taxon": "Salamandra salamandra",
       "license": "CC-BY-SA",
-      "localPath": "/images/amphibians/amphibians14.jpg",
+      "localPath": "/images-cropped/amphibians/amphibians14.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Fire Salamander",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fire_Salamander",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Salamandra%20salamandra",
       "wikipediaExtract": "The Fire Salamander (Salamandra salamandra) is a species found in Deciduous forests near streams in Europe.",
-      "updatedAt": "2025-08-27T20:18:14.620Z",
-      "imageSource": "placeholder_image_source_amphibians_14",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:20:51.482Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Salamandra_salamandra_MHNT_1.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "amphibians15.jpg",
@@ -572,7 +572,7 @@
         "description": "Mudpuppy (Necturus maculosus)",
         "alt_description": "Necturus maculosus",
         "urls": {
-          "regular": "placeholder_url_amphibians_15"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/8/88/Gefleckter_Furchenmolch_%28Necturus_maculosus%29%2C_Seitenansicht.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -595,14 +595,14 @@
       ],
       "taxon": "Necturus maculosus",
       "license": "CC-BY-SA",
-      "localPath": "/images/amphibians/amphibians15.jpg",
+      "localPath": "/images-cropped/amphibians/amphibians15.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Mudpuppy",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mudpuppy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Necturus%20maculosus",
       "wikipediaExtract": "The Mudpuppy (Necturus maculosus) is a species found in Permanent water bodies including lakes, rivers, and streams in eastern North America.",
-      "updatedAt": "2025-08-27T20:18:14.620Z",
-      "imageSource": "placeholder_image_source_amphibians_15",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:20:54.648Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/8/88/Gefleckter_Furchenmolch_%28Necturus_maculosus%29%2C_Seitenansicht.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "amphibians16.jpg",
@@ -635,7 +635,7 @@
       ],
       "taxon": "Centrolenella fleischmanni",
       "license": "CC-BY-SA",
-      "localPath": "/images/amphibians/amphibians16.jpg",
+      "localPath": "/images-cropped/amphibians/amphibians16.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Glass Frog",
       "wikipediaUrl": "https://en.wikipedia.org/wiki/Glass_Frog",
@@ -652,7 +652,7 @@
         "description": "Caecilian (Gymnopis multiplicata)",
         "alt_description": "Gymnopis multiplicata",
         "urls": {
-          "regular": "placeholder_url_amphibians_17"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Gymnopis_multiplicata.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -675,14 +675,14 @@
       ],
       "taxon": "Gymnopis multiplicata",
       "license": "CC-BY-SA",
-      "localPath": "/images/amphibians/amphibians17.jpg",
+      "localPath": "/images-cropped/amphibians/amphibians17.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Caecilian",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Caecilian",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gymnopis%20multiplicata",
       "wikipediaExtract": "The Caecilian (Gymnopis multiplicata) is a species found in Underground burrows in tropical soils of Central America.",
-      "updatedAt": "2025-08-27T20:18:14.620Z",
-      "imageSource": "placeholder_image_source_amphibians_17",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:20:58.789Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Gymnopis_multiplicata.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "amphibians18.jpg",
@@ -692,7 +692,7 @@
         "description": "Chorus Frog (Pseudacris triseriata)",
         "alt_description": "Pseudacris triseriata",
         "urls": {
-          "regular": "placeholder_url_amphibians_18"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Pseudacris_triseriata.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -715,14 +715,14 @@
       ],
       "taxon": "Pseudacris triseriata",
       "license": "CC-BY-SA",
-      "localPath": "/images/amphibians/amphibians18.jpg",
+      "localPath": "/images-cropped/amphibians/amphibians18.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Chorus Frog",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chorus_Frog",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pseudacris%20triseriata",
       "wikipediaExtract": "The Chorus Frog (Pseudacris triseriata) is a species found in Grasslands, prairies, and agricultural areas near temporary pools across central North America.",
-      "updatedAt": "2025-08-27T20:18:14.620Z",
-      "imageSource": "placeholder_image_source_amphibians_18",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:21:01.143Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Pseudacris_triseriata.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "amphibians19.jpg",
@@ -732,7 +732,7 @@
         "description": "Marbled Salamander (Ambystoma opacum)",
         "alt_description": "Ambystoma opacum",
         "urls": {
-          "regular": "placeholder_url_amphibians_19"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/7/73/Marbled_salamander_%2814367751333%29.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -755,14 +755,14 @@
       ],
       "taxon": "Ambystoma opacum",
       "license": "CC-BY-SA",
-      "localPath": "/images/amphibians/amphibians19.jpg",
+      "localPath": "/images-cropped/amphibians/amphibians19.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Marbled Salamander",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marbled_Salamander",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ambystoma%20opacum",
       "wikipediaExtract": "The Marbled Salamander (Ambystoma opacum) is a species found in Deciduous and mixed forests across eastern United States.",
-      "updatedAt": "2025-08-27T20:18:14.620Z",
-      "imageSource": "placeholder_image_source_amphibians_19",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:21:03.592Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/7/73/Marbled_salamander_%2814367751333%29.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "amphibians20.jpg",
@@ -772,7 +772,7 @@
         "description": "Pickerel Frog (Lithobates palustris)",
         "alt_description": "Lithobates palustris",
         "urls": {
-          "regular": "placeholder_url_amphibians_20"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/2/24/Pickerel_Frog.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -795,14 +795,14 @@
       ],
       "taxon": "Lithobates palustris",
       "license": "CC-BY-SA",
-      "localPath": "/images/amphibians/amphibians20.jpg",
+      "localPath": "/images-cropped/amphibians/amphibians20.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Pickerel Frog",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pickerel_Frog",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lithobates%20palustris",
       "wikipediaExtract": "The Pickerel Frog (Lithobates palustris) is a species found in Cool, clear streams and springs in eastern North America.",
-      "updatedAt": "2025-08-27T20:18:14.620Z",
-      "imageSource": "placeholder_image_source_amphibians_20",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:21:06.230Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/2/24/Pickerel_Frog.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "amphibians21.jpg",
@@ -812,7 +812,7 @@
         "description": "Four-toed Salamander (Hemidactylium scutatum)",
         "alt_description": "Hemidactylium scutatum",
         "urls": {
-          "regular": "placeholder_url_amphibians_21"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/5/56/Hemidactylium_scutatum.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -835,14 +835,14 @@
       ],
       "taxon": "Hemidactylium scutatum",
       "license": "CC-BY-SA",
-      "localPath": "/images/amphibians/amphibians21.jpg",
+      "localPath": "/images-cropped/amphibians/amphibians21.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Four-toed Salamander",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Four-toed_Salamander",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hemidactylium%20scutatum",
       "wikipediaExtract": "The Four-toed Salamander (Hemidactylium scutatum) is a species found in Sphagnum bogs and coniferous swamps in eastern North America.",
-      "updatedAt": "2025-08-27T20:18:14.620Z",
-      "imageSource": "placeholder_image_source_amphibians_21",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:21:09.689Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/5/56/Hemidactylium_scutatum.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "amphibians22.jpg",
@@ -852,7 +852,7 @@
         "description": "Gray Tree Frog (Hyla versicolor)",
         "alt_description": "Hyla versicolor",
         "urls": {
-          "regular": "placeholder_url_amphibians_22"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Gray_tree_frog_in_arboreal_forest_habitat%2C_MA.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -875,14 +875,14 @@
       ],
       "taxon": "Hyla versicolor",
       "license": "CC-BY-SA",
-      "localPath": "/images/amphibians/amphibians22.jpg",
+      "localPath": "/images-cropped/amphibians/amphibians22.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Gray Tree Frog",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gray_Tree Frog",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyla%20versicolor",
       "wikipediaExtract": "The Gray Tree Frog (Hyla versicolor) is a species found in Trees and shrubs near water across eastern North America.",
-      "updatedAt": "2025-08-27T20:18:14.620Z",
-      "imageSource": "placeholder_image_source_amphibians_22",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:21:12.266Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Gray_tree_frog_in_arboreal_forest_habitat%2C_MA.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "amphibians23.jpg",
@@ -892,7 +892,7 @@
         "description": "Red Salamander (Pseudotriton ruber)",
         "alt_description": "Pseudotriton ruber",
         "urls": {
-          "regular": "placeholder_url_amphibians_23"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Northern_red_salamander_%28Pseudotriton_ruber%29.JPG"
         },
         "user": {
           "name": "Generated Data"
@@ -915,14 +915,14 @@
       ],
       "taxon": "Pseudotriton ruber",
       "license": "CC-BY-SA",
-      "localPath": "/images/amphibians/amphibians23.jpg",
+      "localPath": "/images-cropped/amphibians/amphibians23.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Red Salamander",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Red_Salamander",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pseudotriton%20ruber",
       "wikipediaExtract": "The Red Salamander (Pseudotriton ruber) is a species found in Springs, streams, and surrounding forests in eastern United States.",
-      "updatedAt": "2025-08-27T20:18:14.620Z",
-      "imageSource": "placeholder_image_source_amphibians_23",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:21:15.094Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Northern_red_salamander_%28Pseudotriton_ruber%29.JPG",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "amphibians24.jpg",
@@ -932,7 +932,7 @@
         "description": "Cope's Gray Tree Frog (Hyla chrysoscelis)",
         "alt_description": "Hyla chrysoscelis",
         "urls": {
-          "regular": "placeholder_url_amphibians_24"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/7/76/Hyla_chrysoscelis_UMFS_2016_1.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -955,14 +955,14 @@
       ],
       "taxon": "Hyla chrysoscelis",
       "license": "CC-BY-SA",
-      "localPath": "/images/amphibians/amphibians24.jpg",
+      "localPath": "/images-cropped/amphibians/amphibians24.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Cope's Gray Tree Frog",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cope's_Gray Tree Frog",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyla%20chrysoscelis",
       "wikipediaExtract": "The Cope's Gray Tree Frog (Hyla chrysoscelis) is a species found in Trees and shrubs near temporary pools in southeastern United States.",
-      "updatedAt": "2025-08-27T20:18:14.620Z",
-      "imageSource": "placeholder_image_source_amphibians_24",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:21:18.344Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/7/76/Hyla_chrysoscelis_UMFS_2016_1.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "amphibians25.jpg",
@@ -972,7 +972,7 @@
         "description": "Two-lined Salamander (Eurycea bislineata)",
         "alt_description": "Eurycea bislineata",
         "urls": {
-          "regular": "placeholder_url_amphibians_25"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/0/08/Northern_Two-lined_Salamander_Eurycea_bislineata.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -995,14 +995,14 @@
       ],
       "taxon": "Eurycea bislineata",
       "license": "CC-BY-SA",
-      "localPath": "/images/amphibians/amphibians25.jpg",
+      "localPath": "/images-cropped/amphibians/amphibians25.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Two-lined Salamander",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Two-lined_Salamander",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurycea%20bislineata",
       "wikipediaExtract": "The Two-lined Salamander (Eurycea bislineata) is a species found in Rocky streams and springs in eastern North America.",
-      "updatedAt": "2025-08-27T20:18:14.620Z",
-      "imageSource": "placeholder_image_source_amphibians_25",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:21:21.027Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/0/08/Northern_Two-lined_Salamander_Eurycea_bislineata.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "amphibians26.jpg",
@@ -1012,7 +1012,7 @@
         "description": "Fowler's Toad (Anaxyrus fowleri)",
         "alt_description": "Anaxyrus fowleri",
         "urls": {
-          "regular": "placeholder_url_amphibians_26"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Anaxyrus_fowleri_Stanton_2_%28cropped%29.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -1035,14 +1035,14 @@
       ],
       "taxon": "Anaxyrus fowleri",
       "license": "CC-BY-SA",
-      "localPath": "/images/amphibians/amphibians26.jpg",
+      "localPath": "/images-cropped/amphibians/amphibians26.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Fowler's Toad",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fowler's_Toad",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anaxyrus%20fowleri",
       "wikipediaExtract": "The Fowler's Toad (Anaxyrus fowleri) is a species found in Sandy areas near water including beaches, fields, and gardens in eastern North America.",
-      "updatedAt": "2025-08-27T20:18:14.620Z",
-      "imageSource": "placeholder_image_source_amphibians_26",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:21:23.691Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Anaxyrus_fowleri_Stanton_2_%28cropped%29.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "amphibians27.jpg",
@@ -1052,7 +1052,7 @@
         "description": "Slimy Salamander (Plethodon glutinosus)",
         "alt_description": "Plethodon glutinosus",
         "urls": {
-          "regular": "placeholder_url_amphibians_27"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/0/05/Plethodon_glutonosus.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -1075,14 +1075,14 @@
       ],
       "taxon": "Plethodon glutinosus",
       "license": "CC-BY-SA",
-      "localPath": "/images/amphibians/amphibians27.jpg",
+      "localPath": "/images-cropped/amphibians/amphibians27.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Slimy Salamander",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Slimy_Salamander",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Plethodon%20glutinosus",
       "wikipediaExtract": "The Slimy Salamander (Plethodon glutinosus) is a species found in Deciduous forests under logs and rocks in eastern United States.",
-      "updatedAt": "2025-08-27T20:18:14.620Z",
-      "imageSource": "placeholder_image_source_amphibians_27",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:21:26.396Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/0/05/Plethodon_glutonosus.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "amphibians28.jpg",
@@ -1092,7 +1092,7 @@
         "description": "Leopard Frog (Lithobates pipiens)",
         "alt_description": "Lithobates pipiens",
         "urls": {
-          "regular": "placeholder_url_amphibians_28"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Lithobates_pipiens.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -1115,14 +1115,14 @@
       ],
       "taxon": "Lithobates pipiens",
       "license": "CC-BY-SA",
-      "localPath": "/images/amphibians/amphibians28.jpg",
+      "localPath": "/images-cropped/amphibians/amphibians28.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Leopard Frog",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Leopard_Frog",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lithobates%20pipiens",
       "wikipediaExtract": "The Leopard Frog (Lithobates pipiens) is a species found in Ponds, lakes, and slow streams across northern North America.",
-      "updatedAt": "2025-08-27T20:18:14.620Z",
-      "imageSource": "placeholder_image_source_amphibians_28",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:21:28.954Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Lithobates_pipiens.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "amphibians29.jpg",
@@ -1132,7 +1132,7 @@
         "description": "Long-tailed Salamander (Eurycea longicauda)",
         "alt_description": "Eurycea longicauda",
         "urls": {
-          "regular": "placeholder_url_amphibians_29"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Eurycea_longicauda_%28long-tailed_salamander%29.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -1155,14 +1155,14 @@
       ],
       "taxon": "Eurycea longicauda",
       "license": "CC-BY-SA",
-      "localPath": "/images/amphibians/amphibians29.jpg",
+      "localPath": "/images-cropped/amphibians/amphibians29.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Long-tailed Salamander",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Long-tailed_Salamander",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurycea%20longicauda",
       "wikipediaExtract": "The Long-tailed Salamander (Eurycea longicauda) is a species found in Caves, springs, and rocky streams in eastern United States.",
-      "updatedAt": "2025-08-27T20:18:14.620Z",
-      "imageSource": "placeholder_image_source_amphibians_29",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:21:31.152Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Eurycea_longicauda_%28long-tailed_salamander%29.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "amphibians30.jpg",
@@ -1172,7 +1172,7 @@
         "description": "Green Frog (Lithobates clamitans)",
         "alt_description": "Lithobates clamitans",
         "urls": {
-          "regular": "placeholder_url_amphibians_30"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/0/00/Male_Green_Frog_-_Hunterdon_County%2C_NJ.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -1195,14 +1195,14 @@
       ],
       "taxon": "Lithobates clamitans",
       "license": "CC-BY-SA",
-      "localPath": "/images/amphibians/amphibians30.jpg",
+      "localPath": "/images-cropped/amphibians/amphibians30.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Green Frog",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Green_Frog",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lithobates%20clamitans",
       "wikipediaExtract": "The Green Frog (Lithobates clamitans) is a species found in Permanent water bodies including ponds, lakes, and streams across eastern North America.",
-      "updatedAt": "2025-08-27T20:18:14.620Z",
-      "imageSource": "placeholder_image_source_amphibians_30",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:21:33.664Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/0/00/Male_Green_Frog_-_Hunterdon_County%2C_NJ.jpg",
+      "imageMethod": "Wikipedia main image download"
     }
   ],
   "cleanupSummary": {
@@ -1210,5 +1210,11 @@
     "finalCount": 30,
     "duplicatesResolved": 0,
     "commonsUrlsRemoved": true
+  },
+  "updatedAt": "2025-08-28T22:21:34.677Z",
+  "imageDownloadInfo": {
+    "downloadedAt": "2025-08-28T22:21:34.677Z",
+    "method": "Wikipedia main image",
+    "source": "wikipedia.org"
   }
 }

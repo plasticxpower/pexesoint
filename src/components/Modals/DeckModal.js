@@ -23,42 +23,51 @@ function DeckModal({ deckModal, onClose, onNavigate }) {
       <div className="modal-content deck-modal">
         <div className="modal-image">
           <img src={currentCard.src} alt={currentCard.label} />
+          {hasMultipleCards && (
+            <>
+              <button 
+                onClick={() => onNavigate('prev')}
+                className="nav-arrow nav-arrow-left"
+                aria-label={t('deckModal.previousCard')}
+                disabled={deckModal.currentIndex === 0}
+              >
+                ‹
+              </button>
+              <button 
+                onClick={() => onNavigate('next')}
+                className="nav-arrow nav-arrow-right"
+                aria-label={t('deckModal.nextCard')}
+                disabled={deckModal.currentIndex === deckModal.cards.length - 1}
+              >
+                ›
+              </button>
+            </>
+          )}
         </div>
         <div className="modal-body">
-          <h3>{t('deckModal.playerDeck', { player: deckModal.player.name })}</h3>
-           <h4>{currentCard.scientificName || currentCard.label}</h4>
-          <ul className="modal-facts">
-            <li><strong>{t('modal.size')}:</strong> {currentCard.facts?.size || 'N/A'}</li>
-            <li><strong>{t('modal.lifespan')}:</strong> {currentCard.facts?.lifespan || 'N/A'}</li>
-            <li><strong>{t('modal.habitat')}:</strong> {currentCard.facts?.habitat || 'N/A'}</li>
-            <li><strong>{t('modal.funFact')}:</strong> {currentCard.facts?.fun || 'N/A'}</li>
-          </ul>
-          
-          {hasMultipleCards && (
-            <div className="deck-navigation">
-              <span>
-                {t('deckModal.cardCounter', { current: deckModal.currentIndex + 1, total: deckModal.cards.length })}
-              </span>
-            </div>
-          )}
+          <div className="modal-content-wrapper">
+            <h3>{t('deckModal.playerDeck', { player: deckModal.player.name })}</h3>
+             <h4>
+               {currentCard.commonName || currentCard.label}
+               {currentCard.scientificName && ` (${currentCard.scientificName})`}
+             </h4>
+            <ul className="modal-facts">
+              <li><strong>{t('modal.size')}:</strong> {currentCard.facts?.size || 'N/A'}</li>
+              <li><strong>{t('modal.lifespan')}:</strong> {currentCard.facts?.lifespan || 'N/A'}</li>
+              <li><strong>{t('modal.habitat')}:</strong> {currentCard.facts?.habitat || 'N/A'}</li>
+              <li><strong>{t('modal.funFact')}:</strong> {currentCard.facts?.fun || 'N/A'}</li>
+            </ul>
+            
+            {hasMultipleCards && (
+              <div className="deck-navigation">
+                <span>
+                  {t('deckModal.cardCounter', { current: deckModal.currentIndex + 1, total: deckModal.cards.length })}
+                </span>
+              </div>
+            )}
+          </div>
           
           <div className="modal-actions">
-            {hasMultipleCards && (
-              <>
-                <button 
-                  onClick={() => onNavigate('prev')}
-                  className="nav-button"
-                >
-                  {t('deckModal.previousCard')}
-                </button>
-                <button 
-                  onClick={() => onNavigate('next')}
-                  className="nav-button"
-                >
-                  {t('deckModal.nextCard')}
-                </button>
-              </>
-            )}
             <button onClick={onClose} className="close-button">
               {t('modal.close')}
             </button>

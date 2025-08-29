@@ -1,0 +1,1211 @@
+{
+  "startTime": "2025-08-28T22:15:25.910Z",
+  "downloads": [
+    {
+      "scientificName": "Ursus americanus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/01_Schwarzb%C3%A4r.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ursus%20americanus",
+      "fileName": "mammals1.jpg",
+      "category": "mammals",
+      "timestamp": "2025-08-28T22:15:27.813Z"
+    },
+    {
+      "scientificName": "Odocoileus virginianus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/White-tailed_deer.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Odocoileus%20virginianus",
+      "fileName": "mammals2.jpg",
+      "category": "mammals",
+      "timestamp": "2025-08-28T22:15:29.865Z"
+    },
+    {
+      "scientificName": "Sciurus carolinensis",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/15/EasternGraySquirrel_GAm.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sciurus%20carolinensis",
+      "fileName": "mammals3.jpg",
+      "category": "mammals",
+      "timestamp": "2025-08-28T22:15:32.350Z"
+    },
+    {
+      "scientificName": "Procyon lotor",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Raccoon_in_Central_Park_%2835264%29.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Procyon%20lotor",
+      "fileName": "mammals4.jpg",
+      "category": "mammals",
+      "timestamp": "2025-08-28T22:15:35.080Z"
+    },
+    {
+      "scientificName": "Vulpes vulpes",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/30/Vulpes_vulpes_ssp_fulvus.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Vulpes%20vulpes",
+      "fileName": "mammals5.jpg",
+      "category": "mammals",
+      "timestamp": "2025-08-28T22:15:36.964Z"
+    },
+    {
+      "scientificName": "Canis lupus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Eurasian_wolf_2.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Canis%20lupus",
+      "fileName": "mammals6.jpg",
+      "category": "mammals",
+      "timestamp": "2025-08-28T22:15:39.380Z"
+    },
+    {
+      "scientificName": "Puma concolor",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Mountain_Lion_in_Glacier_National_Park.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Puma%20concolor",
+      "fileName": "mammals7.jpg",
+      "category": "mammals",
+      "timestamp": "2025-08-28T22:15:41.445Z"
+    },
+    {
+      "scientificName": "Alces alces",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Alaska_moose.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alces%20alces",
+      "fileName": "mammals8.jpg",
+      "category": "mammals",
+      "timestamp": "2025-08-28T22:15:44.346Z"
+    },
+    {
+      "scientificName": "Castor canadensis",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6b/American_Beaver.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Castor%20canadensis",
+      "fileName": "mammals9.jpg",
+      "category": "mammals",
+      "timestamp": "2025-08-28T22:15:46.809Z"
+    },
+    {
+      "scientificName": "Lynx rufus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Bobcat_at_Columbus_Zoo_Boo.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lynx%20rufus",
+      "fileName": "mammals10.jpg",
+      "category": "mammals",
+      "timestamp": "2025-08-28T22:15:49.009Z"
+    },
+    {
+      "scientificName": "Cervus canadensis",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Jasper.Wapiti-Hirsch.P1033401.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cervus%20canadensis",
+      "fileName": "mammals11.jpg",
+      "category": "mammals",
+      "timestamp": "2025-08-28T22:15:51.099Z"
+    },
+    {
+      "scientificName": "Erethizon dorsatum",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/83/Porcupine-BioDome.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Erethizon%20dorsatum",
+      "fileName": "mammals12.jpg",
+      "category": "mammals",
+      "timestamp": "2025-08-28T22:15:53.482Z"
+    },
+    {
+      "scientificName": "Mephitis mephitis",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Skunk_about_to_spray.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mephitis%20mephitis",
+      "fileName": "mammals13.jpg",
+      "category": "mammals",
+      "timestamp": "2025-08-28T22:15:55.498Z"
+    },
+    {
+      "scientificName": "Didelphis virginiana",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/27/Opossum_2.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Didelphis%20virginiana",
+      "fileName": "mammals14.jpg",
+      "category": "mammals",
+      "timestamp": "2025-08-28T22:15:57.909Z"
+    },
+    {
+      "scientificName": "Tamias striatus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Chipmunk_with_stuffed_cheeks_in_Prospect_Park_%2805980%29.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tamias%20striatus",
+      "fileName": "mammals15.jpg",
+      "category": "mammals",
+      "timestamp": "2025-08-28T22:16:00.154Z"
+    },
+    {
+      "scientificName": "Ondatra zibethicus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Muskrat_swimming_Ottawa.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ondatra%20zibethicus",
+      "fileName": "mammals16.jpg",
+      "category": "mammals",
+      "timestamp": "2025-08-28T22:16:02.573Z"
+    },
+    {
+      "scientificName": "Lontra canadensis",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/82/LutraCanadensis_fullres.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lontra%20canadensis",
+      "fileName": "mammals17.jpg",
+      "category": "mammals",
+      "timestamp": "2025-08-28T22:16:04.759Z"
+    },
+    {
+      "scientificName": "Canis latrans",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/2009-Coyote-Yosemite.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Canis%20latrans",
+      "fileName": "mammals18.jpg",
+      "category": "mammals",
+      "timestamp": "2025-08-28T22:16:07.011Z"
+    },
+    {
+      "scientificName": "Ovis canadensis",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/New_Mexico_Bighorn_Sheep.JPG",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ovis%20canadensis",
+      "fileName": "mammals19.jpg",
+      "category": "mammals",
+      "timestamp": "2025-08-28T22:16:09.521Z"
+    },
+    {
+      "scientificName": "Odocoileus hemionus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Mule_buck_elk_creek_m_myatt_%285489214303%29.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Odocoileus%20hemionus",
+      "fileName": "mammals20.jpg",
+      "category": "mammals",
+      "timestamp": "2025-08-28T22:16:11.995Z"
+    },
+    {
+      "scientificName": "Gulo gulo",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Gulo_gulo_2.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gulo%20gulo",
+      "fileName": "mammals21.jpg",
+      "category": "mammals",
+      "timestamp": "2025-08-28T22:16:13.857Z"
+    },
+    {
+      "scientificName": "Cynomys ludovicianus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Cynomys_ludovicianus_GNP_21.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cynomys%20ludovicianus",
+      "fileName": "mammals22.jpg",
+      "category": "mammals",
+      "timestamp": "2025-08-28T22:16:16.578Z"
+    },
+    {
+      "scientificName": "Marmota monax",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Marmota_monax_UL_04.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Marmota%20monax",
+      "fileName": "mammals23.jpg",
+      "category": "mammals",
+      "timestamp": "2025-08-28T22:16:19.717Z"
+    },
+    {
+      "scientificName": "Lynx canadensis",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Canada_lynx_by_Michael_Zahra_%28cropped%29.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lynx%20canadensis",
+      "fileName": "mammals24.jpg",
+      "category": "mammals",
+      "timestamp": "2025-08-28T22:16:21.765Z"
+    },
+    {
+      "scientificName": "Bison bison",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/American_bison_k5680-1.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bison%20bison",
+      "fileName": "mammals25.jpg",
+      "category": "mammals",
+      "timestamp": "2025-08-28T22:16:23.988Z"
+    },
+    {
+      "scientificName": "Ursus maritimus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Polar_Bear_-_Alaska_%28cropped%29.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ursus%20maritimus",
+      "fileName": "mammals26.jpg",
+      "category": "mammals",
+      "timestamp": "2025-08-28T22:16:25.949Z"
+    },
+    {
+      "scientificName": "Ursus arctos",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/71/2010-kodiak-bear-1.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ursus%20arctos",
+      "fileName": "mammals27.jpg",
+      "category": "mammals",
+      "timestamp": "2025-08-28T22:16:27.845Z"
+    },
+    {
+      "scientificName": "Rangifer tarandus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Reinbukken_p%C3%A5_frisk_gr%C3%B8nt_beite._-_panoramio.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rangifer%20tarandus",
+      "fileName": "mammals28.jpg",
+      "category": "mammals",
+      "timestamp": "2025-08-28T22:16:31.233Z"
+    },
+    {
+      "scientificName": "Oreamnos americanus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Mountain_Goat%2C_Enchantments_Basin.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oreamnos%20americanus",
+      "fileName": "mammals29.jpg",
+      "category": "mammals",
+      "timestamp": "2025-08-28T22:16:33.041Z"
+    },
+    {
+      "scientificName": "Antilocapra americana",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Antilocapra_americana.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Antilocapra%20americana",
+      "fileName": "mammals30.jpg",
+      "category": "mammals",
+      "timestamp": "2025-08-28T22:16:34.860Z"
+    },
+    {
+      "scientificName": "Turdus migratorius",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/American_robin_%2871307%29.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Turdus%20migratorius",
+      "fileName": "birds1.jpg",
+      "category": "birds",
+      "timestamp": "2025-08-28T22:16:37.497Z"
+    },
+    {
+      "scientificName": "Corvus brachyrhynchos",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Corvus-brachyrhynchos-001.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Corvus%20brachyrhynchos",
+      "fileName": "birds2.jpg",
+      "category": "birds",
+      "timestamp": "2025-08-28T22:16:39.883Z"
+    },
+    {
+      "scientificName": "Poecile atricapillus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Poecile-atricapilla-001.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Poecile%20atricapillus",
+      "fileName": "birds3.jpg",
+      "category": "birds",
+      "timestamp": "2025-08-28T22:16:42.484Z"
+    },
+    {
+      "scientificName": "Sialia sialis",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Sialia_sialis_-Michigan%2C_USA_-pair-8c.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sialia%20sialis",
+      "fileName": "birds4.jpg",
+      "category": "birds",
+      "timestamp": "2025-08-28T22:16:44.881Z"
+    },
+    {
+      "scientificName": "Spinus tristis",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Carduelis_tristis_-Michigan%2C_USA_-male-8.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Spinus%20tristis",
+      "fileName": "birds5.jpg",
+      "category": "birds",
+      "timestamp": "2025-08-28T22:16:47.441Z"
+    },
+    {
+      "scientificName": "Cardinalis cardinalis",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Male_northern_cardinal_in_Central_Park_%2852612%29.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cardinalis%20cardinalis",
+      "fileName": "birds6.jpg",
+      "category": "birds",
+      "timestamp": "2025-08-28T22:16:50.087Z"
+    },
+    {
+      "scientificName": "Cyanocitta cristata",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Blue_jay_in_PP_%2830960%29.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cyanocitta%20cristata",
+      "fileName": "birds7.jpg",
+      "category": "birds",
+      "timestamp": "2025-08-28T22:16:53.110Z"
+    },
+    {
+      "scientificName": "Passer domesticus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9b/House_sparrow_male_in_Prospect_Park_%2853532%29.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Passer%20domesticus",
+      "fileName": "birds8.jpg",
+      "category": "birds",
+      "timestamp": "2025-08-28T22:16:55.358Z"
+    },
+    {
+      "scientificName": "Agelaius phoeniceus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/60/Agelaius_phoeniceus_0110_taxo.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Agelaius%20phoeniceus",
+      "fileName": "birds9.jpg",
+      "category": "birds",
+      "timestamp": "2025-08-28T22:16:57.880Z"
+    },
+    {
+      "scientificName": "Haliaeetus leucocephalus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/db/Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Haliaeetus%20leucocephalus",
+      "fileName": "birds10.jpg",
+      "category": "birds",
+      "timestamp": "2025-08-28T22:17:00.714Z"
+    },
+    {
+      "scientificName": "Ardea herodias",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f1/GreatBlueHeronInARiver.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ardea%20herodias",
+      "fileName": "birds11.jpg",
+      "category": "birds",
+      "timestamp": "2025-08-28T22:17:03.297Z"
+    },
+    {
+      "scientificName": "Buteo jamaicensis",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Red-tailed_Hawk_%2845812546121%29.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Buteo%20jamaicensis",
+      "fileName": "birds12.jpg",
+      "category": "birds",
+      "timestamp": "2025-08-28T22:17:06.087Z"
+    },
+    {
+      "scientificName": "Anas platyrhynchos",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Anas_platyrhynchos_male_female_quadrat.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anas%20platyrhynchos",
+      "fileName": "birds13.jpg",
+      "category": "birds",
+      "timestamp": "2025-08-28T22:17:08.615Z"
+    },
+    {
+      "scientificName": "Bubo virginianus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Bubo_virginianus_06.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bubo%20virginianus",
+      "fileName": "birds14.jpg",
+      "category": "birds",
+      "timestamp": "2025-08-28T22:17:11.152Z"
+    },
+    {
+      "scientificName": "Archilochus colubris",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Archilochus_colubris_-flying_-male-8.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Archilochus%20colubris",
+      "fileName": "birds15.jpg",
+      "category": "birds",
+      "timestamp": "2025-08-28T22:17:13.386Z"
+    },
+    {
+      "scientificName": "Zenaida macroura",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Av_Mourning_Dove_JG.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zenaida%20macroura",
+      "fileName": "birds16.jpg",
+      "category": "birds",
+      "timestamp": "2025-08-28T22:17:15.857Z"
+    },
+    {
+      "scientificName": "Picoides pubescens",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/20/Downy_Woodpecker01.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Picoides%20pubescens",
+      "fileName": "birds17.jpg",
+      "category": "birds",
+      "timestamp": "2025-08-28T22:17:18.011Z"
+    },
+    {
+      "scientificName": "Branta canadensis",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/40/Canada_goose_on_Seedskadee_NWR_%2827826185489%29.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Branta%20canadensis",
+      "fileName": "birds18.jpg",
+      "category": "birds",
+      "timestamp": "2025-08-28T22:17:20.283Z"
+    },
+    {
+      "scientificName": "Tyto alba",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/17/Barn_Owl%2C_Lancashire.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tyto%20alba",
+      "fileName": "birds19.jpg",
+      "category": "birds",
+      "timestamp": "2025-08-28T22:17:22.682Z"
+    },
+    {
+      "scientificName": "Pandion haliaetus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Osprey_Perched_Snag_Heislerville.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pandion%20haliaetus",
+      "fileName": "birds20.jpg",
+      "category": "birds",
+      "timestamp": "2025-08-28T22:17:25.280Z"
+    },
+    {
+      "scientificName": "Falco peregrinus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Falco_peregrinus_m_Humber_Bay_Park_Toronto.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Falco%20peregrinus",
+      "fileName": "birds21.jpg",
+      "category": "birds",
+      "timestamp": "2025-08-28T22:17:27.293Z"
+    },
+    {
+      "scientificName": "Meleagris gallopavo",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/50/Gall-dindi.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Meleagris%20gallopavo",
+      "fileName": "birds22.jpg",
+      "category": "birds",
+      "timestamp": "2025-08-28T22:17:29.256Z"
+    },
+    {
+      "scientificName": "Megaceryle alcyon",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0c/BeltedKingfisherJG_Male.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Megaceryle%20alcyon",
+      "fileName": "birds23.jpg",
+      "category": "birds",
+      "timestamp": "2025-08-28T22:17:31.826Z"
+    },
+    {
+      "scientificName": "Antigone canadensis",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Sandhill_Crane_JG.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Antigone%20canadensis",
+      "fileName": "birds24.jpg",
+      "category": "birds",
+      "timestamp": "2025-08-28T22:17:34.049Z"
+    },
+    {
+      "scientificName": "Dryocopus pileatus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/12/PileatedWoodpeckerFeedingonTree%2C_crop.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dryocopus%20pileatus",
+      "fileName": "birds25.jpg",
+      "category": "birds",
+      "timestamp": "2025-08-28T22:17:36.060Z"
+    },
+    {
+      "scientificName": "Setophaga petechia",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/70/Yellow_warbler_%2882905%29.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Setophaga%20petechia",
+      "fileName": "birds26.jpg",
+      "category": "birds",
+      "timestamp": "2025-08-28T22:17:39.294Z"
+    },
+    {
+      "scientificName": "Sitta carolinensis",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/White-breasted_nuthatch_%2826471%29.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sitta%20carolinensis",
+      "fileName": "birds27.jpg",
+      "category": "birds",
+      "timestamp": "2025-08-28T22:17:42.211Z"
+    },
+    {
+      "scientificName": "Bombycilla cedrorum",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Cedar_Waxwing_-_Bombycilla_cedrorum%2C_George_Washington%27s_Birthplace_National_Monument%2C_Colonial_Beach%2C_Virginia_%2839997434862%29.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bombycilla%20cedrorum",
+      "fileName": "birds28.jpg",
+      "category": "birds",
+      "timestamp": "2025-08-28T22:17:44.492Z"
+    },
+    {
+      "scientificName": "Passerina cyanea",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/62/Indigo_Bunting_by_Dan_Pancamo_4.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Passerina%20cyanea",
+      "fileName": "birds29.jpg",
+      "category": "birds",
+      "timestamp": "2025-08-28T22:17:47.079Z"
+    },
+    {
+      "scientificName": "Pheucticus ludovicianus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/RosebreastedGrosbeak08.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pheucticus%20ludovicianus",
+      "fileName": "birds30.jpg",
+      "category": "birds",
+      "timestamp": "2025-08-28T22:17:49.801Z"
+    },
+    {
+      "scientificName": "Micropterus salmoides",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/29/Largemouth.JPG",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Micropterus%20salmoides",
+      "fileName": "fish1.jpg",
+      "category": "fish",
+      "timestamp": "2025-08-28T22:17:51.946Z"
+    },
+    {
+      "scientificName": "Oncorhynchus mykiss",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Close_up_of_rainbow_trout_fish_underwater_oncorhynchus_mykiss.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oncorhynchus%20mykiss",
+      "fileName": "fish2.jpg",
+      "category": "fish",
+      "timestamp": "2025-08-28T22:17:54.366Z"
+    },
+    {
+      "scientificName": "Esox lucius",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/93/Esox_lucius_ZOO_1.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Esox%20lucius",
+      "fileName": "fish3.jpg",
+      "category": "fish",
+      "timestamp": "2025-08-28T22:17:58.236Z"
+    },
+    {
+      "scientificName": "Lepomis macrochirus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Bluegill_%28cropped%29.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lepomis%20macrochirus",
+      "fileName": "fish4.jpg",
+      "category": "fish",
+      "timestamp": "2025-08-28T22:18:00.270Z"
+    },
+    {
+      "scientificName": "Ictalurus punctatus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/38/Channel_Catfish_%28Ictalurus_punctatus%29_white_background.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ictalurus%20punctatus",
+      "fileName": "fish5.jpg",
+      "category": "fish",
+      "timestamp": "2025-08-28T22:18:03.218Z"
+    },
+    {
+      "scientificName": "Salmo salar",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Salmo_salar.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Salmo%20salar",
+      "fileName": "fish6.jpg",
+      "category": "fish",
+      "timestamp": "2025-08-28T22:18:05.636Z"
+    },
+    {
+      "scientificName": "Sander vitreus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/41/Walleye_%28Sander_vitreus%29_%281%29.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sander%20vitreus",
+      "fileName": "fish7.jpg",
+      "category": "fish",
+      "timestamp": "2025-08-28T22:18:08.236Z"
+    },
+    {
+      "scientificName": "Morone saxatilis",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/Morone_saxatilis_SI2.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Morone%20saxatilis",
+      "fileName": "fish8.jpg",
+      "category": "fish",
+      "timestamp": "2025-08-28T22:18:10.010Z"
+    },
+    {
+      "scientificName": "Perca flavescens",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7f/YellowPerch.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Perca%20flavescens",
+      "fileName": "fish9.jpg",
+      "category": "fish",
+      "timestamp": "2025-08-28T22:18:11.807Z"
+    },
+    {
+      "scientificName": "Esox masquinongy",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Esox_masquinongyeditcrop.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Esox%20masquinongy",
+      "fileName": "fish10.jpg",
+      "category": "fish",
+      "timestamp": "2025-08-28T22:18:13.848Z"
+    },
+    {
+      "scientificName": "Salvelinus fontinalis",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Brook_trout_in_water.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Salvelinus%20fontinalis",
+      "fileName": "fish11.jpg",
+      "category": "fish",
+      "timestamp": "2025-08-28T22:18:16.036Z"
+    },
+    {
+      "scientificName": "Micropterus dolomieu",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Smallmouth_bass.png",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Micropterus%20dolomieu",
+      "fileName": "fish12.jpg",
+      "category": "fish",
+      "timestamp": "2025-08-28T22:18:18.642Z"
+    },
+    {
+      "scientificName": "Salvelinus namaycush",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Lake_trout_fishes_salvelinus_namaycush.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Salvelinus%20namaycush",
+      "fileName": "fish13.jpg",
+      "category": "fish",
+      "timestamp": "2025-08-28T22:18:20.761Z"
+    },
+    {
+      "scientificName": "Morone chrysops",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/White_Bass_%28Morone_chrysops%29.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Morone%20chrysops",
+      "fileName": "fish14.jpg",
+      "category": "fish",
+      "timestamp": "2025-08-28T22:18:23.715Z"
+    },
+    {
+      "scientificName": "Esox masquinongy",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Esox_masquinongyeditcrop.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Esox%20masquinongy",
+      "fileName": "fish15.jpg",
+      "category": "fish",
+      "timestamp": "2025-08-28T22:18:25.316Z"
+    },
+    {
+      "scientificName": "Oncorhynchus kisutch",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/91/Oncorhynchus_keta.jpeg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oncorhynchus%20kisutch",
+      "fileName": "fish16.jpg",
+      "category": "fish",
+      "timestamp": "2025-08-28T22:18:27.517Z"
+    },
+    {
+      "scientificName": "Pomoxis nigromaculatus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Black_Crappie_%28Pomoxis_nigromaculatus%29.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pomoxis%20nigromaculatus",
+      "fileName": "fish17.jpg",
+      "category": "fish",
+      "timestamp": "2025-08-28T22:18:29.924Z"
+    },
+    {
+      "scientificName": "Lepomis gibbosus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Lepomis_gibbosus_PAQ.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lepomis%20gibbosus",
+      "fileName": "fish18.jpg",
+      "category": "fish",
+      "timestamp": "2025-08-28T22:18:32.570Z"
+    },
+    {
+      "scientificName": "Oncorhynchus tshawytscha",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Chinook_Salmon_Adult_Male.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oncorhynchus%20tshawytscha",
+      "fileName": "fish19.jpg",
+      "category": "fish",
+      "timestamp": "2025-08-28T22:18:35.018Z"
+    },
+    {
+      "scientificName": "Oncorhynchus mykiss",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Close_up_of_rainbow_trout_fish_underwater_oncorhynchus_mykiss.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Oncorhynchus%20mykiss",
+      "fileName": "fish20.jpg",
+      "category": "fish",
+      "timestamp": "2025-08-28T22:18:36.576Z"
+    },
+    {
+      "scientificName": "Pylodictis olivaris",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Pylodictis_olivaris.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pylodictis%20olivaris",
+      "fileName": "fish21.jpg",
+      "category": "fish",
+      "timestamp": "2025-08-28T22:18:39.222Z"
+    },
+    {
+      "scientificName": "Sander canadensis",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Saugernctc.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sander%20canadensis",
+      "fileName": "fish22.jpg",
+      "category": "fish",
+      "timestamp": "2025-08-28T22:18:41.252Z"
+    },
+    {
+      "scientificName": "Lota lota",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Tr%C3%BCsche_Walchensee.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lota%20lota",
+      "fileName": "fish23.jpg",
+      "category": "fish",
+      "timestamp": "2025-08-28T22:18:43.524Z"
+    },
+    {
+      "scientificName": "Lepisosteus osseus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Longnose_gar%2C_Boston_Aquarium.JPG",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lepisosteus%20osseus",
+      "fileName": "fish24.jpg",
+      "category": "fish",
+      "timestamp": "2025-08-28T22:18:45.520Z"
+    },
+    {
+      "scientificName": "Polyodon spathula",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Paddlefish-USFWS-Fish-and-Aquatic-Conservation-2160x1440.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Polyodon%20spathula",
+      "fileName": "fish25.jpg",
+      "category": "fish",
+      "timestamp": "2025-08-28T22:18:47.802Z"
+    },
+    {
+      "scientificName": "Amia calva",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Amia_calva_4.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Amia%20calva",
+      "fileName": "fish26.jpg",
+      "category": "fish",
+      "timestamp": "2025-08-28T22:18:49.920Z"
+    },
+    {
+      "scientificName": "Aplodinotus grunniens",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Freshwaterdrum.png",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Aplodinotus%20grunniens",
+      "fileName": "fish27.jpg",
+      "category": "fish",
+      "timestamp": "2025-08-28T22:18:52.624Z"
+    },
+    {
+      "scientificName": "Moxostoma macrolepidotum",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/97/Moxostoma_macrolepidotum.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Moxostoma%20macrolepidotum",
+      "fileName": "fish28.jpg",
+      "category": "fish",
+      "timestamp": "2025-08-28T22:18:55.373Z"
+    },
+    {
+      "scientificName": "Hiodon tergisus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Hiodon_tergisus_NOAA.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hiodon%20tergisus",
+      "fileName": "fish29.jpg",
+      "category": "fish",
+      "timestamp": "2025-08-28T22:18:57.812Z"
+    },
+    {
+      "scientificName": "Catostomus commersonii",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e7/White_Sucker%2C_Catostomus_commersonii.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Catostomus%20commersonii",
+      "fileName": "fish30.jpg",
+      "category": "fish",
+      "timestamp": "2025-08-28T22:19:00.848Z"
+    },
+    {
+      "scientificName": "Terrapene carolina",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/23/Terrapene_carolinaHolbrookV1P02.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Terrapene%20carolina",
+      "fileName": "reptiles1.jpg",
+      "category": "reptiles",
+      "timestamp": "2025-08-28T22:19:02.810Z"
+    },
+    {
+      "scientificName": "Thamnophis sirtalis",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Thamnophis_sirtalis_sirtalis_Wooster.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thamnophis%20sirtalis",
+      "fileName": "reptiles2.jpg",
+      "category": "reptiles",
+      "timestamp": "2025-08-28T22:19:05.775Z"
+    },
+    {
+      "scientificName": "Plestiodon fasciatus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Eumeces_fasciatusPCCA20040425-1563A.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Plestiodon%20fasciatus",
+      "fileName": "reptiles3.jpg",
+      "category": "reptiles",
+      "timestamp": "2025-08-28T22:19:08.156Z"
+    },
+    {
+      "scientificName": "Chrysemys picta",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/53/Painted_turtle_%28Chrysemys_picta%29_Madden_Haag.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chrysemys%20picta",
+      "fileName": "reptiles4.jpg",
+      "category": "reptiles",
+      "timestamp": "2025-08-28T22:19:10.515Z"
+    },
+    {
+      "scientificName": "Anolis carolinensis",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Anole_Lizard_Hilo_Hawaii_edit.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anolis%20carolinensis",
+      "fileName": "reptiles5.jpg",
+      "category": "reptiles",
+      "timestamp": "2025-08-28T22:19:12.486Z"
+    },
+    {
+      "scientificName": "Trachemys scripta elegans",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/RedEaredSlider05.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Trachemys%20scripta%20elegans",
+      "fileName": "reptiles6.jpg",
+      "category": "reptiles",
+      "timestamp": "2025-08-28T22:19:14.977Z"
+    },
+    {
+      "scientificName": "Alligator mississippiensis",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/03/American_Alligator.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alligator%20mississippiensis",
+      "fileName": "reptiles7.jpg",
+      "category": "reptiles",
+      "timestamp": "2025-08-28T22:19:17.112Z"
+    },
+    {
+      "scientificName": "Pantherophis guttatus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/CornSnake.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pantherophis%20guttatus",
+      "fileName": "reptiles8.jpg",
+      "category": "reptiles",
+      "timestamp": "2025-08-28T22:19:19.518Z"
+    },
+    {
+      "scientificName": "Chelydra serpentina",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Snapping_Turtle_Heinz.png",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chelydra%20serpentina",
+      "fileName": "reptiles9.jpg",
+      "category": "reptiles",
+      "timestamp": "2025-08-28T22:19:28.912Z"
+    },
+    {
+      "scientificName": "Pogona vitticeps",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bartagame_%28fcm%29.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pogona%20vitticeps",
+      "fileName": "reptiles10.jpg",
+      "category": "reptiles",
+      "timestamp": "2025-08-28T22:19:31.119Z"
+    },
+    {
+      "scientificName": "Iguana iguana",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/21/Iguana_iguana_%28male_resting%29.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Iguana%20iguana",
+      "fileName": "reptiles11.jpg",
+      "category": "reptiles",
+      "timestamp": "2025-08-28T22:19:34.117Z"
+    },
+    {
+      "scientificName": "Hemidactylus turcicus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Konstantinos_Kalaentzis_-_Hemidactylus_turcicus_%28A7%29.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hemidactylus%20turcicus",
+      "fileName": "reptiles12.jpg",
+      "category": "reptiles",
+      "timestamp": "2025-08-28T22:19:36.267Z"
+    },
+    {
+      "scientificName": "Chamaeleo calyptratus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/68/Yemen_Chameleon.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chamaeleo%20calyptratus",
+      "fileName": "reptiles13.jpg",
+      "category": "reptiles",
+      "timestamp": "2025-08-28T22:19:38.269Z"
+    },
+    {
+      "scientificName": "Python regius",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Ball_python_lucy.JPG",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Python%20regius",
+      "fileName": "reptiles14.jpg",
+      "category": "reptiles",
+      "timestamp": "2025-08-28T22:19:40.611Z"
+    },
+    {
+      "scientificName": "Varanus salvator",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/Varanus_salvator_-_01.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Varanus%20salvator",
+      "fileName": "reptiles15.jpg",
+      "category": "reptiles",
+      "timestamp": "2025-08-28T22:19:43.258Z"
+    },
+    {
+      "scientificName": "Crotalus atrox",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ec/%28Westliche_Diamantklapperschlange%29_Crotalus_atrox.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Crotalus%20atrox",
+      "fileName": "reptiles16.jpg",
+      "category": "reptiles",
+      "timestamp": "2025-08-28T22:19:45.874Z"
+    },
+    {
+      "scientificName": "Chelonia mydas",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Green_sea_turtle_%28Chelonia_mydas%29_Moorea.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chelonia%20mydas",
+      "fileName": "reptiles17.jpg",
+      "category": "reptiles",
+      "timestamp": "2025-08-28T22:19:48.853Z"
+    },
+    {
+      "scientificName": "Lampropeltis getula",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Eastern_kingsnake_%28Lampropeltis_getula%29.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lampropeltis%20getula",
+      "fileName": "reptiles18.jpg",
+      "category": "reptiles",
+      "timestamp": "2025-08-28T22:19:50.800Z"
+    },
+    {
+      "scientificName": "Gopherus polyphemus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Gopher_Tortoise_-_Gopherus_polyphemus%2C_Lake_June-in-Winter_Scrub_State_Park%2C_Lake_Placid%2C_Florida_-_31527638716.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gopherus%20polyphemus",
+      "fileName": "reptiles19.jpg",
+      "category": "reptiles",
+      "timestamp": "2025-08-28T22:19:53.692Z"
+    },
+    {
+      "scientificName": "Agkistrodon contortrix",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Agkistrodon_contortrix_contortrix_CDC-a.png",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Agkistrodon%20contortrix",
+      "fileName": "reptiles20.jpg",
+      "category": "reptiles",
+      "timestamp": "2025-08-28T22:19:55.603Z"
+    },
+    {
+      "scientificName": "Lampropeltis triangulum",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Red_milk_snake.JPG",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lampropeltis%20triangulum",
+      "fileName": "reptiles21.jpg",
+      "category": "reptiles",
+      "timestamp": "2025-08-28T22:19:57.722Z"
+    },
+    {
+      "scientificName": "Sceloporus undulatus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Eastern_Fence_Lizard_03-20-08.png",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sceloporus%20undulatus",
+      "fileName": "reptiles22.jpg",
+      "category": "reptiles",
+      "timestamp": "2025-08-28T22:20:00.249Z"
+    },
+    {
+      "scientificName": "Malaclemys terrapin",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/af/Diamond_terrapin_turtle_reptile_malaclemys_terrapin.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Malaclemys%20terrapin",
+      "fileName": "reptiles23.jpg",
+      "category": "reptiles",
+      "timestamp": "2025-08-28T22:20:02.682Z"
+    },
+    {
+      "scientificName": "Heterodon platirhinos",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/14/Eastern_Hognose_Snake.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Heterodon%20platirhinos",
+      "fileName": "reptiles24.jpg",
+      "category": "reptiles",
+      "timestamp": "2025-08-28T22:20:04.928Z"
+    },
+    {
+      "scientificName": "Ophisaurus ventralis",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Eastern_Glass_Lizard.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ophisaurus%20ventralis",
+      "fileName": "reptiles25.jpg",
+      "category": "reptiles",
+      "timestamp": "2025-08-28T22:20:07.219Z"
+    },
+    {
+      "scientificName": "Glyptemys insculpta",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/39/WoodTurtle.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Glyptemys%20insculpta",
+      "fileName": "reptiles26.jpg",
+      "category": "reptiles",
+      "timestamp": "2025-08-28T22:20:09.382Z"
+    },
+    {
+      "scientificName": "Masticophis flagellum",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/96/Eastern_coachwhip_%28Masticophis_flagellum_flagellum%29_Madden_Haag.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Masticophis%20flagellum",
+      "fileName": "reptiles27.jpg",
+      "category": "reptiles",
+      "timestamp": "2025-08-28T22:20:11.339Z"
+    },
+    {
+      "scientificName": "Clemmys guttata",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Spotted_Turtle_Virginia_March_2023.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Clemmys%20guttata",
+      "fileName": "reptiles28.jpg",
+      "category": "reptiles",
+      "timestamp": "2025-08-28T22:20:14.345Z"
+    },
+    {
+      "scientificName": "Diadophis punctatus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Coral-belly_Ringneck_Snake_%28Diadophis_punctatus_ssp._pulchellus%29.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Diadophis%20punctatus",
+      "fileName": "reptiles29.jpg",
+      "category": "reptiles",
+      "timestamp": "2025-08-28T22:20:16.687Z"
+    },
+    {
+      "scientificName": "Sternotherus odoratus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Stinkpot_Turtle_%28cropped%29.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sternotherus%20odoratus",
+      "fileName": "reptiles30.jpg",
+      "category": "reptiles",
+      "timestamp": "2025-08-28T22:20:18.704Z"
+    },
+    {
+      "scientificName": "Lithobates catesbeianus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/aa/North-American-bullfrog1.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lithobates%20catesbeianus",
+      "fileName": "amphibians1.jpg",
+      "category": "amphibians",
+      "timestamp": "2025-08-28T22:20:20.947Z"
+    },
+    {
+      "scientificName": "Ambystoma maculatum",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/84/Spotted_Salamander%2C_Cantley%2C_Quebec.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ambystoma%20maculatum",
+      "fileName": "amphibians2.jpg",
+      "category": "amphibians",
+      "timestamp": "2025-08-28T22:20:23.531Z"
+    },
+    {
+      "scientificName": "Pseudacris crucifer",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/ad/H_crucifer_USGS.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pseudacris%20crucifer",
+      "fileName": "amphibians3.jpg",
+      "category": "amphibians",
+      "timestamp": "2025-08-28T22:20:25.999Z"
+    },
+    {
+      "scientificName": "Plethodon cinereus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Adult_Female_Plethodon_cinereus.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Plethodon%20cinereus",
+      "fileName": "amphibians4.jpg",
+      "category": "amphibians",
+      "timestamp": "2025-08-28T22:20:28.395Z"
+    },
+    {
+      "scientificName": "Lithobates sylvaticus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Lithobates_sylvaticus_%28Woodfrog%29.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lithobates%20sylvaticus",
+      "fileName": "amphibians5.jpg",
+      "category": "amphibians",
+      "timestamp": "2025-08-28T22:20:30.796Z"
+    },
+    {
+      "scientificName": "Agalychnis callidryas",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Red-eyed_Tree_Frog_%28Agalychnis_callidryas%29_1.png",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Agalychnis%20callidryas",
+      "fileName": "amphibians6.jpg",
+      "category": "amphibians",
+      "timestamp": "2025-08-28T22:20:32.736Z"
+    },
+    {
+      "scientificName": "Notophthalmus viridescens",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/02/Redspotted_newt.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Notophthalmus%20viridescens",
+      "fileName": "amphibians7.jpg",
+      "category": "amphibians",
+      "timestamp": "2025-08-28T22:20:35.261Z"
+    },
+    {
+      "scientificName": "Phyllobates terribilis",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Schrecklicherpfeilgiftfrosch-01.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Phyllobates%20terribilis",
+      "fileName": "amphibians8.jpg",
+      "category": "amphibians",
+      "timestamp": "2025-08-28T22:20:37.039Z"
+    },
+    {
+      "scientificName": "Ambystoma mexicanum",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Axolotl_ganz.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ambystoma%20mexicanum",
+      "fileName": "amphibians9.jpg",
+      "category": "amphibians",
+      "timestamp": "2025-08-28T22:20:39.489Z"
+    },
+    {
+      "scientificName": "Ambystoma tigrinum",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Salamandra_Tigre.png",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ambystoma%20tigrinum",
+      "fileName": "amphibians10.jpg",
+      "category": "amphibians",
+      "timestamp": "2025-08-28T22:20:41.773Z"
+    },
+    {
+      "scientificName": "Hyla cinerea",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Green_treefrog.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyla%20cinerea",
+      "fileName": "amphibians11.jpg",
+      "category": "amphibians",
+      "timestamp": "2025-08-28T22:20:44.204Z"
+    },
+    {
+      "scientificName": "Cryptobranchus alleganiensis",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/87/Hellbender.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cryptobranchus%20alleganiensis",
+      "fileName": "amphibians12.jpg",
+      "category": "amphibians",
+      "timestamp": "2025-08-28T22:20:46.825Z"
+    },
+    {
+      "scientificName": "Rhinella marina",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/9/99/Canetoadmale.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rhinella%20marina",
+      "fileName": "amphibians13.jpg",
+      "category": "amphibians",
+      "timestamp": "2025-08-28T22:20:49.281Z"
+    },
+    {
+      "scientificName": "Salamandra salamandra",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Salamandra_salamandra_MHNT_1.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Salamandra%20salamandra",
+      "fileName": "amphibians14.jpg",
+      "category": "amphibians",
+      "timestamp": "2025-08-28T22:20:51.482Z"
+    },
+    {
+      "scientificName": "Necturus maculosus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/88/Gefleckter_Furchenmolch_%28Necturus_maculosus%29%2C_Seitenansicht.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Necturus%20maculosus",
+      "fileName": "amphibians15.jpg",
+      "category": "amphibians",
+      "timestamp": "2025-08-28T22:20:54.648Z"
+    },
+    {
+      "scientificName": "Gymnopis multiplicata",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Gymnopis_multiplicata.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gymnopis%20multiplicata",
+      "fileName": "amphibians17.jpg",
+      "category": "amphibians",
+      "timestamp": "2025-08-28T22:20:58.789Z"
+    },
+    {
+      "scientificName": "Pseudacris triseriata",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Pseudacris_triseriata.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pseudacris%20triseriata",
+      "fileName": "amphibians18.jpg",
+      "category": "amphibians",
+      "timestamp": "2025-08-28T22:21:01.143Z"
+    },
+    {
+      "scientificName": "Ambystoma opacum",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/73/Marbled_salamander_%2814367751333%29.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ambystoma%20opacum",
+      "fileName": "amphibians19.jpg",
+      "category": "amphibians",
+      "timestamp": "2025-08-28T22:21:03.592Z"
+    },
+    {
+      "scientificName": "Lithobates palustris",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/Pickerel_Frog.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lithobates%20palustris",
+      "fileName": "amphibians20.jpg",
+      "category": "amphibians",
+      "timestamp": "2025-08-28T22:21:06.230Z"
+    },
+    {
+      "scientificName": "Hemidactylium scutatum",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/5/56/Hemidactylium_scutatum.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hemidactylium%20scutatum",
+      "fileName": "amphibians21.jpg",
+      "category": "amphibians",
+      "timestamp": "2025-08-28T22:21:09.689Z"
+    },
+    {
+      "scientificName": "Hyla versicolor",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Gray_tree_frog_in_arboreal_forest_habitat%2C_MA.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyla%20versicolor",
+      "fileName": "amphibians22.jpg",
+      "category": "amphibians",
+      "timestamp": "2025-08-28T22:21:12.266Z"
+    },
+    {
+      "scientificName": "Pseudotriton ruber",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Northern_red_salamander_%28Pseudotriton_ruber%29.JPG",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pseudotriton%20ruber",
+      "fileName": "amphibians23.jpg",
+      "category": "amphibians",
+      "timestamp": "2025-08-28T22:21:15.094Z"
+    },
+    {
+      "scientificName": "Hyla chrysoscelis",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/76/Hyla_chrysoscelis_UMFS_2016_1.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyla%20chrysoscelis",
+      "fileName": "amphibians24.jpg",
+      "category": "amphibians",
+      "timestamp": "2025-08-28T22:21:18.344Z"
+    },
+    {
+      "scientificName": "Eurycea bislineata",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Northern_Two-lined_Salamander_Eurycea_bislineata.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurycea%20bislineata",
+      "fileName": "amphibians25.jpg",
+      "category": "amphibians",
+      "timestamp": "2025-08-28T22:21:21.027Z"
+    },
+    {
+      "scientificName": "Anaxyrus fowleri",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Anaxyrus_fowleri_Stanton_2_%28cropped%29.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anaxyrus%20fowleri",
+      "fileName": "amphibians26.jpg",
+      "category": "amphibians",
+      "timestamp": "2025-08-28T22:21:23.691Z"
+    },
+    {
+      "scientificName": "Plethodon glutinosus",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/05/Plethodon_glutonosus.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Plethodon%20glutinosus",
+      "fileName": "amphibians27.jpg",
+      "category": "amphibians",
+      "timestamp": "2025-08-28T22:21:26.396Z"
+    },
+    {
+      "scientificName": "Lithobates pipiens",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Lithobates_pipiens.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lithobates%20pipiens",
+      "fileName": "amphibians28.jpg",
+      "category": "amphibians",
+      "timestamp": "2025-08-28T22:21:28.954Z"
+    },
+    {
+      "scientificName": "Eurycea longicauda",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Eurycea_longicauda_%28long-tailed_salamander%29.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurycea%20longicauda",
+      "fileName": "amphibians29.jpg",
+      "category": "amphibians",
+      "timestamp": "2025-08-28T22:21:31.152Z"
+    },
+    {
+      "scientificName": "Lithobates clamitans",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/0/00/Male_Green_Frog_-_Hunterdon_County%2C_NJ.jpg",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lithobates%20clamitans",
+      "fileName": "amphibians30.jpg",
+      "category": "amphibians",
+      "timestamp": "2025-08-28T22:21:33.664Z"
+    }
+  ],
+  "failures": [
+    {
+      "scientificName": "Centrolenella fleischmanni",
+      "error": "No Wikipedia article found for Centrolenella fleischmanni",
+      "category": "amphibians",
+      "timestamp": "2025-08-28T22:20:55.829Z"
+    }
+  ],
+  "summary": {
+    "totalDownloaded": 149,
+    "totalFailed": 1,
+    "successRate": "99.3%"
+  },
+  "endTime": "2025-08-28T22:21:34.679Z"
+}

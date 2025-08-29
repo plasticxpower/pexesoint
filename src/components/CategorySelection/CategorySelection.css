@@ -1,14 +1,18 @@
 /* Modern Category Selection Component */
 .instruction-text {
   color: var(--gray-600);
-  font-size: var(--text-lg);
-  font-weight: var(--font-medium);
+  font-size: var(--text-sm);
+  font-weight: var(--font-normal);
   text-align: center;
-  margin-bottom: var(--space-8);
-  line-height: 1.6;
-  max-width: 600px;
+  margin-bottom: var(--space-4);
+  line-height: 1.4;
+  max-width: 500px;
   margin-left: auto;
   margin-right: auto;
+  opacity: 0.8;
+  background: transparent;
+  border: none;
+  padding: var(--space-2);
 }
 
 .menu {
@@ -204,8 +208,9 @@
   }
   
   .instruction-text {
-    font-size: var(--text-base);
-    margin-bottom: var(--space-6);
+    font-size: var(--text-xs);
+    margin-bottom: var(--space-3);
+    padding: var(--space-1);
   }
 }
 
@@ -230,6 +235,8 @@
   }
   
   .instruction-text {
-    font-size: var(--text-sm);
+    font-size: var(--text-xs);
+    margin-bottom: var(--space-2);
+    padding: var(--space-1);
   }
 }

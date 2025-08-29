@@ -12,7 +12,7 @@
         "description": "American Robin (Turdus migratorius)",
         "alt_description": "Turdus migratorius",
         "urls": {
-          "regular": "placeholder_url_birds_1"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/9/97/American_robin_%2871307%29.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -35,14 +35,14 @@
       ],
       "taxon": "Turdus migratorius",
       "license": "CC-BY-SA",
-      "localPath": "/images/birds/birds1.jpg",
+      "localPath": "/images-cropped/birds/birds1.jpg",
       "aiValidated": true,
       "wikipediaTitle": "American Robin",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/American_Robin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Turdus%20migratorius",
       "wikipediaExtract": "The American Robin (Turdus migratorius) is a species found in Woodlands, parks, gardens, and lawns across North America. They prefer areas with trees for nesting and open ground for foraging.",
-      "updatedAt": "2025-08-27T20:18:14.619Z",
-      "imageSource": "placeholder_image_source_birds_1",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:16:37.497Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/9/97/American_robin_%2871307%29.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "birds2.jpg",
@@ -52,7 +52,7 @@
         "description": "American Crow (Corvus brachyrhynchos)",
         "alt_description": "Corvus brachyrhynchos",
         "urls": {
-          "regular": "placeholder_url_birds_2"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Corvus-brachyrhynchos-001.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -75,14 +75,14 @@
       ],
       "taxon": "Corvus brachyrhynchos",
       "license": "CC-BY-SA",
-      "localPath": "/images/birds/birds2.jpg",
+      "localPath": "/images-cropped/birds/birds2.jpg",
       "aiValidated": true,
       "wikipediaTitle": "American Crow",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/American_Crow",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Corvus%20brachyrhynchos",
       "wikipediaExtract": "The American Crow (Corvus brachyrhynchos) is a species found in Open woodlands, fields, parks, and urban areas across North America. They are highly adaptable to human environments.",
-      "updatedAt": "2025-08-27T20:18:14.619Z",
-      "imageSource": "placeholder_image_source_birds_2",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:16:39.883Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Corvus-brachyrhynchos-001.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "birds3.jpg",
@@ -92,7 +92,7 @@
         "description": "Black-capped Chickadee (Poecile atricapillus)",
         "alt_description": "Poecile atricapillus",
         "urls": {
-          "regular": "placeholder_url_birds_3"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Poecile-atricapilla-001.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -115,14 +115,14 @@
       ],
       "taxon": "Poecile atricapillus",
       "license": "CC-BY-SA",
-      "localPath": "/images/birds/birds3.jpg",
+      "localPath": "/images-cropped/birds/birds3.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Black-capped Chickadee",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Black-capped_Chickadee",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Poecile%20atricapillus",
       "wikipediaExtract": "The Black-capped Chickadee (Poecile atricapillus) is a species found in Mixed and deciduous forests, parks, and wooded suburban areas across northern North America.",
-      "updatedAt": "2025-08-27T20:18:14.619Z",
-      "imageSource": "placeholder_image_source_birds_3",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:16:42.484Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Poecile-atricapilla-001.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "birds4.jpg",
@@ -132,7 +132,7 @@
         "description": "Eastern Bluebird (Sialia sialis)",
         "alt_description": "Sialia sialis",
         "urls": {
-          "regular": "placeholder_url_birds_4"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/0/00/Sialia_sialis_-Michigan%2C_USA_-pair-8c.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -155,14 +155,14 @@
       ],
       "taxon": "Sialia sialis",
       "license": "CC-BY-SA",
-      "localPath": "/images/birds/birds4.jpg",
+      "localPath": "/images-cropped/birds/birds4.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Eastern Bluebird",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eastern_Bluebird",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sialia%20sialis",
       "wikipediaExtract": "The Eastern Bluebird (Sialia sialis) is a species found in Open woodlands, farmlands, and parks with scattered trees across eastern North America.",
-      "updatedAt": "2025-08-27T20:18:14.619Z",
-      "imageSource": "placeholder_image_source_birds_4",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:16:44.881Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/0/00/Sialia_sialis_-Michigan%2C_USA_-pair-8c.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "birds5.jpg",
@@ -172,7 +172,7 @@
         "description": "American Goldfinch (Spinus tristis)",
         "alt_description": "Spinus tristis",
         "urls": {
-          "regular": "placeholder_url_birds_5"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Carduelis_tristis_-Michigan%2C_USA_-male-8.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -195,14 +195,14 @@
       ],
       "taxon": "Spinus tristis",
       "license": "CC-BY-SA",
-      "localPath": "/images/birds/birds5.jpg",
+      "localPath": "/images-cropped/birds/birds5.jpg",
       "aiValidated": true,
       "wikipediaTitle": "American Goldfinch",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/American_Goldfinch",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Spinus%20tristis",
       "wikipediaExtract": "The American Goldfinch (Spinus tristis) is a species found in Open country, roadsides, orchards, and suburban areas across North America. They prefer areas with thistle and other seed-producing plants.",
-      "updatedAt": "2025-08-27T20:18:14.619Z",
-      "imageSource": "placeholder_image_source_birds_5",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:16:47.441Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Carduelis_tristis_-Michigan%2C_USA_-male-8.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "birds6.jpg",
@@ -212,7 +212,7 @@
         "description": "Northern Cardinal (Cardinalis cardinalis)",
         "alt_description": "Cardinalis cardinalis",
         "urls": {
-          "regular": "placeholder_url_birds_6"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Male_northern_cardinal_in_Central_Park_%2852612%29.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -235,14 +235,14 @@
       ],
       "taxon": "Cardinalis cardinalis",
       "license": "CC-BY-SA",
-      "localPath": "/images/birds/birds6.jpg",
+      "localPath": "/images-cropped/birds/birds6.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Northern Cardinal",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Northern_Cardinal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cardinalis%20cardinalis",
       "wikipediaExtract": "The Northern Cardinal (Cardinalis cardinalis) is a species found in Woodlands, gardens, shrublands, and wetlands across eastern and central North America. They prefer areas with dense shrubs and trees.",
-      "updatedAt": "2025-08-27T20:18:14.619Z",
-      "imageSource": "placeholder_image_source_birds_6",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:16:50.087Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Male_northern_cardinal_in_Central_Park_%2852612%29.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "birds7.jpg",
@@ -252,7 +252,7 @@
         "description": "Blue Jay (Cyanocitta cristata)",
         "alt_description": "Cyanocitta cristata",
         "urls": {
-          "regular": "placeholder_url_birds_7"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Blue_jay_in_PP_%2830960%29.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -275,14 +275,14 @@
       ],
       "taxon": "Cyanocitta cristata",
       "license": "CC-BY-SA",
-      "localPath": "/images/birds/birds7.jpg",
+      "localPath": "/images-cropped/birds/birds7.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Blue Jay",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Blue_Jay",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cyanocitta%20cristata",
       "wikipediaExtract": "The Blue Jay (Cyanocitta cristata) is a species found in Oak and pine forests, parks, and suburban areas across eastern North America. They prefer areas with oak trees for acorns.",
-      "updatedAt": "2025-08-27T20:18:14.619Z",
-      "imageSource": "placeholder_image_source_birds_7",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:16:53.110Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Blue_jay_in_PP_%2830960%29.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "birds8.jpg",
@@ -292,7 +292,7 @@
         "description": "House Sparrow (Passer domesticus)",
         "alt_description": "Passer domesticus",
         "urls": {
-          "regular": "placeholder_url_birds_8"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/9/9b/House_sparrow_male_in_Prospect_Park_%2853532%29.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -315,14 +315,14 @@
       ],
       "taxon": "Passer domesticus",
       "license": "CC-BY-SA",
-      "localPath": "/images/birds/birds8.jpg",
+      "localPath": "/images-cropped/birds/birds8.jpg",
       "aiValidated": true,
       "wikipediaTitle": "House Sparrow",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/House_Sparrow",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Passer%20domesticus",
       "wikipediaExtract": "The House Sparrow (Passer domesticus) is a species found in Urban and suburban areas worldwide, closely associated with human habitation. They prefer areas with buildings for nesting and open ground for feeding.",
-      "updatedAt": "2025-08-27T20:18:14.619Z",
-      "imageSource": "placeholder_image_source_birds_8",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:16:55.359Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/9/9b/House_sparrow_male_in_Prospect_Park_%2853532%29.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "birds9.jpg",
@@ -332,7 +332,7 @@
         "description": "Red-winged Blackbird (Agelaius phoeniceus)",
         "alt_description": "Agelaius phoeniceus",
         "urls": {
-          "regular": "placeholder_url_birds_9"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/6/60/Agelaius_phoeniceus_0110_taxo.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -355,14 +355,14 @@
       ],
       "taxon": "Agelaius phoeniceus",
       "license": "CC-BY-SA",
-      "localPath": "/images/birds/birds9.jpg",
+      "localPath": "/images-cropped/birds/birds9.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Red-winged Blackbird",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Red-winged_Blackbird",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Agelaius%20phoeniceus",
       "wikipediaExtract": "The Red-winged Blackbird (Agelaius phoeniceus) is a species found in Wetlands, marshes, and fields across North America. They prefer areas near water with tall grasses and cattails for nesting.",
-      "updatedAt": "2025-08-27T20:18:14.619Z",
-      "imageSource": "placeholder_image_source_birds_9",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:16:57.880Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/6/60/Agelaius_phoeniceus_0110_taxo.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "birds10.jpg",
@@ -372,7 +372,7 @@
         "description": "Bald Eagle (Haliaeetus leucocephalus)",
         "alt_description": "Haliaeetus leucocephalus",
         "urls": {
-          "regular": "placeholder_url_birds_10"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/d/db/Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -395,14 +395,14 @@
       ],
       "taxon": "Haliaeetus leucocephalus",
       "license": "CC-BY-SA",
-      "localPath": "/images/birds/birds10.jpg",
+      "localPath": "/images-cropped/birds/birds10.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Bald Eagle",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bald_Eagle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Haliaeetus%20leucocephalus",
       "wikipediaExtract": "The Bald Eagle (Haliaeetus leucocephalus) is a species found in Near large bodies of water across North America, including lakes, rivers, and coastal areas. They prefer areas with tall trees for nesting.",
-      "updatedAt": "2025-08-27T20:18:14.619Z",
-      "imageSource": "placeholder_image_source_birds_10",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:17:00.714Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/d/db/Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "birds11.jpg",
@@ -412,7 +412,7 @@
         "description": "Great Blue Heron (Ardea herodias)",
         "alt_description": "Ardea herodias",
         "urls": {
-          "regular": "placeholder_url_birds_11"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/f/f1/GreatBlueHeronInARiver.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -435,14 +435,14 @@
       ],
       "taxon": "Ardea herodias",
       "license": "CC-BY-SA",
-      "localPath": "/images/birds/birds11.jpg",
+      "localPath": "/images-cropped/birds/birds11.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Great Blue Heron",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Great_Blue Heron",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ardea%20herodias",
       "wikipediaExtract": "The Great Blue Heron (Ardea herodias) is a species found in Wetlands, marshes, lakes, and rivers across North America. They prefer shallow water areas for hunting fish and amphibians.",
-      "updatedAt": "2025-08-27T20:18:14.619Z",
-      "imageSource": "placeholder_image_source_birds_11",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:17:03.297Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/f/f1/GreatBlueHeronInARiver.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "birds12.jpg",
@@ -452,7 +452,7 @@
         "description": "Red-tailed Hawk (Buteo jamaicensis)",
         "alt_description": "Buteo jamaicensis",
         "urls": {
-          "regular": "placeholder_url_birds_12"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Red-tailed_Hawk_%2845812546121%29.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -475,14 +475,14 @@
       ],
       "taxon": "Buteo jamaicensis",
       "license": "CC-BY-SA",
-      "localPath": "/images/birds/birds12.jpg",
+      "localPath": "/images-cropped/birds/birds12.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Red-tailed Hawk",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Red-tailed_Hawk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Buteo%20jamaicensis",
       "wikipediaExtract": "The Red-tailed Hawk (Buteo jamaicensis) is a species found in Diverse habitats including forests, deserts, fields, and urban areas across North America. They prefer areas with open hunting grounds and tall perches.",
-      "updatedAt": "2025-08-27T20:18:14.619Z",
-      "imageSource": "placeholder_image_source_birds_12",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:17:06.087Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Red-tailed_Hawk_%2845812546121%29.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "birds13.jpg",
@@ -492,7 +492,7 @@
         "description": "Mallard Duck (Anas platyrhynchos)",
         "alt_description": "Anas platyrhynchos",
         "urls": {
-          "regular": "placeholder_url_birds_13"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Anas_platyrhynchos_male_female_quadrat.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -515,14 +515,14 @@
       ],
       "taxon": "Anas platyrhynchos",
       "license": "CC-BY-SA",
-      "localPath": "/images/birds/birds13.jpg",
+      "localPath": "/images-cropped/birds/birds13.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Mallard Duck",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mallard_Duck",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anas%20platyrhynchos",
       "wikipediaExtract": "The Mallard Duck (Anas platyrhynchos) is a species found in Wetlands, ponds, lakes, and rivers across North America and Europe. They prefer shallow water areas with abundant vegetation.",
-      "updatedAt": "2025-08-27T20:18:14.619Z",
-      "imageSource": "placeholder_image_source_birds_13",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:17:08.615Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Anas_platyrhynchos_male_female_quadrat.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "birds14.jpg",
@@ -532,7 +532,7 @@
         "description": "Great Horned Owl (Bubo virginianus)",
         "alt_description": "Bubo virginianus",
         "urls": {
-          "regular": "placeholder_url_birds_14"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/2/23/Bubo_virginianus_06.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -555,14 +555,14 @@
       ],
       "taxon": "Bubo virginianus",
       "license": "CC-BY-SA",
-      "localPath": "/images/birds/birds14.jpg",
+      "localPath": "/images-cropped/birds/birds14.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Great Horned Owl",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Great_Horned Owl",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bubo%20virginianus",
       "wikipediaExtract": "The Great Horned Owl (Bubo virginianus) is a species found in Diverse habitats including forests, swamps, deserts, and urban areas across the Americas. They prefer areas with large trees for roosting.",
-      "updatedAt": "2025-08-27T20:18:14.619Z",
-      "imageSource": "placeholder_image_source_birds_14",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:17:11.152Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/2/23/Bubo_virginianus_06.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "birds15.jpg",
@@ -572,7 +572,7 @@
         "description": "Ruby-throated Hummingbird (Archilochus colubris)",
         "alt_description": "Archilochus colubris",
         "urls": {
-          "regular": "placeholder_url_birds_15"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Archilochus_colubris_-flying_-male-8.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -595,14 +595,14 @@
       ],
       "taxon": "Archilochus colubris",
       "license": "CC-BY-SA",
-      "localPath": "/images/birds/birds15.jpg",
+      "localPath": "/images-cropped/birds/birds15.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Ruby-throated Hummingbird",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ruby-throated_Hummingbird",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Archilochus%20colubris",
       "wikipediaExtract": "The Ruby-throated Hummingbird (Archilochus colubris) is a species found in Gardens, parks, and forest edges across eastern North America. They prefer areas with flowering plants and feeders.",
-      "updatedAt": "2025-08-27T20:18:14.619Z",
-      "imageSource": "placeholder_image_source_birds_15",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:17:13.386Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Archilochus_colubris_-flying_-male-8.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "birds16.jpg",
@@ -612,7 +612,7 @@
         "description": "Mourning Dove (Zenaida macroura)",
         "alt_description": "Zenaida macroura",
         "urls": {
-          "regular": "placeholder_url_birds_16"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Av_Mourning_Dove_JG.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -635,14 +635,14 @@
       ],
       "taxon": "Zenaida macroura",
       "license": "CC-BY-SA",
-      "localPath": "/images/birds/birds16.jpg",
+      "localPath": "/images-cropped/birds/birds16.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Mourning Dove",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mourning_Dove",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zenaida%20macroura",
       "wikipediaExtract": "The Mourning Dove (Zenaida macroura) is a species found in Open woodlands, fields, parks, and suburban areas across North America. They prefer areas with scattered trees and open ground.",
-      "updatedAt": "2025-08-27T20:18:14.619Z",
-      "imageSource": "placeholder_image_source_birds_16",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:17:15.857Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Av_Mourning_Dove_JG.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "birds17.jpg",
@@ -652,7 +652,7 @@
         "description": "Downy Woodpecker (Picoides pubescens)",
         "alt_description": "Picoides pubescens",
         "urls": {
-          "regular": "placeholder_url_birds_17"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/2/20/Downy_Woodpecker01.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -675,14 +675,14 @@
       ],
       "taxon": "Picoides pubescens",
       "license": "CC-BY-SA",
-      "localPath": "/images/birds/birds17.jpg",
+      "localPath": "/images-cropped/birds/birds17.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Downy Woodpecker",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Downy_Woodpecker",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Picoides%20pubescens",
       "wikipediaExtract": "The Downy Woodpecker (Picoides pubescens) is a species found in Deciduous and mixed forests, parks, and suburban areas across North America. They prefer areas with dead or dying trees.",
-      "updatedAt": "2025-08-27T20:18:14.619Z",
-      "imageSource": "placeholder_image_source_birds_17",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:17:18.011Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/2/20/Downy_Woodpecker01.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "birds18.jpg",
@@ -692,7 +692,7 @@
         "description": "Canada Goose (Branta canadensis)",
         "alt_description": "Branta canadensis",
         "urls": {
-          "regular": "placeholder_url_birds_18"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/4/40/Canada_goose_on_Seedskadee_NWR_%2827826185489%29.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -715,14 +715,14 @@
       ],
       "taxon": "Branta canadensis",
       "license": "CC-BY-SA",
-      "localPath": "/images/birds/birds18.jpg",
+      "localPath": "/images-cropped/birds/birds18.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Canada Goose",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Canada_Goose",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Branta%20canadensis",
       "wikipediaExtract": "The Canada Goose (Branta canadensis) is a species found in Lakes, ponds, rivers, and parks across North America. They prefer areas with open water and nearby grasslands for feeding.",
-      "updatedAt": "2025-08-27T20:18:14.619Z",
-      "imageSource": "placeholder_image_source_birds_18",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:17:20.283Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/4/40/Canada_goose_on_Seedskadee_NWR_%2827826185489%29.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "birds19.jpg",
@@ -732,7 +732,7 @@
         "description": "Barn Owl (Tyto alba)",
         "alt_description": "Tyto alba",
         "urls": {
-          "regular": "placeholder_url_birds_19"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/1/17/Barn_Owl%2C_Lancashire.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -755,14 +755,14 @@
       ],
       "taxon": "Tyto alba",
       "license": "CC-BY-SA",
-      "localPath": "/images/birds/birds19.jpg",
+      "localPath": "/images-cropped/birds/birds19.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Barn Owl",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Barn_Owl",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tyto%20alba",
       "wikipediaExtract": "The Barn Owl (Tyto alba) is a species found in Open habitats including farmland, grasslands, and forest edges worldwide. They prefer areas with old buildings or tree cavities for nesting.",
-      "updatedAt": "2025-08-27T20:18:14.619Z",
-      "imageSource": "placeholder_image_source_birds_19",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:17:22.682Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/1/17/Barn_Owl%2C_Lancashire.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "birds20.jpg",
@@ -772,7 +772,7 @@
         "description": "Osprey (Pandion haliaetus)",
         "alt_description": "Pandion haliaetus",
         "urls": {
-          "regular": "placeholder_url_birds_20"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Osprey_Perched_Snag_Heislerville.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -795,14 +795,14 @@
       ],
       "taxon": "Pandion haliaetus",
       "license": "CC-BY-SA",
-      "localPath": "/images/birds/birds20.jpg",
+      "localPath": "/images-cropped/birds/birds20.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Osprey",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Osprey",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pandion%20haliaetus",
       "wikipediaExtract": "The Osprey (Pandion haliaetus) is a species found in Near water bodies including lakes, rivers, and coastal areas worldwide. They prefer areas with fish populations and tall structures for nesting.",
-      "updatedAt": "2025-08-27T20:18:14.619Z",
-      "imageSource": "placeholder_image_source_birds_20",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:17:25.280Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Osprey_Perched_Snag_Heislerville.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "birds21.jpg",
@@ -812,7 +812,7 @@
         "description": "Peregrine Falcon (Falco peregrinus)",
         "alt_description": "Falco peregrinus",
         "urls": {
-          "regular": "placeholder_url_birds_21"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Falco_peregrinus_m_Humber_Bay_Park_Toronto.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -835,14 +835,14 @@
       ],
       "taxon": "Falco peregrinus",
       "license": "CC-BY-SA",
-      "localPath": "/images/birds/birds21.jpg",
+      "localPath": "/images-cropped/birds/birds21.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Peregrine Falcon",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Peregrine_Falcon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Falco%20peregrinus",
       "wikipediaExtract": "The Peregrine Falcon (Falco peregrinus) is a species found in Cliffs, tall buildings, and bridges in urban and wild areas worldwide. They prefer high perches with good visibility for hunting.",
-      "updatedAt": "2025-08-27T20:18:14.619Z",
-      "imageSource": "placeholder_image_source_birds_21",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:17:27.293Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Falco_peregrinus_m_Humber_Bay_Park_Toronto.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "birds22.jpg",
@@ -852,7 +852,7 @@
         "description": "Wild Turkey (Meleagris gallopavo)",
         "alt_description": "Meleagris gallopavo",
         "urls": {
-          "regular": "placeholder_url_birds_22"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/5/50/Gall-dindi.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -875,14 +875,14 @@
       ],
       "taxon": "Meleagris gallopavo",
       "license": "CC-BY-SA",
-      "localPath": "/images/birds/birds22.jpg",
+      "localPath": "/images-cropped/birds/birds22.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Wild Turkey",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wild_Turkey",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Meleagris%20gallopavo",
       "wikipediaExtract": "The Wild Turkey (Meleagris gallopavo) is a species found in Forests and woodland edges across North America. They prefer areas with oak and hickory trees for food and roosting.",
-      "updatedAt": "2025-08-27T20:18:14.619Z",
-      "imageSource": "placeholder_image_source_birds_22",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:17:29.256Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/5/50/Gall-dindi.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "birds23.jpg",
@@ -892,7 +892,7 @@
         "description": "Belted Kingfisher (Megaceryle alcyon)",
         "alt_description": "Megaceryle alcyon",
         "urls": {
-          "regular": "placeholder_url_birds_23"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/0/0c/BeltedKingfisherJG_Male.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -915,14 +915,14 @@
       ],
       "taxon": "Megaceryle alcyon",
       "license": "CC-BY-SA",
-      "localPath": "/images/birds/birds23.jpg",
+      "localPath": "/images-cropped/birds/birds23.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Belted Kingfisher",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Belted_Kingfisher",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Megaceryle%20alcyon",
       "wikipediaExtract": "The Belted Kingfisher (Megaceryle alcyon) is a species found in Near water bodies including streams, rivers, ponds, and lakes across North America. They prefer areas with clear water for fishing.",
-      "updatedAt": "2025-08-27T20:18:14.619Z",
-      "imageSource": "placeholder_image_source_birds_23",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:17:31.826Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/0/0c/BeltedKingfisherJG_Male.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "birds24.jpg",
@@ -932,7 +932,7 @@
         "description": "Sandhill Crane (Antigone canadensis)",
         "alt_description": "Antigone canadensis",
         "urls": {
-          "regular": "placeholder_url_birds_24"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/5/55/Sandhill_Crane_JG.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -955,14 +955,14 @@
       ],
       "taxon": "Antigone canadensis",
       "license": "CC-BY-SA",
-      "localPath": "/images/birds/birds24.jpg",
+      "localPath": "/images-cropped/birds/birds24.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Sandhill Crane",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sandhill_Crane",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Antigone%20canadensis",
       "wikipediaExtract": "The Sandhill Crane (Antigone canadensis) is a species found in Wetlands, grasslands, and agricultural fields across North America. They prefer shallow wetlands for roosting and open fields for feeding.",
-      "updatedAt": "2025-08-27T20:18:14.619Z",
-      "imageSource": "placeholder_image_source_birds_24",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:17:34.049Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/5/55/Sandhill_Crane_JG.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "birds25.jpg",
@@ -972,7 +972,7 @@
         "description": "Pileated Woodpecker (Dryocopus pileatus)",
         "alt_description": "Dryocopus pileatus",
         "urls": {
-          "regular": "placeholder_url_birds_25"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/1/12/PileatedWoodpeckerFeedingonTree%2C_crop.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -995,14 +995,14 @@
       ],
       "taxon": "Dryocopus pileatus",
       "license": "CC-BY-SA",
-      "localPath": "/images/birds/birds25.jpg",
+      "localPath": "/images-cropped/birds/birds25.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Pileated Woodpecker",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pileated_Woodpecker",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dryocopus%20pileatus",
       "wikipediaExtract": "The Pileated Woodpecker (Dryocopus pileatus) is a species found in Mature forests across eastern North America. They prefer areas with large dead trees and fallen logs.",
-      "updatedAt": "2025-08-27T20:18:14.619Z",
-      "imageSource": "placeholder_image_source_birds_25",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:17:36.060Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/1/12/PileatedWoodpeckerFeedingonTree%2C_crop.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "birds26.jpg",
@@ -1012,7 +1012,7 @@
         "description": "Yellow Warbler (Setophaga petechia)",
         "alt_description": "Setophaga petechia",
         "urls": {
-          "regular": "placeholder_url_birds_26"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/7/70/Yellow_warbler_%2882905%29.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -1035,14 +1035,14 @@
       ],
       "taxon": "Setophaga petechia",
       "license": "CC-BY-SA",
-      "localPath": "/images/birds/birds26.jpg",
+      "localPath": "/images-cropped/birds/birds26.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Yellow Warbler",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yellow_Warbler",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Setophaga%20petechia",
       "wikipediaExtract": "The Yellow Warbler (Setophaga petechia) is a species found in Wetlands, gardens, and forest edges across North America. They prefer areas with dense shrubs and small trees near water.",
-      "updatedAt": "2025-08-27T20:18:14.619Z",
-      "imageSource": "placeholder_image_source_birds_26",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:17:39.294Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/7/70/Yellow_warbler_%2882905%29.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "birds27.jpg",
@@ -1052,7 +1052,7 @@
         "description": "White-breasted Nuthatch (Sitta carolinensis)",
         "alt_description": "Sitta carolinensis",
         "urls": {
-          "regular": "placeholder_url_birds_27"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/5/52/White-breasted_nuthatch_%2826471%29.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -1075,14 +1075,14 @@
       ],
       "taxon": "Sitta carolinensis",
       "license": "CC-BY-SA",
-      "localPath": "/images/birds/birds27.jpg",
+      "localPath": "/images-cropped/birds/birds27.jpg",
       "aiValidated": true,
       "wikipediaTitle": "White-breasted Nuthatch",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/White-breasted_Nuthatch",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sitta%20carolinensis",
       "wikipediaExtract": "The White-breasted Nuthatch (Sitta carolinensis) is a species found in Mature forests and wooded parks across North America. They prefer areas with large deciduous trees, especially oak and hickory.",
-      "updatedAt": "2025-08-27T20:18:14.619Z",
-      "imageSource": "placeholder_image_source_birds_27",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:17:42.211Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/5/52/White-breasted_nuthatch_%2826471%29.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "birds28.jpg",
@@ -1092,7 +1092,7 @@
         "description": "Cedar Waxwing (Bombycilla cedrorum)",
         "alt_description": "Bombycilla cedrorum",
         "urls": {
-          "regular": "placeholder_url_birds_28"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/7/73/Cedar_Waxwing_-_Bombycilla_cedrorum%2C_George_Washington%27s_Birthplace_National_Monument%2C_Colonial_Beach%2C_Virginia_%2839997434862%29.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -1115,14 +1115,14 @@
       ],
       "taxon": "Bombycilla cedrorum",
       "license": "CC-BY-SA",
-      "localPath": "/images/birds/birds28.jpg",
+      "localPath": "/images-cropped/birds/birds28.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Cedar Waxwing",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cedar_Waxwing",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bombycilla%20cedrorum",
       "wikipediaExtract": "The Cedar Waxwing (Bombycilla cedrorum) is a species found in Open woodlands, orchards, and suburban areas across North America. They prefer areas with fruit-bearing trees and shrubs.",
-      "updatedAt": "2025-08-27T20:18:14.619Z",
-      "imageSource": "placeholder_image_source_birds_28",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:17:44.492Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/7/73/Cedar_Waxwing_-_Bombycilla_cedrorum%2C_George_Washington%27s_Birthplace_National_Monument%2C_Colonial_Beach%2C_Virginia_%2839997434862%29.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "birds29.jpg",
@@ -1132,7 +1132,7 @@
         "description": "Indigo Bunting (Passerina cyanea)",
         "alt_description": "Passerina cyanea",
         "urls": {
-          "regular": "placeholder_url_birds_29"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/6/62/Indigo_Bunting_by_Dan_Pancamo_4.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -1155,14 +1155,14 @@
       ],
       "taxon": "Passerina cyanea",
       "license": "CC-BY-SA",
-      "localPath": "/images/birds/birds29.jpg",
+      "localPath": "/images-cropped/birds/birds29.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Indigo Bunting",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Indigo_Bunting",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Passerina%20cyanea",
       "wikipediaExtract": "The Indigo Bunting (Passerina cyanea) is a species found in Forest edges, fields, and suburban areas across eastern North America. They prefer areas with scattered trees and open spaces.",
-      "updatedAt": "2025-08-27T20:18:14.619Z",
-      "imageSource": "placeholder_image_source_birds_29",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:17:47.079Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/6/62/Indigo_Bunting_by_Dan_Pancamo_4.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "birds30.jpg",
@@ -1172,7 +1172,7 @@
         "description": "Rose-breasted Grosbeak (Pheucticus ludovicianus)",
         "alt_description": "Pheucticus ludovicianus",
         "urls": {
-          "regular": "placeholder_url_birds_30"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/d/d3/RosebreastedGrosbeak08.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -1195,14 +1195,14 @@
       ],
       "taxon": "Pheucticus ludovicianus",
       "license": "CC-BY-SA",
-      "localPath": "/images/birds/birds30.jpg",
+      "localPath": "/images-cropped/birds/birds30.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Rose-breasted Grosbeak",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rose-breasted_Grosbeak",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pheucticus%20ludovicianus",
       "wikipediaExtract": "The Rose-breasted Grosbeak (Pheucticus ludovicianus) is a species found in Deciduous and mixed forests across eastern North America. They prefer areas with dense canopy and understory vegetation.",
-      "updatedAt": "2025-08-27T20:18:14.619Z",
-      "imageSource": "placeholder_image_source_birds_30",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:17:49.801Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/d/d3/RosebreastedGrosbeak08.jpg",
+      "imageMethod": "Wikipedia main image download"
     }
   ],
   "cleanupSummary": {
@@ -1210,5 +1210,11 @@
     "finalCount": 30,
     "duplicatesResolved": 0,
     "commonsUrlsRemoved": true
+  },
+  "updatedAt": "2025-08-28T22:17:50.812Z",
+  "imageDownloadInfo": {
+    "downloadedAt": "2025-08-28T22:17:50.812Z",
+    "method": "Wikipedia main image",
+    "source": "wikipedia.org"
   }
 }

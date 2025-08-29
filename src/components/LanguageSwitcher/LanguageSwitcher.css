@@ -6,7 +6,7 @@
 }
 
 .lang-button {
-  padding: 8px 16px;
+  padding: 8px 12px;
   border: 2px solid #007bff;
   background-color: transparent;
   color: #007bff;
@@ -15,7 +15,16 @@
   font-size: 14px;
   font-weight: 500;
   transition: all 0.2s ease;
-  min-width: 80px;
+  min-width: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.flag-icon {
+  border-radius: 2px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  transition: transform 0.2s ease;
 }
 
 .lang-button:hover {
@@ -24,10 +33,18 @@
   transform: translateY(-1px);
 }
 
+.lang-button:hover .flag-icon {
+  transform: scale(1.05);
+}
+
 .lang-button.active {
   background-color: #007bff;
   color: white;
   box-shadow: 0 2px 4px rgba(0, 123, 255, 0.3);
+}
+
+.lang-button.active .flag-icon {
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
 }
 
 .lang-button:focus {
@@ -46,8 +63,13 @@
   }
   
   .lang-button {
-    padding: 6px 12px;
+    padding: 6px 10px;
     font-size: 12px;
-    min-width: 70px;
+    min-width: 36px;
+  }
+  
+  .flag-icon {
+    width: 20px;
+    height: 13px;
   }
 }

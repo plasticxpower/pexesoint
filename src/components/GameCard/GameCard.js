@@ -57,7 +57,7 @@ function GameCard({ card, index, category, onClick }) {
   const getCardBackStyle = () => {
     console.log('Getting card BACK style (for flipped cards)');
     return {
-      backgroundColor: 'transparent'
+      backgroundColor: '#808080' // Grey background to match the padding in cropped images
     };
   };
 
@@ -82,6 +82,9 @@ function GameCard({ card, index, category, onClick }) {
         </div>
         <div className="card-back" style={getCardBackStyle()}>
           <img src={card.src} alt={card.scientificName || card.label} />
+          <div className="card-name">
+            {card.commonName || card.label}
+          </div>
         </div>
       </div>
     </div>

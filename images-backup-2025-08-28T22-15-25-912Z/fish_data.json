@@ -1,0 +1,1214 @@
+{
+  "category": "fish",
+  "totalPhotos": 30,
+  "source": "Clean English Data - Generated",
+  "downloadedAt": "2025-08-27T20:18:14.622Z",
+  "photos": [
+    {
+      "fileName": "fish1.jpg",
+      "filePath": "public\\images\\fish\\fish1.jpg",
+      "photoData": {
+        "id": "generated_fish_1",
+        "description": "Largemouth Bass (Micropterus salmoides)",
+        "alt_description": "Micropterus salmoides",
+        "urls": {
+          "regular": "placeholder_url_fish_1"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Micropterus salmoides",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Micropterus salmoides",
+        "source": "generated_english_data"
+      },
+      "commonName": "Largemouth Bass",
+      "scientificName": "Micropterus salmoides",
+      "size": "30-60 cm (12-24 inches), 1-5 kg",
+      "lifespan": "10-16 years in wild",
+      "habitat": "Freshwater lakes, ponds, and slow-moving rivers with vegetation across North America.",
+      "funFact": "Largemouth bass are ambush predators with excellent vision and can see in color. They can open their mouths wide enough to create a powerful suction that helps them capture prey.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Micropterus_salmoides",
+        "https://animaldiversity.org/accounts/Micropterus_salmoides/"
+      ],
+      "taxon": "Micropterus salmoides",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish1.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Largemouth Bass",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Largemouth_Bass",
+      "wikipediaExtract": "The Largemouth Bass (Micropterus salmoides) is a species found in Freshwater lakes, ponds, and slow-moving rivers with vegetation across North America.",
+      "updatedAt": "2025-08-27T20:18:14.622Z",
+      "imageSource": "placeholder_image_source_fish_1",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "fish2.jpg",
+      "filePath": "public\\images\\fish\\fish2.jpg",
+      "photoData": {
+        "id": "generated_fish_2",
+        "description": "Rainbow Trout (Oncorhynchus mykiss)",
+        "alt_description": "Oncorhynchus mykiss",
+        "urls": {
+          "regular": "placeholder_url_fish_2"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Oncorhynchus mykiss",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Oncorhynchus mykiss",
+        "source": "generated_english_data"
+      },
+      "commonName": "Rainbow Trout",
+      "scientificName": "Oncorhynchus mykiss",
+      "size": "30-40 cm (12-16 inches), 1-2 kg",
+      "lifespan": "4-6 years in wild",
+      "habitat": "Cold, clear streams and lakes across North America and introduced worldwide.",
+      "funFact": "Rainbow trout can see ultraviolet light and have excellent color vision. They are known for their spectacular jumping ability when hooked or avoiding predators.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Oncorhynchus_mykiss",
+        "https://animaldiversity.org/accounts/Oncorhynchus_mykiss/"
+      ],
+      "taxon": "Oncorhynchus mykiss",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish2.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Rainbow Trout",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rainbow_Trout",
+      "wikipediaExtract": "The Rainbow Trout (Oncorhynchus mykiss) is a species found in Cold, clear streams and lakes across North America and introduced worldwide.",
+      "updatedAt": "2025-08-27T20:18:14.622Z",
+      "imageSource": "placeholder_image_source_fish_2",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "fish3.jpg",
+      "filePath": "public\\images\\fish\\fish3.jpg",
+      "photoData": {
+        "id": "generated_fish_3",
+        "description": "Northern Pike (Esox lucius)",
+        "alt_description": "Esox lucius",
+        "urls": {
+          "regular": "placeholder_url_fish_3"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Esox lucius",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Esox lucius",
+        "source": "generated_english_data"
+      },
+      "commonName": "Northern Pike",
+      "scientificName": "Esox lucius",
+      "size": "40-55 cm (16-22 inches), 1-3 kg",
+      "lifespan": "10-15 years in wild",
+      "habitat": "Shallow, vegetated areas of lakes and slow rivers across northern regions.",
+      "funFact": "Northern pike are apex predators with razor-sharp teeth and can accelerate from 0 to 25 mph in seconds. They have been known to attack prey up to half their own size.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Esox_lucius",
+        "https://animaldiversity.org/accounts/Esox_lucius/"
+      ],
+      "taxon": "Esox lucius",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish3.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Northern Pike",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Northern_Pike",
+      "wikipediaExtract": "The Northern Pike (Esox lucius) is a species found in Shallow, vegetated areas of lakes and slow rivers across northern regions.",
+      "updatedAt": "2025-08-27T20:18:14.622Z",
+      "imageSource": "placeholder_image_source_fish_3",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "fish4.jpg",
+      "filePath": "public\\images\\fish\\fish4.jpg",
+      "photoData": {
+        "id": "generated_fish_4",
+        "description": "Bluegill (Lepomis macrochirus)",
+        "alt_description": "Lepomis macrochirus",
+        "urls": {
+          "regular": "placeholder_url_fish_4"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Lepomis macrochirus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Lepomis macrochirus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Bluegill",
+      "scientificName": "Lepomis macrochirus",
+      "size": "15-25 cm (6-10 inches), 200-500 g",
+      "lifespan": "5-8 years in wild",
+      "habitat": "Shallow waters of lakes, ponds, and slow streams with vegetation across North America.",
+      "funFact": "Male bluegills create circular nests in shallow water and aggressively defend them during breeding season. They can change color rapidly to communicate with other fish.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lepomis_macrochirus",
+        "https://animaldiversity.org/accounts/Lepomis_macrochirus/"
+      ],
+      "taxon": "Lepomis macrochirus",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish4.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Bluegill",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bluegill",
+      "wikipediaExtract": "The Bluegill (Lepomis macrochirus) is a species found in Shallow waters of lakes, ponds, and slow streams with vegetation across North America.",
+      "updatedAt": "2025-08-27T20:18:14.622Z",
+      "imageSource": "placeholder_image_source_fish_4",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "fish5.jpg",
+      "filePath": "public\\images\\fish\\fish5.jpg",
+      "photoData": {
+        "id": "generated_fish_5",
+        "description": "Channel Catfish (Ictalurus punctatus)",
+        "alt_description": "Ictalurus punctatus",
+        "urls": {
+          "regular": "placeholder_url_fish_5"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Ictalurus punctatus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Ictalurus punctatus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Channel Catfish",
+      "scientificName": "Ictalurus punctatus",
+      "size": "40-60 cm (16-24 inches), 1-4 kg",
+      "lifespan": "15-20 years in wild",
+      "habitat": "Rivers, lakes, and ponds with muddy or sandy bottoms across North America.",
+      "funFact": "Channel catfish have over 100,000 taste buds covering their entire body, making them incredibly sensitive to chemical cues in the water. They can taste food before it enters their mouth.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ictalurus_punctatus",
+        "https://animaldiversity.org/accounts/Ictalurus_punctatus/"
+      ],
+      "taxon": "Ictalurus punctatus",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish5.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Channel Catfish",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Channel_Catfish",
+      "wikipediaExtract": "The Channel Catfish (Ictalurus punctatus) is a species found in Rivers, lakes, and ponds with muddy or sandy bottoms across North America.",
+      "updatedAt": "2025-08-27T20:18:14.622Z",
+      "imageSource": "placeholder_image_source_fish_5",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "fish6.jpg",
+      "filePath": "public\\images\\fish\\fish6.jpg",
+      "photoData": {
+        "id": "generated_fish_6",
+        "description": "Atlantic Salmon (Salmo salar)",
+        "alt_description": "Salmo salar",
+        "urls": {
+          "regular": "placeholder_url_fish_6"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Salmo salar",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Salmo salar",
+        "source": "generated_english_data"
+      },
+      "commonName": "Atlantic Salmon",
+      "scientificName": "Salmo salar",
+      "size": "70-75 cm (28-30 inches), 3-5 kg",
+      "lifespan": "4-6 years in wild",
+      "habitat": "North Atlantic Ocean and rivers that flow into it for spawning.",
+      "funFact": "Atlantic salmon can jump up to 12 feet high to overcome waterfalls during their spawning migration. They return to the exact stream where they were born using their sense of smell.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Salmo_salar",
+        "https://animaldiversity.org/accounts/Salmo_salar/"
+      ],
+      "taxon": "Salmo salar",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish6.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Atlantic Salmon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Atlantic_Salmon",
+      "wikipediaExtract": "The Atlantic Salmon (Salmo salar) is a species found in North Atlantic Ocean and rivers that flow into it for spawning.",
+      "updatedAt": "2025-08-27T20:18:14.622Z",
+      "imageSource": "placeholder_image_source_fish_6",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "fish7.jpg",
+      "filePath": "public\\images\\fish\\fish7.jpg",
+      "photoData": {
+        "id": "generated_fish_7",
+        "description": "Walleye (Sander vitreus)",
+        "alt_description": "Sander vitreus",
+        "urls": {
+          "regular": "placeholder_url_fish_7"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Sander vitreus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Sander vitreus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Walleye",
+      "scientificName": "Sander vitreus",
+      "size": "35-50 cm (14-20 inches), 1-3 kg",
+      "lifespan": "10-15 years in wild",
+      "habitat": "Cool lakes and rivers across northern North America.",
+      "funFact": "Walleyes have excellent night vision due to a reflective layer in their eyes called the tapetum lucidum. They are most active during dawn and dusk.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sander_vitreus",
+        "https://animaldiversity.org/accounts/Sander_vitreus/"
+      ],
+      "taxon": "Sander vitreus",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish7.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Walleye",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Walleye",
+      "wikipediaExtract": "The Walleye (Sander vitreus) is a species found in Cool lakes and rivers across northern North America.",
+      "updatedAt": "2025-08-27T20:18:14.622Z",
+      "imageSource": "placeholder_image_source_fish_7",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "fish8.jpg",
+      "filePath": "public\\images\\fish\\fish8.jpg",
+      "photoData": {
+        "id": "generated_fish_8",
+        "description": "Striped Bass (Morone saxatilis)",
+        "alt_description": "Morone saxatilis",
+        "urls": {
+          "regular": "placeholder_url_fish_8"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Morone saxatilis",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Morone saxatilis",
+        "source": "generated_english_data"
+      },
+      "commonName": "Striped Bass",
+      "scientificName": "Morone saxatilis",
+      "size": "60-120 cm (24-48 inches), 4-15 kg",
+      "lifespan": "25-30 years in wild",
+      "habitat": "Atlantic coast and connected rivers from Canada to Florida.",
+      "funFact": "Striped bass are anadromous, meaning they live in saltwater but spawn in freshwater. They can travel hundreds of miles during their seasonal migrations.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Morone_saxatilis",
+        "https://animaldiversity.org/accounts/Morone_saxatilis/"
+      ],
+      "taxon": "Morone saxatilis",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish8.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Striped Bass",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Striped_Bass",
+      "wikipediaExtract": "The Striped Bass (Morone saxatilis) is a species found in Atlantic coast and connected rivers from Canada to Florida.",
+      "updatedAt": "2025-08-27T20:18:14.622Z",
+      "imageSource": "placeholder_image_source_fish_8",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "fish9.jpg",
+      "filePath": "public\\images\\fish\\fish9.jpg",
+      "photoData": {
+        "id": "generated_fish_9",
+        "description": "Yellow Perch (Perca flavescens)",
+        "alt_description": "Perca flavescens",
+        "urls": {
+          "regular": "placeholder_url_fish_9"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Perca flavescens",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Perca flavescens",
+        "source": "generated_english_data"
+      },
+      "commonName": "Yellow Perch",
+      "scientificName": "Perca flavescens",
+      "size": "15-25 cm (6-10 inches), 100-300 g",
+      "lifespan": "7-10 years in wild",
+      "habitat": "Lakes, ponds, and slow rivers across northern North America.",
+      "funFact": "Yellow perch have excellent schooling behavior and can form groups of hundreds of individuals. Their distinctive yellow color with dark vertical bars makes them easy to identify.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Perca_flavescens",
+        "https://animaldiversity.org/accounts/Perca_flavescens/"
+      ],
+      "taxon": "Perca flavescens",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish9.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Yellow Perch",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Yellow_Perch",
+      "wikipediaExtract": "The Yellow Perch (Perca flavescens) is a species found in Lakes, ponds, and slow rivers across northern North America.",
+      "updatedAt": "2025-08-27T20:18:14.622Z",
+      "imageSource": "placeholder_image_source_fish_9",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "fish10.jpg",
+      "filePath": "public\\images\\fish\\fish10.jpg",
+      "photoData": {
+        "id": "generated_fish_10",
+        "description": "Muskellunge (Esox masquinongy)",
+        "alt_description": "Esox masquinongy",
+        "urls": {
+          "regular": "placeholder_url_fish_10"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Esox masquinongy",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Esox masquinongy",
+        "source": "generated_english_data"
+      },
+      "commonName": "Muskellunge",
+      "scientificName": "Esox masquinongy",
+      "size": "75-120 cm (30-48 inches), 7-16 kg",
+      "lifespan": "15-30 years in wild",
+      "habitat": "Large lakes and rivers in the Great Lakes region and eastern North America.",
+      "funFact": "Muskellunge are known as the 'fish of 10,000 casts' due to their elusive nature. They are the largest member of the pike family and can live over 30 years.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Esox_masquinongy",
+        "https://animaldiversity.org/accounts/Esox_masquinongy/"
+      ],
+      "taxon": "Esox masquinongy",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish10.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Muskellunge",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Muskellunge",
+      "wikipediaExtract": "The Muskellunge (Esox masquinongy) is a species found in Large lakes and rivers in the Great Lakes region and eastern North America.",
+      "updatedAt": "2025-08-27T20:18:14.622Z",
+      "imageSource": "placeholder_image_source_fish_10",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "fish11.jpg",
+      "filePath": "public\\images\\fish\\fish11.jpg",
+      "photoData": {
+        "id": "generated_fish_11",
+        "description": "Brook Trout (Salvelinus fontinalis)",
+        "alt_description": "Salvelinus fontinalis",
+        "urls": {
+          "regular": "placeholder_url_fish_11"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Salvelinus fontinalis",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Salvelinus fontinalis",
+        "source": "generated_english_data"
+      },
+      "commonName": "Brook Trout",
+      "scientificName": "Salvelinus fontinalis",
+      "size": "25-35 cm (10-14 inches), 300-800 g",
+      "lifespan": "3-5 years in wild",
+      "habitat": "Cold, clear streams and lakes in eastern North America.",
+      "funFact": "Brook trout are actually a type of char, not a true trout. They require very clean, cold water and are considered an indicator species for water quality.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Salvelinus_fontinalis",
+        "https://animaldiversity.org/accounts/Salvelinus_fontinalis/"
+      ],
+      "taxon": "Salvelinus fontinalis",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish11.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Brook Trout",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Brook_Trout",
+      "wikipediaExtract": "The Brook Trout (Salvelinus fontinalis) is a species found in Cold, clear streams and lakes in eastern North America.",
+      "updatedAt": "2025-08-27T20:18:14.622Z",
+      "imageSource": "placeholder_image_source_fish_11",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "fish12.jpg",
+      "filePath": "public\\images\\fish\\fish12.jpg",
+      "photoData": {
+        "id": "generated_fish_12",
+        "description": "Smallmouth Bass (Micropterus dolomieu)",
+        "alt_description": "Micropterus dolomieu",
+        "urls": {
+          "regular": "placeholder_url_fish_12"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Micropterus dolomieu",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Micropterus dolomieu",
+        "source": "generated_english_data"
+      },
+      "commonName": "Smallmouth Bass",
+      "scientificName": "Micropterus dolomieu",
+      "size": "25-40 cm (10-16 inches), 500-2000 g",
+      "lifespan": "10-15 years in wild",
+      "habitat": "Rocky areas of lakes and rivers across North America.",
+      "funFact": "Smallmouth bass are known for their fighting ability and acrobatic jumps when hooked. They prefer cooler, clearer water than their largemouth cousins.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Micropterus_dolomieu",
+        "https://animaldiversity.org/accounts/Micropterus_dolomieu/"
+      ],
+      "taxon": "Micropterus dolomieu",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish12.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Smallmouth Bass",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Smallmouth_Bass",
+      "wikipediaExtract": "The Smallmouth Bass (Micropterus dolomieu) is a species found in Rocky areas of lakes and rivers across North America.",
+      "updatedAt": "2025-08-27T20:18:14.622Z",
+      "imageSource": "placeholder_image_source_fish_12",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "fish13.jpg",
+      "filePath": "public\\images\\fish\\fish13.jpg",
+      "photoData": {
+        "id": "generated_fish_13",
+        "description": "Lake Trout (Salvelinus namaycush)",
+        "alt_description": "Salvelinus namaycush",
+        "urls": {
+          "regular": "placeholder_url_fish_13"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Salvelinus namaycush",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Salvelinus namaycush",
+        "source": "generated_english_data"
+      },
+      "commonName": "Lake Trout",
+      "scientificName": "Salvelinus namaycush",
+      "size": "60-80 cm (24-32 inches), 4-8 kg",
+      "lifespan": "20-40 years in wild",
+      "habitat": "Deep, cold lakes across northern North America.",
+      "funFact": "Lake trout can live over 40 years and grow to enormous sizes. They prefer deep, cold water and are often found at depths of 60-200 feet.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Salvelinus_namaycush",
+        "https://animaldiversity.org/accounts/Salvelinus_namaycush/"
+      ],
+      "taxon": "Salvelinus namaycush",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish13.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Lake Trout",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lake_Trout",
+      "wikipediaExtract": "The Lake Trout (Salvelinus namaycush) is a species found in Deep, cold lakes across northern North America.",
+      "updatedAt": "2025-08-27T20:18:14.622Z",
+      "imageSource": "placeholder_image_source_fish_13",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "fish14.jpg",
+      "filePath": "public\\images\\fish\\fish14.jpg",
+      "photoData": {
+        "id": "generated_fish_14",
+        "description": "White Bass (Morone chrysops)",
+        "alt_description": "Morone chrysops",
+        "urls": {
+          "regular": "placeholder_url_fish_14"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Morone chrysops",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Morone chrysops",
+        "source": "generated_english_data"
+      },
+      "commonName": "White Bass",
+      "scientificName": "Morone chrysops",
+      "size": "25-35 cm (10-14 inches), 500-1000 g",
+      "lifespan": "4-7 years in wild",
+      "habitat": "Large lakes and rivers across central and eastern North America.",
+      "funFact": "White bass are highly social fish that travel in large schools. During spawning runs, thousands of fish can be seen moving up rivers together.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Morone_chrysops",
+        "https://animaldiversity.org/accounts/Morone_chrysops/"
+      ],
+      "taxon": "Morone chrysops",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish14.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "White Bass",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/White_Bass",
+      "wikipediaExtract": "The White Bass (Morone chrysops) is a species found in Large lakes and rivers across central and eastern North America.",
+      "updatedAt": "2025-08-27T20:18:14.622Z",
+      "imageSource": "placeholder_image_source_fish_14",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "fish15.jpg",
+      "filePath": "public\\images\\fish\\fish15.jpg",
+      "photoData": {
+        "id": "generated_fish_15",
+        "description": "Northern Muskellunge (Esox masquinongy)",
+        "alt_description": "Esox masquinongy",
+        "urls": {
+          "regular": "placeholder_url_fish_15"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Esox masquinongy",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Esox masquinongy",
+        "source": "generated_english_data"
+      },
+      "commonName": "Northern Muskellunge",
+      "scientificName": "Esox masquinongy",
+      "size": "90-150 cm (36-60 inches), 10-25 kg",
+      "lifespan": "18-30 years in wild",
+      "habitat": "Large, clear lakes with rocky or weedy areas in northern regions.",
+      "funFact": "Northern muskellunge are apex predators that can grow to massive sizes. They have been known to attack prey up to one-third their own body length.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Esox_masquinongy",
+        "https://animaldiversity.org/accounts/Esox_masquinongy/"
+      ],
+      "taxon": "Esox masquinongy",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish15.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Northern Muskellunge",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Northern_Muskellunge",
+      "wikipediaExtract": "The Northern Muskellunge (Esox masquinongy) is a species found in Large, clear lakes with rocky or weedy areas in northern regions.",
+      "updatedAt": "2025-08-27T20:18:14.622Z",
+      "imageSource": "placeholder_image_source_fish_15",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "fish16.jpg",
+      "filePath": "public\\images\\fish\\fish16.jpg",
+      "photoData": {
+        "id": "generated_fish_16",
+        "description": "Coho Salmon (Oncorhynchus kisutch)",
+        "alt_description": "Oncorhynchus kisutch",
+        "urls": {
+          "regular": "placeholder_url_fish_16"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Oncorhynchus kisutch",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Oncorhynchus kisutch",
+        "source": "generated_english_data"
+      },
+      "commonName": "Coho Salmon",
+      "scientificName": "Oncorhynchus kisutch",
+      "size": "60-70 cm (24-28 inches), 3-5 kg",
+      "lifespan": "3-4 years in wild",
+      "habitat": "Pacific Ocean and tributaries from Alaska to California.",
+      "funFact": "Coho salmon undergo dramatic physical changes during spawning, with males developing hooked jaws and bright red coloration. They die after spawning, providing nutrients to forest ecosystems.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Oncorhynchus_kisutch",
+        "https://animaldiversity.org/accounts/Oncorhynchus_kisutch/"
+      ],
+      "taxon": "Oncorhynchus kisutch",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish16.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Coho Salmon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Coho_Salmon",
+      "wikipediaExtract": "The Coho Salmon (Oncorhynchus kisutch) is a species found in Pacific Ocean and tributaries from Alaska to California.",
+      "updatedAt": "2025-08-27T20:18:14.622Z",
+      "imageSource": "placeholder_image_source_fish_16",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "fish17.jpg",
+      "filePath": "public\\images\\fish\\fish17.jpg",
+      "photoData": {
+        "id": "generated_fish_17",
+        "description": "Crappie (Pomoxis nigromaculatus)",
+        "alt_description": "Pomoxis nigromaculatus",
+        "urls": {
+          "regular": "placeholder_url_fish_17"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Pomoxis nigromaculatus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Pomoxis nigromaculatus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Crappie",
+      "scientificName": "Pomoxis nigromaculatus",
+      "size": "20-30 cm (8-12 inches), 200-500 g",
+      "lifespan": "5-8 years in wild",
+      "habitat": "Quiet waters of lakes, ponds, and slow rivers across North America.",
+      "funFact": "Crappies are excellent parents, with males building and guarding nests in shallow water. They can change color rapidly to blend with their surroundings.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pomoxis_nigromaculatus",
+        "https://animaldiversity.org/accounts/Pomoxis_nigromaculatus/"
+      ],
+      "taxon": "Pomoxis nigromaculatus",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish17.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Crappie",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Crappie",
+      "wikipediaExtract": "The Crappie (Pomoxis nigromaculatus) is a species found in Quiet waters of lakes, ponds, and slow rivers across North America.",
+      "updatedAt": "2025-08-27T20:18:14.622Z",
+      "imageSource": "placeholder_image_source_fish_17",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "fish18.jpg",
+      "filePath": "public\\images\\fish\\fish18.jpg",
+      "photoData": {
+        "id": "generated_fish_18",
+        "description": "Sunfish (Lepomis gibbosus)",
+        "alt_description": "Lepomis gibbosus",
+        "urls": {
+          "regular": "placeholder_url_fish_18"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Lepomis gibbosus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Lepomis gibbosus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Sunfish",
+      "scientificName": "Lepomis gibbosus",
+      "size": "15-20 cm (6-8 inches), 100-300 g",
+      "lifespan": "4-6 years in wild",
+      "habitat": "Shallow, weedy areas of lakes and ponds across North America.",
+      "funFact": "Sunfish are known for their bright colors and circular nests. Males become very territorial during breeding season and will attack anything that comes near their nest.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lepomis_gibbosus",
+        "https://animaldiversity.org/accounts/Lepomis_gibbosus/"
+      ],
+      "taxon": "Lepomis gibbosus",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish18.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Sunfish",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sunfish",
+      "wikipediaExtract": "The Sunfish (Lepomis gibbosus) is a species found in Shallow, weedy areas of lakes and ponds across North America.",
+      "updatedAt": "2025-08-27T20:18:14.622Z",
+      "imageSource": "placeholder_image_source_fish_18",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "fish19.jpg",
+      "filePath": "public\\images\\fish\\fish19.jpg",
+      "photoData": {
+        "id": "generated_fish_19",
+        "description": "Chinook Salmon (Oncorhynchus tshawytscha)",
+        "alt_description": "Oncorhynchus tshawytscha",
+        "urls": {
+          "regular": "placeholder_url_fish_19"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Oncorhynchus tshawytscha",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Oncorhynchus tshawytscha",
+        "source": "generated_english_data"
+      },
+      "commonName": "Chinook Salmon",
+      "scientificName": "Oncorhynchus tshawytscha",
+      "size": "90-150 cm (36-60 inches), 14-60 kg",
+      "lifespan": "3-7 years in wild",
+      "habitat": "Pacific Ocean from Alaska to California and their spawning rivers.",
+      "funFact": "Chinook salmon are the largest Pacific salmon species and can weigh over 100 pounds. They can travel over 2,000 miles from the ocean to their spawning grounds.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Oncorhynchus_tshawytscha",
+        "https://animaldiversity.org/accounts/Oncorhynchus_tshawytscha/"
+      ],
+      "taxon": "Oncorhynchus tshawytscha",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish19.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Chinook Salmon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chinook_Salmon",
+      "wikipediaExtract": "The Chinook Salmon (Oncorhynchus tshawytscha) is a species found in Pacific Ocean from Alaska to California and their spawning rivers.",
+      "updatedAt": "2025-08-27T20:18:14.622Z",
+      "imageSource": "placeholder_image_source_fish_19",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "fish20.jpg",
+      "filePath": "public\\images\\fish\\fish20.jpg",
+      "photoData": {
+        "id": "generated_fish_20",
+        "description": "Steelhead Trout (Oncorhynchus mykiss)",
+        "alt_description": "Oncorhynchus mykiss",
+        "urls": {
+          "regular": "placeholder_url_fish_20"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Oncorhynchus mykiss",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Oncorhynchus mykiss",
+        "source": "generated_english_data"
+      },
+      "commonName": "Steelhead Trout",
+      "scientificName": "Oncorhynchus mykiss",
+      "size": "60-80 cm (24-32 inches), 3-8 kg",
+      "lifespan": "4-8 years in wild",
+      "habitat": "Pacific Ocean and coastal rivers from Alaska to California.",
+      "funFact": "Steelhead are actually rainbow trout that migrate to the ocean. Unlike salmon, they can survive spawning and return to the ocean multiple times.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Oncorhynchus_mykiss",
+        "https://animaldiversity.org/accounts/Oncorhynchus_mykiss/"
+      ],
+      "taxon": "Oncorhynchus mykiss",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish20.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Steelhead Trout",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Steelhead_Trout",
+      "wikipediaExtract": "The Steelhead Trout (Oncorhynchus mykiss) is a species found in Pacific Ocean and coastal rivers from Alaska to California.",
+      "updatedAt": "2025-08-27T20:18:14.622Z",
+      "imageSource": "placeholder_image_source_fish_20",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "fish21.jpg",
+      "filePath": "public\\images\\fish\\fish21.jpg",
+      "photoData": {
+        "id": "generated_fish_21",
+        "description": "Flathead Catfish (Pylodictis olivaris)",
+        "alt_description": "Pylodictis olivaris",
+        "urls": {
+          "regular": "placeholder_url_fish_21"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Pylodictis olivaris",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Pylodictis olivaris",
+        "source": "generated_english_data"
+      },
+      "commonName": "Flathead Catfish",
+      "scientificName": "Pylodictis olivaris",
+      "size": "60-100 cm (24-40 inches), 5-20 kg",
+      "lifespan": "15-25 years in wild",
+      "habitat": "Large rivers and reservoirs with deep pools across central North America.",
+      "funFact": "Flathead catfish are solitary predators that prefer live prey. They can grow to enormous sizes, with some specimens exceeding 100 pounds.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pylodictis_olivaris",
+        "https://animaldiversity.org/accounts/Pylodictis_olivaris/"
+      ],
+      "taxon": "Pylodictis olivaris",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish21.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Flathead Catfish",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Flathead_Catfish",
+      "wikipediaExtract": "The Flathead Catfish (Pylodictis olivaris) is a species found in Large rivers and reservoirs with deep pools across central North America.",
+      "updatedAt": "2025-08-27T20:18:14.622Z",
+      "imageSource": "placeholder_image_source_fish_21",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "fish22.jpg",
+      "filePath": "public\\images\\fish\\fish22.jpg",
+      "photoData": {
+        "id": "generated_fish_22",
+        "description": "Sauger (Sander canadensis)",
+        "alt_description": "Sander canadensis",
+        "urls": {
+          "regular": "placeholder_url_fish_22"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Sander canadensis",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Sander canadensis",
+        "source": "generated_english_data"
+      },
+      "commonName": "Sauger",
+      "scientificName": "Sander canadensis",
+      "size": "25-35 cm (10-14 inches), 300-800 g",
+      "lifespan": "8-12 years in wild",
+      "habitat": "Large rivers and lakes across northern North America.",
+      "funFact": "Saugers are closely related to walleyes but prefer flowing water. They have excellent low-light vision and are most active during twilight hours.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sander_canadensis",
+        "https://animaldiversity.org/accounts/Sander_canadensis/"
+      ],
+      "taxon": "Sander canadensis",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish22.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Sauger",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sauger",
+      "wikipediaExtract": "The Sauger (Sander canadensis) is a species found in Large rivers and lakes across northern North America.",
+      "updatedAt": "2025-08-27T20:18:14.622Z",
+      "imageSource": "placeholder_image_source_fish_22",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "fish23.jpg",
+      "filePath": "public\\images\\fish\\fish23.jpg",
+      "photoData": {
+        "id": "generated_fish_23",
+        "description": "Burbot (Lota lota)",
+        "alt_description": "Lota lota",
+        "urls": {
+          "regular": "placeholder_url_fish_23"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Lota lota",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Lota lota",
+        "source": "generated_english_data"
+      },
+      "commonName": "Burbot",
+      "scientificName": "Lota lota",
+      "size": "40-60 cm (16-24 inches), 1-3 kg",
+      "lifespan": "15-20 years in wild",
+      "habitat": "Deep, cold lakes and rivers across northern regions.",
+      "funFact": "Burbot are the only freshwater member of the cod family. They spawn under ice in winter and are most active in cold water temperatures.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lota_lota",
+        "https://animaldiversity.org/accounts/Lota_lota/"
+      ],
+      "taxon": "Lota lota",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish23.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Burbot",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Burbot",
+      "wikipediaExtract": "The Burbot (Lota lota) is a species found in Deep, cold lakes and rivers across northern regions.",
+      "updatedAt": "2025-08-27T20:18:14.622Z",
+      "imageSource": "placeholder_image_source_fish_23",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "fish24.jpg",
+      "filePath": "public\\images\\fish\\fish24.jpg",
+      "photoData": {
+        "id": "generated_fish_24",
+        "description": "Gar (Lepisosteus osseus)",
+        "alt_description": "Lepisosteus osseus",
+        "urls": {
+          "regular": "placeholder_url_fish_24"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Lepisosteus osseus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Lepisosteus osseus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Gar",
+      "scientificName": "Lepisosteus osseus",
+      "size": "60-120 cm (24-48 inches), 2-10 kg",
+      "lifespan": "18-26 years in wild",
+      "habitat": "Slow-moving rivers, lakes, and backwaters across eastern North America.",
+      "funFact": "Gar are living fossils that have remained virtually unchanged for 100 million years. They can breathe air and survive in low-oxygen water.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lepisosteus_osseus",
+        "https://animaldiversity.org/accounts/Lepisosteus_osseus/"
+      ],
+      "taxon": "Lepisosteus osseus",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish24.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Gar",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gar",
+      "wikipediaExtract": "The Gar (Lepisosteus osseus) is a species found in Slow-moving rivers, lakes, and backwaters across eastern North America.",
+      "updatedAt": "2025-08-27T20:18:14.622Z",
+      "imageSource": "placeholder_image_source_fish_24",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "fish25.jpg",
+      "filePath": "public\\images\\fish\\fish25.jpg",
+      "photoData": {
+        "id": "generated_fish_25",
+        "description": "Paddlefish (Polyodon spathula)",
+        "alt_description": "Polyodon spathula",
+        "urls": {
+          "regular": "placeholder_url_fish_25"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Polyodon spathula",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Polyodon spathula",
+        "source": "generated_english_data"
+      },
+      "commonName": "Paddlefish",
+      "scientificName": "Polyodon spathula",
+      "size": "120-180 cm (48-72 inches), 20-60 kg",
+      "lifespan": "30-55 years in wild",
+      "habitat": "Large rivers and reservoirs in the Mississippi River basin.",
+      "funFact": "Paddlefish are filter feeders with a distinctive paddle-shaped snout. They are one of the largest freshwater fish in North America and can live over 50 years.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Polyodon_spathula",
+        "https://animaldiversity.org/accounts/Polyodon_spathula/"
+      ],
+      "taxon": "Polyodon spathula",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish25.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Paddlefish",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Paddlefish",
+      "wikipediaExtract": "The Paddlefish (Polyodon spathula) is a species found in Large rivers and reservoirs in the Mississippi River basin.",
+      "updatedAt": "2025-08-27T20:18:14.622Z",
+      "imageSource": "placeholder_image_source_fish_25",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "fish26.jpg",
+      "filePath": "public\\images\\fish\\fish26.jpg",
+      "photoData": {
+        "id": "generated_fish_26",
+        "description": "Bowfin (Amia calva)",
+        "alt_description": "Amia calva",
+        "urls": {
+          "regular": "placeholder_url_fish_26"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Amia calva",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Amia calva",
+        "source": "generated_english_data"
+      },
+      "commonName": "Bowfin",
+      "scientificName": "Amia calva",
+      "size": "45-75 cm (18-30 inches), 2-5 kg",
+      "lifespan": "12-30 years in wild",
+      "habitat": "Shallow, vegetated waters of lakes and slow rivers in eastern North America.",
+      "funFact": "Bowfin are primitive fish that can breathe air and survive in low-oxygen water. Males guard their young in a nest and will aggressively defend them.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Amia_calva",
+        "https://animaldiversity.org/accounts/Amia_calva/"
+      ],
+      "taxon": "Amia calva",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish26.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Bowfin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bowfin",
+      "wikipediaExtract": "The Bowfin (Amia calva) is a species found in Shallow, vegetated waters of lakes and slow rivers in eastern North America.",
+      "updatedAt": "2025-08-27T20:18:14.622Z",
+      "imageSource": "placeholder_image_source_fish_26",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "fish27.jpg",
+      "filePath": "public\\images\\fish\\fish27.jpg",
+      "photoData": {
+        "id": "generated_fish_27",
+        "description": "Freshwater Drum (Aplodinotus grunniens)",
+        "alt_description": "Aplodinotus grunniens",
+        "urls": {
+          "regular": "placeholder_url_fish_27"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Aplodinotus grunniens",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Aplodinotus grunniens",
+        "source": "generated_english_data"
+      },
+      "commonName": "Freshwater Drum",
+      "scientificName": "Aplodinotus grunniens",
+      "size": "30-50 cm (12-20 inches), 1-4 kg",
+      "lifespan": "8-15 years in wild",
+      "habitat": "Large rivers and lakes across central and eastern North America.",
+      "funFact": "Freshwater drum get their name from the drumming sound males make during spawning season. They are the only freshwater member of the drum family.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Aplodinotus_grunniens",
+        "https://animaldiversity.org/accounts/Aplodinotus_grunniens/"
+      ],
+      "taxon": "Aplodinotus grunniens",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish27.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Freshwater Drum",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Freshwater_Drum",
+      "wikipediaExtract": "The Freshwater Drum (Aplodinotus grunniens) is a species found in Large rivers and lakes across central and eastern North America.",
+      "updatedAt": "2025-08-27T20:18:14.622Z",
+      "imageSource": "placeholder_image_source_fish_27",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "fish28.jpg",
+      "filePath": "public\\images\\fish\\fish28.jpg",
+      "photoData": {
+        "id": "generated_fish_28",
+        "description": "Redhorse Sucker (Moxostoma macrolepidotum)",
+        "alt_description": "Moxostoma macrolepidotum",
+        "urls": {
+          "regular": "placeholder_url_fish_28"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Moxostoma macrolepidotum",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Moxostoma macrolepidotum",
+        "source": "generated_english_data"
+      },
+      "commonName": "Redhorse Sucker",
+      "scientificName": "Moxostoma macrolepidotum",
+      "size": "30-50 cm (12-20 inches), 1-3 kg",
+      "lifespan": "10-15 years in wild",
+      "habitat": "Clear streams and rivers with rocky or sandy bottoms across North America.",
+      "funFact": "Redhorse suckers are bottom feeders that use their sucker-like mouths to feed on algae and small invertebrates. They play an important role in aquatic ecosystem health.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Moxostoma_macrolepidotum",
+        "https://animaldiversity.org/accounts/Moxostoma_macrolepidotum/"
+      ],
+      "taxon": "Moxostoma macrolepidotum",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish28.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Redhorse Sucker",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Redhorse_Sucker",
+      "wikipediaExtract": "The Redhorse Sucker (Moxostoma macrolepidotum) is a species found in Clear streams and rivers with rocky or sandy bottoms across North America.",
+      "updatedAt": "2025-08-27T20:18:14.622Z",
+      "imageSource": "placeholder_image_source_fish_28",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "fish29.jpg",
+      "filePath": "public\\images\\fish\\fish29.jpg",
+      "photoData": {
+        "id": "generated_fish_29",
+        "description": "Mooneye (Hiodon tergisus)",
+        "alt_description": "Hiodon tergisus",
+        "urls": {
+          "regular": "placeholder_url_fish_29"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Hiodon tergisus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Hiodon tergisus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Mooneye",
+      "scientificName": "Hiodon tergisus",
+      "size": "20-35 cm (8-14 inches), 200-600 g",
+      "lifespan": "6-10 years in wild",
+      "habitat": "Large rivers and lakes across central North America.",
+      "funFact": "Mooneyes have large, silvery eyes that reflect light, giving them their name. They are excellent jumpers and can leap several feet out of the water.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hiodon_tergisus",
+        "https://animaldiversity.org/accounts/Hiodon_tergisus/"
+      ],
+      "taxon": "Hiodon tergisus",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish29.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Mooneye",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Mooneye",
+      "wikipediaExtract": "The Mooneye (Hiodon tergisus) is a species found in Large rivers and lakes across central North America.",
+      "updatedAt": "2025-08-27T20:18:14.622Z",
+      "imageSource": "placeholder_image_source_fish_29",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "fish30.jpg",
+      "filePath": "public\\images\\fish\\fish30.jpg",
+      "photoData": {
+        "id": "generated_fish_30",
+        "description": "White Sucker (Catostomus commersonii)",
+        "alt_description": "Catostomus commersonii",
+        "urls": {
+          "regular": "placeholder_url_fish_30"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "fish",
+        "taxon": "Catostomus commersonii",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Catostomus commersonii",
+        "source": "generated_english_data"
+      },
+      "commonName": "White Sucker",
+      "scientificName": "Catostomus commersonii",
+      "size": "30-50 cm (12-20 inches), 1-3 kg",
+      "lifespan": "10-17 years in wild",
+      "habitat": "Streams, rivers, and lakes across northern North America.",
+      "funFact": "White suckers are important forage fish for many predator species. They can tolerate a wide range of water conditions and are often the first fish to recolonize disturbed habitats.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Catostomus_commersonii",
+        "https://animaldiversity.org/accounts/Catostomus_commersonii/"
+      ],
+      "taxon": "Catostomus commersonii",
+      "license": "CC-BY-SA",
+      "localPath": "/images/fish/fish30.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "White Sucker",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/White_Sucker",
+      "wikipediaExtract": "The White Sucker (Catostomus commersonii) is a species found in Streams, rivers, and lakes across northern North America.",
+      "updatedAt": "2025-08-27T20:18:14.622Z",
+      "imageSource": "placeholder_image_source_fish_30",
+      "imageMethod": "Generated Data"
+    }
+  ],
+  "cleanupSummary": {
+    "originalCount": 30,
+    "finalCount": 30,
+    "duplicatesResolved": 0,
+    "commonsUrlsRemoved": true
+  }
+}

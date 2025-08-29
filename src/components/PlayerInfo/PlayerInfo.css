@@ -3,8 +3,8 @@
 .players-container {
   display: flex;
   flex-wrap: wrap;
-  gap: var(--space-6);
-  margin-bottom: var(--space-8);
+  gap: var(--space-3);
+  margin-bottom: var(--space-4);
   justify-content: center;
   max-width: 1200px;
   margin-left: auto;
@@ -13,14 +13,14 @@
 
 .player-info {
   border: 2px solid var(--gray-200);
-  border-radius: var(--radius-2xl);
-  padding: var(--space-6);
+  border-radius: var(--radius-xl);
+  padding: var(--space-3);
   background: linear-gradient(135deg, var(--white) 0%, var(--gray-50) 100%);
-  min-width: 280px;
+  min-width: 240px;
   flex: 1;
-  max-width: 350px;
+  max-width: 300px;
   transition: all var(--transition-normal);
-  box-shadow: var(--shadow-lg);
+  box-shadow: var(--shadow-md);
   backdrop-filter: blur(10px);
   position: relative;
   overflow: hidden;
@@ -32,7 +32,7 @@
   top: 0;
   left: 0;
   right: 0;
-  height: 4px;
+  height: 2px;
   background: linear-gradient(90deg, var(--gray-300), var(--gray-400));
   transition: all var(--transition-normal);
 }
@@ -51,17 +51,18 @@
 
 .player-info.active::before {
   background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));
-  height: 6px;
-  box-shadow: 0 2px 8px rgba(59, 130, 246, 0.3);
+  height: 3px;
+  box-shadow: 0 1px 4px rgba(59, 130, 246, 0.3);
 }
 
 .player-header {
-  margin-bottom: var(--space-4);
+  margin-bottom: var(--space-2);
   display: flex;
   align-items: center;
   justify-content: space-between;
   flex-wrap: wrap;
-  gap: var(--space-2);
+  gap: var(--space-1);
+  font-size: var(--text-sm);
 }
 
 .player-name {
@@ -90,14 +91,14 @@
 .player-turn {
   color: var(--primary-color);
   font-weight: var(--font-semibold);
-  font-size: var(--text-sm);
-  padding: var(--space-1) var(--space-3);
+  font-size: var(--text-xs);
+  padding: 2px var(--space-2);
   background: linear-gradient(135deg, var(--primary-color-light), var(--white));
   border-radius: var(--radius-full);
   border: 1px solid var(--primary-color-light);
   display: flex;
   align-items: center;
-  gap: var(--space-1);
+  gap: 2px;
 }
 
 .player-turn::before {
@@ -172,23 +173,23 @@
 .player-deck {
   display: flex;
   flex-wrap: wrap;
-  gap: var(--space-2);
-  min-height: 80px;
+  gap: var(--space-1);
+  min-height: 50px;
   align-items: flex-start;
-  padding: var(--space-3);
+  padding: var(--space-2);
   background: var(--gray-50);
-  border-radius: var(--radius-xl);
+  border-radius: var(--radius-lg);
   border: 1px solid var(--gray-200);
 }
 
 .player-card {
-  width: 60px;
-  height: 60px;
-  border-radius: var(--radius-lg);
+  width: 40px;
+  height: 40px;
+  border-radius: var(--radius-md);
   overflow: hidden;
   cursor: pointer;
   transition: all var(--transition-normal);
-  border: 2px solid var(--gray-200);
+  border: 1px solid var(--gray-200);
   box-shadow: var(--shadow-sm);
   position: relative;
 }
@@ -207,7 +208,7 @@
 .player-card img {
   width: 100%;
   height: 100%;
-  object-fit: cover;
+  object-fit: contain;
   transition: all var(--transition-normal);
 }
 
@@ -243,12 +244,13 @@
   align-items: center;
   justify-content: center;
   width: 100%;
-  height: 80px;
-  border: 2px dashed var(--gray-300);
-  border-radius: var(--radius-xl);
+  height: 50px;
+  border: 1px dashed var(--gray-300);
+  border-radius: var(--radius-lg);
   color: var(--gray-500);
   font-style: italic;
   font-weight: var(--font-medium);
+  font-size: var(--text-xs);
   background: linear-gradient(135deg, var(--gray-50), var(--white));
   transition: all var(--transition-normal);
 }
@@ -309,51 +311,53 @@
 @media (max-width: 768px) {
   .players-container {
     flex-direction: column;
-    gap: var(--space-4);
+    gap: var(--space-2);
   }
   
   .player-info {
     max-width: none;
     min-width: auto;
+    padding: var(--space-2);
   }
   
   .player-card {
-    width: 50px;
-    height: 50px;
+    width: 35px;
+    height: 35px;
   }
   
   .empty-deck {
-    height: 60px;
+    height: 40px;
   }
   
   .player-header {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: var(--space-2);
+    flex-direction: row;
+    align-items: center;
+    gap: var(--space-1);
+    margin-bottom: var(--space-1);
   }
   
   .player-stats {
-    gap: var(--space-2);
+    gap: var(--space-1);
   }
 }
 
 @media (max-width: 480px) {
   .player-info {
-    padding: var(--space-4);
+    padding: var(--space-2);
   }
   
   .player-name {
-    font-size: var(--text-lg);
+    font-size: var(--text-base);
   }
   
   .player-card {
-    width: 45px;
-    height: 45px;
+    width: 32px;
+    height: 32px;
   }
   
   .empty-deck {
-    height: 50px;
-    font-size: var(--text-sm);
+    height: 35px;
+    font-size: var(--text-xs);
   }
   
   .stat-item {
@@ -361,29 +365,45 @@
   }
   
   .stat-value {
-    font-size: var(--text-base);
+    font-size: var(--text-sm);
   }
   
   .player-avatar {
-    width: 28px;
-    height: 28px;
+    width: 24px;
+    height: 24px;
     font-size: var(--text-xs);
+  }
+  
+  .player-deck {
+    padding: var(--space-1);
+    min-height: 35px;
   }
 }
 
 @media (max-width: 360px) {
   .player-card {
-    width: 40px;
-    height: 40px;
+    width: 28px;
+    height: 28px;
   }
   
   .player-deck {
-    gap: var(--space-1);
-    padding: var(--space-2);
+    gap: 2px;
+    padding: var(--space-1);
+    min-height: 30px;
   }
   
   .empty-deck {
-    height: 45px;
+    height: 30px;
+    font-size: 10px;
+  }
+  
+  .player-info {
+    padding: var(--space-1);
+  }
+  
+  .player-header {
+    margin-bottom: 4px;
+    font-size: 12px;
   }
 }
 

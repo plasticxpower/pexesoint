@@ -12,7 +12,7 @@
         "description": "Eastern Box Turtle (Terrapene carolina)",
         "alt_description": "Terrapene carolina",
         "urls": {
-          "regular": "placeholder_url_reptiles_1"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/2/23/Terrapene_carolinaHolbrookV1P02.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -35,14 +35,14 @@
       ],
       "taxon": "Terrapene carolina",
       "license": "CC-BY-SA",
-      "localPath": "/images/reptiles/reptiles1.jpg",
+      "localPath": "/images-cropped/reptiles/reptiles1.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Eastern Box Turtle",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eastern_Box Turtle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Terrapene%20carolina",
       "wikipediaExtract": "The Eastern Box Turtle (Terrapene carolina) is a species found in Deciduous forests, fields, and woodland edges across eastern North America.",
-      "updatedAt": "2025-08-27T20:18:14.623Z",
-      "imageSource": "placeholder_image_source_reptiles_1",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:19:02.810Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/2/23/Terrapene_carolinaHolbrookV1P02.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "reptiles2.jpg",
@@ -52,7 +52,7 @@
         "description": "Garter Snake (Thamnophis sirtalis)",
         "alt_description": "Thamnophis sirtalis",
         "urls": {
-          "regular": "placeholder_url_reptiles_2"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Thamnophis_sirtalis_sirtalis_Wooster.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -75,14 +75,14 @@
       ],
       "taxon": "Thamnophis sirtalis",
       "license": "CC-BY-SA",
-      "localPath": "/images/reptiles/reptiles2.jpg",
+      "localPath": "/images-cropped/reptiles/reptiles2.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Garter Snake",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Garter_Snake",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Thamnophis%20sirtalis",
       "wikipediaExtract": "The Garter Snake (Thamnophis sirtalis) is a species found in Diverse habitats including forests, fields, wetlands, and suburban areas across North America.",
-      "updatedAt": "2025-08-27T20:18:14.623Z",
-      "imageSource": "placeholder_image_source_reptiles_2",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:19:05.775Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Thamnophis_sirtalis_sirtalis_Wooster.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "reptiles3.jpg",
@@ -92,7 +92,7 @@
         "description": "Five-lined Skink (Plestiodon fasciatus)",
         "alt_description": "Plestiodon fasciatus",
         "urls": {
-          "regular": "placeholder_url_reptiles_3"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Eumeces_fasciatusPCCA20040425-1563A.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -115,14 +115,14 @@
       ],
       "taxon": "Plestiodon fasciatus",
       "license": "CC-BY-SA",
-      "localPath": "/images/reptiles/reptiles3.jpg",
+      "localPath": "/images-cropped/reptiles/reptiles3.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Five-lined Skink",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Five-lined_Skink",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Plestiodon%20fasciatus",
       "wikipediaExtract": "The Five-lined Skink (Plestiodon fasciatus) is a species found in Wooded areas with abundant cover such as logs, rocks, and leaf litter across eastern North America.",
-      "updatedAt": "2025-08-27T20:18:14.623Z",
-      "imageSource": "placeholder_image_source_reptiles_3",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:19:08.156Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Eumeces_fasciatusPCCA20040425-1563A.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "reptiles4.jpg",
@@ -132,7 +132,7 @@
         "description": "Painted Turtle (Chrysemys picta)",
         "alt_description": "Chrysemys picta",
         "urls": {
-          "regular": "placeholder_url_reptiles_4"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/5/53/Painted_turtle_%28Chrysemys_picta%29_Madden_Haag.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -155,14 +155,14 @@
       ],
       "taxon": "Chrysemys picta",
       "license": "CC-BY-SA",
-      "localPath": "/images/reptiles/reptiles4.jpg",
+      "localPath": "/images-cropped/reptiles/reptiles4.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Painted Turtle",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Painted_Turtle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chrysemys%20picta",
       "wikipediaExtract": "The Painted Turtle (Chrysemys picta) is a species found in Slow-moving waters with muddy bottoms and aquatic vegetation across North America.",
-      "updatedAt": "2025-08-27T20:18:14.623Z",
-      "imageSource": "placeholder_image_source_reptiles_4",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:19:10.515Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/5/53/Painted_turtle_%28Chrysemys_picta%29_Madden_Haag.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "reptiles5.jpg",
@@ -172,7 +172,7 @@
         "description": "Green Anole (Anolis carolinensis)",
         "alt_description": "Anolis carolinensis",
         "urls": {
-          "regular": "placeholder_url_reptiles_5"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Anole_Lizard_Hilo_Hawaii_edit.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -195,14 +195,14 @@
       ],
       "taxon": "Anolis carolinensis",
       "license": "CC-BY-SA",
-      "localPath": "/images/reptiles/reptiles5.jpg",
+      "localPath": "/images-cropped/reptiles/reptiles5.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Green Anole",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Green_Anole",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anolis%20carolinensis",
       "wikipediaExtract": "The Green Anole (Anolis carolinensis) is a species found in Trees, shrubs, and vegetation in warm, humid areas across southeastern United States.",
-      "updatedAt": "2025-08-27T20:18:14.623Z",
-      "imageSource": "placeholder_image_source_reptiles_5",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:19:12.486Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Anole_Lizard_Hilo_Hawaii_edit.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "reptiles6.jpg",
@@ -212,7 +212,7 @@
         "description": "Red-eared Slider (Trachemys scripta elegans)",
         "alt_description": "Trachemys scripta elegans",
         "urls": {
-          "regular": "placeholder_url_reptiles_6"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/9/96/RedEaredSlider05.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -235,14 +235,14 @@
       ],
       "taxon": "Trachemys scripta elegans",
       "license": "CC-BY-SA",
-      "localPath": "/images/reptiles/reptiles6.jpg",
+      "localPath": "/images-cropped/reptiles/reptiles6.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Red-eared Slider",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Red-eared_Slider",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Trachemys%20scripta%20elegans",
       "wikipediaExtract": "The Red-eared Slider (Trachemys scripta elegans) is a species found in Ponds, lakes, marshes, and slow-moving streams across North America.",
-      "updatedAt": "2025-08-27T20:18:14.623Z",
-      "imageSource": "placeholder_image_source_reptiles_6",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:19:14.977Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/9/96/RedEaredSlider05.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "reptiles7.jpg",
@@ -252,7 +252,7 @@
         "description": "American Alligator (Alligator mississippiensis)",
         "alt_description": "Alligator mississippiensis",
         "urls": {
-          "regular": "placeholder_url_reptiles_7"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/0/03/American_Alligator.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -275,14 +275,14 @@
       ],
       "taxon": "Alligator mississippiensis",
       "license": "CC-BY-SA",
-      "localPath": "/images/reptiles/reptiles7.jpg",
+      "localPath": "/images-cropped/reptiles/reptiles7.jpg",
       "aiValidated": true,
       "wikipediaTitle": "American Alligator",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/American_Alligator",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Alligator%20mississippiensis",
       "wikipediaExtract": "The American Alligator (Alligator mississippiensis) is a species found in Freshwater swamps, marshes, rivers, and lakes in southeastern United States.",
-      "updatedAt": "2025-08-27T20:18:14.623Z",
-      "imageSource": "placeholder_image_source_reptiles_7",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:19:17.112Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/0/03/American_Alligator.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "reptiles8.jpg",
@@ -292,7 +292,7 @@
         "description": "Corn Snake (Pantherophis guttatus)",
         "alt_description": "Pantherophis guttatus",
         "urls": {
-          "regular": "placeholder_url_reptiles_8"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/e/ef/CornSnake.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -315,14 +315,14 @@
       ],
       "taxon": "Pantherophis guttatus",
       "license": "CC-BY-SA",
-      "localPath": "/images/reptiles/reptiles8.jpg",
+      "localPath": "/images-cropped/reptiles/reptiles8.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Corn Snake",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Corn_Snake",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pantherophis%20guttatus",
       "wikipediaExtract": "The Corn Snake (Pantherophis guttatus) is a species found in Forests, fields, and agricultural areas across southeastern United States.",
-      "updatedAt": "2025-08-27T20:18:14.623Z",
-      "imageSource": "placeholder_image_source_reptiles_8",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:19:19.518Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/e/ef/CornSnake.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "reptiles9.jpg",
@@ -332,7 +332,7 @@
         "description": "Snapping Turtle (Chelydra serpentina)",
         "alt_description": "Chelydra serpentina",
         "urls": {
-          "regular": "placeholder_url_reptiles_9"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Snapping_Turtle_Heinz.png"
         },
         "user": {
           "name": "Generated Data"
@@ -355,14 +355,14 @@
       ],
       "taxon": "Chelydra serpentina",
       "license": "CC-BY-SA",
-      "localPath": "/images/reptiles/reptiles9.jpg",
+      "localPath": "/images-cropped/reptiles/reptiles9.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Snapping Turtle",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Snapping_Turtle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chelydra%20serpentina",
       "wikipediaExtract": "The Snapping Turtle (Chelydra serpentina) is a species found in Freshwater environments including ponds, lakes, rivers, and marshes across North America.",
-      "updatedAt": "2025-08-27T20:18:14.623Z",
-      "imageSource": "placeholder_image_source_reptiles_9",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:19:28.912Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Snapping_Turtle_Heinz.png",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "reptiles10.jpg",
@@ -372,7 +372,7 @@
         "description": "Bearded Dragon (Pogona vitticeps)",
         "alt_description": "Pogona vitticeps",
         "urls": {
-          "regular": "placeholder_url_reptiles_10"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bartagame_%28fcm%29.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -395,14 +395,14 @@
       ],
       "taxon": "Pogona vitticeps",
       "license": "CC-BY-SA",
-      "localPath": "/images/reptiles/reptiles10.jpg",
+      "localPath": "/images-cropped/reptiles/reptiles10.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Bearded Dragon",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bearded_Dragon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pogona%20vitticeps",
       "wikipediaExtract": "The Bearded Dragon (Pogona vitticeps) is a species found in Arid woodlands, deserts, and scrublands across Australia.",
-      "updatedAt": "2025-08-27T20:18:14.625Z",
-      "imageSource": "placeholder_image_source_reptiles_10",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:19:31.119Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/9/98/Bartagame_%28fcm%29.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "reptiles11.jpg",
@@ -412,7 +412,7 @@
         "description": "Iguana (Iguana iguana)",
         "alt_description": "Iguana iguana",
         "urls": {
-          "regular": "placeholder_url_reptiles_11"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/2/21/Iguana_iguana_%28male_resting%29.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -435,14 +435,14 @@
       ],
       "taxon": "Iguana iguana",
       "license": "CC-BY-SA",
-      "localPath": "/images/reptiles/reptiles11.jpg",
+      "localPath": "/images-cropped/reptiles/reptiles11.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Iguana",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Iguana",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Iguana%20iguana",
       "wikipediaExtract": "The Iguana (Iguana iguana) is a species found in Tropical rainforests, mangroves, and coastal areas in Central and South America.",
-      "updatedAt": "2025-08-27T20:18:14.625Z",
-      "imageSource": "placeholder_image_source_reptiles_11",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:19:34.117Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/2/21/Iguana_iguana_%28male_resting%29.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "reptiles12.jpg",
@@ -452,7 +452,7 @@
         "description": "Gecko (Hemidactylus turcicus)",
         "alt_description": "Hemidactylus turcicus",
         "urls": {
-          "regular": "placeholder_url_reptiles_12"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Konstantinos_Kalaentzis_-_Hemidactylus_turcicus_%28A7%29.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -475,14 +475,14 @@
       ],
       "taxon": "Hemidactylus turcicus",
       "license": "CC-BY-SA",
-      "localPath": "/images/reptiles/reptiles12.jpg",
+      "localPath": "/images-cropped/reptiles/reptiles12.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Gecko",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gecko",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hemidactylus%20turcicus",
       "wikipediaExtract": "The Gecko (Hemidactylus turcicus) is a species found in Rocky areas, buildings, and urban environments in warm climates worldwide.",
-      "updatedAt": "2025-08-27T20:18:14.625Z",
-      "imageSource": "placeholder_image_source_reptiles_12",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:19:36.267Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Konstantinos_Kalaentzis_-_Hemidactylus_turcicus_%28A7%29.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "reptiles13.jpg",
@@ -492,7 +492,7 @@
         "description": "Chameleon (Chamaeleo calyptratus)",
         "alt_description": "Chamaeleo calyptratus",
         "urls": {
-          "regular": "placeholder_url_reptiles_13"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/6/68/Yemen_Chameleon.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -515,14 +515,14 @@
       ],
       "taxon": "Chamaeleo calyptratus",
       "license": "CC-BY-SA",
-      "localPath": "/images/reptiles/reptiles13.jpg",
+      "localPath": "/images-cropped/reptiles/reptiles13.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Chameleon",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chameleon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chamaeleo%20calyptratus",
       "wikipediaExtract": "The Chameleon (Chamaeleo calyptratus) is a species found in Trees and shrubs in mountainous regions of Yemen and Saudi Arabia.",
-      "updatedAt": "2025-08-27T20:18:14.625Z",
-      "imageSource": "placeholder_image_source_reptiles_13",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:19:38.269Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/6/68/Yemen_Chameleon.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "reptiles14.jpg",
@@ -532,7 +532,7 @@
         "description": "Ball Python (Python regius)",
         "alt_description": "Python regius",
         "urls": {
-          "regular": "placeholder_url_reptiles_14"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Ball_python_lucy.JPG"
         },
         "user": {
           "name": "Generated Data"
@@ -555,14 +555,14 @@
       ],
       "taxon": "Python regius",
       "license": "CC-BY-SA",
-      "localPath": "/images/reptiles/reptiles14.jpg",
+      "localPath": "/images-cropped/reptiles/reptiles14.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Ball Python",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ball_Python",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Python%20regius",
       "wikipediaExtract": "The Ball Python (Python regius) is a species found in Grasslands, shrublands, and open forests in West and Central Africa.",
-      "updatedAt": "2025-08-27T20:18:14.625Z",
-      "imageSource": "placeholder_image_source_reptiles_14",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:19:40.611Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Ball_python_lucy.JPG",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "reptiles15.jpg",
@@ -572,7 +572,7 @@
         "description": "Monitor Lizard (Varanus salvator)",
         "alt_description": "Varanus salvator",
         "urls": {
-          "regular": "placeholder_url_reptiles_15"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/3/39/Varanus_salvator_-_01.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -595,14 +595,14 @@
       ],
       "taxon": "Varanus salvator",
       "license": "CC-BY-SA",
-      "localPath": "/images/reptiles/reptiles15.jpg",
+      "localPath": "/images-cropped/reptiles/reptiles15.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Monitor Lizard",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Monitor_Lizard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Varanus%20salvator",
       "wikipediaExtract": "The Monitor Lizard (Varanus salvator) is a species found in Tropical forests, mangroves, and wetlands in Southeast Asia.",
-      "updatedAt": "2025-08-27T20:18:14.625Z",
-      "imageSource": "placeholder_image_source_reptiles_15",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:19:43.258Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/3/39/Varanus_salvator_-_01.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "reptiles16.jpg",
@@ -612,7 +612,7 @@
         "description": "Rattlesnake (Crotalus atrox)",
         "alt_description": "Crotalus atrox",
         "urls": {
-          "regular": "placeholder_url_reptiles_16"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/e/ec/%28Westliche_Diamantklapperschlange%29_Crotalus_atrox.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -635,14 +635,14 @@
       ],
       "taxon": "Crotalus atrox",
       "license": "CC-BY-SA",
-      "localPath": "/images/reptiles/reptiles16.jpg",
+      "localPath": "/images-cropped/reptiles/reptiles16.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Rattlesnake",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rattlesnake",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Crotalus%20atrox",
       "wikipediaExtract": "The Rattlesnake (Crotalus atrox) is a species found in Deserts, grasslands, and scrub forests across southwestern United States and Mexico.",
-      "updatedAt": "2025-08-27T20:18:14.625Z",
-      "imageSource": "placeholder_image_source_reptiles_16",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:19:45.874Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/e/ec/%28Westliche_Diamantklapperschlange%29_Crotalus_atrox.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "reptiles17.jpg",
@@ -652,7 +652,7 @@
         "description": "Sea Turtle (Chelonia mydas)",
         "alt_description": "Chelonia mydas",
         "urls": {
-          "regular": "placeholder_url_reptiles_17"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Green_sea_turtle_%28Chelonia_mydas%29_Moorea.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -675,14 +675,14 @@
       ],
       "taxon": "Chelonia mydas",
       "license": "CC-BY-SA",
-      "localPath": "/images/reptiles/reptiles17.jpg",
+      "localPath": "/images-cropped/reptiles/reptiles17.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Sea Turtle",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sea_Turtle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Chelonia%20mydas",
       "wikipediaExtract": "The Sea Turtle (Chelonia mydas) is a species found in Tropical and subtropical oceans worldwide, nesting on sandy beaches.",
-      "updatedAt": "2025-08-27T20:18:14.625Z",
-      "imageSource": "placeholder_image_source_reptiles_17",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:19:48.853Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Green_sea_turtle_%28Chelonia_mydas%29_Moorea.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "reptiles18.jpg",
@@ -692,7 +692,7 @@
         "description": "Kingsnake (Lampropeltis getula)",
         "alt_description": "Lampropeltis getula",
         "urls": {
-          "regular": "placeholder_url_reptiles_18"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Eastern_kingsnake_%28Lampropeltis_getula%29.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -715,14 +715,14 @@
       ],
       "taxon": "Lampropeltis getula",
       "license": "CC-BY-SA",
-      "localPath": "/images/reptiles/reptiles18.jpg",
+      "localPath": "/images-cropped/reptiles/reptiles18.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Kingsnake",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Kingsnake",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lampropeltis%20getula",
       "wikipediaExtract": "The Kingsnake (Lampropeltis getula) is a species found in Diverse habitats including forests, deserts, and grasslands across North America.",
-      "updatedAt": "2025-08-27T20:18:14.625Z",
-      "imageSource": "placeholder_image_source_reptiles_18",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:19:50.800Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Eastern_kingsnake_%28Lampropeltis_getula%29.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "reptiles19.jpg",
@@ -732,7 +732,7 @@
         "description": "Tortoise (Gopherus polyphemus)",
         "alt_description": "Gopherus polyphemus",
         "urls": {
-          "regular": "placeholder_url_reptiles_19"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Gopher_Tortoise_-_Gopherus_polyphemus%2C_Lake_June-in-Winter_Scrub_State_Park%2C_Lake_Placid%2C_Florida_-_31527638716.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -755,14 +755,14 @@
       ],
       "taxon": "Gopherus polyphemus",
       "license": "CC-BY-SA",
-      "localPath": "/images/reptiles/reptiles19.jpg",
+      "localPath": "/images-cropped/reptiles/reptiles19.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Tortoise",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tortoise",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gopherus%20polyphemus",
       "wikipediaExtract": "The Tortoise (Gopherus polyphemus) is a species found in Sandy soils in longleaf pine forests and scrub habitats in southeastern United States.",
-      "updatedAt": "2025-08-27T20:18:14.625Z",
-      "imageSource": "placeholder_image_source_reptiles_19",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:19:53.692Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Gopher_Tortoise_-_Gopherus_polyphemus%2C_Lake_June-in-Winter_Scrub_State_Park%2C_Lake_Placid%2C_Florida_-_31527638716.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "reptiles20.jpg",
@@ -772,7 +772,7 @@
         "description": "Copperhead (Agkistrodon contortrix)",
         "alt_description": "Agkistrodon contortrix",
         "urls": {
-          "regular": "placeholder_url_reptiles_20"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/9/96/Agkistrodon_contortrix_contortrix_CDC-a.png"
         },
         "user": {
           "name": "Generated Data"
@@ -795,14 +795,14 @@
       ],
       "taxon": "Agkistrodon contortrix",
       "license": "CC-BY-SA",
-      "localPath": "/images/reptiles/reptiles20.jpg",
+      "localPath": "/images-cropped/reptiles/reptiles20.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Copperhead",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Copperhead",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Agkistrodon%20contortrix",
       "wikipediaExtract": "The Copperhead (Agkistrodon contortrix) is a species found in Forests, rocky areas, and swamps across eastern United States.",
-      "updatedAt": "2025-08-27T20:18:14.625Z",
-      "imageSource": "placeholder_image_source_reptiles_20",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:19:55.603Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/9/96/Agkistrodon_contortrix_contortrix_CDC-a.png",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "reptiles21.jpg",
@@ -812,7 +812,7 @@
         "description": "Milk Snake (Lampropeltis triangulum)",
         "alt_description": "Lampropeltis triangulum",
         "urls": {
-          "regular": "placeholder_url_reptiles_21"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Red_milk_snake.JPG"
         },
         "user": {
           "name": "Generated Data"
@@ -835,14 +835,14 @@
       ],
       "taxon": "Lampropeltis triangulum",
       "license": "CC-BY-SA",
-      "localPath": "/images/reptiles/reptiles21.jpg",
+      "localPath": "/images-cropped/reptiles/reptiles21.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Milk Snake",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Milk_Snake",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lampropeltis%20triangulum",
       "wikipediaExtract": "The Milk Snake (Lampropeltis triangulum) is a species found in Diverse habitats including forests, fields, and rocky areas across North America.",
-      "updatedAt": "2025-08-27T20:18:14.625Z",
-      "imageSource": "placeholder_image_source_reptiles_21",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:19:57.722Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Red_milk_snake.JPG",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "reptiles22.jpg",
@@ -852,7 +852,7 @@
         "description": "Fence Lizard (Sceloporus undulatus)",
         "alt_description": "Sceloporus undulatus",
         "urls": {
-          "regular": "placeholder_url_reptiles_22"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Eastern_Fence_Lizard_03-20-08.png"
         },
         "user": {
           "name": "Generated Data"
@@ -875,14 +875,14 @@
       ],
       "taxon": "Sceloporus undulatus",
       "license": "CC-BY-SA",
-      "localPath": "/images/reptiles/reptiles22.jpg",
+      "localPath": "/images-cropped/reptiles/reptiles22.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Fence Lizard",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Fence_Lizard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sceloporus%20undulatus",
       "wikipediaExtract": "The Fence Lizard (Sceloporus undulatus) is a species found in Rocky areas, fences, and open woodlands across North America.",
-      "updatedAt": "2025-08-27T20:18:14.625Z",
-      "imageSource": "placeholder_image_source_reptiles_22",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:20:00.249Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Eastern_Fence_Lizard_03-20-08.png",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "reptiles23.jpg",
@@ -892,7 +892,7 @@
         "description": "Diamondback Terrapin (Malaclemys terrapin)",
         "alt_description": "Malaclemys terrapin",
         "urls": {
-          "regular": "placeholder_url_reptiles_23"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/a/af/Diamond_terrapin_turtle_reptile_malaclemys_terrapin.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -915,14 +915,14 @@
       ],
       "taxon": "Malaclemys terrapin",
       "license": "CC-BY-SA",
-      "localPath": "/images/reptiles/reptiles23.jpg",
+      "localPath": "/images-cropped/reptiles/reptiles23.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Diamondback Terrapin",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Diamondback_Terrapin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Malaclemys%20terrapin",
       "wikipediaExtract": "The Diamondback Terrapin (Malaclemys terrapin) is a species found in Salt marshes and brackish waters along the Atlantic and Gulf coasts.",
-      "updatedAt": "2025-08-27T20:18:14.625Z",
-      "imageSource": "placeholder_image_source_reptiles_23",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:20:02.682Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/a/af/Diamond_terrapin_turtle_reptile_malaclemys_terrapin.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "reptiles24.jpg",
@@ -932,7 +932,7 @@
         "description": "Hognose Snake (Heterodon platirhinos)",
         "alt_description": "Heterodon platirhinos",
         "urls": {
-          "regular": "placeholder_url_reptiles_24"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/1/14/Eastern_Hognose_Snake.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -955,14 +955,14 @@
       ],
       "taxon": "Heterodon platirhinos",
       "license": "CC-BY-SA",
-      "localPath": "/images/reptiles/reptiles24.jpg",
+      "localPath": "/images-cropped/reptiles/reptiles24.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Hognose Snake",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hognose_Snake",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Heterodon%20platirhinos",
       "wikipediaExtract": "The Hognose Snake (Heterodon platirhinos) is a species found in Sandy soils in forests, fields, and coastal areas across eastern North America.",
-      "updatedAt": "2025-08-27T20:18:14.625Z",
-      "imageSource": "placeholder_image_source_reptiles_24",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:20:04.928Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/1/14/Eastern_Hognose_Snake.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "reptiles25.jpg",
@@ -972,7 +972,7 @@
         "description": "Glass Lizard (Ophisaurus ventralis)",
         "alt_description": "Ophisaurus ventralis",
         "urls": {
-          "regular": "placeholder_url_reptiles_25"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Eastern_Glass_Lizard.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -995,14 +995,14 @@
       ],
       "taxon": "Ophisaurus ventralis",
       "license": "CC-BY-SA",
-      "localPath": "/images/reptiles/reptiles25.jpg",
+      "localPath": "/images-cropped/reptiles/reptiles25.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Glass Lizard",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Glass_Lizard",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ophisaurus%20ventralis",
       "wikipediaExtract": "The Glass Lizard (Ophisaurus ventralis) is a species found in Grasslands, open woodlands, and scrub areas in southeastern United States.",
-      "updatedAt": "2025-08-27T20:18:14.625Z",
-      "imageSource": "placeholder_image_source_reptiles_25",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:20:07.219Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Eastern_Glass_Lizard.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "reptiles26.jpg",
@@ -1012,7 +1012,7 @@
         "description": "Wood Turtle (Glyptemys insculpta)",
         "alt_description": "Glyptemys insculpta",
         "urls": {
-          "regular": "placeholder_url_reptiles_26"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/3/39/WoodTurtle.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -1035,14 +1035,14 @@
       ],
       "taxon": "Glyptemys insculpta",
       "license": "CC-BY-SA",
-      "localPath": "/images/reptiles/reptiles26.jpg",
+      "localPath": "/images-cropped/reptiles/reptiles26.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Wood Turtle",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Wood_Turtle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Glyptemys%20insculpta",
       "wikipediaExtract": "The Wood Turtle (Glyptemys insculpta) is a species found in Streams, rivers, and adjacent forests in northeastern North America.",
-      "updatedAt": "2025-08-27T20:18:14.625Z",
-      "imageSource": "placeholder_image_source_reptiles_26",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:20:09.382Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/3/39/WoodTurtle.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "reptiles27.jpg",
@@ -1052,7 +1052,7 @@
         "description": "Coachwhip Snake (Masticophis flagellum)",
         "alt_description": "Masticophis flagellum",
         "urls": {
-          "regular": "placeholder_url_reptiles_27"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/9/96/Eastern_coachwhip_%28Masticophis_flagellum_flagellum%29_Madden_Haag.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -1075,14 +1075,14 @@
       ],
       "taxon": "Masticophis flagellum",
       "license": "CC-BY-SA",
-      "localPath": "/images/reptiles/reptiles27.jpg",
+      "localPath": "/images-cropped/reptiles/reptiles27.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Coachwhip Snake",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Coachwhip_Snake",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Masticophis%20flagellum",
       "wikipediaExtract": "The Coachwhip Snake (Masticophis flagellum) is a species found in Open areas including deserts, grasslands, and scrublands across southern United States.",
-      "updatedAt": "2025-08-27T20:18:14.625Z",
-      "imageSource": "placeholder_image_source_reptiles_27",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:20:11.339Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/9/96/Eastern_coachwhip_%28Masticophis_flagellum_flagellum%29_Madden_Haag.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "reptiles28.jpg",
@@ -1092,7 +1092,7 @@
         "description": "Spotted Turtle (Clemmys guttata)",
         "alt_description": "Clemmys guttata",
         "urls": {
-          "regular": "placeholder_url_reptiles_28"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Spotted_Turtle_Virginia_March_2023.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -1115,14 +1115,14 @@
       ],
       "taxon": "Clemmys guttata",
       "license": "CC-BY-SA",
-      "localPath": "/images/reptiles/reptiles28.jpg",
+      "localPath": "/images-cropped/reptiles/reptiles28.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Spotted Turtle",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Spotted_Turtle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Clemmys%20guttata",
       "wikipediaExtract": "The Spotted Turtle (Clemmys guttata) is a species found in Shallow wetlands, bogs, and slow streams in eastern North America.",
-      "updatedAt": "2025-08-27T20:18:14.625Z",
-      "imageSource": "placeholder_image_source_reptiles_28",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:20:14.345Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Spotted_Turtle_Virginia_March_2023.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "reptiles29.jpg",
@@ -1132,7 +1132,7 @@
         "description": "Ring-necked Snake (Diadophis punctatus)",
         "alt_description": "Diadophis punctatus",
         "urls": {
-          "regular": "placeholder_url_reptiles_29"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Coral-belly_Ringneck_Snake_%28Diadophis_punctatus_ssp._pulchellus%29.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -1155,14 +1155,14 @@
       ],
       "taxon": "Diadophis punctatus",
       "license": "CC-BY-SA",
-      "localPath": "/images/reptiles/reptiles29.jpg",
+      "localPath": "/images-cropped/reptiles/reptiles29.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Ring-necked Snake",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ring-necked_Snake",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Diadophis%20punctatus",
       "wikipediaExtract": "The Ring-necked Snake (Diadophis punctatus) is a species found in Forests, woodlands, and rocky areas with abundant cover across North America.",
-      "updatedAt": "2025-08-27T20:18:14.625Z",
-      "imageSource": "placeholder_image_source_reptiles_29",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:20:16.687Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Coral-belly_Ringneck_Snake_%28Diadophis_punctatus_ssp._pulchellus%29.jpg",
+      "imageMethod": "Wikipedia main image download"
     },
     {
       "fileName": "reptiles30.jpg",
@@ -1172,7 +1172,7 @@
         "description": "Musk Turtle (Sternotherus odoratus)",
         "alt_description": "Sternotherus odoratus",
         "urls": {
-          "regular": "placeholder_url_reptiles_30"
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Stinkpot_Turtle_%28cropped%29.jpg"
         },
         "user": {
           "name": "Generated Data"
@@ -1195,14 +1195,14 @@
       ],
       "taxon": "Sternotherus odoratus",
       "license": "CC-BY-SA",
-      "localPath": "/images/reptiles/reptiles30.jpg",
+      "localPath": "/images-cropped/reptiles/reptiles30.jpg",
       "aiValidated": true,
       "wikipediaTitle": "Musk Turtle",
-      "wikipediaUrl": "https://en.wikipedia.org/wiki/Musk_Turtle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sternotherus%20odoratus",
       "wikipediaExtract": "The Musk Turtle (Sternotherus odoratus) is a species found in Shallow, slow-moving waters with muddy bottoms across eastern North America.",
-      "updatedAt": "2025-08-27T20:18:14.625Z",
-      "imageSource": "placeholder_image_source_reptiles_30",
-      "imageMethod": "Generated Data"
+      "updatedAt": "2025-08-28T22:20:18.704Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Stinkpot_Turtle_%28cropped%29.jpg",
+      "imageMethod": "Wikipedia main image download"
     }
   ],
   "cleanupSummary": {
@@ -1210,5 +1210,11 @@
     "finalCount": 30,
     "duplicatesResolved": 0,
     "commonsUrlsRemoved": true
+  },
+  "updatedAt": "2025-08-28T22:20:19.705Z",
+  "imageDownloadInfo": {
+    "downloadedAt": "2025-08-28T22:20:19.705Z",
+    "method": "Wikipedia main image",
+    "source": "wikipedia.org"
   }
 }

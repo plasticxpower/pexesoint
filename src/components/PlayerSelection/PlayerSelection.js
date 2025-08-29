@@ -17,7 +17,6 @@ function PlayerSelection({ numPlayers, setNumPlayers }) {
     <div className="setup-section">
       <h2>{t('mainMenu.step1')}</h2>
       <div className="player-selection">
-        <label htmlFor="players-select">{t('mainMenu.numberOfPlayers')}</label>
         <select
           id="players-select"
           value={numPlayers || ''}

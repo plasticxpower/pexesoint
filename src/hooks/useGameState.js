@@ -61,7 +61,7 @@ export function useGameState() {
         try {
           // Try to load localized data first
           console.log('Attempting to load localized data for', cat, 'in language', currentLanguage);
-          const localizedUrl = `/locales/${currentLanguage}/${cat}.json`;
+          const localizedUrl = `${process.env.PUBLIC_URL}/locales/${currentLanguage}/${cat}.json`;
           const res = await fetch(localizedUrl, { cache: 'no-store' });
           if (!res.ok) {
             throw new Error(`Failed to load localized data from ${localizedUrl}`);
@@ -72,7 +72,7 @@ export function useGameState() {
           console.warn('Failed to load localized data, falling back to original:', localizedError);
           // Fallback to original data files
           const fileName = `${cat}_data.json`;
-          const res = await fetch(`/images/${fileName}`, { cache: 'no-store' });
+          const res = await fetch(`${process.env.PUBLIC_URL}/images/${fileName}`, { cache: 'no-store' });
           if (!res.ok) throw new Error(`Failed to load metadata for ${cat}`);
           data = await res.json();
           console.log('Loaded fallback data from', `/images/${fileName}`);
@@ -80,7 +80,7 @@ export function useGameState() {
       } else {
         // For non-animal categories, use original logic
         const fileName = `${cat}.json`;
-        const res = await fetch(`/images/${fileName}`, { cache: 'no-store' });
+        const res = await fetch(`${process.env.PUBLIC_URL}/images/${fileName}`, { cache: 'no-store' });
         if (!res.ok) throw new Error(`Failed to load metadata for ${cat}`);
         data = await res.json();
       }
@@ -94,7 +94,7 @@ export function useGameState() {
       console.log('Selected images:', selected.length, 'items');
       const deck = shuffle(
         selected.flatMap((meta) => {
-          const src = meta.localPath || (meta.fileName ? `/images-cropped/${cat}/${meta.fileName}` : '');
+          const src = meta.localPath ? `${process.env.PUBLIC_URL}${meta.localPath}` : (meta.fileName ? `${process.env.PUBLIC_URL}/images-cropped/${cat}/${meta.fileName}` : '');
           const commonName = meta.commonName || meta.label || meta.originalTitle || cat;
           const scientificName = meta.scientificName || '';
           const label = scientificName 

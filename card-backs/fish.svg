@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="oceanGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e3a8a;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#3b82f6;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#60a5fa;stop-opacity:1" />
+    </linearGradient>
+    <pattern id="waves" x="0" y="0" width="50" height="25" patternUnits="userSpaceOnUse">
+      <path d="M0,12 Q12,2 25,12 T50,12" stroke="#bfdbfe" stroke-width="2" fill="none" opacity="0.2"/>
+    </pattern>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="200" height="200" fill="url(#oceanGradient)"/>
+  <rect width="200" height="200" fill="url(#waves)"/>
+  
+  <!-- Shark silhouette -->
+  <g transform="translate(100,100)" opacity="0.8">
+    <!-- Shark body -->
+    <ellipse cx="0" cy="0" rx="45" ry="15" fill="#dbeafe"/>
+    
+    <!-- Shark head (pointed) -->
+    <path d="M-45,0 Q-60,-5 -65,0 Q-60,5 -45,0" fill="#dbeafe"/>
+    
+    <!-- Shark dorsal fin -->
+    <path d="M-10,-15 Q-5,-25 5,-20 Q0,-10 -10,-15" fill="#dbeafe"/>
+    
+    <!-- Shark tail -->
+    <g transform="translate(45,0)">
+      <path d="M0,-8 Q15,-15 25,-5 Q20,0 15,2 Q10,0 5,5 Q15,8 25,5 Q15,15 0,8 Z" fill="#dbeafe"/>
+    </g>
+    
+    <!-- Shark pectoral fins -->
+    <ellipse cx="-15" cy="12" rx="12" ry="6" fill="#dbeafe" transform="rotate(20 -15 12)"/>
+    <ellipse cx="-15" cy="-12" rx="12" ry="6" fill="#dbeafe" transform="rotate(-20 -15 -12)"/>
+    
+    <!-- Shark eye -->
+    <circle cx="-35" cy="-3" r="2" fill="#1e3a8a"/>
+    
+    <!-- Shark gills -->
+    <g opacity="0.6">
+      <path d="M-25,-8 Q-20,-10 -25,-12" stroke="#1e3a8a" stroke-width="1" fill="none"/>
+      <path d="M-20,-8 Q-15,-10 -20,-12" stroke="#1e3a8a" stroke-width="1" fill="none"/>
+      <path d="M-15,-8 Q-10,-10 -15,-12" stroke="#1e3a8a" stroke-width="1" fill="none"/>
+    </g>
+  </g>
+  
+  <!-- Small fish in background -->
+  <g opacity="0.4">
+    <path d="M50,60 Q65,55 80,60 Q70,65 60,62 M75,58 L85,55 L85,65 Z" fill="#dbeafe"/>
+    <path d="M130,140 Q145,135 160,140 Q150,145 140,142 M155,138 L165,135 L165,145 Z" fill="#dbeafe"/>
+    <path d="M40,160 Q55,155 70,160 Q60,165 50,162 M65,158 L75,155 L75,165 Z" fill="#dbeafe"/>
+  </g>
+  
+  <!-- Bubbles -->
+  <g opacity="0.5">
+    <circle cx="60" cy="40" r="3" fill="#f0f9ff"/>
+    <circle cx="140" cy="50" r="2" fill="#f0f9ff"/>
+    <circle cx="80" cy="170" r="4" fill="#f0f9ff"/>
+    <circle cx="160" cy="180" r="2.5" fill="#f0f9ff"/>
+    <circle cx="30" cy="80" r="2" fill="#f0f9ff"/>
+    <circle cx="170" cy="120" r="3" fill="#f0f9ff"/>
+    <circle cx="50" cy="120" r="1.5" fill="#f0f9ff"/>
+    <circle cx="120" cy="30" r="2" fill="#f0f9ff"/>
+  </g>
+  
+  <!-- Seaweed silhouettes -->
+  <g opacity="0.3">
+    <path d="M20,200 Q25,180 20,160 Q15,140 20,120 Q25,100 20,80" stroke="#166534" stroke-width="3" fill="none"/>
+    <path d="M180,200 Q175,180 180,160 Q185,140 180,120" stroke="#166534" stroke-width="3" fill="none"/>
+  </g>
+</svg>

@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <defs>
+    <linearGradient id="earthGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#92400e;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#d97706;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f59e0b;stop-opacity:1" />
+    </linearGradient>
+    <pattern id="pawPattern" x="0" y="0" width="50" height="50" patternUnits="userSpaceOnUse">
+      <g opacity="0.15">
+        <circle cx="25" cy="20" r="3" fill="#451a03"/>
+        <circle cx="20" cy="30" r="2" fill="#451a03"/>
+        <circle cx="30" cy="30" r="2" fill="#451a03"/>
+        <circle cx="18" cy="35" r="1.5" fill="#451a03"/>
+        <circle cx="32" cy="35" r="1.5" fill="#451a03"/>
+      </g>
+    </pattern>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="200" height="200" fill="url(#earthGradient)"/>
+  <rect width="200" height="200" fill="url(#pawPattern)"/>
+  
+  <!-- Lion silhouette -->
+  <g transform="translate(100,100)" opacity="0.7">
+    <!-- Lion body -->
+    <ellipse cx="0" cy="15" rx="35" ry="25" fill="#7c2d12"/>
+    
+    <!-- Lion head -->
+    <circle cx="0" cy="-15" r="22" fill="#7c2d12"/>
+    
+    <!-- Lion mane -->
+    <g opacity="0.8">
+      <circle cx="0" cy="-15" r="32" fill="#92400e"/>
+      <circle cx="-15" cy="-25" r="12" fill="#92400e"/>
+      <circle cx="15" cy="-25" r="12" fill="#92400e"/>
+      <circle cx="-25" cy="-10" r="10" fill="#92400e"/>
+      <circle cx="25" cy="-10" r="10" fill="#92400e"/>
+      <circle cx="-20" cy="5" r="8" fill="#92400e"/>
+      <circle cx="20" cy="5" r="8" fill="#92400e"/>
+    </g>
+    
+    <!-- Lion head (overlay) -->
+    <circle cx="0" cy="-15" r="22" fill="#7c2d12"/>
+    
+    <!-- Lion ears -->
+    <ellipse cx="-12" cy="-30" rx="6" ry="8" fill="#7c2d12"/>
+    <ellipse cx="12" cy="-30" rx="6" ry="8" fill="#7c2d12"/>
+    
+    <!-- Lion nose -->
+    <ellipse cx="0" cy="-8" rx="3" ry="2" fill="#451a03"/>
+    
+    <!-- Lion legs -->
+    <ellipse cx="-20" cy="35" rx="6" ry="15" fill="#7c2d12"/>
+    <ellipse cx="-8" cy="35" rx="6" ry="15" fill="#7c2d12"/>
+    <ellipse cx="8" cy="35" rx="6" ry="15" fill="#7c2d12"/>
+    <ellipse cx="20" cy="35" rx="6" ry="15" fill="#7c2d12"/>
+    
+    <!-- Lion tail -->
+    <path d="M35,20 Q45,10 50,0 Q55,5 50,10 Q45,20 35,25" fill="#7c2d12"/>
+    <circle cx="50" cy="5" r="4" fill="#92400e"/>
+  </g>
+  
+  <!-- Decorative paw prints -->
+  <g opacity="0.3">
+    <g transform="translate(50,50) rotate(-20)">
+      <circle cx="0" cy="-5" r="3" fill="#451a03"/>
+      <circle cx="-4" cy="4" r="2" fill="#451a03"/>
+      <circle cx="4" cy="4" r="2" fill="#451a03"/>
+      <circle cx="-6" cy="10" r="1.5" fill="#451a03"/>
+      <circle cx="6" cy="10" r="1.5" fill="#451a03"/>
+    </g>
+    <g transform="translate(150,150) rotate(45)">
+      <circle cx="0" cy="-5" r="3" fill="#451a03"/>
+      <circle cx="-4" cy="4" r="2" fill="#451a03"/>
+      <circle cx="4" cy="4" r="2" fill="#451a03"/>
+      <circle cx="-6" cy="10" r="1.5" fill="#451a03"/>
+      <circle cx="6" cy="10" r="1.5" fill="#451a03"/>
+    </g>
+  </g>
+</svg>

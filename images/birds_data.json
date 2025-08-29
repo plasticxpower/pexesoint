@@ -1,0 +1,1220 @@
+{
+  "category": "birds",
+  "totalPhotos": 30,
+  "source": "Clean English Data - Generated",
+  "downloadedAt": "2025-08-27T20:18:14.619Z",
+  "photos": [
+    {
+      "fileName": "birds1.jpg",
+      "filePath": "public\\images\\birds\\birds1.jpg",
+      "photoData": {
+        "id": "generated_birds_1",
+        "description": "American Robin (Turdus migratorius)",
+        "alt_description": "Turdus migratorius",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/9/97/American_robin_%2871307%29.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "birds",
+        "taxon": "Turdus migratorius",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Turdus migratorius",
+        "source": "generated_english_data"
+      },
+      "commonName": "American Robin",
+      "scientificName": "Turdus migratorius",
+      "size": "20-28 cm (8-11 inches), 77 g",
+      "lifespan": "2 years in wild, up to 13 years",
+      "habitat": "Woodlands, parks, gardens, and lawns across North America. They prefer areas with trees for nesting and open ground for foraging.",
+      "funFact": "American robins are among the first birds to sing at dawn and the last to sing at dusk. They can see ultraviolet light, which helps them spot ripe berries and insects.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Turdus_migratorius",
+        "https://animaldiversity.org/accounts/Turdus_migratorius/"
+      ],
+      "taxon": "Turdus migratorius",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/birds/birds1.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "American Robin",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Turdus%20migratorius",
+      "wikipediaExtract": "The American Robin (Turdus migratorius) is a species found in Woodlands, parks, gardens, and lawns across North America. They prefer areas with trees for nesting and open ground for foraging.",
+      "updatedAt": "2025-08-28T22:16:37.497Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/9/97/American_robin_%2871307%29.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "birds2.jpg",
+      "filePath": "public\\images\\birds\\birds2.jpg",
+      "photoData": {
+        "id": "generated_birds_2",
+        "description": "American Crow (Corvus brachyrhynchos)",
+        "alt_description": "Corvus brachyrhynchos",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Corvus-brachyrhynchos-001.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "birds",
+        "taxon": "Corvus brachyrhynchos",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Corvus brachyrhynchos",
+        "source": "generated_english_data"
+      },
+      "commonName": "American Crow",
+      "scientificName": "Corvus brachyrhynchos",
+      "size": "40-50 cm (16-20 inches), 315-620 g",
+      "lifespan": "7-8 years in wild, up to 20 years",
+      "habitat": "Open woodlands, fields, parks, and urban areas across North America. They are highly adaptable to human environments.",
+      "funFact": "Crows are among the most intelligent birds, capable of using tools, solving complex puzzles, and recognizing human faces. They can hold grudges and pass this information to their offspring.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Corvus_brachyrhynchos",
+        "https://animaldiversity.org/accounts/Corvus_brachyrhynchos/"
+      ],
+      "taxon": "Corvus brachyrhynchos",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/birds/birds2.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "American Crow",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Corvus%20brachyrhynchos",
+      "wikipediaExtract": "The American Crow (Corvus brachyrhynchos) is a species found in Open woodlands, fields, parks, and urban areas across North America. They are highly adaptable to human environments.",
+      "updatedAt": "2025-08-28T22:16:39.883Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Corvus-brachyrhynchos-001.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "birds3.jpg",
+      "filePath": "public\\images\\birds\\birds3.jpg",
+      "photoData": {
+        "id": "generated_birds_3",
+        "description": "Black-capped Chickadee (Poecile atricapillus)",
+        "alt_description": "Poecile atricapillus",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Poecile-atricapilla-001.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "birds",
+        "taxon": "Poecile atricapillus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Poecile atricapillus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Black-capped Chickadee",
+      "scientificName": "Poecile atricapillus",
+      "size": "12-15 cm (5-6 inches), 9-14 g",
+      "lifespan": "2-3 years in wild",
+      "habitat": "Mixed and deciduous forests, parks, and wooded suburban areas across northern North America.",
+      "funFact": "Chickadees can remember thousands of hiding places where they store food. Their brain actually grows larger in fall to accommodate increased memory needs for winter survival.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Poecile_atricapillus",
+        "https://animaldiversity.org/accounts/Poecile_atricapillus/"
+      ],
+      "taxon": "Poecile atricapillus",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/birds/birds3.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Black-capped Chickadee",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Poecile%20atricapillus",
+      "wikipediaExtract": "The Black-capped Chickadee (Poecile atricapillus) is a species found in Mixed and deciduous forests, parks, and wooded suburban areas across northern North America.",
+      "updatedAt": "2025-08-28T22:16:42.484Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Poecile-atricapilla-001.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "birds4.jpg",
+      "filePath": "public\\images\\birds\\birds4.jpg",
+      "photoData": {
+        "id": "generated_birds_4",
+        "description": "Eastern Bluebird (Sialia sialis)",
+        "alt_description": "Sialia sialis",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/0/00/Sialia_sialis_-Michigan%2C_USA_-pair-8c.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "birds",
+        "taxon": "Sialia sialis",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Sialia sialis",
+        "source": "generated_english_data"
+      },
+      "commonName": "Eastern Bluebird",
+      "scientificName": "Sialia sialis",
+      "size": "16-21 cm (6-8 inches), 27-34 g",
+      "lifespan": "6-10 years in wild",
+      "habitat": "Open woodlands, farmlands, and parks with scattered trees across eastern North America.",
+      "funFact": "Eastern bluebirds are cavity nesters and have benefited greatly from nest box programs. Males are more brightly colored than females and perform elaborate courtship displays.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sialia_sialis",
+        "https://animaldiversity.org/accounts/Sialia_sialis/"
+      ],
+      "taxon": "Sialia sialis",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/birds/birds4.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Eastern Bluebird",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sialia%20sialis",
+      "wikipediaExtract": "The Eastern Bluebird (Sialia sialis) is a species found in Open woodlands, farmlands, and parks with scattered trees across eastern North America.",
+      "updatedAt": "2025-08-28T22:16:44.881Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/0/00/Sialia_sialis_-Michigan%2C_USA_-pair-8c.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "birds5.jpg",
+      "filePath": "public\\images\\birds\\birds5.jpg",
+      "photoData": {
+        "id": "generated_birds_5",
+        "description": "American Goldfinch (Spinus tristis)",
+        "alt_description": "Spinus tristis",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Carduelis_tristis_-Michigan%2C_USA_-male-8.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "birds",
+        "taxon": "Spinus tristis",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Spinus tristis",
+        "source": "generated_english_data"
+      },
+      "commonName": "American Goldfinch",
+      "scientificName": "Spinus tristis",
+      "size": "11-14 cm (4-5 inches), 11-20 g",
+      "lifespan": "3-6 years in wild",
+      "habitat": "Open country, roadsides, orchards, and suburban areas across North America. They prefer areas with thistle and other seed-producing plants.",
+      "funFact": "American goldfinches are strict vegetarians and one of the latest nesting birds, waiting until late summer when seeds are abundant. Males molt twice a year, changing from bright yellow to olive-brown.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Spinus_tristis",
+        "https://animaldiversity.org/accounts/Spinus_tristis/"
+      ],
+      "taxon": "Spinus tristis",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/birds/birds5.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "American Goldfinch",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Spinus%20tristis",
+      "wikipediaExtract": "The American Goldfinch (Spinus tristis) is a species found in Open country, roadsides, orchards, and suburban areas across North America. They prefer areas with thistle and other seed-producing plants.",
+      "updatedAt": "2025-08-28T22:16:47.441Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Carduelis_tristis_-Michigan%2C_USA_-male-8.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "birds6.jpg",
+      "filePath": "public\\images\\birds\\birds6.jpg",
+      "photoData": {
+        "id": "generated_birds_6",
+        "description": "Northern Cardinal (Cardinalis cardinalis)",
+        "alt_description": "Cardinalis cardinalis",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Male_northern_cardinal_in_Central_Park_%2852612%29.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "birds",
+        "taxon": "Cardinalis cardinalis",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Cardinalis cardinalis",
+        "source": "generated_english_data"
+      },
+      "commonName": "Northern Cardinal",
+      "scientificName": "Cardinalis cardinalis",
+      "size": "21-23 cm (8.5-9 inches), 45 g",
+      "lifespan": "3-4 years in wild",
+      "habitat": "Woodlands, gardens, shrublands, and wetlands across eastern and central North America. They prefer areas with dense shrubs and trees.",
+      "funFact": "Male cardinals are bright red year-round, while females are brown with red tinges. They mate for life and the male feeds the female during courtship and nesting.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cardinalis_cardinalis",
+        "https://animaldiversity.org/accounts/Cardinalis_cardinalis/"
+      ],
+      "taxon": "Cardinalis cardinalis",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/birds/birds6.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Northern Cardinal",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cardinalis%20cardinalis",
+      "wikipediaExtract": "The Northern Cardinal (Cardinalis cardinalis) is a species found in Woodlands, gardens, shrublands, and wetlands across eastern and central North America. They prefer areas with dense shrubs and trees.",
+      "updatedAt": "2025-08-28T22:16:50.087Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Male_northern_cardinal_in_Central_Park_%2852612%29.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "birds7.jpg",
+      "filePath": "public\\images\\birds\\birds7.jpg",
+      "photoData": {
+        "id": "generated_birds_7",
+        "description": "Blue Jay (Cyanocitta cristata)",
+        "alt_description": "Cyanocitta cristata",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Blue_jay_in_PP_%2830960%29.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "birds",
+        "taxon": "Cyanocitta cristata",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Cyanocitta cristata",
+        "source": "generated_english_data"
+      },
+      "commonName": "Blue Jay",
+      "scientificName": "Cyanocitta cristata",
+      "size": "28-30 cm (11-12 inches), 70-100 g",
+      "lifespan": "7-9 years in wild",
+      "habitat": "Oak and pine forests, parks, and suburban areas across eastern North America. They prefer areas with oak trees for acorns.",
+      "funFact": "Blue jays are highly intelligent and can mimic the calls of hawks to scare other birds away from food sources. They play a crucial role in forest regeneration by burying acorns.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cyanocitta_cristata",
+        "https://animaldiversity.org/accounts/Cyanocitta_cristata/"
+      ],
+      "taxon": "Cyanocitta cristata",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/birds/birds7.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Blue Jay",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cyanocitta%20cristata",
+      "wikipediaExtract": "The Blue Jay (Cyanocitta cristata) is a species found in Oak and pine forests, parks, and suburban areas across eastern North America. They prefer areas with oak trees for acorns.",
+      "updatedAt": "2025-08-28T22:16:53.110Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Blue_jay_in_PP_%2830960%29.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "birds8.jpg",
+      "filePath": "public\\images\\birds\\birds8.jpg",
+      "photoData": {
+        "id": "generated_birds_8",
+        "description": "House Sparrow (Passer domesticus)",
+        "alt_description": "Passer domesticus",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/9/9b/House_sparrow_male_in_Prospect_Park_%2853532%29.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "birds",
+        "taxon": "Passer domesticus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Passer domesticus",
+        "source": "generated_english_data"
+      },
+      "commonName": "House Sparrow",
+      "scientificName": "Passer domesticus",
+      "size": "14-18 cm (5.5-7 inches), 24-39 g",
+      "lifespan": "4-5 years in wild",
+      "habitat": "Urban and suburban areas worldwide, closely associated with human habitation. They prefer areas with buildings for nesting and open ground for feeding.",
+      "funFact": "House sparrows are one of the most widespread birds in the world and have adapted to live alongside humans for thousands of years. They take dust baths to maintain their feathers.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Passer_domesticus",
+        "https://animaldiversity.org/accounts/Passer_domesticus/"
+      ],
+      "taxon": "Passer domesticus",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/birds/birds8.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "House Sparrow",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Passer%20domesticus",
+      "wikipediaExtract": "The House Sparrow (Passer domesticus) is a species found in Urban and suburban areas worldwide, closely associated with human habitation. They prefer areas with buildings for nesting and open ground for feeding.",
+      "updatedAt": "2025-08-28T22:16:55.359Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/9/9b/House_sparrow_male_in_Prospect_Park_%2853532%29.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "birds9.jpg",
+      "filePath": "public\\images\\birds\\birds9.jpg",
+      "photoData": {
+        "id": "generated_birds_9",
+        "description": "Red-winged Blackbird (Agelaius phoeniceus)",
+        "alt_description": "Agelaius phoeniceus",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/6/60/Agelaius_phoeniceus_0110_taxo.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "birds",
+        "taxon": "Agelaius phoeniceus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Agelaius phoeniceus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Red-winged Blackbird",
+      "scientificName": "Agelaius phoeniceus",
+      "size": "17-22 cm (6.7-8.7 inches), 32-77 g",
+      "lifespan": "2-3 years in wild",
+      "habitat": "Wetlands, marshes, and fields across North America. They prefer areas near water with tall grasses and cattails for nesting.",
+      "funFact": "Male red-winged blackbirds are highly territorial and will aggressively defend their nesting areas. They can have multiple mates and help raise several broods each season.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Agelaius_phoeniceus",
+        "https://animaldiversity.org/accounts/Agelaius_phoeniceus/"
+      ],
+      "taxon": "Agelaius phoeniceus",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/birds/birds9.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Red-winged Blackbird",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Agelaius%20phoeniceus",
+      "wikipediaExtract": "The Red-winged Blackbird (Agelaius phoeniceus) is a species found in Wetlands, marshes, and fields across North America. They prefer areas near water with tall grasses and cattails for nesting.",
+      "updatedAt": "2025-08-28T22:16:57.880Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/6/60/Agelaius_phoeniceus_0110_taxo.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "birds10.jpg",
+      "filePath": "public\\images\\birds\\birds10.jpg",
+      "photoData": {
+        "id": "generated_birds_10",
+        "description": "Bald Eagle (Haliaeetus leucocephalus)",
+        "alt_description": "Haliaeetus leucocephalus",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/d/db/Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "birds",
+        "taxon": "Haliaeetus leucocephalus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Haliaeetus leucocephalus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Bald Eagle",
+      "scientificName": "Haliaeetus leucocephalus",
+      "size": "70-102 cm (28-40 inches), 3-6.3 kg",
+      "lifespan": "20-30 years in wild",
+      "habitat": "Near large bodies of water across North America, including lakes, rivers, and coastal areas. They prefer areas with tall trees for nesting.",
+      "funFact": "Bald eagles can dive at speeds up to 100 mph when hunting fish. They don't develop their distinctive white head feathers until they're 4-5 years old.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Haliaeetus_leucocephalus",
+        "https://animaldiversity.org/accounts/Haliaeetus_leucocephalus/"
+      ],
+      "taxon": "Haliaeetus leucocephalus",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/birds/birds10.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Bald Eagle",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Haliaeetus%20leucocephalus",
+      "wikipediaExtract": "The Bald Eagle (Haliaeetus leucocephalus) is a species found in Near large bodies of water across North America, including lakes, rivers, and coastal areas. They prefer areas with tall trees for nesting.",
+      "updatedAt": "2025-08-28T22:17:00.714Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/d/db/Bald_eagle_about_to_fly_in_Alaska_%282016%29.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "birds11.jpg",
+      "filePath": "public\\images\\birds\\birds11.jpg",
+      "photoData": {
+        "id": "generated_birds_11",
+        "description": "Great Blue Heron (Ardea herodias)",
+        "alt_description": "Ardea herodias",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/f/f1/GreatBlueHeronInARiver.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "birds",
+        "taxon": "Ardea herodias",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Ardea herodias",
+        "source": "generated_english_data"
+      },
+      "commonName": "Great Blue Heron",
+      "scientificName": "Ardea herodias",
+      "size": "91-137 cm (36-54 inches), 1.02-2.5 kg",
+      "lifespan": "15-20 years in wild",
+      "habitat": "Wetlands, marshes, lakes, and rivers across North America. They prefer shallow water areas for hunting fish and amphibians.",
+      "funFact": "Great blue herons can stand motionless for hours waiting for prey. Their neck has a special kink that allows them to strike like a spear with lightning speed.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ardea_herodias",
+        "https://animaldiversity.org/accounts/Ardea_herodias/"
+      ],
+      "taxon": "Ardea herodias",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/birds/birds11.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Great Blue Heron",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ardea%20herodias",
+      "wikipediaExtract": "The Great Blue Heron (Ardea herodias) is a species found in Wetlands, marshes, lakes, and rivers across North America. They prefer shallow water areas for hunting fish and amphibians.",
+      "updatedAt": "2025-08-28T22:17:03.297Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/f/f1/GreatBlueHeronInARiver.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "birds12.jpg",
+      "filePath": "public\\images\\birds\\birds12.jpg",
+      "photoData": {
+        "id": "generated_birds_12",
+        "description": "Red-tailed Hawk (Buteo jamaicensis)",
+        "alt_description": "Buteo jamaicensis",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Red-tailed_Hawk_%2845812546121%29.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "birds",
+        "taxon": "Buteo jamaicensis",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Buteo jamaicensis",
+        "source": "generated_english_data"
+      },
+      "commonName": "Red-tailed Hawk",
+      "scientificName": "Buteo jamaicensis",
+      "size": "45-65 cm (18-26 inches), 0.69-1.67 kg",
+      "lifespan": "10-15 years in wild",
+      "habitat": "Diverse habitats including forests, deserts, fields, and urban areas across North America. They prefer areas with open hunting grounds and tall perches.",
+      "funFact": "Red-tailed hawks have excellent eyesight that is 8 times sharper than humans. They can spot a mouse from 100 feet away while soaring.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Buteo_jamaicensis",
+        "https://animaldiversity.org/accounts/Buteo_jamaicensis/"
+      ],
+      "taxon": "Buteo jamaicensis",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/birds/birds12.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Red-tailed Hawk",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Buteo%20jamaicensis",
+      "wikipediaExtract": "The Red-tailed Hawk (Buteo jamaicensis) is a species found in Diverse habitats including forests, deserts, fields, and urban areas across North America. They prefer areas with open hunting grounds and tall perches.",
+      "updatedAt": "2025-08-28T22:17:06.087Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Red-tailed_Hawk_%2845812546121%29.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "birds13.jpg",
+      "filePath": "public\\images\\birds\\birds13.jpg",
+      "photoData": {
+        "id": "generated_birds_13",
+        "description": "Mallard Duck (Anas platyrhynchos)",
+        "alt_description": "Anas platyrhynchos",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Anas_platyrhynchos_male_female_quadrat.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "birds",
+        "taxon": "Anas platyrhynchos",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Anas platyrhynchos",
+        "source": "generated_english_data"
+      },
+      "commonName": "Mallard Duck",
+      "scientificName": "Anas platyrhynchos",
+      "size": "50-65 cm (20-26 inches), 0.72-1.58 kg",
+      "lifespan": "5-10 years in wild",
+      "habitat": "Wetlands, ponds, lakes, and rivers across North America and Europe. They prefer shallow water areas with abundant vegetation.",
+      "funFact": "Mallards are the ancestors of most domestic ducks. They can sleep with one eye open to watch for predators while the other half of their brain rests.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Anas_platyrhynchos",
+        "https://animaldiversity.org/accounts/Anas_platyrhynchos/"
+      ],
+      "taxon": "Anas platyrhynchos",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/birds/birds13.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Mallard Duck",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anas%20platyrhynchos",
+      "wikipediaExtract": "The Mallard Duck (Anas platyrhynchos) is a species found in Wetlands, ponds, lakes, and rivers across North America and Europe. They prefer shallow water areas with abundant vegetation.",
+      "updatedAt": "2025-08-28T22:17:08.615Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Anas_platyrhynchos_male_female_quadrat.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "birds14.jpg",
+      "filePath": "public\\images\\birds\\birds14.jpg",
+      "photoData": {
+        "id": "generated_birds_14",
+        "description": "Great Horned Owl (Bubo virginianus)",
+        "alt_description": "Bubo virginianus",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/2/23/Bubo_virginianus_06.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "birds",
+        "taxon": "Bubo virginianus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Bubo virginianus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Great Horned Owl",
+      "scientificName": "Bubo virginianus",
+      "size": "43-64 cm (17-25 inches), 0.91-2.5 kg",
+      "lifespan": "5-15 years in wild",
+      "habitat": "Diverse habitats including forests, swamps, deserts, and urban areas across the Americas. They prefer areas with large trees for roosting.",
+      "funFact": "Great horned owls have asymmetrical ear openings that help them pinpoint prey in complete darkness. They can rotate their heads 270 degrees.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bubo_virginianus",
+        "https://animaldiversity.org/accounts/Bubo_virginianus/"
+      ],
+      "taxon": "Bubo virginianus",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/birds/birds14.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Great Horned Owl",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bubo%20virginianus",
+      "wikipediaExtract": "The Great Horned Owl (Bubo virginianus) is a species found in Diverse habitats including forests, swamps, deserts, and urban areas across the Americas. They prefer areas with large trees for roosting.",
+      "updatedAt": "2025-08-28T22:17:11.152Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/2/23/Bubo_virginianus_06.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "birds15.jpg",
+      "filePath": "public\\images\\birds\\birds15.jpg",
+      "photoData": {
+        "id": "generated_birds_15",
+        "description": "Ruby-throated Hummingbird (Archilochus colubris)",
+        "alt_description": "Archilochus colubris",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Archilochus_colubris_-flying_-male-8.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "birds",
+        "taxon": "Archilochus colubris",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Archilochus colubris",
+        "source": "generated_english_data"
+      },
+      "commonName": "Ruby-throated Hummingbird",
+      "scientificName": "Archilochus colubris",
+      "size": "7-9 cm (3-3.5 inches), 2-6 g",
+      "lifespan": "3-5 years in wild",
+      "habitat": "Gardens, parks, and forest edges across eastern North America. They prefer areas with flowering plants and feeders.",
+      "funFact": "Ruby-throated hummingbirds beat their wings 53 times per second and can fly backwards, upside down, and hover in place. They migrate 500 miles non-stop across the Gulf of Mexico.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Archilochus_colubris",
+        "https://animaldiversity.org/accounts/Archilochus_colubris/"
+      ],
+      "taxon": "Archilochus colubris",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/birds/birds15.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Ruby-throated Hummingbird",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Archilochus%20colubris",
+      "wikipediaExtract": "The Ruby-throated Hummingbird (Archilochus colubris) is a species found in Gardens, parks, and forest edges across eastern North America. They prefer areas with flowering plants and feeders.",
+      "updatedAt": "2025-08-28T22:17:13.386Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Archilochus_colubris_-flying_-male-8.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "birds16.jpg",
+      "filePath": "public\\images\\birds\\birds16.jpg",
+      "photoData": {
+        "id": "generated_birds_16",
+        "description": "Mourning Dove (Zenaida macroura)",
+        "alt_description": "Zenaida macroura",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Av_Mourning_Dove_JG.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "birds",
+        "taxon": "Zenaida macroura",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Zenaida macroura",
+        "source": "generated_english_data"
+      },
+      "commonName": "Mourning Dove",
+      "scientificName": "Zenaida macroura",
+      "size": "23-34 cm (9-13 inches), 96-170 g",
+      "lifespan": "1.5 years in wild",
+      "habitat": "Open woodlands, fields, parks, and suburban areas across North America. They prefer areas with scattered trees and open ground.",
+      "funFact": "Mourning doves produce 'crop milk' to feed their young, similar to mammals. They can drink water by suction, unlike most birds that must tilt their heads back.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Zenaida_macroura",
+        "https://animaldiversity.org/accounts/Zenaida_macroura/"
+      ],
+      "taxon": "Zenaida macroura",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/birds/birds16.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Mourning Dove",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Zenaida%20macroura",
+      "wikipediaExtract": "The Mourning Dove (Zenaida macroura) is a species found in Open woodlands, fields, parks, and suburban areas across North America. They prefer areas with scattered trees and open ground.",
+      "updatedAt": "2025-08-28T22:17:15.857Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Av_Mourning_Dove_JG.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "birds17.jpg",
+      "filePath": "public\\images\\birds\\birds17.jpg",
+      "photoData": {
+        "id": "generated_birds_17",
+        "description": "Downy Woodpecker (Picoides pubescens)",
+        "alt_description": "Picoides pubescens",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/2/20/Downy_Woodpecker01.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "birds",
+        "taxon": "Picoides pubescens",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Picoides pubescens",
+        "source": "generated_english_data"
+      },
+      "commonName": "Downy Woodpecker",
+      "scientificName": "Picoides pubescens",
+      "size": "14-18 cm (5.5-7 inches), 20-33 g",
+      "lifespan": "4-6 years in wild",
+      "habitat": "Deciduous and mixed forests, parks, and suburban areas across North America. They prefer areas with dead or dying trees.",
+      "funFact": "Woodpeckers have special shock-absorbing tissue between their bill and skull to prevent brain damage from constant pecking. They can peck 20 times per second.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Picoides_pubescens",
+        "https://animaldiversity.org/accounts/Picoides_pubescens/"
+      ],
+      "taxon": "Picoides pubescens",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/birds/birds17.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Downy Woodpecker",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Picoides%20pubescens",
+      "wikipediaExtract": "The Downy Woodpecker (Picoides pubescens) is a species found in Deciduous and mixed forests, parks, and suburban areas across North America. They prefer areas with dead or dying trees.",
+      "updatedAt": "2025-08-28T22:17:18.011Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/2/20/Downy_Woodpecker01.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "birds18.jpg",
+      "filePath": "public\\images\\birds\\birds18.jpg",
+      "photoData": {
+        "id": "generated_birds_18",
+        "description": "Canada Goose (Branta canadensis)",
+        "alt_description": "Branta canadensis",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/4/40/Canada_goose_on_Seedskadee_NWR_%2827826185489%29.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "birds",
+        "taxon": "Branta canadensis",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Branta canadensis",
+        "source": "generated_english_data"
+      },
+      "commonName": "Canada Goose",
+      "scientificName": "Branta canadensis",
+      "size": "75-110 cm (30-43 inches), 3.2-6.5 kg",
+      "lifespan": "10-24 years in wild",
+      "habitat": "Lakes, ponds, rivers, and parks across North America. They prefer areas with open water and nearby grasslands for feeding.",
+      "funFact": "Canada geese mate for life and can live over 20 years. They fly in V-formation to conserve energy, with each bird flying slightly above the bird in front.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Branta_canadensis",
+        "https://animaldiversity.org/accounts/Branta_canadensis/"
+      ],
+      "taxon": "Branta canadensis",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/birds/birds18.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Canada Goose",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Branta%20canadensis",
+      "wikipediaExtract": "The Canada Goose (Branta canadensis) is a species found in Lakes, ponds, rivers, and parks across North America. They prefer areas with open water and nearby grasslands for feeding.",
+      "updatedAt": "2025-08-28T22:17:20.283Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/4/40/Canada_goose_on_Seedskadee_NWR_%2827826185489%29.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "birds19.jpg",
+      "filePath": "public\\images\\birds\\birds19.jpg",
+      "photoData": {
+        "id": "generated_birds_19",
+        "description": "Barn Owl (Tyto alba)",
+        "alt_description": "Tyto alba",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/1/17/Barn_Owl%2C_Lancashire.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "birds",
+        "taxon": "Tyto alba",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Tyto alba",
+        "source": "generated_english_data"
+      },
+      "commonName": "Barn Owl",
+      "scientificName": "Tyto alba",
+      "size": "25-45 cm (10-18 inches), 224-710 g",
+      "lifespan": "4 years in wild",
+      "habitat": "Open habitats including farmland, grasslands, and forest edges worldwide. They prefer areas with old buildings or tree cavities for nesting.",
+      "funFact": "Barn owls have heart-shaped facial discs that funnel sound to their ears. They can hunt in complete darkness using only their hearing.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tyto_alba",
+        "https://animaldiversity.org/accounts/Tyto_alba/"
+      ],
+      "taxon": "Tyto alba",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/birds/birds19.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Barn Owl",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Tyto%20alba",
+      "wikipediaExtract": "The Barn Owl (Tyto alba) is a species found in Open habitats including farmland, grasslands, and forest edges worldwide. They prefer areas with old buildings or tree cavities for nesting.",
+      "updatedAt": "2025-08-28T22:17:22.682Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/1/17/Barn_Owl%2C_Lancashire.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "birds20.jpg",
+      "filePath": "public\\images\\birds\\birds20.jpg",
+      "photoData": {
+        "id": "generated_birds_20",
+        "description": "Osprey (Pandion haliaetus)",
+        "alt_description": "Pandion haliaetus",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Osprey_Perched_Snag_Heislerville.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "birds",
+        "taxon": "Pandion haliaetus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Pandion haliaetus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Osprey",
+      "scientificName": "Pandion haliaetus",
+      "size": "54-58 cm (21-23 inches), 1.2-2.0 kg",
+      "lifespan": "15-20 years in wild",
+      "habitat": "Near water bodies including lakes, rivers, and coastal areas worldwide. They prefer areas with fish populations and tall structures for nesting.",
+      "funFact": "Ospreys are fish specialists with reversible outer toes and spiny pads on their feet for gripping slippery fish. They can dive feet-first into water from 130 feet high.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pandion_haliaetus",
+        "https://animaldiversity.org/accounts/Pandion_haliaetus/"
+      ],
+      "taxon": "Pandion haliaetus",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/birds/birds20.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Osprey",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pandion%20haliaetus",
+      "wikipediaExtract": "The Osprey (Pandion haliaetus) is a species found in Near water bodies including lakes, rivers, and coastal areas worldwide. They prefer areas with fish populations and tall structures for nesting.",
+      "updatedAt": "2025-08-28T22:17:25.280Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Osprey_Perched_Snag_Heislerville.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "birds21.jpg",
+      "filePath": "public\\images\\birds\\birds21.jpg",
+      "photoData": {
+        "id": "generated_birds_21",
+        "description": "Peregrine Falcon (Falco peregrinus)",
+        "alt_description": "Falco peregrinus",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Falco_peregrinus_m_Humber_Bay_Park_Toronto.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "birds",
+        "taxon": "Falco peregrinus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Falco peregrinus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Peregrine Falcon",
+      "scientificName": "Falco peregrinus",
+      "size": "34-58 cm (13-23 inches), 0.33-1.5 kg",
+      "lifespan": "8-15 years in wild",
+      "habitat": "Cliffs, tall buildings, and bridges in urban and wild areas worldwide. They prefer high perches with good visibility for hunting.",
+      "funFact": "Peregrine falcons are the fastest animals on Earth, reaching speeds over 240 mph during hunting dives. They have special baffles in their nostrils to breathe at high speeds.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Falco_peregrinus",
+        "https://animaldiversity.org/accounts/Falco_peregrinus/"
+      ],
+      "taxon": "Falco peregrinus",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/birds/birds21.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Peregrine Falcon",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Falco%20peregrinus",
+      "wikipediaExtract": "The Peregrine Falcon (Falco peregrinus) is a species found in Cliffs, tall buildings, and bridges in urban and wild areas worldwide. They prefer high perches with good visibility for hunting.",
+      "updatedAt": "2025-08-28T22:17:27.293Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Falco_peregrinus_m_Humber_Bay_Park_Toronto.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "birds22.jpg",
+      "filePath": "public\\images\\birds\\birds22.jpg",
+      "photoData": {
+        "id": "generated_birds_22",
+        "description": "Wild Turkey (Meleagris gallopavo)",
+        "alt_description": "Meleagris gallopavo",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/5/50/Gall-dindi.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "birds",
+        "taxon": "Meleagris gallopavo",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Meleagris gallopavo",
+        "source": "generated_english_data"
+      },
+      "commonName": "Wild Turkey",
+      "scientificName": "Meleagris gallopavo",
+      "size": "100-125 cm (39-49 inches), 2.5-11 kg",
+      "lifespan": "3-5 years in wild",
+      "habitat": "Forests and woodland edges across North America. They prefer areas with oak and hickory trees for food and roosting.",
+      "funFact": "Wild turkeys can fly at speeds up to 55 mph and run up to 25 mph. Males can change the color of their head and neck from red to blue to white.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Meleagris_gallopavo",
+        "https://animaldiversity.org/accounts/Meleagris_gallopavo/"
+      ],
+      "taxon": "Meleagris gallopavo",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/birds/birds22.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Wild Turkey",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Meleagris%20gallopavo",
+      "wikipediaExtract": "The Wild Turkey (Meleagris gallopavo) is a species found in Forests and woodland edges across North America. They prefer areas with oak and hickory trees for food and roosting.",
+      "updatedAt": "2025-08-28T22:17:29.256Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/5/50/Gall-dindi.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "birds23.jpg",
+      "filePath": "public\\images\\birds\\birds23.jpg",
+      "photoData": {
+        "id": "generated_birds_23",
+        "description": "Belted Kingfisher (Megaceryle alcyon)",
+        "alt_description": "Megaceryle alcyon",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/0/0c/BeltedKingfisherJG_Male.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "birds",
+        "taxon": "Megaceryle alcyon",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Megaceryle alcyon",
+        "source": "generated_english_data"
+      },
+      "commonName": "Belted Kingfisher",
+      "scientificName": "Megaceryle alcyon",
+      "size": "27-35 cm (11-14 inches), 113-178 g",
+      "lifespan": "6-10 years in wild",
+      "habitat": "Near water bodies including streams, rivers, ponds, and lakes across North America. They prefer areas with clear water for fishing.",
+      "funFact": "Belted kingfishers excavate tunnels up to 8 feet long in riverbanks for nesting. Females are more colorful than males, which is unusual among birds.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Megaceryle_alcyon",
+        "https://animaldiversity.org/accounts/Megaceryle_alcyon/"
+      ],
+      "taxon": "Megaceryle alcyon",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/birds/birds23.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Belted Kingfisher",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Megaceryle%20alcyon",
+      "wikipediaExtract": "The Belted Kingfisher (Megaceryle alcyon) is a species found in Near water bodies including streams, rivers, ponds, and lakes across North America. They prefer areas with clear water for fishing.",
+      "updatedAt": "2025-08-28T22:17:31.826Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/0/0c/BeltedKingfisherJG_Male.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "birds24.jpg",
+      "filePath": "public\\images\\birds\\birds24.jpg",
+      "photoData": {
+        "id": "generated_birds_24",
+        "description": "Sandhill Crane (Antigone canadensis)",
+        "alt_description": "Antigone canadensis",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/5/55/Sandhill_Crane_JG.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "birds",
+        "taxon": "Antigone canadensis",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Antigone canadensis",
+        "source": "generated_english_data"
+      },
+      "commonName": "Sandhill Crane",
+      "scientificName": "Antigone canadensis",
+      "size": "80-136 cm (31-54 inches), 3.0-6.4 kg",
+      "lifespan": "20-40 years in wild",
+      "habitat": "Wetlands, grasslands, and agricultural fields across North America. They prefer shallow wetlands for roosting and open fields for feeding.",
+      "funFact": "Sandhill cranes perform elaborate dancing displays during courtship, including jumping, bowing, and calling. They can live over 40 years and mate for life.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Antigone_canadensis",
+        "https://animaldiversity.org/accounts/Antigone_canadensis/"
+      ],
+      "taxon": "Antigone canadensis",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/birds/birds24.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Sandhill Crane",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Antigone%20canadensis",
+      "wikipediaExtract": "The Sandhill Crane (Antigone canadensis) is a species found in Wetlands, grasslands, and agricultural fields across North America. They prefer shallow wetlands for roosting and open fields for feeding.",
+      "updatedAt": "2025-08-28T22:17:34.049Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/5/55/Sandhill_Crane_JG.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "birds25.jpg",
+      "filePath": "public\\images\\birds\\birds25.jpg",
+      "photoData": {
+        "id": "generated_birds_25",
+        "description": "Pileated Woodpecker (Dryocopus pileatus)",
+        "alt_description": "Dryocopus pileatus",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/1/12/PileatedWoodpeckerFeedingonTree%2C_crop.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "birds",
+        "taxon": "Dryocopus pileatus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Dryocopus pileatus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Pileated Woodpecker",
+      "scientificName": "Dryocopus pileatus",
+      "size": "40-49 cm (16-19 inches), 250-400 g",
+      "lifespan": "9-12 years in wild",
+      "habitat": "Mature forests across eastern North America. They prefer areas with large dead trees and fallen logs.",
+      "funFact": "Pileated woodpeckers create rectangular holes that can be over a foot long. Their powerful pecking can be heard from half a mile away.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dryocopus_pileatus",
+        "https://animaldiversity.org/accounts/Dryocopus_pileatus/"
+      ],
+      "taxon": "Dryocopus pileatus",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/birds/birds25.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Pileated Woodpecker",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Dryocopus%20pileatus",
+      "wikipediaExtract": "The Pileated Woodpecker (Dryocopus pileatus) is a species found in Mature forests across eastern North America. They prefer areas with large dead trees and fallen logs.",
+      "updatedAt": "2025-08-28T22:17:36.060Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/1/12/PileatedWoodpeckerFeedingonTree%2C_crop.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "birds26.jpg",
+      "filePath": "public\\images\\birds\\birds26.jpg",
+      "photoData": {
+        "id": "generated_birds_26",
+        "description": "Yellow Warbler (Setophaga petechia)",
+        "alt_description": "Setophaga petechia",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/7/70/Yellow_warbler_%2882905%29.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "birds",
+        "taxon": "Setophaga petechia",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Setophaga petechia",
+        "source": "generated_english_data"
+      },
+      "commonName": "Yellow Warbler",
+      "scientificName": "Setophaga petechia",
+      "size": "10-18 cm (4-7 inches), 9-11 g",
+      "lifespan": "6-10 years in wild",
+      "habitat": "Wetlands, gardens, and forest edges across North America. They prefer areas with dense shrubs and small trees near water.",
+      "funFact": "Yellow warblers can recognize cowbird eggs in their nests and will build a new nest floor over them. They migrate up to 5,000 miles to Central and South America.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Setophaga_petechia",
+        "https://animaldiversity.org/accounts/Setophaga_petechia/"
+      ],
+      "taxon": "Setophaga petechia",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/birds/birds26.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Yellow Warbler",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Setophaga%20petechia",
+      "wikipediaExtract": "The Yellow Warbler (Setophaga petechia) is a species found in Wetlands, gardens, and forest edges across North America. They prefer areas with dense shrubs and small trees near water.",
+      "updatedAt": "2025-08-28T22:17:39.294Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/7/70/Yellow_warbler_%2882905%29.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "birds27.jpg",
+      "filePath": "public\\images\\birds\\birds27.jpg",
+      "photoData": {
+        "id": "generated_birds_27",
+        "description": "White-breasted Nuthatch (Sitta carolinensis)",
+        "alt_description": "Sitta carolinensis",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/5/52/White-breasted_nuthatch_%2826471%29.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "birds",
+        "taxon": "Sitta carolinensis",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Sitta carolinensis",
+        "source": "generated_english_data"
+      },
+      "commonName": "White-breasted Nuthatch",
+      "scientificName": "Sitta carolinensis",
+      "size": "13-14 cm (5-5.5 inches), 18-30 g",
+      "lifespan": "2-3 years in wild",
+      "habitat": "Mature forests and wooded parks across North America. They prefer areas with large deciduous trees, especially oak and hickory.",
+      "funFact": "Nuthatches can walk headfirst down tree trunks, a unique ability among North American birds. They wedge nuts into bark crevices and hammer them open.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sitta_carolinensis",
+        "https://animaldiversity.org/accounts/Sitta_carolinensis/"
+      ],
+      "taxon": "Sitta carolinensis",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/birds/birds27.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "White-breasted Nuthatch",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Sitta%20carolinensis",
+      "wikipediaExtract": "The White-breasted Nuthatch (Sitta carolinensis) is a species found in Mature forests and wooded parks across North America. They prefer areas with large deciduous trees, especially oak and hickory.",
+      "updatedAt": "2025-08-28T22:17:42.211Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/5/52/White-breasted_nuthatch_%2826471%29.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "birds28.jpg",
+      "filePath": "public\\images\\birds\\birds28.jpg",
+      "photoData": {
+        "id": "generated_birds_28",
+        "description": "Cedar Waxwing (Bombycilla cedrorum)",
+        "alt_description": "Bombycilla cedrorum",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/7/73/Cedar_Waxwing_-_Bombycilla_cedrorum%2C_George_Washington%27s_Birthplace_National_Monument%2C_Colonial_Beach%2C_Virginia_%2839997434862%29.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "birds",
+        "taxon": "Bombycilla cedrorum",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Bombycilla cedrorum",
+        "source": "generated_english_data"
+      },
+      "commonName": "Cedar Waxwing",
+      "scientificName": "Bombycilla cedrorum",
+      "size": "14-18 cm (5.5-7 inches), 30-40 g",
+      "lifespan": "4-5 years in wild",
+      "habitat": "Open woodlands, orchards, and suburban areas across North America. They prefer areas with fruit-bearing trees and shrubs.",
+      "funFact": "Cedar waxwings are highly social and often pass berries down a line of birds until one decides to eat it. Their wing tips look like they're dipped in red sealing wax.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bombycilla_cedrorum",
+        "https://animaldiversity.org/accounts/Bombycilla_cedrorum/"
+      ],
+      "taxon": "Bombycilla cedrorum",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/birds/birds28.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Cedar Waxwing",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Bombycilla%20cedrorum",
+      "wikipediaExtract": "The Cedar Waxwing (Bombycilla cedrorum) is a species found in Open woodlands, orchards, and suburban areas across North America. They prefer areas with fruit-bearing trees and shrubs.",
+      "updatedAt": "2025-08-28T22:17:44.492Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/7/73/Cedar_Waxwing_-_Bombycilla_cedrorum%2C_George_Washington%27s_Birthplace_National_Monument%2C_Colonial_Beach%2C_Virginia_%2839997434862%29.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "birds29.jpg",
+      "filePath": "public\\images\\birds\\birds29.jpg",
+      "photoData": {
+        "id": "generated_birds_29",
+        "description": "Indigo Bunting (Passerina cyanea)",
+        "alt_description": "Passerina cyanea",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/6/62/Indigo_Bunting_by_Dan_Pancamo_4.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "birds",
+        "taxon": "Passerina cyanea",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Passerina cyanea",
+        "source": "generated_english_data"
+      },
+      "commonName": "Indigo Bunting",
+      "scientificName": "Passerina cyanea",
+      "size": "11.5-15 cm (4.5-6 inches), 12-18 g",
+      "lifespan": "4-5 years in wild",
+      "habitat": "Forest edges, fields, and suburban areas across eastern North America. They prefer areas with scattered trees and open spaces.",
+      "funFact": "Male indigo buntings appear blue but actually have no blue pigment. Their feathers reflect blue light due to microscopic structures. They navigate by stars during migration.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Passerina_cyanea",
+        "https://animaldiversity.org/accounts/Passerina_cyanea/"
+      ],
+      "taxon": "Passerina cyanea",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/birds/birds29.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Indigo Bunting",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Passerina%20cyanea",
+      "wikipediaExtract": "The Indigo Bunting (Passerina cyanea) is a species found in Forest edges, fields, and suburban areas across eastern North America. They prefer areas with scattered trees and open spaces.",
+      "updatedAt": "2025-08-28T22:17:47.079Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/6/62/Indigo_Bunting_by_Dan_Pancamo_4.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "birds30.jpg",
+      "filePath": "public\\images\\birds\\birds30.jpg",
+      "photoData": {
+        "id": "generated_birds_30",
+        "description": "Rose-breasted Grosbeak (Pheucticus ludovicianus)",
+        "alt_description": "Pheucticus ludovicianus",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/d/d3/RosebreastedGrosbeak08.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "birds",
+        "taxon": "Pheucticus ludovicianus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Pheucticus ludovicianus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Rose-breasted Grosbeak",
+      "scientificName": "Pheucticus ludovicianus",
+      "size": "18-22 cm (7-8.5 inches), 35-65 g",
+      "lifespan": "5-13 years in wild",
+      "habitat": "Deciduous and mixed forests across eastern North America. They prefer areas with dense canopy and understory vegetation.",
+      "funFact": "Rose-breasted grosbeaks have powerful bills that can crack cherry pits. Males and females take turns incubating eggs, with males often singing while on the nest.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pheucticus_ludovicianus",
+        "https://animaldiversity.org/accounts/Pheucticus_ludovicianus/"
+      ],
+      "taxon": "Pheucticus ludovicianus",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/birds/birds30.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Rose-breasted Grosbeak",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pheucticus%20ludovicianus",
+      "wikipediaExtract": "The Rose-breasted Grosbeak (Pheucticus ludovicianus) is a species found in Deciduous and mixed forests across eastern North America. They prefer areas with dense canopy and understory vegetation.",
+      "updatedAt": "2025-08-28T22:17:49.801Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/d/d3/RosebreastedGrosbeak08.jpg",
+      "imageMethod": "Wikipedia main image download"
+    }
+  ],
+  "cleanupSummary": {
+    "originalCount": 30,
+    "finalCount": 30,
+    "duplicatesResolved": 0,
+    "commonsUrlsRemoved": true
+  },
+  "updatedAt": "2025-08-28T22:17:50.812Z",
+  "imageDownloadInfo": {
+    "downloadedAt": "2025-08-28T22:17:50.812Z",
+    "method": "Wikipedia main image",
+    "source": "wikipedia.org"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/pexesoint/static/css/main.2138adcc.css",
+    "main.js": "/pexesoint/static/js/main.58ab1b99.js",
+    "static/js/38.3735d299.chunk.js": "/pexesoint/static/js/38.3735d299.chunk.js",
+    "static/js/488.42fa029e.chunk.js": "/pexesoint/static/js/488.42fa029e.chunk.js",
+    "service-worker.js": "/pexesoint/service-worker.js",
+    "index.html": "/pexesoint/index.html",
+    "main.2138adcc.css.map": "/pexesoint/static/css/main.2138adcc.css.map",
+    "main.58ab1b99.js.map": "/pexesoint/static/js/main.58ab1b99.js.map",
+    "38.3735d299.chunk.js.map": "/pexesoint/static/js/38.3735d299.chunk.js.map",
+    "488.42fa029e.chunk.js.map": "/pexesoint/static/js/488.42fa029e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2138adcc.css",
+    "static/js/main.58ab1b99.js"
+  ]
+}

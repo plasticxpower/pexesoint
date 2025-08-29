@@ -1,0 +1,306 @@
+{
+  "category": "birds",
+  "totalPhotos": 30,
+  "photos": [
+    {
+      "fileName": "birds1.jpg",
+      "commonName": "American Robin",
+      "scientificName": "Turdus migratorius",
+      "size": "20-28 cm (8-11 inches), 77 g",
+      "lifespan": "2 years in wild, up to 13 years",
+      "habitat": "Woodlands, parks, gardens, and lawns across North America. They prefer areas with trees for nesting and open ground for foraging.",
+      "funFact": "American robins are among the first birds to sing at dawn and the last to sing at dusk. They can see ultraviolet light, which helps them spot ripe berries and insects.",
+      "localPath": "/images-cropped/birds/birds1.jpg"
+    },
+    {
+      "fileName": "birds2.jpg",
+      "commonName": "American Crow",
+      "scientificName": "Corvus brachyrhynchos",
+      "size": "40-50 cm (16-20 inches), 315-620 g",
+      "lifespan": "7-8 years in wild, up to 20 years",
+      "habitat": "Open woodlands, fields, parks, and urban areas across North America. They are highly adaptable to human environments.",
+      "funFact": "Crows are among the most intelligent birds, capable of using tools, solving complex puzzles, and recognizing human faces. They can hold grudges and pass this information to their offspring.",
+      "localPath": "/images-cropped/birds/birds2.jpg"
+    },
+    {
+      "fileName": "birds3.jpg",
+      "commonName": "Black-capped Chickadee",
+      "scientificName": "Poecile atricapillus",
+      "size": "12-15 cm (5-6 inches), 9-14 g",
+      "lifespan": "2-3 years in wild",
+      "habitat": "Mixed and deciduous forests, parks, and wooded suburban areas across northern North America.",
+      "funFact": "Chickadees can remember thousands of hiding places where they store food. Their brain actually grows larger in fall to accommodate increased memory needs for winter survival.",
+      "localPath": "/images-cropped/birds/birds3.jpg"
+    },
+    {
+      "fileName": "birds4.jpg",
+      "commonName": "Eastern Bluebird",
+      "scientificName": "Sialia sialis",
+      "size": "16-21 cm (6-8 inches), 27-34 g",
+      "lifespan": "6-10 years in wild",
+      "habitat": "Open woodlands, farmlands, and parks with scattered trees across eastern North America.",
+      "funFact": "Eastern bluebirds are cavity nesters and have benefited greatly from nest box programs. Males are more brightly colored than females and perform elaborate courtship displays.",
+      "localPath": "/images-cropped/birds/birds4.jpg"
+    },
+    {
+      "fileName": "birds5.jpg",
+      "commonName": "American Goldfinch",
+      "scientificName": "Spinus tristis",
+      "size": "11-14 cm (4-5 inches), 11-20 g",
+      "lifespan": "3-6 years in wild",
+      "habitat": "Open country, roadsides, orchards, and suburban areas across North America. They prefer areas with thistle and other seed-producing plants.",
+      "funFact": "American goldfinches are strict vegetarians and one of the latest nesting birds, waiting until late summer when seeds are abundant. Males molt twice a year, changing from bright yellow to olive-brown.",
+      "localPath": "/images-cropped/birds/birds5.jpg"
+    },
+    {
+      "fileName": "birds6.jpg",
+      "commonName": "Northern Cardinal",
+      "scientificName": "Cardinalis cardinalis",
+      "size": "21-23 cm (8.5-9 inches), 45 g",
+      "lifespan": "3-4 years in wild",
+      "habitat": "Woodlands, gardens, shrublands, and wetlands across eastern and central North America. They prefer areas with dense shrubs and trees.",
+      "funFact": "Male cardinals are bright red year-round, while females are brown with red tinges. They mate for life and the male feeds the female during courtship and nesting.",
+      "localPath": "/images-cropped/birds/birds6.jpg"
+    },
+    {
+      "fileName": "birds7.jpg",
+      "commonName": "Blue Jay",
+      "scientificName": "Cyanocitta cristata",
+      "size": "28-30 cm (11-12 inches), 70-100 g",
+      "lifespan": "7-9 years in wild",
+      "habitat": "Oak and pine forests, parks, and suburban areas across eastern North America. They prefer areas with oak trees for acorns.",
+      "funFact": "Blue jays are highly intelligent and can mimic the calls of hawks to scare other birds away from food sources. They play a crucial role in forest regeneration by burying acorns.",
+      "localPath": "/images-cropped/birds/birds7.jpg"
+    },
+    {
+      "fileName": "birds8.jpg",
+      "commonName": "House Sparrow",
+      "scientificName": "Passer domesticus",
+      "size": "14-18 cm (5.5-7 inches), 24-39 g",
+      "lifespan": "4-5 years in wild",
+      "habitat": "Urban and suburban areas worldwide, closely associated with human habitation. They prefer areas with buildings for nesting and open ground for feeding.",
+      "funFact": "House sparrows are one of the most widespread birds in the world and have adapted to live alongside humans for thousands of years. They take dust baths to maintain their feathers.",
+      "localPath": "/images-cropped/birds/birds8.jpg"
+    },
+    {
+      "fileName": "birds9.jpg",
+      "commonName": "Red-winged Blackbird",
+      "scientificName": "Agelaius phoeniceus",
+      "size": "17-22 cm (6.7-8.7 inches), 32-77 g",
+      "lifespan": "2-3 years in wild",
+      "habitat": "Wetlands, marshes, and fields across North America. They prefer areas near water with tall grasses and cattails for nesting.",
+      "funFact": "Male red-winged blackbirds are highly territorial and will aggressively defend their nesting areas. They can have multiple mates and help raise several broods each season.",
+      "localPath": "/images-cropped/birds/birds9.jpg"
+    },
+    {
+      "fileName": "birds10.jpg",
+      "commonName": "Bald Eagle",
+      "scientificName": "Haliaeetus leucocephalus",
+      "size": "70-102 cm (28-40 inches), 3-6.3 kg",
+      "lifespan": "20-30 years in wild",
+      "habitat": "Near large bodies of water across North America, including lakes, rivers, and coastal areas. They prefer areas with tall trees for nesting.",
+      "funFact": "Bald eagles can dive at speeds up to 100 mph when hunting fish. They don't develop their distinctive white head feathers until they're 4-5 years old.",
+      "localPath": "/images-cropped/birds/birds10.jpg"
+    },
+    {
+      "fileName": "birds11.jpg",
+      "commonName": "Great Blue Heron",
+      "scientificName": "Ardea herodias",
+      "size": "91-137 cm (36-54 inches), 1.02-2.5 kg",
+      "lifespan": "15-20 years in wild",
+      "habitat": "Wetlands, marshes, lakes, and rivers across North America. They prefer shallow water areas for hunting fish and amphibians.",
+      "funFact": "Great blue herons can stand motionless for hours waiting for prey. Their neck has a special kink that allows them to strike like a spear with lightning speed.",
+      "localPath": "/images-cropped/birds/birds11.jpg"
+    },
+    {
+      "fileName": "birds12.jpg",
+      "commonName": "Red-tailed Hawk",
+      "scientificName": "Buteo jamaicensis",
+      "size": "45-65 cm (18-26 inches), 0.69-1.67 kg",
+      "lifespan": "10-15 years in wild",
+      "habitat": "Diverse habitats including forests, deserts, fields, and urban areas across North America. They prefer areas with open hunting grounds and tall perches.",
+      "funFact": "Red-tailed hawks have excellent eyesight that is 8 times sharper than humans. They can spot a mouse from 100 feet away while soaring.",
+      "localPath": "/images-cropped/birds/birds12.jpg"
+    },
+    {
+      "fileName": "birds13.jpg",
+      "commonName": "Mallard Duck",
+      "scientificName": "Anas platyrhynchos",
+      "size": "50-65 cm (20-26 inches), 0.72-1.58 kg",
+      "lifespan": "5-10 years in wild",
+      "habitat": "Wetlands, ponds, lakes, and rivers across North America and Europe. They prefer shallow water areas with abundant vegetation.",
+      "funFact": "Mallards are the ancestors of most domestic ducks. They can sleep with one eye open to watch for predators while the other half of their brain rests.",
+      "localPath": "/images-cropped/birds/birds13.jpg"
+    },
+    {
+      "fileName": "birds14.jpg",
+      "commonName": "Great Horned Owl",
+      "scientificName": "Bubo virginianus",
+      "size": "43-64 cm (17-25 inches), 0.91-2.5 kg",
+      "lifespan": "5-15 years in wild",
+      "habitat": "Diverse habitats including forests, swamps, deserts, and urban areas across the Americas. They prefer areas with large trees for roosting.",
+      "funFact": "Great horned owls have asymmetrical ear openings that help them pinpoint prey in complete darkness. They can rotate their heads 270 degrees.",
+      "localPath": "/images-cropped/birds/birds14.jpg"
+    },
+    {
+      "fileName": "birds15.jpg",
+      "commonName": "Ruby-throated Hummingbird",
+      "scientificName": "Archilochus colubris",
+      "size": "7-9 cm (3-3.5 inches), 2-6 g",
+      "lifespan": "3-5 years in wild",
+      "habitat": "Gardens, parks, and forest edges across eastern North America. They prefer areas with flowering plants and feeders.",
+      "funFact": "Ruby-throated hummingbirds beat their wings 53 times per second and can fly backwards, upside down, and hover in place. They migrate 500 miles non-stop across the Gulf of Mexico.",
+      "localPath": "/images-cropped/birds/birds15.jpg"
+    },
+    {
+      "fileName": "birds16.jpg",
+      "commonName": "Mourning Dove",
+      "scientificName": "Zenaida macroura",
+      "size": "23-34 cm (9-13 inches), 96-170 g",
+      "lifespan": "1.5 years in wild",
+      "habitat": "Open woodlands, fields, parks, and suburban areas across North America. They prefer areas with scattered trees and open ground.",
+      "funFact": "Mourning doves produce 'crop milk' to feed their young, similar to mammals. They can drink water by suction, unlike most birds that must tilt their heads back.",
+      "localPath": "/images-cropped/birds/birds16.jpg"
+    },
+    {
+      "fileName": "birds17.jpg",
+      "commonName": "Downy Woodpecker",
+      "scientificName": "Picoides pubescens",
+      "size": "14-18 cm (5.5-7 inches), 20-33 g",
+      "lifespan": "4-6 years in wild",
+      "habitat": "Deciduous and mixed forests, parks, and suburban areas across North America. They prefer areas with dead or dying trees.",
+      "funFact": "Woodpeckers have special shock-absorbing tissue between their bill and skull to prevent brain damage from constant pecking. They can peck 20 times per second.",
+      "localPath": "/images-cropped/birds/birds17.jpg"
+    },
+    {
+      "fileName": "birds18.jpg",
+      "commonName": "Canada Goose",
+      "scientificName": "Branta canadensis",
+      "size": "75-110 cm (30-43 inches), 3.2-6.5 kg",
+      "lifespan": "10-24 years in wild",
+      "habitat": "Lakes, ponds, rivers, and parks across North America. They prefer areas with open water and nearby grasslands for feeding.",
+      "funFact": "Canada geese mate for life and can live over 20 years. They fly in V-formation to conserve energy, with each bird flying slightly above the bird in front.",
+      "localPath": "/images-cropped/birds/birds18.jpg"
+    },
+    {
+      "fileName": "birds19.jpg",
+      "commonName": "Barn Owl",
+      "scientificName": "Tyto alba",
+      "size": "25-45 cm (10-18 inches), 224-710 g",
+      "lifespan": "4 years in wild",
+      "habitat": "Open habitats including farmland, grasslands, and forest edges worldwide. They prefer areas with old buildings or tree cavities for nesting.",
+      "funFact": "Barn owls have heart-shaped facial discs that funnel sound to their ears. They can hunt in complete darkness using only their hearing.",
+      "localPath": "/images-cropped/birds/birds19.jpg"
+    },
+    {
+      "fileName": "birds20.jpg",
+      "commonName": "Osprey",
+      "scientificName": "Pandion haliaetus",
+      "size": "54-58 cm (21-23 inches), 1.2-2.0 kg",
+      "lifespan": "15-20 years in wild",
+      "habitat": "Near water bodies including lakes, rivers, and coastal areas worldwide. They prefer areas with fish populations and tall structures for nesting.",
+      "funFact": "Ospreys are fish specialists with reversible outer toes and spiny pads on their feet for gripping slippery fish. They can dive feet-first into water from 130 feet high.",
+      "localPath": "/images-cropped/birds/birds20.jpg"
+    },
+    {
+      "fileName": "birds21.jpg",
+      "commonName": "Peregrine Falcon",
+      "scientificName": "Falco peregrinus",
+      "size": "34-58 cm (13-23 inches), 0.33-1.5 kg",
+      "lifespan": "8-15 years in wild",
+      "habitat": "Cliffs, tall buildings, and bridges in urban and wild areas worldwide. They prefer high perches with good visibility for hunting.",
+      "funFact": "Peregrine falcons are the fastest animals on Earth, reaching speeds over 240 mph during hunting dives. They have special baffles in their nostrils to breathe at high speeds.",
+      "localPath": "/images-cropped/birds/birds21.jpg"
+    },
+    {
+      "fileName": "birds22.jpg",
+      "commonName": "Wild Turkey",
+      "scientificName": "Meleagris gallopavo",
+      "size": "100-125 cm (39-49 inches), 2.5-11 kg",
+      "lifespan": "3-5 years in wild",
+      "habitat": "Forests and woodland edges across North America. They prefer areas with oak and hickory trees for food and roosting.",
+      "funFact": "Wild turkeys can fly at speeds up to 55 mph and run up to 25 mph. Males can change the color of their head and neck from red to blue to white.",
+      "localPath": "/images-cropped/birds/birds22.jpg"
+    },
+    {
+      "fileName": "birds23.jpg",
+      "commonName": "Belted Kingfisher",
+      "scientificName": "Megaceryle alcyon",
+      "size": "27-35 cm (11-14 inches), 113-178 g",
+      "lifespan": "6-10 years in wild",
+      "habitat": "Near water bodies including streams, rivers, ponds, and lakes across North America. They prefer areas with clear water for fishing.",
+      "funFact": "Belted kingfishers excavate tunnels up to 8 feet long in riverbanks for nesting. Females are more colorful than males, which is unusual among birds.",
+      "localPath": "/images-cropped/birds/birds23.jpg"
+    },
+    {
+      "fileName": "birds24.jpg",
+      "commonName": "Sandhill Crane",
+      "scientificName": "Antigone canadensis",
+      "size": "80-136 cm (31-54 inches), 3.0-6.4 kg",
+      "lifespan": "20-40 years in wild",
+      "habitat": "Wetlands, grasslands, and agricultural fields across North America. They prefer shallow wetlands for roosting and open fields for feeding.",
+      "funFact": "Sandhill cranes perform elaborate dancing displays during courtship, including jumping, bowing, and calling. They can live over 40 years and mate for life.",
+      "localPath": "/images-cropped/birds/birds24.jpg"
+    },
+    {
+      "fileName": "birds25.jpg",
+      "commonName": "Pileated Woodpecker",
+      "scientificName": "Dryocopus pileatus",
+      "size": "40-49 cm (16-19 inches), 250-400 g",
+      "lifespan": "9-12 years in wild",
+      "habitat": "Mature forests across eastern North America. They prefer areas with large dead trees and fallen logs.",
+      "funFact": "Pileated woodpeckers create rectangular holes that can be over a foot long. Their powerful pecking can be heard from half a mile away.",
+      "localPath": "/images-cropped/birds/birds25.jpg"
+    },
+    {
+      "fileName": "birds26.jpg",
+      "commonName": "Yellow Warbler",
+      "scientificName": "Setophaga petechia",
+      "size": "10-18 cm (4-7 inches), 9-11 g",
+      "lifespan": "6-10 years in wild",
+      "habitat": "Wetlands, gardens, and forest edges across North America. They prefer areas with dense shrubs and small trees near water.",
+      "funFact": "Yellow warblers can recognize cowbird eggs in their nests and will build a new nest floor over them. They migrate up to 5,000 miles to Central and South America.",
+      "localPath": "/images-cropped/birds/birds26.jpg"
+    },
+    {
+      "fileName": "birds27.jpg",
+      "commonName": "White-breasted Nuthatch",
+      "scientificName": "Sitta carolinensis",
+      "size": "13-14 cm (5-5.5 inches), 18-30 g",
+      "lifespan": "2-3 years in wild",
+      "habitat": "Mature forests and wooded parks across North America. They prefer areas with large deciduous trees, especially oak and hickory.",
+      "funFact": "Nuthatches can walk headfirst down tree trunks, a unique ability among North American birds. They wedge nuts into bark crevices and hammer them open.",
+      "localPath": "/images-cropped/birds/birds27.jpg"
+    },
+    {
+      "fileName": "birds28.jpg",
+      "commonName": "Cedar Waxwing",
+      "scientificName": "Bombycilla cedrorum",
+      "size": "14-18 cm (5.5-7 inches), 30-40 g",
+      "lifespan": "4-5 years in wild",
+      "habitat": "Open woodlands, orchards, and suburban areas across North America. They prefer areas with fruit-bearing trees and shrubs.",
+      "funFact": "Cedar waxwings are highly social and often pass berries down a line of birds until one decides to eat it. Their wing tips look like they're dipped in red sealing wax.",
+      "localPath": "/images-cropped/birds/birds28.jpg"
+    },
+    {
+      "fileName": "birds29.jpg",
+      "commonName": "Indigo Bunting",
+      "scientificName": "Passerina cyanea",
+      "size": "11.5-15 cm (4.5-6 inches), 12-18 g",
+      "lifespan": "4-5 years in wild",
+      "habitat": "Forest edges, fields, and suburban areas across eastern North America. They prefer areas with scattered trees and open spaces.",
+      "funFact": "Male indigo buntings appear blue but actually have no blue pigment. Their feathers reflect blue light due to microscopic structures. They navigate by stars during migration.",
+      "localPath": "/images-cropped/birds/birds29.jpg"
+    },
+    {
+      "fileName": "birds30.jpg",
+      "commonName": "Rose-breasted Grosbeak",
+      "scientificName": "Pheucticus ludovicianus",
+      "size": "18-22 cm (7-8.5 inches), 35-65 g",
+      "lifespan": "5-13 years in wild",
+      "habitat": "Deciduous and mixed forests across eastern North America. They prefer areas with dense canopy and understory vegetation.",
+      "funFact": "Rose-breasted grosbeaks have powerful bills that can crack cherry pits. Males and females take turns incubating eggs, with males often singing while on the nest.",
+      "localPath": "/images-cropped/birds/birds30.jpg"
+    }
+  ]
+}

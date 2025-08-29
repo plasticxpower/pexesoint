@@ -1,0 +1,306 @@
+{
+  "category": "mammals",
+  "totalPhotos": 30,
+  "photos": [
+    {
+      "fileName": "mammals1.jpg",
+      "commonName": "American Black Bear",
+      "scientificName": "Ursus americanus",
+      "size": "1.2-1.9 m (4-6 feet) long, 90-140 kg",
+      "lifespan": "20-25 years in wild",
+      "habitat": "Large forested areas across North America. They inhabit deciduous and mixed forests, swamps, and mountainous regions.",
+      "funFact": "American black bears can sprint up to 55 km/hr (35 mph) and are excellent swimmers. Despite being classified as carnivores, they derive 90% of their diet from plants, making them highly adaptable omnivores.",
+      "localPath": "/images-cropped/mammals/mammals1.jpg"
+    },
+    {
+      "fileName": "mammals2.jpg",
+      "commonName": "White-tailed Deer",
+      "scientificName": "Odocoileus virginianus",
+      "size": "1.5-2.1 m (5-7 feet) long, 30-136 kg",
+      "lifespan": "6-14 years in wild",
+      "habitat": "Forests, grasslands, and suburban areas across the Americas. They prefer edge habitats where forests meet open areas.",
+      "funFact": "White-tailed deer can leap up to 3 meters high and 9 meters in length. They have excellent night vision and can detect movement up to 600 feet away.",
+      "localPath": "/images-cropped/mammals/mammals2.jpg"
+    },
+    {
+      "fileName": "mammals3.jpg",
+      "commonName": "Eastern Gray Squirrel",
+      "scientificName": "Sciurus carolinensis",
+      "size": "23-30 cm (9-12 inches) plus 19-25 cm tail",
+      "lifespan": "6 years in wild, up to 20 in captivity",
+      "habitat": "Deciduous and mixed forests in eastern North America. They are highly adaptable and thrive in urban parks and suburban areas.",
+      "funFact": "Gray squirrels can remember the locations of thousands of buried nuts and have been observed using deceptive tactics to protect their food caches from other squirrels.",
+      "localPath": "/images-cropped/mammals/mammals3.jpg"
+    },
+    {
+      "fileName": "mammals4.jpg",
+      "commonName": "Raccoon",
+      "scientificName": "Procyon lotor",
+      "size": "40-70 cm (16-28 inches), 5-26 kg",
+      "lifespan": "2-3 years in wild, can live over 20 years in captivity",
+      "habitat": "Deciduous and mixed forests, wetlands, and urban areas across North America. They prefer areas near water sources.",
+      "funFact": "Raccoons have extremely sensitive front paws with over 100,000 nerve endings. They often 'wash' their food in water to enhance their sense of touch and better examine their meal.",
+      "localPath": "/images-cropped/mammals/mammals4.jpg"
+    },
+    {
+      "fileName": "mammals5.jpg",
+      "commonName": "Red Fox",
+      "scientificName": "Vulpes vulpes",
+      "size": "45-90 cm (18-35 inches) plus 30-56 cm tail",
+      "lifespan": "2-5 years in wild",
+      "habitat": "Diverse environments across the northern hemisphere, including forests, grasslands, mountains, and urban areas.",
+      "funFact": "Red foxes have excellent hearing and can detect low-frequency sounds and rodents digging underground. They use Earth's magnetic field to hunt, making them one of the few animals with this ability.",
+      "localPath": "/images-cropped/mammals/mammals5.jpg"
+    },
+    {
+      "fileName": "mammals6.jpg",
+      "commonName": "Gray Wolf",
+      "scientificName": "Canis lupus",
+      "size": "1.0-1.6 m (3.3-5.2 feet) long, 20-80 kg",
+      "lifespan": "6-8 years in wild, up to 13 years",
+      "habitat": "Forests, tundra, deserts, plains, and mountains across northern regions. They prefer areas with abundant prey and minimal human disturbance.",
+      "funFact": "Wolves have an incredible sense of smell that is 100 times stronger than humans. They can detect a scent from over 1.5 miles away and track prey for hours.",
+      "localPath": "/images-cropped/mammals/mammals6.jpg"
+    },
+    {
+      "fileName": "mammals7.jpg",
+      "commonName": "Mountain Lion",
+      "scientificName": "Puma concolor",
+      "size": "1.0-1.8 m (3.3-5.9 feet) long, 29-90 kg",
+      "lifespan": "8-13 years in wild",
+      "habitat": "Diverse habitats from tropical rainforests to deserts and mountains across the Americas. They prefer areas with dense vegetation for stalking prey.",
+      "funFact": "Mountain lions can leap 15 feet vertically and 40 feet horizontally. They are excellent climbers and swimmers, making them one of the most adaptable big cats.",
+      "localPath": "/images-cropped/mammals/mammals7.jpg"
+    },
+    {
+      "fileName": "mammals8.jpg",
+      "commonName": "Moose",
+      "scientificName": "Alces alces",
+      "size": "2.4-3.1 m (8-10 feet) long, 270-720 kg",
+      "lifespan": "15-25 years in wild",
+      "habitat": "Boreal and mixed deciduous forests near lakes, wetlands, and swamps across northern regions. They prefer areas with abundant aquatic vegetation.",
+      "funFact": "Moose are excellent swimmers and can dive up to 20 feet deep to feed on aquatic plants. Despite their size, they can run up to 35 mph and are surprisingly agile.",
+      "localPath": "/images-cropped/mammals/mammals8.jpg"
+    },
+    {
+      "fileName": "mammals9.jpg",
+      "commonName": "Beaver",
+      "scientificName": "Castor canadensis",
+      "size": "74-90 cm (29-35 inches) plus 25-50 cm tail, 11-30 kg",
+      "lifespan": "10-12 years in wild",
+      "habitat": "Freshwater environments including rivers, streams, ponds, and wetlands across North America. They prefer areas with deciduous trees near water.",
+      "funFact": "Beavers are ecosystem engineers whose dams create wetland habitats for hundreds of other species. Their teeth never stop growing and are self-sharpening from constant gnawing.",
+      "localPath": "/images-cropped/mammals/mammals9.jpg"
+    },
+    {
+      "fileName": "mammals10.jpg",
+      "commonName": "Bobcat",
+      "scientificName": "Lynx rufus",
+      "size": "65-105 cm (26-41 inches) long, 4-18 kg",
+      "lifespan": "7-10 years in wild",
+      "habitat": "Diverse habitats including forests, swamps, deserts, and suburban areas across North America. They prefer areas with dense cover for hunting.",
+      "funFact": "Bobcats are incredibly stealthy hunters with retractable claws and can leap up to 12 feet to catch prey. They have excellent night vision and hearing.",
+      "localPath": "/images-cropped/mammals/mammals10.jpg"
+    },
+    {
+      "fileName": "mammals11.jpg",
+      "commonName": "Elk",
+      "scientificName": "Cervus canadensis",
+      "size": "2.0-2.7 m (6.6-8.9 feet) long, 147-499 kg",
+      "lifespan": "10-13 years in wild",
+      "habitat": "Forest edges, meadows, and grasslands across western North America. They migrate seasonally between summer and winter ranges.",
+      "funFact": "Male elk grow antlers that can weigh up to 40 pounds and span 4 feet across. They shed and regrow these antlers annually, making them one of the fastest-growing tissues in the animal kingdom.",
+      "localPath": "/images-cropped/mammals/mammals11.jpg"
+    },
+    {
+      "fileName": "mammals12.jpg",
+      "commonName": "Porcupine",
+      "scientificName": "Erethizon dorsatum",
+      "size": "60-90 cm (24-35 inches) long, 5-14 kg",
+      "lifespan": "5-7 years in wild",
+      "habitat": "Coniferous and mixed forests across North America. They prefer areas with abundant trees for feeding and denning.",
+      "funFact": "Porcupines have about 30,000 quills that are actually modified hairs with barbed tips. Contrary to popular belief, they cannot shoot their quills but release them when touched.",
+      "localPath": "/images-cropped/mammals/mammals12.jpg"
+    },
+    {
+      "fileName": "mammals13.jpg",
+      "commonName": "Skunk",
+      "scientificName": "Mephitis mephitis",
+      "size": "40-68 cm (16-27 inches) long, 1.2-5.3 kg",
+      "lifespan": "2-3 years in wild",
+      "habitat": "Diverse habitats including forests, grasslands, and suburban areas across North America. They prefer areas with mixed cover and abundant food sources.",
+      "funFact": "Skunks can spray their defensive musk up to 10 feet with remarkable accuracy. They give several warning signs before spraying, including stamping feet and raising their tail.",
+      "localPath": "/images-cropped/mammals/mammals13.jpg"
+    },
+    {
+      "fileName": "mammals14.jpg",
+      "commonName": "Opossum",
+      "scientificName": "Didelphis virginiana",
+      "size": "35-55 cm (14-22 inches) long, 0.5-6 kg",
+      "lifespan": "1-2 years in wild",
+      "habitat": "Diverse habitats including forests, farmlands, and urban areas across North America. They are highly adaptable to human-modified environments.",
+      "funFact": "Opossums are North America's only native marsupial and are immune to most snake venoms. They 'play dead' when threatened, entering a catatonic state that can last hours.",
+      "localPath": "/images-cropped/mammals/mammals14.jpg"
+    },
+    {
+      "fileName": "mammals15.jpg",
+      "commonName": "Chipmunk",
+      "scientificName": "Tamias striatus",
+      "size": "14-19 cm (5.5-7.5 inches) plus 8-11 cm tail",
+      "lifespan": "2-3 years in wild",
+      "habitat": "Deciduous forests and woodland edges across eastern North America. They prefer areas with abundant nuts and seeds.",
+      "funFact": "Chipmunks can stuff their cheek pouches with up to 32 beechnuts at once. They create elaborate burrow systems with multiple chambers for sleeping, food storage, and waste.",
+      "localPath": "/images-cropped/mammals/mammals15.jpg"
+    },
+    {
+      "fileName": "mammals16.jpg",
+      "commonName": "Muskrat",
+      "scientificName": "Ondatra zibethicus",
+      "size": "40-70 cm (16-28 inches) long, 0.7-1.8 kg",
+      "lifespan": "1-3 years in wild",
+      "habitat": "Wetlands, marshes, ponds, and slow-moving streams across North America. They prefer areas with emergent vegetation.",
+      "funFact": "Muskrats can stay underwater for up to 17 minutes and swim backwards as easily as forwards. They build dome-shaped lodges from vegetation, similar to beavers.",
+      "localPath": "/images-cropped/mammals/mammals16.jpg"
+    },
+    {
+      "fileName": "mammals17.jpg",
+      "commonName": "River Otter",
+      "scientificName": "Lontra canadensis",
+      "size": "66-107 cm (26-42 inches) long, 5-14 kg",
+      "lifespan": "8-9 years in wild",
+      "habitat": "Freshwater and coastal marine environments across North America. They prefer areas with clean water and abundant fish populations.",
+      "funFact": "River otters can hold their breath for up to 8 minutes and dive to depths of 60 feet. They slide down muddy or snowy banks for fun, not just transportation.",
+      "localPath": "/images-cropped/mammals/mammals17.jpg"
+    },
+    {
+      "fileName": "mammals18.jpg",
+      "commonName": "Coyote",
+      "scientificName": "Canis latrans",
+      "size": "75-87 cm (30-34 inches) long, 7-21 kg",
+      "lifespan": "6-8 years in wild",
+      "habitat": "Extremely diverse habitats from deserts to forests to urban areas across North America. They are highly adaptable to human environments.",
+      "funFact": "Coyotes can run up to 43 mph and jump 14 feet horizontally. They have expanded their range dramatically and now live in every US state except Hawaii.",
+      "localPath": "/images-cropped/mammals/mammals18.jpg"
+    },
+    {
+      "fileName": "mammals19.jpg",
+      "commonName": "Bighorn Sheep",
+      "scientificName": "Ovis canadensis",
+      "size": "1.2-1.9 m (4-6 feet) long, 53-158 kg",
+      "lifespan": "9-14 years in wild",
+      "habitat": "Rocky mountainous areas, cliffs, and alpine meadows across western North America. They prefer steep terrain that provides escape routes from predators.",
+      "funFact": "Bighorn sheep can climb slopes of 60 degrees and leap 20 feet between ledges. Their hooves have a hard outer edge and soft inner pad for incredible grip on rocks.",
+      "localPath": "/images-cropped/mammals/mammals19.jpg"
+    },
+    {
+      "fileName": "mammals20.jpg",
+      "commonName": "Mule Deer",
+      "scientificName": "Odocoileus hemionus",
+      "size": "1.2-2.1 m (4-7 feet) long, 31-103 kg",
+      "lifespan": "9-11 years in wild",
+      "habitat": "Diverse habitats from deserts to mountains across western North America. They prefer areas with mixed vegetation and escape cover.",
+      "funFact": "Mule deer get their name from their large ears that resemble a mule's. They have a unique bounding gait called 'stotting' where all four feet hit the ground simultaneously.",
+      "localPath": "/images-cropped/mammals/mammals20.jpg"
+    },
+    {
+      "fileName": "mammals21.jpg",
+      "commonName": "Wolverine",
+      "scientificName": "Gulo gulo",
+      "size": "65-87 cm (26-34 inches) long, 9-25 kg",
+      "lifespan": "5-13 years in wild",
+      "habitat": "Remote wilderness areas including boreal forests, tundra, and alpine regions across northern regions. They require large territories with minimal human disturbance.",
+      "funFact": "Wolverines are incredibly strong for their size and can take down prey much larger than themselves. They have been known to drive bears and wolves away from kills.",
+      "localPath": "/images-cropped/mammals/mammals21.jpg"
+    },
+    {
+      "fileName": "mammals22.jpg",
+      "commonName": "Prairie Dog",
+      "scientificName": "Cynomys ludovicianus",
+      "size": "28-35 cm (11-14 inches) long, 0.5-1.7 kg",
+      "lifespan": "3-5 years in wild",
+      "habitat": "Short and mixed-grass prairies across central North America. They prefer areas with low vegetation that allows for good visibility.",
+      "funFact": "Prairie dogs have a sophisticated communication system with different calls for different types of predators. They live in complex underground 'towns' that can span hundreds of acres.",
+      "localPath": "/images-cropped/mammals/mammals22.jpg"
+    },
+    {
+      "fileName": "mammals23.jpg",
+      "commonName": "Groundhog",
+      "scientificName": "Marmota monax",
+      "size": "41-68 cm (16-27 inches) long, 2-6.3 kg",
+      "lifespan": "4-6 years in wild",
+      "habitat": "Open fields, meadows, and forest edges across eastern North America. They prefer areas with well-drained soil for burrowing.",
+      "funFact": "Groundhogs are excellent diggers and can move 700 pounds of soil to create a burrow. They hibernate for up to 5 months, during which their heart rate drops from 80 to 5 beats per minute.",
+      "localPath": "/images-cropped/mammals/mammals23.jpg"
+    },
+    {
+      "fileName": "mammals24.jpg",
+      "commonName": "Lynx",
+      "scientificName": "Lynx canadensis",
+      "size": "67-107 cm (26-42 inches) long, 5-17 kg",
+      "lifespan": "7-10 years in wild",
+      "habitat": "Boreal forests and mountainous areas across northern North America. They prefer areas with deep snow and abundant snowshoe hare populations.",
+      "funFact": "Lynx have oversized paws that act like snowshoes, allowing them to hunt effectively in deep snow. Their population cycles closely follow those of snowshoe hares.",
+      "localPath": "/images-cropped/mammals/mammals24.jpg"
+    },
+    {
+      "fileName": "mammals25.jpg",
+      "commonName": "Bison",
+      "scientificName": "Bison bison",
+      "size": "2.1-3.5 m (7-11.5 feet) long, 318-1000 kg",
+      "lifespan": "12-20 years in wild",
+      "habitat": "Grasslands and prairies across central North America. They prefer open areas with abundant grasses and access to water.",
+      "funFact": "Bison can run up to 35 mph despite weighing up to 2,000 pounds. They nearly went extinct but have recovered from fewer than 1,000 individuals to over 500,000 today.",
+      "localPath": "/images-cropped/mammals/mammals25.jpg"
+    },
+    {
+      "fileName": "mammals26.jpg",
+      "commonName": "Polar Bear",
+      "scientificName": "Ursus maritimus",
+      "size": "1.8-2.4 m (6-8 feet) long, 150-680 kg",
+      "lifespan": "15-18 years in wild",
+      "habitat": "Arctic sea ice and coastal areas across the Arctic Circle. They depend on sea ice for hunting seals.",
+      "funFact": "Polar bears have black skin under their white fur to absorb heat from the sun. They are excellent swimmers and can swim for hours covering distances over 60 miles.",
+      "localPath": "/images-cropped/mammals/mammals26.jpg"
+    },
+    {
+      "fileName": "mammals27.jpg",
+      "commonName": "Grizzly Bear",
+      "scientificName": "Ursus arctos",
+      "size": "1.4-2.8 m (4.6-9.2 feet) long, 80-600 kg",
+      "lifespan": "20-25 years in wild",
+      "habitat": "Forests, alpine meadows, and tundra across western North America and Alaska. They prefer areas with abundant food sources and minimal human disturbance.",
+      "funFact": "Grizzly bears have an incredible sense of smell that is 7 times better than a bloodhound's. They can detect food from over 18 miles away.",
+      "localPath": "/images-cropped/mammals/mammals27.jpg"
+    },
+    {
+      "fileName": "mammals28.jpg",
+      "commonName": "Caribou",
+      "scientificName": "Rangifer tarandus",
+      "size": "1.2-2.2 m (4-7 feet) long, 60-318 kg",
+      "lifespan": "4.5 years in wild",
+      "habitat": "Arctic tundra and boreal forests across northern regions. They migrate vast distances following seasonal food sources.",
+      "funFact": "Caribou undertake one of the longest migrations of any land animal, traveling up to 3,000 miles annually. Both males and females grow antlers, unique among deer species.",
+      "localPath": "/images-cropped/mammals/mammals28.jpg"
+    },
+    {
+      "fileName": "mammals29.jpg",
+      "commonName": "Mountain Goat",
+      "scientificName": "Oreamnos americanus",
+      "size": "1.2-1.8 m (4-6 feet) long, 45-140 kg",
+      "lifespan": "9-12 years in wild",
+      "habitat": "Steep rocky cliffs and alpine areas in mountainous regions of western North America. They prefer areas above the tree line.",
+      "funFact": "Mountain goats can climb nearly vertical cliff faces and have specialized hooves with hard outer rims and soft inner pads for grip. They can jump 12 feet in a single bound.",
+      "localPath": "/images-cropped/mammals/mammals29.jpg"
+    },
+    {
+      "fileName": "mammals30.jpg",
+      "commonName": "Pronghorn",
+      "scientificName": "Antilocapra americana",
+      "size": "1.0-1.5 m (3.3-4.9 feet) long, 34-70 kg",
+      "lifespan": "7-10 years in wild",
+      "habitat": "Open grasslands, prairies, and desert areas across western North America. They prefer areas with good visibility and escape routes.",
+      "funFact": "Pronghorns are the fastest land animal in North America, capable of running 70 mph for short distances and maintaining 45 mph for extended periods. They have the largest eyes relative to body size of any North American mammal.",
+      "localPath": "/images-cropped/mammals/mammals30.jpg"
+    }
+  ]
+}

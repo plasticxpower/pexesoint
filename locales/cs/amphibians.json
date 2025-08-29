@@ -1,0 +1,306 @@
+{
+  "category": "amphibians",
+  "totalPhotos": 30,
+  "photos": [
+    {
+      "fileName": "amphibians1.jpg",
+      "commonName": "Skokan volský",
+      "scientificName": "Lithobates catesbeianus",
+      "size": "15-20 cm (6-8 inches), 500-600 g",
+      "lifespan": "5-10 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images-cropped/amphibians/amphibians1.jpg"
+    },
+    {
+      "fileName": "amphibians2.jpg",
+      "commonName": "Axolotlovití",
+      "scientificName": "Ambystoma maculatum",
+      "size": "15-25 cm (6-10 inches)",
+      "lifespan": "8-12 let ve volné přírodě",
+      "habitat": "Lesy napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images-cropped/amphibians/amphibians2.jpg"
+    },
+    {
+      "fileName": "amphibians3.jpg",
+      "commonName": "Neznámý obojživelníci 3",
+      "scientificName": "Pseudacris crucifer",
+      "size": "2-3.5 cm (1-1.4 inches)",
+      "lifespan": "10-16 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images-cropped/amphibians/amphibians3.jpg"
+    },
+    {
+      "fileName": "amphibians4.jpg",
+      "commonName": "Neznámý obojživelníci 4",
+      "scientificName": "Plethodon cinereus",
+      "size": "5.7-10 cm (2.25-4 inches)",
+      "lifespan": "10-20 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images-cropped/amphibians/amphibians4.jpg"
+    },
+    {
+      "fileName": "amphibians5.jpg",
+      "commonName": "Skokan lesní",
+      "scientificName": "Lithobates sylvaticus",
+      "size": "3.5-7 cm (1.4-2.8 inches)",
+      "lifespan": "5-9 let ve volné přírodě",
+      "habitat": "Lesy napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images-cropped/amphibians/amphibians5.jpg"
+    },
+    {
+      "fileName": "amphibians6.jpg",
+      "commonName": "Listovnice červenooká",
+      "scientificName": "Agalychnis callidryas",
+      "size": "4-7 cm (1.5-3 inches)",
+      "lifespan": "16-20 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images-cropped/amphibians/amphibians6.jpg"
+    },
+    {
+      "fileName": "amphibians7.jpg",
+      "commonName": "Čolek zelenavý",
+      "scientificName": "Notophthalmus viridescens",
+      "size": "7-10 cm (3-4 inches)",
+      "lifespan": "5-12 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images-cropped/amphibians/amphibians7.jpg"
+    },
+    {
+      "fileName": "amphibians8.jpg",
+      "commonName": "Pralesnička strašná",
+      "scientificName": "Phyllobates terribilis",
+      "size": "2-5 cm (0.8-2 inches)",
+      "lifespan": "6-10 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images-cropped/amphibians/amphibians8.jpg"
+    },
+    {
+      "fileName": "amphibians9.jpg",
+      "commonName": "Axolotl mexický",
+      "scientificName": "Ambystoma mexicanum",
+      "size": "15-45 cm (6-18 inches)",
+      "lifespan": "8-15 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images-cropped/amphibians/amphibians9.jpg"
+    },
+    {
+      "fileName": "amphibians10.jpg",
+      "commonName": "Axolotlovití",
+      "scientificName": "Ambystoma tigrinum",
+      "size": "15-35 cm (6-14 inches)",
+      "lifespan": "4-8 let ve volné přírodě",
+      "habitat": "Lesy napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images-cropped/amphibians/amphibians10.jpg"
+    },
+    {
+      "fileName": "amphibians11.jpg",
+      "commonName": "Hyla",
+      "scientificName": "Hyla cinerea",
+      "size": "3-6 cm (1.2-2.4 inches)",
+      "lifespan": "10-20 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images-cropped/amphibians/amphibians11.jpg"
+    },
+    {
+      "fileName": "amphibians12.jpg",
+      "commonName": "Velemlok americký",
+      "scientificName": "Cryptobranchus alleganiensis",
+      "size": "30-74 cm (12-29 inches)",
+      "lifespan": "4-7 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images-cropped/amphibians/amphibians12.jpg"
+    },
+    {
+      "fileName": "amphibians13.jpg",
+      "commonName": "Ropucha obrovská",
+      "scientificName": "Rhinella marina",
+      "size": "10-24 cm (4-9.5 inches)",
+      "lifespan": "7-12 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images-cropped/amphibians/amphibians13.jpg"
+    },
+    {
+      "fileName": "amphibians14.jpg",
+      "commonName": "Mlok skvrnitý",
+      "scientificName": "Salamandra salamandra",
+      "size": "15-25 cm (6-10 inches)",
+      "lifespan": "8-12 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images-cropped/amphibians/amphibians14.jpg"
+    },
+    {
+      "fileName": "amphibians15.jpg",
+      "commonName": "Žábronoš skvrnitý",
+      "scientificName": "Necturus maculosus",
+      "size": "20-33 cm (8-13 inches)",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images-cropped/amphibians/amphibians15.jpg"
+    },
+    {
+      "fileName": "amphibians16.jpg",
+      "commonName": "Neznámý obojživelníci 16",
+      "scientificName": "Centrolenella fleischmanni",
+      "size": "2-3 cm (0.8-1.2 inches)",
+      "lifespan": "8-12 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images-cropped/amphibians/amphibians16.jpg"
+    },
+    {
+      "fileName": "amphibians17.jpg",
+      "commonName": "Dermophiidae",
+      "scientificName": "Gymnopis multiplicata",
+      "size": "30-60 cm (12-24 inches)",
+      "lifespan": "10-15 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images-cropped/amphibians/amphibians17.jpg"
+    },
+    {
+      "fileName": "amphibians18.jpg",
+      "commonName": "Neznámý obojživelníci 18",
+      "scientificName": "Pseudacris triseriata",
+      "size": "2-4 cm (0.8-1.6 inches)",
+      "lifespan": "6-10 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images-cropped/amphibians/amphibians18.jpg"
+    },
+    {
+      "fileName": "amphibians19.jpg",
+      "commonName": "Neznámý obojživelníci 19",
+      "scientificName": "Ambystoma opacum",
+      "size": "8-12 cm (3-5 inches)",
+      "lifespan": "6-9 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images-cropped/amphibians/amphibians19.jpg"
+    },
+    {
+      "fileName": "amphibians20.jpg",
+      "commonName": "Neznámý obojživelníci 20",
+      "scientificName": "Lithobates palustris",
+      "size": "4-7 cm (1.6-2.8 inches)",
+      "lifespan": "15-25 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images-cropped/amphibians/amphibians20.jpg"
+    },
+    {
+      "fileName": "amphibians21.jpg",
+      "commonName": "Neznámý obojživelníci 21",
+      "scientificName": "Hemidactylium scutatum",
+      "size": "6-10 cm (2.4-4 inches)",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images-cropped/amphibians/amphibians21.jpg"
+    },
+    {
+      "fileName": "amphibians22.jpg",
+      "commonName": "Hyla",
+      "scientificName": "Hyla versicolor",
+      "size": "3-6 cm (1.2-2.4 inches)",
+      "lifespan": "6-9 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images-cropped/amphibians/amphibians22.jpg"
+    },
+    {
+      "fileName": "amphibians23.jpg",
+      "commonName": "Neznámý obojživelníci 23",
+      "scientificName": "Pseudotriton ruber",
+      "size": "8-18 cm (3-7 inches)",
+      "lifespan": "6-10 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images-cropped/amphibians/amphibians23.jpg"
+    },
+    {
+      "fileName": "amphibians24.jpg",
+      "commonName": "Hyla",
+      "scientificName": "Hyla chrysoscelis",
+      "size": "3-5 cm (1.2-2 inches)",
+      "lifespan": "7-12 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images-cropped/amphibians/amphibians24.jpg"
+    },
+    {
+      "fileName": "amphibians25.jpg",
+      "commonName": "Neznámý obojživelníci 25",
+      "scientificName": "Eurycea bislineata",
+      "size": "6-12 cm (2.4-4.7 inches)",
+      "lifespan": "6-9 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images-cropped/amphibians/amphibians25.jpg"
+    },
+    {
+      "fileName": "amphibians26.jpg",
+      "commonName": "Anaxyrus",
+      "scientificName": "Anaxyrus fowleri",
+      "size": "5-9 cm (2-3.5 inches)",
+      "lifespan": "20-30 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images-cropped/amphibians/amphibians26.jpg"
+    },
+    {
+      "fileName": "amphibians27.jpg",
+      "commonName": "Neznámý obojživelníci 27",
+      "scientificName": "Plethodon glutinosus",
+      "size": "11-20 cm (4.3-7.9 inches)",
+      "lifespan": "4-6 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images-cropped/amphibians/amphibians27.jpg"
+    },
+    {
+      "fileName": "amphibians28.jpg",
+      "commonName": "Skokan levhartí",
+      "scientificName": "Lithobates pipiens",
+      "size": "5-11 cm (2-4.3 inches)",
+      "lifespan": "8-12 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images-cropped/amphibians/amphibians28.jpg"
+    },
+    {
+      "fileName": "amphibians29.jpg",
+      "commonName": "Neznámý obojživelníci 29",
+      "scientificName": "Eurycea longicauda",
+      "size": "8-19 cm (3-7.5 inches)",
+      "lifespan": "6-8 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images-cropped/amphibians/amphibians29.jpg"
+    },
+    {
+      "fileName": "amphibians30.jpg",
+      "commonName": "Neznámý obojživelníci 30",
+      "scientificName": "Lithobates clamitans",
+      "size": "5-10 cm (2-4 inches)",
+      "lifespan": "5-8 let ve volné přírodě",
+      "habitat": "Různorodá stanoviště napříč Severní Amerikou",
+      "funFact": "Zajímavý fakt o tomto zvířeti.",
+      "localPath": "/images-cropped/amphibians/amphibians30.jpg"
+    }
+  ]
+}

@@ -1,0 +1,1220 @@
+{
+  "category": "amphibians",
+  "totalPhotos": 30,
+  "source": "Clean English Data - Generated",
+  "downloadedAt": "2025-08-27T20:18:14.620Z",
+  "photos": [
+    {
+      "fileName": "amphibians1.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians1.jpg",
+      "photoData": {
+        "id": "generated_amphibians_1",
+        "description": "American Bullfrog (Lithobates catesbeianus)",
+        "alt_description": "Lithobates catesbeianus",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/a/aa/North-American-bullfrog1.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Lithobates catesbeianus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Lithobates catesbeianus",
+        "source": "generated_english_data"
+      },
+      "commonName": "American Bullfrog",
+      "scientificName": "Lithobates catesbeianus",
+      "size": "15-20 cm (6-8 inches), 500-600 g",
+      "lifespan": "7-9 years in wild",
+      "habitat": "Large permanent water bodies such as ponds, lakes, and slow-moving streams across eastern North America.",
+      "funFact": "Bullfrogs are named for their deep, resonant call that can be heard up to a quarter mile away. They are voracious predators that will eat almost anything they can swallow, including other frogs.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lithobates_catesbeianus",
+        "https://animaldiversity.org/accounts/Lithobates_catesbeianus/"
+      ],
+      "taxon": "Lithobates catesbeianus",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/amphibians/amphibians1.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "American Bullfrog",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lithobates%20catesbeianus",
+      "wikipediaExtract": "The American Bullfrog (Lithobates catesbeianus) is a species found in Large permanent water bodies such as ponds, lakes, and slow-moving streams across eastern North America.",
+      "updatedAt": "2025-08-28T22:20:20.947Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/a/aa/North-American-bullfrog1.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "amphibians2.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians2.jpg",
+      "photoData": {
+        "id": "generated_amphibians_2",
+        "description": "Spotted Salamander (Ambystoma maculatum)",
+        "alt_description": "Ambystoma maculatum",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/8/84/Spotted_Salamander%2C_Cantley%2C_Quebec.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Ambystoma maculatum",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Ambystoma maculatum",
+        "source": "generated_english_data"
+      },
+      "commonName": "Spotted Salamander",
+      "scientificName": "Ambystoma maculatum",
+      "size": "15-25 cm (6-10 inches)",
+      "lifespan": "20+ years in wild",
+      "habitat": "Deciduous and mixed forests near ponds and streams in eastern North America. They spend most of their time underground.",
+      "funFact": "Spotted salamanders have a symbiotic relationship with algae that live in their egg masses, providing oxygen to developing embryos. They can regenerate lost limbs and tails.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ambystoma_maculatum",
+        "https://animaldiversity.org/accounts/Ambystoma_maculatum/"
+      ],
+      "taxon": "Ambystoma maculatum",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/amphibians/amphibians2.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Spotted Salamander",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ambystoma%20maculatum",
+      "wikipediaExtract": "The Spotted Salamander (Ambystoma maculatum) is a species found in Deciduous and mixed forests near ponds and streams in eastern North America. They spend most of their time underground.",
+      "updatedAt": "2025-08-28T22:20:23.531Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/8/84/Spotted_Salamander%2C_Cantley%2C_Quebec.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "amphibians3.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians3.jpg",
+      "photoData": {
+        "id": "generated_amphibians_3",
+        "description": "Spring Peeper (Pseudacris crucifer)",
+        "alt_description": "Pseudacris crucifer",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/a/ad/H_crucifer_USGS.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Pseudacris crucifer",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Pseudacris crucifer",
+        "source": "generated_english_data"
+      },
+      "commonName": "Spring Peeper",
+      "scientificName": "Pseudacris crucifer",
+      "size": "2-3.5 cm (1-1.4 inches)",
+      "lifespan": "3-4 years in wild",
+      "habitat": "Wooded areas near ponds, swamps, and marshes across eastern North America.",
+      "funFact": "Spring peepers are among the first frogs to call in spring, creating a chorus that can be heard from over a mile away. They can survive being frozen solid during winter.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pseudacris_crucifer",
+        "https://animaldiversity.org/accounts/Pseudacris_crucifer/"
+      ],
+      "taxon": "Pseudacris crucifer",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/amphibians/amphibians3.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Spring Peeper",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pseudacris%20crucifer",
+      "wikipediaExtract": "The Spring Peeper (Pseudacris crucifer) is a species found in Wooded areas near ponds, swamps, and marshes across eastern North America.",
+      "updatedAt": "2025-08-28T22:20:25.999Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/a/ad/H_crucifer_USGS.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "amphibians4.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians4.jpg",
+      "photoData": {
+        "id": "generated_amphibians_4",
+        "description": "Red-backed Salamander (Plethodon cinereus)",
+        "alt_description": "Plethodon cinereus",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/5/52/Adult_Female_Plethodon_cinereus.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Plethodon cinereus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Plethodon cinereus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Red-backed Salamander",
+      "scientificName": "Plethodon cinereus",
+      "size": "5.7-10 cm (2.25-4 inches)",
+      "lifespan": "25+ years in wild",
+      "habitat": "Forest floors under logs, rocks, and leaf litter in eastern North America.",
+      "funFact": "Red-backed salamanders are lungless and breathe entirely through their skin and mouth lining. They are territorial and will defend their small territories aggressively.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Plethodon_cinereus",
+        "https://animaldiversity.org/accounts/Plethodon_cinereus/"
+      ],
+      "taxon": "Plethodon cinereus",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/amphibians/amphibians4.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Red-backed Salamander",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Plethodon%20cinereus",
+      "wikipediaExtract": "The Red-backed Salamander (Plethodon cinereus) is a species found in Forest floors under logs, rocks, and leaf litter in eastern North America.",
+      "updatedAt": "2025-08-28T22:20:28.395Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/5/52/Adult_Female_Plethodon_cinereus.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "amphibians5.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians5.jpg",
+      "photoData": {
+        "id": "generated_amphibians_5",
+        "description": "Wood Frog (Lithobates sylvaticus)",
+        "alt_description": "Lithobates sylvaticus",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/7/76/Lithobates_sylvaticus_%28Woodfrog%29.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Lithobates sylvaticus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Lithobates sylvaticus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Wood Frog",
+      "scientificName": "Lithobates sylvaticus",
+      "size": "3.5-7 cm (1.4-2.8 inches)",
+      "lifespan": "3-5 years in wild",
+      "habitat": "Forests and woodlands near temporary pools across northern North America.",
+      "funFact": "Wood frogs can survive being frozen solid for months during winter. They produce glucose and urea as natural antifreeze to protect their vital organs.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lithobates_sylvaticus",
+        "https://animaldiversity.org/accounts/Lithobates_sylvaticus/"
+      ],
+      "taxon": "Lithobates sylvaticus",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/amphibians/amphibians5.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Wood Frog",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lithobates%20sylvaticus",
+      "wikipediaExtract": "The Wood Frog (Lithobates sylvaticus) is a species found in Forests and woodlands near temporary pools across northern North America.",
+      "updatedAt": "2025-08-28T22:20:30.796Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/7/76/Lithobates_sylvaticus_%28Woodfrog%29.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "amphibians6.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians6.jpg",
+      "photoData": {
+        "id": "generated_amphibians_6",
+        "description": "Red-eyed Tree Frog (Agalychnis callidryas)",
+        "alt_description": "Agalychnis callidryas",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Red-eyed_Tree_Frog_%28Agalychnis_callidryas%29_1.png"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Agalychnis callidryas",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Agalychnis callidryas",
+        "source": "generated_english_data"
+      },
+      "commonName": "Red-eyed Tree Frog",
+      "scientificName": "Agalychnis callidryas",
+      "size": "4-7 cm (1.5-3 inches)",
+      "lifespan": "5 years in wild",
+      "habitat": "Tropical rainforests near water sources in Central America.",
+      "funFact": "Red-eyed tree frogs have bright red eyes that startle predators. They can change color from bright green to dark brown depending on their mood and environment.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Agalychnis_callidryas",
+        "https://animaldiversity.org/accounts/Agalychnis_callidryas/"
+      ],
+      "taxon": "Agalychnis callidryas",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/amphibians/amphibians6.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Red-eyed Tree Frog",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Agalychnis%20callidryas",
+      "wikipediaExtract": "The Red-eyed Tree Frog (Agalychnis callidryas) is a species found in Tropical rainforests near water sources in Central America.",
+      "updatedAt": "2025-08-28T22:20:32.736Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Red-eyed_Tree_Frog_%28Agalychnis_callidryas%29_1.png",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "amphibians7.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians7.jpg",
+      "photoData": {
+        "id": "generated_amphibians_7",
+        "description": "Eastern Newt (Notophthalmus viridescens)",
+        "alt_description": "Notophthalmus viridescens",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/0/02/Redspotted_newt.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Notophthalmus viridescens",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Notophthalmus viridescens",
+        "source": "generated_english_data"
+      },
+      "commonName": "Eastern Newt",
+      "scientificName": "Notophthalmus viridescens",
+      "size": "7-10 cm (3-4 inches)",
+      "lifespan": "12-15 years in wild",
+      "habitat": "Ponds, lakes, and slow streams with aquatic vegetation across eastern North America.",
+      "funFact": "Eastern newts have a unique three-stage life cycle including an aquatic larva, terrestrial juvenile (eft), and aquatic adult. The bright orange eft stage can last 2-7 years on land.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Notophthalmus_viridescens",
+        "https://animaldiversity.org/accounts/Notophthalmus_viridescens/"
+      ],
+      "taxon": "Notophthalmus viridescens",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/amphibians/amphibians7.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Eastern Newt",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Notophthalmus%20viridescens",
+      "wikipediaExtract": "The Eastern Newt (Notophthalmus viridescens) is a species found in Ponds, lakes, and slow streams with aquatic vegetation across eastern North America.",
+      "updatedAt": "2025-08-28T22:20:35.261Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/0/02/Redspotted_newt.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "amphibians8.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians8.jpg",
+      "photoData": {
+        "id": "generated_amphibians_8",
+        "description": "Poison Dart Frog (Phyllobates terribilis)",
+        "alt_description": "Phyllobates terribilis",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Schrecklicherpfeilgiftfrosch-01.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Phyllobates terribilis",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Phyllobates terribilis",
+        "source": "generated_english_data"
+      },
+      "commonName": "Poison Dart Frog",
+      "scientificName": "Phyllobates terribilis",
+      "size": "2-5 cm (0.8-2 inches)",
+      "lifespan": "4-6 years in wild",
+      "habitat": "Tropical rainforests of Colombia and Ecuador.",
+      "funFact": "Golden poison dart frogs are among the most toxic animals on Earth. One frog contains enough poison to kill 10 adult humans, but they're only toxic in the wild due to their diet.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Phyllobates_terribilis",
+        "https://animaldiversity.org/accounts/Phyllobates_terribilis/"
+      ],
+      "taxon": "Phyllobates terribilis",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/amphibians/amphibians8.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Poison Dart Frog",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Phyllobates%20terribilis",
+      "wikipediaExtract": "The Poison Dart Frog (Phyllobates terribilis) is a species found in Tropical rainforests of Colombia and Ecuador.",
+      "updatedAt": "2025-08-28T22:20:37.039Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Schrecklicherpfeilgiftfrosch-01.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "amphibians9.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians9.jpg",
+      "photoData": {
+        "id": "generated_amphibians_9",
+        "description": "Axolotl (Ambystoma mexicanum)",
+        "alt_description": "Ambystoma mexicanum",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/0/00/Axolotl_ganz.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Ambystoma mexicanum",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Ambystoma mexicanum",
+        "source": "generated_english_data"
+      },
+      "commonName": "Axolotl",
+      "scientificName": "Ambystoma mexicanum",
+      "size": "15-45 cm (6-18 inches)",
+      "lifespan": "10-15 years in wild",
+      "habitat": "Lake Xochimilco and surrounding canals in Mexico City.",
+      "funFact": "Axolotls can regenerate entire limbs, organs, and even parts of their brain. They remain aquatic their entire lives and are critically endangered in the wild.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ambystoma_mexicanum",
+        "https://animaldiversity.org/accounts/Ambystoma_mexicanum/"
+      ],
+      "taxon": "Ambystoma mexicanum",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/amphibians/amphibians9.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Axolotl",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ambystoma%20mexicanum",
+      "wikipediaExtract": "The Axolotl (Ambystoma mexicanum) is a species found in Lake Xochimilco and surrounding canals in Mexico City.",
+      "updatedAt": "2025-08-28T22:20:39.489Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/0/00/Axolotl_ganz.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "amphibians10.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians10.jpg",
+      "photoData": {
+        "id": "generated_amphibians_10",
+        "description": "Tiger Salamander (Ambystoma tigrinum)",
+        "alt_description": "Ambystoma tigrinum",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Salamandra_Tigre.png"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Ambystoma tigrinum",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Ambystoma tigrinum",
+        "source": "generated_english_data"
+      },
+      "commonName": "Tiger Salamander",
+      "scientificName": "Ambystoma tigrinum",
+      "size": "15-35 cm (6-14 inches)",
+      "lifespan": "10-16 years in wild",
+      "habitat": "Diverse habitats from forests to grasslands near ponds across North America.",
+      "funFact": "Tiger salamanders are the largest terrestrial salamanders in North America. They can live underground for years and emerge only to breed.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ambystoma_tigrinum",
+        "https://animaldiversity.org/accounts/Ambystoma_tigrinum/"
+      ],
+      "taxon": "Ambystoma tigrinum",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/amphibians/amphibians10.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Tiger Salamander",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ambystoma%20tigrinum",
+      "wikipediaExtract": "The Tiger Salamander (Ambystoma tigrinum) is a species found in Diverse habitats from forests to grasslands near ponds across North America.",
+      "updatedAt": "2025-08-28T22:20:41.773Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/c/c8/Salamandra_Tigre.png",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "amphibians11.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians11.jpg",
+      "photoData": {
+        "id": "generated_amphibians_11",
+        "description": "Green Tree Frog (Hyla cinerea)",
+        "alt_description": "Hyla cinerea",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/4/49/Green_treefrog.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Hyla cinerea",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Hyla cinerea",
+        "source": "generated_english_data"
+      },
+      "commonName": "Green Tree Frog",
+      "scientificName": "Hyla cinerea",
+      "size": "3-6 cm (1.2-2.4 inches)",
+      "lifespan": "2-5 years in wild",
+      "habitat": "Trees and shrubs near water in southeastern United States.",
+      "funFact": "Green tree frogs can change color from bright green to gray or brown. They have sticky toe pads that allow them to climb smooth surfaces like glass.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hyla_cinerea",
+        "https://animaldiversity.org/accounts/Hyla_cinerea/"
+      ],
+      "taxon": "Hyla cinerea",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/amphibians/amphibians11.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Green Tree Frog",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyla%20cinerea",
+      "wikipediaExtract": "The Green Tree Frog (Hyla cinerea) is a species found in Trees and shrubs near water in southeastern United States.",
+      "updatedAt": "2025-08-28T22:20:44.204Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/4/49/Green_treefrog.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "amphibians12.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians12.jpg",
+      "photoData": {
+        "id": "generated_amphibians_12",
+        "description": "Hellbender (Cryptobranchus alleganiensis)",
+        "alt_description": "Cryptobranchus alleganiensis",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/8/87/Hellbender.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Cryptobranchus alleganiensis",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Cryptobranchus alleganiensis",
+        "source": "generated_english_data"
+      },
+      "commonName": "Hellbender",
+      "scientificName": "Cryptobranchus alleganiensis",
+      "size": "30-74 cm (12-29 inches)",
+      "lifespan": "25-30 years in wild",
+      "habitat": "Fast-flowing, rocky streams in eastern United States.",
+      "funFact": "Hellbenders are North America's largest salamanders and can live for decades. They breathe through their wrinkled skin and are indicators of clean water quality.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Cryptobranchus_alleganiensis",
+        "https://animaldiversity.org/accounts/Cryptobranchus_alleganiensis/"
+      ],
+      "taxon": "Cryptobranchus alleganiensis",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/amphibians/amphibians12.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Hellbender",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Cryptobranchus%20alleganiensis",
+      "wikipediaExtract": "The Hellbender (Cryptobranchus alleganiensis) is a species found in Fast-flowing, rocky streams in eastern United States.",
+      "updatedAt": "2025-08-28T22:20:46.825Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/8/87/Hellbender.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "amphibians13.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians13.jpg",
+      "photoData": {
+        "id": "generated_amphibians_13",
+        "description": "Cane Toad (Rhinella marina)",
+        "alt_description": "Rhinella marina",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/9/99/Canetoadmale.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Rhinella marina",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Rhinella marina",
+        "source": "generated_english_data"
+      },
+      "commonName": "Cane Toad",
+      "scientificName": "Rhinella marina",
+      "size": "10-24 cm (4-9.5 inches)",
+      "lifespan": "10-15 years in wild",
+      "habitat": "Diverse habitats from rainforests to urban areas, native to Central and South America.",
+      "funFact": "Cane toads are highly toxic and invasive in many countries. They can eat almost anything that fits in their mouth and have poison glands behind their eyes.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Rhinella_marina",
+        "https://animaldiversity.org/accounts/Rhinella_marina/"
+      ],
+      "taxon": "Rhinella marina",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/amphibians/amphibians13.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Cane Toad",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Rhinella%20marina",
+      "wikipediaExtract": "The Cane Toad (Rhinella marina) is a species found in Diverse habitats from rainforests to urban areas, native to Central and South America.",
+      "updatedAt": "2025-08-28T22:20:49.281Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/9/99/Canetoadmale.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "amphibians14.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians14.jpg",
+      "photoData": {
+        "id": "generated_amphibians_14",
+        "description": "Fire Salamander (Salamandra salamandra)",
+        "alt_description": "Salamandra salamandra",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Salamandra_salamandra_MHNT_1.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Salamandra salamandra",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Salamandra salamandra",
+        "source": "generated_english_data"
+      },
+      "commonName": "Fire Salamander",
+      "scientificName": "Salamandra salamandra",
+      "size": "15-25 cm (6-10 inches)",
+      "lifespan": "14-20 years in wild",
+      "habitat": "Deciduous forests near streams in Europe.",
+      "funFact": "Fire salamanders have bright yellow markings that warn predators of their toxicity. They can live for decades and give birth to live larvae rather than laying eggs.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Salamandra_salamandra",
+        "https://animaldiversity.org/accounts/Salamandra_salamandra/"
+      ],
+      "taxon": "Salamandra salamandra",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/amphibians/amphibians14.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Fire Salamander",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Salamandra%20salamandra",
+      "wikipediaExtract": "The Fire Salamander (Salamandra salamandra) is a species found in Deciduous forests near streams in Europe.",
+      "updatedAt": "2025-08-28T22:20:51.482Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Salamandra_salamandra_MHNT_1.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "amphibians15.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians15.jpg",
+      "photoData": {
+        "id": "generated_amphibians_15",
+        "description": "Mudpuppy (Necturus maculosus)",
+        "alt_description": "Necturus maculosus",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/8/88/Gefleckter_Furchenmolch_%28Necturus_maculosus%29%2C_Seitenansicht.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Necturus maculosus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Necturus maculosus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Mudpuppy",
+      "scientificName": "Necturus maculosus",
+      "size": "20-33 cm (8-13 inches)",
+      "lifespan": "20-30 years in wild",
+      "habitat": "Permanent water bodies including lakes, rivers, and streams in eastern North America.",
+      "funFact": "Mudpuppies are fully aquatic salamanders that keep their external gills throughout their lives. They are active year-round, even under ice in winter.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Necturus_maculosus",
+        "https://animaldiversity.org/accounts/Necturus_maculosus/"
+      ],
+      "taxon": "Necturus maculosus",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/amphibians/amphibians15.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Mudpuppy",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Necturus%20maculosus",
+      "wikipediaExtract": "The Mudpuppy (Necturus maculosus) is a species found in Permanent water bodies including lakes, rivers, and streams in eastern North America.",
+      "updatedAt": "2025-08-28T22:20:54.648Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/8/88/Gefleckter_Furchenmolch_%28Necturus_maculosus%29%2C_Seitenansicht.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "amphibians16.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians16.jpg",
+      "photoData": {
+        "id": "generated_amphibians_16",
+        "description": "Glass Frog (Centrolenella fleischmanni)",
+        "alt_description": "Centrolenella fleischmanni",
+        "urls": {
+          "regular": "placeholder_url_amphibians_16"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Centrolenella fleischmanni",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Centrolenella fleischmanni",
+        "source": "generated_english_data"
+      },
+      "commonName": "Glass Frog",
+      "scientificName": "Centrolenella fleischmanni",
+      "size": "2-3 cm (0.8-1.2 inches)",
+      "lifespan": "7-14 years in wild",
+      "habitat": "Tropical rainforests near streams in Central and South America.",
+      "funFact": "Glass frogs have transparent skin on their belly, allowing you to see their internal organs. Males guard their eggs and will fight off intruders.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Centrolenella_fleischmanni",
+        "https://animaldiversity.org/accounts/Centrolenella_fleischmanni/"
+      ],
+      "taxon": "Centrolenella fleischmanni",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/amphibians/amphibians16.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Glass Frog",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Glass_Frog",
+      "wikipediaExtract": "The Glass Frog (Centrolenella fleischmanni) is a species found in Tropical rainforests near streams in Central and South America.",
+      "updatedAt": "2025-08-27T20:18:14.620Z",
+      "imageSource": "placeholder_image_source_amphibians_16",
+      "imageMethod": "Generated Data"
+    },
+    {
+      "fileName": "amphibians17.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians17.jpg",
+      "photoData": {
+        "id": "generated_amphibians_17",
+        "description": "Caecilian (Gymnopis multiplicata)",
+        "alt_description": "Gymnopis multiplicata",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Gymnopis_multiplicata.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Gymnopis multiplicata",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Gymnopis multiplicata",
+        "source": "generated_english_data"
+      },
+      "commonName": "Caecilian",
+      "scientificName": "Gymnopis multiplicata",
+      "size": "30-60 cm (12-24 inches)",
+      "lifespan": "4-5 years in wild",
+      "habitat": "Underground burrows in tropical soils of Central America.",
+      "funFact": "Caecilians are worm-like amphibians that live underground. They are nearly blind and use chemical sensors to navigate and find prey in the soil.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gymnopis_multiplicata",
+        "https://animaldiversity.org/accounts/Gymnopis_multiplicata/"
+      ],
+      "taxon": "Gymnopis multiplicata",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/amphibians/amphibians17.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Caecilian",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Gymnopis%20multiplicata",
+      "wikipediaExtract": "The Caecilian (Gymnopis multiplicata) is a species found in Underground burrows in tropical soils of Central America.",
+      "updatedAt": "2025-08-28T22:20:58.789Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Gymnopis_multiplicata.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "amphibians18.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians18.jpg",
+      "photoData": {
+        "id": "generated_amphibians_18",
+        "description": "Chorus Frog (Pseudacris triseriata)",
+        "alt_description": "Pseudacris triseriata",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Pseudacris_triseriata.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Pseudacris triseriata",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Pseudacris triseriata",
+        "source": "generated_english_data"
+      },
+      "commonName": "Chorus Frog",
+      "scientificName": "Pseudacris triseriata",
+      "size": "2-4 cm (0.8-1.6 inches)",
+      "lifespan": "2-3 years in wild",
+      "habitat": "Grasslands, prairies, and agricultural areas near temporary pools across central North America.",
+      "funFact": "Chorus frogs are among the first to call in spring, creating loud choruses that can be heard from great distances. They can survive partial freezing.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pseudacris_triseriata",
+        "https://animaldiversity.org/accounts/Pseudacris_triseriata/"
+      ],
+      "taxon": "Pseudacris triseriata",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/amphibians/amphibians18.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Chorus Frog",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pseudacris%20triseriata",
+      "wikipediaExtract": "The Chorus Frog (Pseudacris triseriata) is a species found in Grasslands, prairies, and agricultural areas near temporary pools across central North America.",
+      "updatedAt": "2025-08-28T22:21:01.143Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Pseudacris_triseriata.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "amphibians19.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians19.jpg",
+      "photoData": {
+        "id": "generated_amphibians_19",
+        "description": "Marbled Salamander (Ambystoma opacum)",
+        "alt_description": "Ambystoma opacum",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/7/73/Marbled_salamander_%2814367751333%29.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Ambystoma opacum",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Ambystoma opacum",
+        "source": "generated_english_data"
+      },
+      "commonName": "Marbled Salamander",
+      "scientificName": "Ambystoma opacum",
+      "size": "8-12 cm (3-5 inches)",
+      "lifespan": "8-10 years in wild",
+      "habitat": "Deciduous and mixed forests across eastern United States.",
+      "funFact": "Marbled salamanders breed in fall rather than spring. Females guard their eggs in dry pond beds until winter rains fill the pools and the eggs hatch.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Ambystoma_opacum",
+        "https://animaldiversity.org/accounts/Ambystoma_opacum/"
+      ],
+      "taxon": "Ambystoma opacum",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/amphibians/amphibians19.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Marbled Salamander",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Ambystoma%20opacum",
+      "wikipediaExtract": "The Marbled Salamander (Ambystoma opacum) is a species found in Deciduous and mixed forests across eastern United States.",
+      "updatedAt": "2025-08-28T22:21:03.592Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/7/73/Marbled_salamander_%2814367751333%29.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "amphibians20.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians20.jpg",
+      "photoData": {
+        "id": "generated_amphibians_20",
+        "description": "Pickerel Frog (Lithobates palustris)",
+        "alt_description": "Lithobates palustris",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/2/24/Pickerel_Frog.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Lithobates palustris",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Lithobates palustris",
+        "source": "generated_english_data"
+      },
+      "commonName": "Pickerel Frog",
+      "scientificName": "Lithobates palustris",
+      "size": "4-7 cm (1.6-2.8 inches)",
+      "lifespan": "4-5 years in wild",
+      "habitat": "Cool, clear streams and springs in eastern North America.",
+      "funFact": "Pickerel frogs produce toxic skin secretions that can kill other frogs in the same container. They have distinctive square spots arranged in two rows down their back.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lithobates_palustris",
+        "https://animaldiversity.org/accounts/Lithobates_palustris/"
+      ],
+      "taxon": "Lithobates palustris",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/amphibians/amphibians20.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Pickerel Frog",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lithobates%20palustris",
+      "wikipediaExtract": "The Pickerel Frog (Lithobates palustris) is a species found in Cool, clear streams and springs in eastern North America.",
+      "updatedAt": "2025-08-28T22:21:06.230Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/2/24/Pickerel_Frog.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "amphibians21.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians21.jpg",
+      "photoData": {
+        "id": "generated_amphibians_21",
+        "description": "Four-toed Salamander (Hemidactylium scutatum)",
+        "alt_description": "Hemidactylium scutatum",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/5/56/Hemidactylium_scutatum.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Hemidactylium scutatum",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Hemidactylium scutatum",
+        "source": "generated_english_data"
+      },
+      "commonName": "Four-toed Salamander",
+      "scientificName": "Hemidactylium scutatum",
+      "size": "6-10 cm (2.4-4 inches)",
+      "lifespan": "5-7 years in wild",
+      "habitat": "Sphagnum bogs and coniferous swamps in eastern North America.",
+      "funFact": "Four-toed salamanders are the only salamanders with a constriction at the base of their tail, allowing them to easily detach it when threatened.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hemidactylium_scutatum",
+        "https://animaldiversity.org/accounts/Hemidactylium_scutatum/"
+      ],
+      "taxon": "Hemidactylium scutatum",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/amphibians/amphibians21.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Four-toed Salamander",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hemidactylium%20scutatum",
+      "wikipediaExtract": "The Four-toed Salamander (Hemidactylium scutatum) is a species found in Sphagnum bogs and coniferous swamps in eastern North America.",
+      "updatedAt": "2025-08-28T22:21:09.689Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/5/56/Hemidactylium_scutatum.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "amphibians22.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians22.jpg",
+      "photoData": {
+        "id": "generated_amphibians_22",
+        "description": "Gray Tree Frog (Hyla versicolor)",
+        "alt_description": "Hyla versicolor",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Gray_tree_frog_in_arboreal_forest_habitat%2C_MA.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Hyla versicolor",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Hyla versicolor",
+        "source": "generated_english_data"
+      },
+      "commonName": "Gray Tree Frog",
+      "scientificName": "Hyla versicolor",
+      "size": "3-6 cm (1.2-2.4 inches)",
+      "lifespan": "7-9 years in wild",
+      "habitat": "Trees and shrubs near water across eastern North America.",
+      "funFact": "Gray tree frogs can change color from gray to green to brown. They have a distinctive trill call and bright orange coloring on their inner thighs.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hyla_versicolor",
+        "https://animaldiversity.org/accounts/Hyla_versicolor/"
+      ],
+      "taxon": "Hyla versicolor",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/amphibians/amphibians22.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Gray Tree Frog",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyla%20versicolor",
+      "wikipediaExtract": "The Gray Tree Frog (Hyla versicolor) is a species found in Trees and shrubs near water across eastern North America.",
+      "updatedAt": "2025-08-28T22:21:12.266Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Gray_tree_frog_in_arboreal_forest_habitat%2C_MA.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "amphibians23.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians23.jpg",
+      "photoData": {
+        "id": "generated_amphibians_23",
+        "description": "Red Salamander (Pseudotriton ruber)",
+        "alt_description": "Pseudotriton ruber",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Northern_red_salamander_%28Pseudotriton_ruber%29.JPG"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Pseudotriton ruber",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Pseudotriton ruber",
+        "source": "generated_english_data"
+      },
+      "commonName": "Red Salamander",
+      "scientificName": "Pseudotriton ruber",
+      "size": "8-18 cm (3-7 inches)",
+      "lifespan": "20+ years in wild",
+      "habitat": "Springs, streams, and surrounding forests in eastern United States.",
+      "funFact": "Red salamanders mimic the coloration of toxic red efts to avoid predation. They can live for over 20 years and are excellent indicators of water quality.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pseudotriton_ruber",
+        "https://animaldiversity.org/accounts/Pseudotriton_ruber/"
+      ],
+      "taxon": "Pseudotriton ruber",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/amphibians/amphibians23.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Red Salamander",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Pseudotriton%20ruber",
+      "wikipediaExtract": "The Red Salamander (Pseudotriton ruber) is a species found in Springs, streams, and surrounding forests in eastern United States.",
+      "updatedAt": "2025-08-28T22:21:15.094Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Northern_red_salamander_%28Pseudotriton_ruber%29.JPG",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "amphibians24.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians24.jpg",
+      "photoData": {
+        "id": "generated_amphibians_24",
+        "description": "Cope's Gray Tree Frog (Hyla chrysoscelis)",
+        "alt_description": "Hyla chrysoscelis",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/7/76/Hyla_chrysoscelis_UMFS_2016_1.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Hyla chrysoscelis",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Hyla chrysoscelis",
+        "source": "generated_english_data"
+      },
+      "commonName": "Cope's Gray Tree Frog",
+      "scientificName": "Hyla chrysoscelis",
+      "size": "3-5 cm (1.2-2 inches)",
+      "lifespan": "7-9 years in wild",
+      "habitat": "Trees and shrubs near temporary pools in southeastern United States.",
+      "funFact": "Cope's gray tree frogs are nearly identical to gray tree frogs but have a faster trill call. They can survive freezing temperatures by producing antifreeze proteins.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Hyla_chrysoscelis",
+        "https://animaldiversity.org/accounts/Hyla_chrysoscelis/"
+      ],
+      "taxon": "Hyla chrysoscelis",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/amphibians/amphibians24.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Cope's Gray Tree Frog",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Hyla%20chrysoscelis",
+      "wikipediaExtract": "The Cope's Gray Tree Frog (Hyla chrysoscelis) is a species found in Trees and shrubs near temporary pools in southeastern United States.",
+      "updatedAt": "2025-08-28T22:21:18.344Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/7/76/Hyla_chrysoscelis_UMFS_2016_1.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "amphibians25.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians25.jpg",
+      "photoData": {
+        "id": "generated_amphibians_25",
+        "description": "Two-lined Salamander (Eurycea bislineata)",
+        "alt_description": "Eurycea bislineata",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/0/08/Northern_Two-lined_Salamander_Eurycea_bislineata.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Eurycea bislineata",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Eurycea bislineata",
+        "source": "generated_english_data"
+      },
+      "commonName": "Two-lined Salamander",
+      "scientificName": "Eurycea bislineata",
+      "size": "6-12 cm (2.4-4.7 inches)",
+      "lifespan": "5-10 years in wild",
+      "habitat": "Rocky streams and springs in eastern North America.",
+      "funFact": "Two-lined salamanders have larvae that can take 2-4 years to metamorphose. They are excellent swimmers and can be found under rocks in fast-flowing streams.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Eurycea_bislineata",
+        "https://animaldiversity.org/accounts/Eurycea_bislineata/"
+      ],
+      "taxon": "Eurycea bislineata",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/amphibians/amphibians25.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Two-lined Salamander",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurycea%20bislineata",
+      "wikipediaExtract": "The Two-lined Salamander (Eurycea bislineata) is a species found in Rocky streams and springs in eastern North America.",
+      "updatedAt": "2025-08-28T22:21:21.027Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/0/08/Northern_Two-lined_Salamander_Eurycea_bislineata.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "amphibians26.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians26.jpg",
+      "photoData": {
+        "id": "generated_amphibians_26",
+        "description": "Fowler's Toad (Anaxyrus fowleri)",
+        "alt_description": "Anaxyrus fowleri",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Anaxyrus_fowleri_Stanton_2_%28cropped%29.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Anaxyrus fowleri",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Anaxyrus fowleri",
+        "source": "generated_english_data"
+      },
+      "commonName": "Fowler's Toad",
+      "scientificName": "Anaxyrus fowleri",
+      "size": "5-9 cm (2-3.5 inches)",
+      "lifespan": "5-10 years in wild",
+      "habitat": "Sandy areas near water including beaches, fields, and gardens in eastern North America.",
+      "funFact": "Fowler's toads have a distinctive nasal trill call and can inflate their bodies when threatened. They are excellent diggers and often burrow in sand.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Anaxyrus_fowleri",
+        "https://animaldiversity.org/accounts/Anaxyrus_fowleri/"
+      ],
+      "taxon": "Anaxyrus fowleri",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/amphibians/amphibians26.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Fowler's Toad",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Anaxyrus%20fowleri",
+      "wikipediaExtract": "The Fowler's Toad (Anaxyrus fowleri) is a species found in Sandy areas near water including beaches, fields, and gardens in eastern North America.",
+      "updatedAt": "2025-08-28T22:21:23.691Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Anaxyrus_fowleri_Stanton_2_%28cropped%29.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "amphibians27.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians27.jpg",
+      "photoData": {
+        "id": "generated_amphibians_27",
+        "description": "Slimy Salamander (Plethodon glutinosus)",
+        "alt_description": "Plethodon glutinosus",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/0/05/Plethodon_glutonosus.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Plethodon glutinosus",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Plethodon glutinosus",
+        "source": "generated_english_data"
+      },
+      "commonName": "Slimy Salamander",
+      "scientificName": "Plethodon glutinosus",
+      "size": "11-20 cm (4.3-7.9 inches)",
+      "lifespan": "5-20 years in wild",
+      "habitat": "Deciduous forests under logs and rocks in eastern United States.",
+      "funFact": "Slimy salamanders produce a sticky secretion that is difficult to remove from hands. They are lungless and breathe through their skin and mouth lining.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Plethodon_glutinosus",
+        "https://animaldiversity.org/accounts/Plethodon_glutinosus/"
+      ],
+      "taxon": "Plethodon glutinosus",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/amphibians/amphibians27.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Slimy Salamander",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Plethodon%20glutinosus",
+      "wikipediaExtract": "The Slimy Salamander (Plethodon glutinosus) is a species found in Deciduous forests under logs and rocks in eastern United States.",
+      "updatedAt": "2025-08-28T22:21:26.396Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/0/05/Plethodon_glutonosus.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "amphibians28.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians28.jpg",
+      "photoData": {
+        "id": "generated_amphibians_28",
+        "description": "Leopard Frog (Lithobates pipiens)",
+        "alt_description": "Lithobates pipiens",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Lithobates_pipiens.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Lithobates pipiens",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Lithobates pipiens",
+        "source": "generated_english_data"
+      },
+      "commonName": "Leopard Frog",
+      "scientificName": "Lithobates pipiens",
+      "size": "5-11 cm (2-4.3 inches)",
+      "lifespan": "4-6 years in wild",
+      "habitat": "Ponds, lakes, and slow streams across northern North America.",
+      "funFact": "Northern leopard frogs are excellent jumpers and can leap distances up to 20 times their body length. They are commonly used in biology education.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lithobates_pipiens",
+        "https://animaldiversity.org/accounts/Lithobates_pipiens/"
+      ],
+      "taxon": "Lithobates pipiens",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/amphibians/amphibians28.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Leopard Frog",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lithobates%20pipiens",
+      "wikipediaExtract": "The Leopard Frog (Lithobates pipiens) is a species found in Ponds, lakes, and slow streams across northern North America.",
+      "updatedAt": "2025-08-28T22:21:28.954Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Lithobates_pipiens.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "amphibians29.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians29.jpg",
+      "photoData": {
+        "id": "generated_amphibians_29",
+        "description": "Long-tailed Salamander (Eurycea longicauda)",
+        "alt_description": "Eurycea longicauda",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Eurycea_longicauda_%28long-tailed_salamander%29.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Eurycea longicauda",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Eurycea longicauda",
+        "source": "generated_english_data"
+      },
+      "commonName": "Long-tailed Salamander",
+      "scientificName": "Eurycea longicauda",
+      "size": "8-19 cm (3-7.5 inches)",
+      "lifespan": "10+ years in wild",
+      "habitat": "Caves, springs, and rocky streams in eastern United States.",
+      "funFact": "Long-tailed salamanders have tails that are longer than their body and head combined. They are excellent climbers and can often be found on cave walls.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Eurycea_longicauda",
+        "https://animaldiversity.org/accounts/Eurycea_longicauda/"
+      ],
+      "taxon": "Eurycea longicauda",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/amphibians/amphibians29.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Long-tailed Salamander",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Eurycea%20longicauda",
+      "wikipediaExtract": "The Long-tailed Salamander (Eurycea longicauda) is a species found in Caves, springs, and rocky streams in eastern United States.",
+      "updatedAt": "2025-08-28T22:21:31.152Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Eurycea_longicauda_%28long-tailed_salamander%29.jpg",
+      "imageMethod": "Wikipedia main image download"
+    },
+    {
+      "fileName": "amphibians30.jpg",
+      "filePath": "public\\images\\amphibians\\amphibians30.jpg",
+      "photoData": {
+        "id": "generated_amphibians_30",
+        "description": "Green Frog (Lithobates clamitans)",
+        "alt_description": "Lithobates clamitans",
+        "urls": {
+          "regular": "https://upload.wikimedia.org/wikipedia/commons/0/00/Male_Green_Frog_-_Hunterdon_County%2C_NJ.jpg"
+        },
+        "user": {
+          "name": "Generated Data"
+        },
+        "category": "amphibians",
+        "taxon": "Lithobates clamitans",
+        "license": "CC-BY-SA",
+        "targetSpecies": "Lithobates clamitans",
+        "source": "generated_english_data"
+      },
+      "commonName": "Green Frog",
+      "scientificName": "Lithobates clamitans",
+      "size": "5-10 cm (2-4 inches)",
+      "lifespan": "6-10 years in wild",
+      "habitat": "Permanent water bodies including ponds, lakes, and streams across eastern North America.",
+      "funFact": "Green frogs have a distinctive banjo-like call and prominent ridges running down their backs. Males are territorial and will wrestle with intruders.",
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lithobates_clamitans",
+        "https://animaldiversity.org/accounts/Lithobates_clamitans/"
+      ],
+      "taxon": "Lithobates clamitans",
+      "license": "CC-BY-SA",
+      "localPath": "/images-cropped/amphibians/amphibians30.jpg",
+      "aiValidated": true,
+      "wikipediaTitle": "Green Frog",
+      "wikipediaUrl": "https://en.wikipedia.org/wiki/Lithobates%20clamitans",
+      "wikipediaExtract": "The Green Frog (Lithobates clamitans) is a species found in Permanent water bodies including ponds, lakes, and streams across eastern North America.",
+      "updatedAt": "2025-08-28T22:21:33.664Z",
+      "imageSource": "https://upload.wikimedia.org/wikipedia/commons/0/00/Male_Green_Frog_-_Hunterdon_County%2C_NJ.jpg",
+      "imageMethod": "Wikipedia main image download"
+    }
+  ],
+  "cleanupSummary": {
+    "originalCount": 30,
+    "finalCount": 30,
+    "duplicatesResolved": 0,
+    "commonsUrlsRemoved": true
+  },
+  "updatedAt": "2025-08-28T22:21:34.677Z",
+  "imageDownloadInfo": {
+    "downloadedAt": "2025-08-28T22:21:34.677Z",
+    "method": "Wikipedia main image",
+    "source": "wikipedia.org"
+  }
+}

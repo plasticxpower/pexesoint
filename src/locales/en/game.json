@@ -1,6 +1,7 @@
 {
   "mainMenu": {
     "mainTitle": "PEXEDU",
+    "subtitle": "educational pexeso game - play and learn about animal kingdom",
     "step1": "Step 1: Select Number of Players",
     "step2": "Step 2: Select Game Category",
     "numberOfPlayers": "Number of Players:",

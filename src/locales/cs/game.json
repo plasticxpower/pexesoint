@@ -1,6 +1,7 @@
 {
   "mainMenu": {
     "mainTitle": "PEXEDU",
+    "subtitle": "vzdělávací pexeso - hrajte si a učte se o zvířecí říši",
     "step1": "Krok 1: Vyberte počet hráčů",
     "step2": "Krok 2: Vyberte kategorii hry",
     "numberOfPlayers": "Počet hráčů:",

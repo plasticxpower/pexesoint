@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import { useTranslation } from 'react-i18next';
 
 // Components
 import PlayerSelection from './components/PlayerSelection/PlayerSelection';
@@ -19,6 +20,7 @@ import { useModalState } from './hooks/useModalState';
 
 
 function AppContent() {
+  const { t } = useTranslation('game');
   
   // Game state management
   const {
@@ -83,7 +85,7 @@ function AppContent() {
       <div className="App">
         <LanguageSwitcher />
         <header className="app-header">
-          <h1><span className="brand-name">PEXEDU</span> <span className="subtitle">educational pexeso game - play and learn about animal kingdom</span></h1>
+          <h1><span className="brand-name">{t('mainMenu.mainTitle')}</span> <span className="subtitle">{t('mainMenu.subtitle')}</span></h1>
         </header>
         <div>
           <PlayerSelection 
